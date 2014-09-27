@@ -8,3 +8,4 @@ rebuild
 - [x] commonView
 - [x] jsonデータもってくる
 - [x] テンプレ移植する
+- [ ] ES6っぽくする(let, const, defineProp, etc..)

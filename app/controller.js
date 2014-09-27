@@ -1,8 +1,7 @@
 module.exports = (function() {
     'use strict';
 
-    var Util              = appRequire('app/util'),
-        categoryData      = appRequire('app/data/category'),
+    var categoryData      = appRequire('app/data/category'),
         titleData         = appRequire('app/data/title'),
         monsterData       = appRequire('app/data/monster'),
         MonsterCollection = appRequire('app/collection/monster');
@@ -47,7 +46,7 @@ module.exports = (function() {
 
             yield this.render('list', {
                 title:    title,
-                monsters: monsterData.monsters
+                monsters: monsterCollection.all()
             });
         }
     };
