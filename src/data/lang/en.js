@@ -1,4 +1,4 @@
-{
+module.exports = {
   "ability": {
       "adaptability": {
           "name": "Adaptability",
@@ -757,4 +757,4 @@
           "desc": "Changes Daruma Forme in a pinch."
       }
   }
-}
+};

@@ -1,4 +1,4 @@
-{
+module.exports = {
   "attack": {},
   "defense": {
     "normal": {
@@ -92,4 +92,4 @@
       "200": ["poison", "steel"]
     }
   }
-}
+};

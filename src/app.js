@@ -9,18 +9,24 @@ var path = require('path');
 
 var koa    = require('koa'),
     router = require('koa-router'),
-    render = require('koa-ejs');
+    render = require('koa-ejs'),
+    extend = require('extend');
 
-var Conf       = require(path.join(__dirname, 'conf')),
-    Router     = require(path.join(__dirname, 'router')),
-    Controller = require(path.join(__dirname, 'controller'));
+var Conf        = require(path.join(__dirname, 'conf')),
+    Router      = require(path.join(__dirname, 'router')),
+    Controller  = require(path.join(__dirname, 'controller')),
+    ViewLocals  = require(path.join(__dirname, 'view/locals')),
+    ViewFilters = require(path.join(__dirname, 'view/filters'));
 
 
 // Use modules
 // ----------------------------------------------------------------------------
 var app = koa();
 app.use(router(app));
-render(app, Conf.ejsSetting);
+render(app, extend(Conf.ejsSetting, {
+    locals:  ViewLocals,
+    filters: ViewFilters
+}));
 
 
 // Bind route and controller

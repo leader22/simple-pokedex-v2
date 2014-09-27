@@ -3,22 +3,26 @@ module.exports = (function() {
 
     var path = require('path');
 
-    var Util = require(path.join(__dirname, 'util')),
-        monsterData = require(path.join(__dirname, 'data/monster'));
+    var Util         = require(path.join(__dirname, 'util')),
+        categoryData = require(path.join(__dirname, 'data/category')),
+        monsterData  = require(path.join(__dirname, 'data/monster'));
 
     return {
         index: function *() {
-            var lang = Util.getJpOrEnByCtx(this);
+
+            var categories    = categoryData.categories;
+            var categoriesArr = Object.keys(categories).map(function(category) {
+                return categories[category];
+            });
+
             yield this.render('index', {
-                lang: lang,
-                title: ''
+                title: '',
+                categories: categoriesArr
             });
         },
 
         about: function *() {
-            var lang = Util.getJpOrEnByCtx(this);
             yield this.render('about', {
-                lang: lang,
                 title: '',
                 users: monsterData.monsters
             });

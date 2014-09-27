@@ -1,1 +1,28 @@
-index!!
+<section>
+    <h2>つかいかた</h2>
+    <p class="texts">目の前にいるポケモンのことが知りたい？<br>索引から調べたいポケモンの頭文字を選ぶか、全ポケモン一覧から調べよう！</p>
+</section>
+
+<section>
+    <h2>さくいん</h2>
+    <ul class="b-category-list">
+        <li class="m-w100"><a href="/list/mega" class="b-anchor-btn m-mega-poke">
+            <div class="b-monster-icon m-icon-id-0"></div>
+            <div>メガシンカ</div>
+        </a></li>
+        <% categories.forEach(function(category) { %><!--
+        --><% if (category.isDummy) { %><!--
+        --><li><a class="b-anchor-btn m-btn-dummy">&nbsp;</a></li><!--
+        --><% } else { %><!--
+        --><li><a href="/list/<%- category.key %>" class="b-anchor-btn"><%- category.label %></a></li><!--
+        --><% } %><!--
+        --><% }) %>
+    </ul>
+</section>
+
+<section>
+    <h2>いちらん</h2>
+    <a class="b-anchor-btn m-no-margin" href="/list">全ポケモン一覧</a>
+</section>
+
+<a class="b-anchor-btn m-btn-sub m-about-site" href="/about">このサイトについて</a>
