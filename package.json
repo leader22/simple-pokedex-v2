@@ -1,0 +1,25 @@
+{
+  "name": "simple-pokedex-v2",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^0.12.1",
+    "koa-ejs": "^1.1.2",
+    "koa-router": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leader22/simple-pokedex-v2.git"
+  },
+  "author": "leader22",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leader22/simple-pokedex-v2/issues"
+  },
+  "homepage": "https://github.com/leader22/simple-pokedex-v2"
+}
