@@ -3,44 +3,50 @@
 'use strict';
 
 
-// Require dep modules
+// Require modules
 // ----------------------------------------------------------------------------
 var path = require('path');
+
 var koa    = require('koa'),
     router = require('koa-router'),
-    render = require('koa-ejs');
+    render = require('koa-ejs')
+;
+
+var Conf = require(path.join(__dirname, 'conf')),
+    Util = require(path.join(__dirname, 'util'))
+;
 
 
 // Use modules
 // ----------------------------------------------------------------------------
 var app = koa();
 app.use(router(app));
-render(app, {
-    root:    path.join(__dirname, 'view'),
-    layout:  'template',
-    viewExt: 'html',
-    cache:   false
-    // debug:   true,
-    // locals:  locals,
-    // filters: filters
-});
+render(app, Conf.ejsSetting);
+
 
 
 // Route and controller
 // ----------------------------------------------------------------------------
 app
     .get('/', function *(next) {
-        var lang = this.request.header['accept-language'].split(',')[0];
-        this.body = 'Hello World! ' + lang;
+        var lang = Util.getJpOrEnByCtx(this);
+        yield this.render('index', {
+            lang: lang,
+            title: 'SimplePokedex'
+        });
     })
     .get('/about', function *(next) {
-        // this.body = 'About world.';
         yield this.render('about', {
             users: [{ name: 'Yuji' }, { name: 'TORU' }]
         });
-    });
+    })
+    .get('/list', function *(next) {
+    })
+    .get('/detail/:cid', function *(next) {
+    })
+;
 
 
 // Start server
 // ----------------------------------------------------------------------------
-app.listen(6400);
+app.listen(Conf.port);
