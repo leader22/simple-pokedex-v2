@@ -1,0 +1,6 @@
+<ul class="b-monster-list">
+  <% monsters.forEach(function(monster) { %>
+  <li><a href="/detail/<%- monster.cid %>" class="m-icon-id-<%- monster.id %>"><%- monster.name %></a></li>
+  <% }) %>
+</ul>
+<a href="/" class="b-anchor-btn">トップ</a>

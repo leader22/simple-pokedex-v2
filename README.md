@@ -5,6 +5,6 @@ rebuild
 
 
 # TODO
-- [ ] commonView
-- [ ] jsonデータもってくる
-- [ ] テンプレ移植する
+- [x] commonView
+- [x] jsonデータもってくる
+- [x] テンプレ移植する

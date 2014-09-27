@@ -5,18 +5,16 @@
 
 // Rquire modules
 // ----------------------------------------------------------------------------
-var path = require('path');
-
 var koa    = require('koa'),
     router = require('koa-router'),
     render = require('koa-ejs'),
     extend = require('extend');
 
-var Conf        = require(path.join(__dirname, 'conf')),
-    Router      = require(path.join(__dirname, 'router')),
-    Controller  = require(path.join(__dirname, 'controller')),
-    ViewLocals  = require(path.join(__dirname, 'view/locals')),
-    ViewFilters = require(path.join(__dirname, 'view/filters'));
+var Conf        = appRequire('app/conf'),
+    Router      = appRequire('app/router'),
+    Controller  = appRequire('app/controller'),
+    ViewLocals  = appRequire('app/view/locals'),
+    ViewFilters = appRequire('app/view/filters');
 
 
 // Use modules

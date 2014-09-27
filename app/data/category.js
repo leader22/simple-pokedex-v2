@@ -45,10 +45,10 @@ module.exports = {
         ru: { key: 'ru', label: 'ル', contents: ['ル']},
         re: { key: 're', label: 'レ', contents: ['レ']},
         ro: { key: 'ro', label: 'ロ', contents: ['ロ']},
-        wa: { key: 'wa', label: 'ワ', contents: ['ワ', 'ヲ', 'ン']},
+        wa: { key: 'wa', label: 'ワ', contents: ['ワ']},
         wi: { key: 'wi', isDummy: 1 },
         wu: { key: 'wu', isDummy: 1 },
         we: { key: 'we', isDummy: 1 },
-        wo: { key: 'wo', isDummy: 1 },
+        wo: { key: 'wo', isDummy: 1 }
     }
 };
