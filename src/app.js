@@ -3,18 +3,17 @@
 'use strict';
 
 
-// Require modules
+// Rquire modules
 // ----------------------------------------------------------------------------
 var path = require('path');
 
 var koa    = require('koa'),
     router = require('koa-router'),
-    render = require('koa-ejs')
-;
+    render = require('koa-ejs');
 
-var Conf = require(path.join(__dirname, 'conf')),
-    Util = require(path.join(__dirname, 'util'))
-;
+var Conf       = require(path.join(__dirname, 'conf')),
+    Router     = require(path.join(__dirname, 'router')),
+    Controller = require(path.join(__dirname, 'controller'));
 
 
 // Use modules
@@ -24,27 +23,15 @@ app.use(router(app));
 render(app, Conf.ejsSetting);
 
 
-
-// Route and controller
+// Bind route and controller
 // ----------------------------------------------------------------------------
-app
-    .get('/', function *(next) {
-        var lang = Util.getJpOrEnByCtx(this);
-        yield this.render('index', {
-            lang: lang,
-            title: 'SimplePokedex'
-        });
-    })
-    .get('/about', function *(next) {
-        yield this.render('about', {
-            users: [{ name: 'Yuji' }, { name: 'TORU' }]
-        });
-    })
-    .get('/list', function *(next) {
-    })
-    .get('/detail/:cid', function *(next) {
-    })
-;
+Object.keys(Router).forEach(function(key) {
+    var prop = key.split('@'),
+        method = prop[0],
+        route  = prop[1];
+
+    app[method](route, Controller[Router[key]]);
+});
 
 
 // Start server

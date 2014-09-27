@@ -9,7 +9,7 @@ module.exports = (function() {
             base: {
                 port: 6400,
                 ejsSetting: {
-                    root:    path.join(__dirname, 'view'),
+                    root:    path.join(__dirname, '../template'),
                     layout:  '_include/wrap',
                     viewExt: 'html'
                 }
