@@ -1,41 +1,51 @@
 module.exports = (function() {
     'use strict';
 
-    var monsterData = appRequire('app/data/monster'),
-        typeData    = appRequire('app/data/type'),
-        langData    = appRequire('app/data/lang/ja');
+    var categoryData = appRequire('app/data/category');
+    var MonsterModel = appRequire('app/model/monster');
+    var categories   = categoryData.categories;
 
-    // そのまえにModel用意するか考える
-    // Collectionとして使うとこではModel情報いらんけど、どうするか
-    var MonsterCollection = function() {
-        this.monsters = monsterData.monsters.map(function(monster) {
-            monster.typeChart = monster.type.map(function(type) {
-                return {
-                    defense: typeData.defense[type]
-                };
-            });
-
-            monster.name = langData.name[monster._key];
-
-            if (monster.abilities.normal.length) {
-                monster.abilities.normal = monster.abilities.normal.map(function(ability) {
-                    return langData.ability[ability];
-                });
-            }
-            if (monster.abilities.hidden.length) {
-                monster.abilities.hidden = monster.abilities.hidden.map(function(ability) {
-                    return langData.ability[ability];
-                });
-            }
-
-            return monster;
-        });
+    var MonsterCollection = function(monsters) {
+        this.initialize(monsters);
     };
 
     MonsterCollection.prototype = {
         constructor: MonsterCollection,
+        initialize: function(monsters) {
+            this.items = monsters.map(function(monster, id) {
+                return new MonsterModel(monster, ++id);
+            });
+        },
         all: function() {
-            return this.monsters;
+            return this.items.map(function(model) {
+                return model.get();
+            });
+        },
+
+        getCategorisedMonstersByCategory: function(category) {
+            var categoryContents = categories[category].contents;
+
+            return this.all()
+                .filter(function(monster) {
+                    var firstLetter = monster.name.charAt(0);
+                    var isValidName = categoryContents.some(function(content) {
+                        return content === firstLetter;
+                    });
+                    // メガシンカは特別なカテゴリがあるので省く
+                    var isMega = monster.isMega;
+
+                    return isValidName && !isMega;
+                })
+                // 50音順
+                .sort(function(a, b){
+                    return (a.name > b.name) ? 1 : -1;
+                });
+        },
+        getMegaMonsters: function() {
+            return this.all()
+                .filter(function(monster) {
+                    return monster.isMega;
+                });
         }
     };
 

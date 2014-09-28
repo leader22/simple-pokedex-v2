@@ -6,7 +6,7 @@ module.exports = (function() {
         monsterData       = appRequire('app/data/monster'),
         MonsterCollection = appRequire('app/collection/monster');
 
-    var monsterCollection = new MonsterCollection();
+    var monsterCollection = new MonsterCollection(monsterData.monsters);
 
     return {
         index: function *() {
@@ -36,17 +36,21 @@ module.exports = (function() {
 
             if (category === 'mega') {
                 title = titleData['megaList'];
+                monsters = monsterCollection.getMegaMonsters();
             }
             else if (category) {
                 title = titleData['categorisedList'].replace('%s', categories[category].label);
+                monsters = monsterCollection.getCategorisedMonstersByCategory(category);
             }
             else {
                 title = titleData['list'];
+                monsters = monsterCollection.all();
             }
 
+            console.log(monsters[0]);
             yield this.render('list', {
                 title:    title,
-                monsters: monsterCollection.all()
+                monsters: monsters
             });
         }
     };
