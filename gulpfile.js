@@ -1,7 +1,24 @@
 'use strict';
 
 var gulp    = require('gulp');
+var gutil   = require('gulp-util');
 var compass = require('gulp-compass');
+var webpack = require('webpack');
+
+// gulp.task('webpack', function() {
+//     gulp.src('./client/main.js')
+//         .pipe(webpack(require('./webpack.config.js')))
+//         .pipe(gulp.dest('static/js'));
+// });
+gulp.task('webpack', function(callback) {
+    webpack(require('./webpack.config.js'), function(err, stats) {
+        if(err) throw new gutil.PluginError("webpack", err);
+        gutil.log("[webpack]", stats.toString({
+            // output options
+        }));
+        callback();
+    });
+});
 
 gulp.task('compass', function() {
     gulp.src('asset/scss/*.scss')
@@ -13,4 +30,4 @@ gulp.task('compass', function() {
         .pipe(gulp.dest('static/css'));
 });
 
-gulp.task('default', ['compass']);
+gulp.task('default', ['compass', 'webpack']);
