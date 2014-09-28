@@ -2,15 +2,17 @@ module.exports = (function() {
     'use strict';
 
     var categoryData      = appRequire('server/data/category'),
-        titleData         = appRequire('server/data/title'),
+        textData          = appRequire('server/data/text'),
         monsterData       = appRequire('server/data/monster'),
         MonsterCollection = appRequire('server/collection/monster');
 
-    var monsterCollection = new MonsterCollection(monsterData.monsters);
+    var monsterCollection = new MonsterCollection(monsterData.monsters),
+        titleData         = textData.title,
+        metaTags          = textData.metaTags,
+        categories        = categoryData.categories;
 
     return {
         index: function *() {
-            var categories    = categoryData.categories;
             var categoriesArr = Object.keys(categories).map(function(category) {
                 return categories[category];
             });
@@ -18,20 +20,21 @@ module.exports = (function() {
             yield this.render('index', {
                 page:      'index',
                 title:      titleData['index'],
+                metaTags:   metaTags['index'],
                 categories: categoriesArr
             });
         },
 
         about: function *() {
             yield this.render('about', {
-                page:  'about',
-                title: titleData['about']
+                page:     'about',
+                metaTags: metaTags['about'],
+                title:    titleData['about']
             });
         },
 
         list: function *() {
             var category = this.params.ctg;
-            var categories = categoryData.categories;
 
             var title,
                 monsters;
@@ -51,6 +54,7 @@ module.exports = (function() {
 
             yield this.render('list', {
                 page:     'list',
+                metaTags: metaTags['list'],
                 title:    title,
                 monsters: monsters
             });
@@ -61,10 +65,19 @@ module.exports = (function() {
 
             var monster = monsterCollection.getMonsterByKey(key);
 
+            var description = metaTags['detail']['description'].replace('%s', monster.name),
+                keywords    = [].slice.call(metaTags['detail']['keywords']);
+            keywords.push(monster.name);
+            keywords.push(key);
+
             yield this.render('detail', {
-                page:    'detail',
-                title:   titleData['detail'].replace('%s', monster.name),
-                monster: monster
+                page:     'detail',
+                metaTags: {
+                    description: description,
+                    keywords:    keywords
+                },
+                title:    titleData['detail'].replace('%s', monster.name),
+                monster:  monster
             });
         }
     };

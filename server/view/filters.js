@@ -2,7 +2,9 @@ module.exports = {
     title: function(title) {
         return (title) ? title + ' | ' : '';
     },
-    bodyClass: function(page) {
-        return 'l-view-' + page;
+    joinComma: function(arr) {
+        arr = arr || [];
+        if (arr.length === 0) { return ''; }
+        return ',' + arr.join(',');
     }
 };
