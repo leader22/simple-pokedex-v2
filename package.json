@@ -1,7 +1,7 @@
 {
   "name": "simple-pokedex-v2",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "My simple pokedex project",
   "main": "index.js",
   "dependencies": {
     "extend": "^1.3.0",
