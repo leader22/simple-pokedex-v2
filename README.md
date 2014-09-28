@@ -1,14 +1,13 @@
 simple-pokedex-v2
 =================
 
-rebuild
+rebuild by koa
 
 
 # TODO
-- [x] commonView
-- [x] jsonデータもってくる
-- [x] テンプレ移植する
-- [ ] ES6っぽくする(let, const, defineProp, etc..)
-- [ ] MySQLの後片付け
+- [ ] @
+
+# Enhance
 - [ ] わざを検索できるように
 - [ ] 既にわかってるメガポケ
+- [ ] ES6っぽくする(let, const, defineProp, etc..)
