@@ -27,43 +27,43 @@
 <section>
     <h2>タイプ相性</h2>
     <ul class="b-type-charts">
-        <% if (monster.typesChartStr.efx400.length) { %>
+        <% if (monster.typeChartStr.efx400.length) { %>
         <li class="box">
             <div class="e-label">x 4</div>
             <div class="flex">
-                <% monster.typesChartStr.efx400.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
+                <% monster.typeChartStr.efx400.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
             </div>
         </li>
         <% } %>
-        <% if (monster.typesChartStr.efx200.length) { %>
+        <% if (monster.typeChartStr.efx200.length) { %>
         <li class="box">
             <div class="e-label">x 2</div>
             <div class="flex">
-                <% monster.typesChartStr.efx200.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
+                <% monster.typeChartStr.efx200.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
             </div>
         </li>
         <% } %>
-        <% if (monster.typesChartStr.efx50.length) { %>
+        <% if (monster.typeChartStr.efx50.length) { %>
         <li class="box">
             <div class="e-label m-small">x 1/2</div>
             <div class="flex">
-                <% monster.typesChartStr.efx50.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
+                <% monster.typeChartStr.efx50.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
             </div>
         </li>
         <% } %>
-        <% if (monster.typesChartStr.efx25.length) { %>
+        <% if (monster.typeChartStr.efx25.length) { %>
         <li class="box">
             <div class="e-label m-small">x 1/4</div>
             <div class="flex">
-                <% monster.typesChartStr.efx25.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
+                <% monster.typeChartStr.efx25.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
             </div>
         </li>
         <% } %>
-        <% if (monster.typesChartStr.efx0.length) { %>
+        <% if (monster.typeChartStr.efx0.length) { %>
         <li class="box">
             <div class="e-label">x 0</div>
             <div class="flex">
-                <% monster.typesChartStr.efx0.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
+                <% monster.typeChartStr.efx0.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
             </div>
         </li>
         <% } %>

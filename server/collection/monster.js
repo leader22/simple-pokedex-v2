@@ -13,7 +13,7 @@ module.exports = (function() {
         constructor: MonsterCollection,
         initialize: function(monsters) {
             this.items = monsters.map(function(monster, id) {
-                return new MonsterModel(monster, ++id);
+                return (new MonsterModel(monster, ++id));
             });
         },
         all: function() {
