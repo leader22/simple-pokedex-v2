@@ -18,7 +18,6 @@ module.exports = (function() {
             return ((+strFt) * 0.3048).toFixed(1);
         },
         getBaseStatsRatio: function(stat, isTotal) {
-            // ???݂̍ō???H255?Ƃ??????o?P???m?Ȃ̂?255?A???v??780?Ƃ????ʂ̃o?P???m
             var MAX_STAT = 255, MAX_ALL_STAT = 780;
 
             var maxStat = (isTotal) ? MAX_ALL_STAT : MAX_STAT;

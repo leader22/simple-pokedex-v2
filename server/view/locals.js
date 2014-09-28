@@ -1,8 +1,7 @@
 module.exports = (function() {
     'use strict';
 
-    // これしかなかったらUtilは消す
-    var Util = appRequire('app/util');
+    var Util = appRequire('shared/util');
 
     // 毎リクエスト処理しなくていいやつらをキャッシュする
     return {

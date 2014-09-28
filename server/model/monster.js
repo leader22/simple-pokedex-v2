@@ -4,9 +4,9 @@ module.exports = (function() {
     var extend = require('extend'),
         _      = require('lodash');
 
-    var Util     = appRequire('app/util'),
-        typeData = appRequire('app/data/type'),
-        langData = appRequire('app/data/lang/ja');
+    var Util     = appRequire('shared/util'),
+        typeData = appRequire('server/data/type'),
+        langData = appRequire('server/data/lang/ja');
 
     var MonsterModel = function(monster, id) {
         this.attributes = {};

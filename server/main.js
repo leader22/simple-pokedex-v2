@@ -10,11 +10,11 @@ var koa    = require('koa'),
     render = require('koa-ejs'),
     extend = require('extend');
 
-var Conf        = appRequire('app/conf'),
-    Router      = appRequire('app/router'),
-    Controller  = appRequire('app/controller'),
-    ViewLocals  = appRequire('app/view/locals'),
-    ViewFilters = appRequire('app/view/filters');
+var Conf        = appRequire('server/conf'),
+    Router      = appRequire('server/router'),
+    Controller  = appRequire('server/controller'),
+    ViewLocals  = appRequire('server/view/locals'),
+    ViewFilters = appRequire('server/view/filters');
 
 
 // Use modules

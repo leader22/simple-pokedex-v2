@@ -4,12 +4,12 @@
 <meta charset="UTF-8">
 <meta content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
 <meta name="apple-mobile-web-app-title" content="Pokédex" />
-<!-- <link rel="apple&#45;touch&#45;icon" href="/img/touch&#45;icon.png"> -->
-<!-- <link rel="apple&#45;touch&#45;icon" sizes="76x76" href="/img/touch&#45;icon.png"> -->
-<!-- <link rel="apple&#45;touch&#45;icon" sizes="120x120" href="/img/touch&#45;icon.png"> -->
-<!-- <link rel="apple&#45;touch&#45;icon" sizes="152x152" href="/img/touch&#45;icon.png"> -->
-<!-- <link rel="shortcut icon" href="/img/favicon.ico"> -->
-<link href="http://pokedex.lealog.net/build/css/style.css" rel="stylesheet">
+<link rel="apple-touch-icon" href="/img/touch-icon.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/static/img/touch-icon.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/static/img/touch-icon.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/static/img/touch-icon.png">
+<link rel="shortcut icon" href="/static/img/favicon.ico">
+<link href="/static/css/style.css" rel="stylesheet">
 <title><%-: title | title %>Simple Pokédex</title>
 </head>
 <body>
@@ -20,7 +20,9 @@
 
     <!-- <div class="l&#45;loading&#45;layer is&#45;shown" id="js&#45;loading&#45;layer"></div> -->
     <div id="js-view-content" class="l-view-content <%-: page | bodyClass %>">
-        <%- body %>
+        <div class="<%-: page | bodyClass %>">
+            <%- body %>
+        </div>
     </div>
 
     <footer class="l-view-footer">

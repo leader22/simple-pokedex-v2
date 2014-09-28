@@ -1,8 +1,8 @@
 module.exports = (function() {
     'use strict';
 
-    var categoryData = appRequire('app/data/category');
-    var MonsterModel = appRequire('app/model/monster');
+    var categoryData = appRequire('server/data/category');
+    var MonsterModel = appRequire('server/model/monster');
     var categories   = categoryData.categories;
 
     var MonsterCollection = function(monsters) {
