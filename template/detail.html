@@ -1,0 +1,97 @@
+<section class="b-monster-index-wrap box">
+    <div class="b-monster-icon m-icon-id-<%- monster.id %>"></div>
+    <div class="e-monster-index flex">
+        <h2><%- monster.name %></h2>
+        ぜんこく図鑑No.<%- monster.nationalPokedexNumber %>
+    </div>
+</section>
+
+<section>
+    <h2>種族値</h2>
+    <ul class="b-base-stats">
+        <li><div style="width: <%- monster.baseStatsRatio.hp %>%"             data-label="HP: <%- monster.baseStats.hp %>"></div></li>
+        <li><div style="width: <%- monster.baseStatsRatio.attack %>%"         data-label="こうげき: <%- monster.baseStats.attack %>"></div></li>
+        <li><div style="width: <%- monster.baseStatsRatio.defense %>%"        data-label="ぼうぎょ: <%- monster.baseStats.defense %>"></div></li>
+        <li><div style="width: <%- monster.baseStatsRatio.specialAttack %>%"  data-label="とくこう: <%- monster.baseStats.specialAttack %>"></div></li>
+        <li><div style="width: <%- monster.baseStatsRatio.specialDefense %>%" data-label="とくぼう: <%- monster.baseStats.specialDefense %>"></div></li>
+        <li><div style="width: <%- monster.baseStatsRatio.speed %>%"          data-label="すばやさ: <%- monster.baseStats.speed %>"></div></li>
+        <li><div style="width: <%- monster.baseStatsRatio.total %>%"          data-label="合計: <%- monster.baseStats.total %>"></div></li>
+    </ul>
+</section>
+
+<section>
+    <h2>タイプ</h2>
+    <% monster.type.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
+</section>
+
+<section>
+    <h2>タイプ相性</h2>
+    <ul class="b-type-charts">
+        <% if (monster.typesChartStr.efx400.length) { %>
+        <li class="box">
+            <div class="e-label">x 4</div>
+            <div class="flex">
+                <% monster.typesChartStr.efx400.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
+            </div>
+        </li>
+        <% } %>
+        <% if (monster.typesChartStr.efx200.length) { %>
+        <li class="box">
+            <div class="e-label">x 2</div>
+            <div class="flex">
+                <% monster.typesChartStr.efx200.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
+            </div>
+        </li>
+        <% } %>
+        <% if (monster.typesChartStr.efx50.length) { %>
+        <li class="box">
+            <div class="e-label m-small">x 1/2</div>
+            <div class="flex">
+                <% monster.typesChartStr.efx50.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
+            </div>
+        </li>
+        <% } %>
+        <% if (monster.typesChartStr.efx25.length) { %>
+        <li class="box">
+            <div class="e-label m-small">x 1/4</div>
+            <div class="flex">
+                <% monster.typesChartStr.efx25.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
+            </div>
+        </li>
+        <% } %>
+        <% if (monster.typesChartStr.efx0.length) { %>
+        <li class="box">
+            <div class="e-label">x 0</div>
+            <div class="flex">
+                <% monster.typesChartStr.efx0.forEach(function(type) { %><span class="b-monster-type m-type-<%- type.type %>"><%- type.typeStr %></span><% }) %>
+            </div>
+        </li>
+        <% } %>
+    </ul>
+</section>
+
+<section>
+    <h2>特性</h2>
+    <% monster.abilities.normal.forEach(function(abilitiy) { %>
+        <h3><%- abilitiy.name %></h3>
+        <p class="texts"><%- abilitiy.desc %></p>
+    <% }) %>
+</section>
+
+<% if (monster.abilities.hidden.length) { %>
+<section>
+    <h2>夢特性</h2>
+    <% monster.abilities.hidden.forEach(function(abilitiy) { %>
+        <h3><%- abilitiy.name %></h3>
+        <p class="texts"><%- abilitiy.desc %></p>
+    <% }) %>
+</section>
+<% } %>
+
+<section>
+    <h2>その他</h2>
+    <p class="texts">高さ: <%- monster.heightStr %> / 重さ: <%- monster.weightStr %></p>
+</section>
+
+<a class="js-back-to b-anchor-btn">一覧</a>
+<a href="/" class="b-anchor-btn">トップ</a>

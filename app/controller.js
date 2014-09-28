@@ -16,13 +16,15 @@ module.exports = (function() {
             });
 
             yield this.render('index', {
-                title: titleData['index'],
+                page:      'index',
+                title:      titleData['index'],
                 categories: categoriesArr
             });
         },
 
         about: function *() {
             yield this.render('about', {
+                page:  'about',
                 title: titleData['about']
             });
         },
@@ -47,10 +49,23 @@ module.exports = (function() {
                 monsters = monsterCollection.all();
             }
 
-            console.log(monsters[0]);
             yield this.render('list', {
+                page:     'list',
                 title:    title,
                 monsters: monsters
+            });
+        },
+
+        detail: function *() {
+            var key = this.params.key;
+
+            var monster = monsterCollection.getMonsterByKey(key);
+            console.log(monster);
+
+            yield this.render('detail', {
+                page:    'detail',
+                title:   titleData['detail'].replace('%s', monster.name),
+                monster: monster
             });
         }
     };

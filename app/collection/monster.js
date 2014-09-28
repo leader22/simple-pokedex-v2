@@ -22,6 +22,12 @@ module.exports = (function() {
             });
         },
 
+        getMonsterByKey: function(key) {
+            return this.all()
+                .find(function(model) {
+                    return model._key === key;
+                });
+        },
         getCategorisedMonstersByCategory: function(category) {
             var categoryContents = categories[category].contents;
 
