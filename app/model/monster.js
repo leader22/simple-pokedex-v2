@@ -18,7 +18,7 @@ module.exports = (function() {
         initialize: function(monster, id) {
             monster.id = id;
 
-            monster.name = langData.name[monster._key];
+            monster.name = langData.name[monster.key];
 
             monster.type = monster.type.map(function(type) {
                 return {
@@ -99,7 +99,7 @@ module.exports = (function() {
             }
             monster.baseStatsRatio = baseStatsRatio;;
 
-            monster.isMega = (monster._key.slice(0, 5) === 'mega-');
+            monster.isMega = (monster.key.slice(0, 5) === 'mega-');
 
             monster.weightStr = Util.lbs2Kg(monster.weight) + 'kg';
             monster.heightStr = Util.ft2M(monster.height) + 'm';

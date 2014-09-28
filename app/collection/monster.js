@@ -25,7 +25,7 @@ module.exports = (function() {
         getMonsterByKey: function(key) {
             return this.all()
                 .find(function(model) {
-                    return model._key === key;
+                    return model.key === key;
                 });
         },
         getCategorisedMonstersByCategory: function(category) {

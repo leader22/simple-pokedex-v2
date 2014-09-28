@@ -25,7 +25,7 @@ module.exports = {
       ],
       "_id": 1,
       "weight": "15.2",
-      "_key": "bulbasaur",
+      "key": "bulbasaur",
       "height": "2′4″"
     },
     {
@@ -53,7 +53,7 @@ module.exports = {
         ]
       },
       "weight": "28.7",
-      "_key": "ivysaur",
+      "key": "ivysaur",
       "height": "3′3″"
     },
     {
@@ -81,7 +81,7 @@ module.exports = {
         ]
       },
       "weight": "220.5",
-      "_key": "venusaur",
+      "key": "venusaur",
       "height": "6′7″"
     },
     {
@@ -107,7 +107,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "342.8",
-      "_key": "mega-venusaur",
+      "key": "mega-venusaur",
       "height": "7′6″"
     },
     {
@@ -134,7 +134,7 @@ module.exports = {
         ]
       },
       "weight": "18.7",
-      "_key": "charmander",
+      "key": "charmander",
       "height": "2′0″"
     },
     {
@@ -161,7 +161,7 @@ module.exports = {
         ]
       },
       "weight": "41.9",
-      "_key": "charmeleon",
+      "key": "charmeleon",
       "height": "3′7″"
     },
     {
@@ -189,7 +189,7 @@ module.exports = {
         ]
       },
       "weight": "199.5",
-      "_key": "charizard",
+      "key": "charizard",
       "height": "5′7″"
     },
     {
@@ -215,7 +215,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "243.6",
-      "_key": "mega-charizard-x",
+      "key": "mega-charizard-x",
       "height": "5′7″"
     },
     {
@@ -241,7 +241,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "221.6",
-      "_key": "mega-charizard-y",
+      "key": "mega-charizard-y",
       "height": "5′7″"
     },
     {
@@ -268,7 +268,7 @@ module.exports = {
         ]
       },
       "weight": "19.8",
-      "_key": "squirtle",
+      "key": "squirtle",
       "height": "1′8″"
     },
     {
@@ -295,7 +295,7 @@ module.exports = {
         ]
       },
       "weight": "49.6",
-      "_key": "wartortle",
+      "key": "wartortle",
       "height": "3′3″"
     },
     {
@@ -322,7 +322,7 @@ module.exports = {
         ]
       },
       "weight": "188.5",
-      "_key": "blastoise",
+      "key": "blastoise",
       "height": "5′3″"
     },
     {
@@ -347,7 +347,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "222.9",
-      "_key": "mega-blastoise",
+      "key": "mega-blastoise",
       "height": "5′3″"
     },
     {
@@ -374,7 +374,7 @@ module.exports = {
         ]
       },
       "weight": "6.4",
-      "_key": "caterpie",
+      "key": "caterpie",
       "height": "1′0″"
     },
     {
@@ -399,7 +399,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "21.8",
-      "_key": "metapod",
+      "key": "metapod",
       "height": "2′4″"
     },
     {
@@ -427,7 +427,7 @@ module.exports = {
         ]
       },
       "weight": "70.5",
-      "_key": "butterfree",
+      "key": "butterfree",
       "height": "3′7″"
     },
     {
@@ -455,7 +455,7 @@ module.exports = {
         ]
       },
       "weight": "7.1",
-      "_key": "weedle",
+      "key": "weedle",
       "height": "1′0″"
     },
     {
@@ -481,7 +481,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "22",
-      "_key": "kakuna",
+      "key": "kakuna",
       "height": "2′0″"
     },
     {
@@ -509,7 +509,7 @@ module.exports = {
         ]
       },
       "weight": "65",
-      "_key": "beedrill",
+      "key": "beedrill",
       "height": "3′3″"
     },
     {
@@ -538,7 +538,7 @@ module.exports = {
         ]
       },
       "weight": "4",
-      "_key": "pidgey",
+      "key": "pidgey",
       "height": "1′0″"
     },
     {
@@ -567,7 +567,7 @@ module.exports = {
         ]
       },
       "weight": "66.1",
-      "_key": "pidgeotto",
+      "key": "pidgeotto",
       "height": "3′7″"
     },
     {
@@ -596,7 +596,7 @@ module.exports = {
         ]
       },
       "weight": "87.1",
-      "_key": "pidgeot",
+      "key": "pidgeot",
       "height": "4′11″"
     },
     {
@@ -624,7 +624,7 @@ module.exports = {
         ]
       },
       "weight": "7.7",
-      "_key": "rattata",
+      "key": "rattata",
       "height": "1′0″"
     },
     {
@@ -652,7 +652,7 @@ module.exports = {
         ]
       },
       "weight": "40.8",
-      "_key": "raticate",
+      "key": "raticate",
       "height": "2′4″"
     },
     {
@@ -680,7 +680,7 @@ module.exports = {
         ]
       },
       "weight": "4.4",
-      "_key": "spearow",
+      "key": "spearow",
       "height": "1′0″"
     },
     {
@@ -708,7 +708,7 @@ module.exports = {
         ]
       },
       "weight": "83.8",
-      "_key": "fearow",
+      "key": "fearow",
       "height": "3′11″"
     },
     {
@@ -736,7 +736,7 @@ module.exports = {
         ]
       },
       "weight": "15.2",
-      "_key": "ekans",
+      "key": "ekans",
       "height": "6′7″"
     },
     {
@@ -764,7 +764,7 @@ module.exports = {
         ]
       },
       "weight": "143.3",
-      "_key": "arbok",
+      "key": "arbok",
       "height": "11′6″"
     },
     {
@@ -791,7 +791,7 @@ module.exports = {
         ]
       },
       "weight": "13.2",
-      "_key": "pikachu",
+      "key": "pikachu",
       "height": "1′4″"
     },
     {
@@ -818,7 +818,7 @@ module.exports = {
         ]
       },
       "weight": "66.1",
-      "_key": "raichu",
+      "key": "raichu",
       "height": "2′7″"
     },
     {
@@ -845,7 +845,7 @@ module.exports = {
         ]
       },
       "weight": "26.5",
-      "_key": "sandshrew",
+      "key": "sandshrew",
       "height": "2′0″"
     },
     {
@@ -872,7 +872,7 @@ module.exports = {
         ]
       },
       "weight": "65",
-      "_key": "sandslash",
+      "key": "sandslash",
       "height": "3′3″"
     },
     {
@@ -900,7 +900,7 @@ module.exports = {
         ]
       },
       "weight": "15.4",
-      "_key": "nidoran♀",
+      "key": "nidoran♀",
       "height": "1′4″"
     },
     {
@@ -928,7 +928,7 @@ module.exports = {
         ]
       },
       "weight": "44.1",
-      "_key": "nidorina",
+      "key": "nidorina",
       "height": "2′7″"
     },
     {
@@ -957,7 +957,7 @@ module.exports = {
         ]
       },
       "weight": "132.3",
-      "_key": "nidoqueen",
+      "key": "nidoqueen",
       "height": "4′3″"
     },
     {
@@ -985,7 +985,7 @@ module.exports = {
         ]
       },
       "weight": "19.8",
-      "_key": "nidoran♂",
+      "key": "nidoran♂",
       "height": "1′8″"
     },
     {
@@ -1013,7 +1013,7 @@ module.exports = {
         ]
       },
       "weight": "43",
-      "_key": "nidorino",
+      "key": "nidorino",
       "height": "2′11″"
     },
     {
@@ -1042,7 +1042,7 @@ module.exports = {
         ]
       },
       "weight": "136.7",
-      "_key": "nidoking",
+      "key": "nidoking",
       "height": "4′7″"
     },
     {
@@ -1070,7 +1070,7 @@ module.exports = {
         ]
       },
       "weight": "16.5",
-      "_key": "clefairy",
+      "key": "clefairy",
       "height": "2′0″"
     },
     {
@@ -1098,7 +1098,7 @@ module.exports = {
         ]
       },
       "weight": "88.2",
-      "_key": "clefable",
+      "key": "clefable",
       "height": "4′3″"
     },
     {
@@ -1125,7 +1125,7 @@ module.exports = {
         ]
       },
       "weight": "21.8",
-      "_key": "vulpix",
+      "key": "vulpix",
       "height": "2′0″"
     },
     {
@@ -1152,7 +1152,7 @@ module.exports = {
         ]
       },
       "weight": "43.9",
-      "_key": "ninetales",
+      "key": "ninetales",
       "height": "3′7″"
     },
     {
@@ -1181,7 +1181,7 @@ module.exports = {
         ]
       },
       "weight": "12.1",
-      "_key": "jigglypuff",
+      "key": "jigglypuff",
       "height": "1′8″"
     },
     {
@@ -1210,7 +1210,7 @@ module.exports = {
         ]
       },
       "weight": "26.5",
-      "_key": "wigglytuff",
+      "key": "wigglytuff",
       "height": "3′3″"
     },
     {
@@ -1238,7 +1238,7 @@ module.exports = {
         ]
       },
       "weight": "16.5",
-      "_key": "zubat",
+      "key": "zubat",
       "height": "2′7″"
     },
     {
@@ -1266,7 +1266,7 @@ module.exports = {
         ]
       },
       "weight": "121.3",
-      "_key": "golbat",
+      "key": "golbat",
       "height": "5′3″"
     },
     {
@@ -1294,7 +1294,7 @@ module.exports = {
         ]
       },
       "weight": "11.9",
-      "_key": "oddish",
+      "key": "oddish",
       "height": "1′8″"
     },
     {
@@ -1322,7 +1322,7 @@ module.exports = {
         ]
       },
       "weight": "19",
-      "_key": "gloom",
+      "key": "gloom",
       "height": "2′7″"
     },
     {
@@ -1350,7 +1350,7 @@ module.exports = {
         ]
       },
       "weight": "41",
-      "_key": "vileplume",
+      "key": "vileplume",
       "height": "3′11″"
     },
     {
@@ -1379,7 +1379,7 @@ module.exports = {
         ]
       },
       "weight": "11.9",
-      "_key": "paras",
+      "key": "paras",
       "height": "1′0″"
     },
     {
@@ -1408,7 +1408,7 @@ module.exports = {
         ]
       },
       "weight": "65",
-      "_key": "parasect",
+      "key": "parasect",
       "height": "3′3″"
     },
     {
@@ -1437,7 +1437,7 @@ module.exports = {
         ]
       },
       "weight": "66.1",
-      "_key": "venonat",
+      "key": "venonat",
       "height": "3′3″"
     },
     {
@@ -1466,7 +1466,7 @@ module.exports = {
         ]
       },
       "weight": "27.6",
-      "_key": "venomoth",
+      "key": "venomoth",
       "height": "4′11″"
     },
     {
@@ -1494,7 +1494,7 @@ module.exports = {
         ]
       },
       "weight": "1.8",
-      "_key": "diglett",
+      "key": "diglett",
       "height": "0′8″"
     },
     {
@@ -1522,7 +1522,7 @@ module.exports = {
         ]
       },
       "weight": "73.4",
-      "_key": "dugtrio",
+      "key": "dugtrio",
       "height": "2′4″"
     },
     {
@@ -1550,7 +1550,7 @@ module.exports = {
         ]
       },
       "weight": "9.3",
-      "_key": "meowth",
+      "key": "meowth",
       "height": "1′4″"
     },
     {
@@ -1578,7 +1578,7 @@ module.exports = {
         ]
       },
       "weight": "70.5",
-      "_key": "persian",
+      "key": "persian",
       "height": "3′3″"
     },
     {
@@ -1606,7 +1606,7 @@ module.exports = {
         ]
       },
       "weight": "43.2",
-      "_key": "psyduck",
+      "key": "psyduck",
       "height": "2′7″"
     },
     {
@@ -1634,7 +1634,7 @@ module.exports = {
         ]
       },
       "weight": "168.9",
-      "_key": "golduck",
+      "key": "golduck",
       "height": "5′7″"
     },
     {
@@ -1662,7 +1662,7 @@ module.exports = {
         ]
       },
       "weight": "61.7",
-      "_key": "mankey",
+      "key": "mankey",
       "height": "1′8″"
     },
     {
@@ -1690,7 +1690,7 @@ module.exports = {
         ]
       },
       "weight": "70.5",
-      "_key": "primeape",
+      "key": "primeape",
       "height": "3′3″"
     },
     {
@@ -1718,7 +1718,7 @@ module.exports = {
         ]
       },
       "weight": "41.9",
-      "_key": "growlithe",
+      "key": "growlithe",
       "height": "2′4″"
     },
     {
@@ -1746,7 +1746,7 @@ module.exports = {
         ]
       },
       "weight": "341.7",
-      "_key": "arcanine",
+      "key": "arcanine",
       "height": "6′3″"
     },
     {
@@ -1774,7 +1774,7 @@ module.exports = {
         ]
       },
       "weight": "27.3",
-      "_key": "poliwag",
+      "key": "poliwag",
       "height": "2′0″"
     },
     {
@@ -1802,7 +1802,7 @@ module.exports = {
         ]
       },
       "weight": "44.1",
-      "_key": "poliwhirl",
+      "key": "poliwhirl",
       "height": "3′3″"
     },
     {
@@ -1831,7 +1831,7 @@ module.exports = {
         ]
       },
       "weight": "119",
-      "_key": "poliwrath",
+      "key": "poliwrath",
       "height": "4′3″"
     },
     {
@@ -1859,7 +1859,7 @@ module.exports = {
         ]
       },
       "weight": "43",
-      "_key": "abra",
+      "key": "abra",
       "height": "2′11″"
     },
     {
@@ -1887,7 +1887,7 @@ module.exports = {
         ]
       },
       "weight": "124.6",
-      "_key": "kadabra",
+      "key": "kadabra",
       "height": "4′3″"
     },
     {
@@ -1915,7 +1915,7 @@ module.exports = {
         ]
       },
       "weight": "105.8",
-      "_key": "alakazam",
+      "key": "alakazam",
       "height": "4′11″"
     },
     {
@@ -1940,7 +1940,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "105.8",
-      "_key": "mega-alakazam",
+      "key": "mega-alakazam",
       "height": "3′11″"
     },
     {
@@ -1968,7 +1968,7 @@ module.exports = {
         ]
       },
       "weight": "43",
-      "_key": "machop",
+      "key": "machop",
       "height": "2′7″"
     },
     {
@@ -1996,7 +1996,7 @@ module.exports = {
         ]
       },
       "weight": "155.4",
-      "_key": "machoke",
+      "key": "machoke",
       "height": "4′11″"
     },
     {
@@ -2024,7 +2024,7 @@ module.exports = {
         ]
       },
       "weight": "286.6",
-      "_key": "machamp",
+      "key": "machamp",
       "height": "5′3″"
     },
     {
@@ -2052,7 +2052,7 @@ module.exports = {
         ]
       },
       "weight": "8.8",
-      "_key": "bellsprout",
+      "key": "bellsprout",
       "height": "2′4″"
     },
     {
@@ -2080,7 +2080,7 @@ module.exports = {
         ]
       },
       "weight": "14.1",
-      "_key": "weepinbell",
+      "key": "weepinbell",
       "height": "3′3″"
     },
     {
@@ -2108,7 +2108,7 @@ module.exports = {
         ]
       },
       "weight": "34.2",
-      "_key": "victreebel",
+      "key": "victreebel",
       "height": "5′7″"
     },
     {
@@ -2137,7 +2137,7 @@ module.exports = {
         ]
       },
       "weight": "100.3",
-      "_key": "tentacool",
+      "key": "tentacool",
       "height": "2′11″"
     },
     {
@@ -2166,7 +2166,7 @@ module.exports = {
         ]
       },
       "weight": "121.3",
-      "_key": "tentacruel",
+      "key": "tentacruel",
       "height": "5′3″"
     },
     {
@@ -2195,7 +2195,7 @@ module.exports = {
         ]
       },
       "weight": "44.1",
-      "_key": "geodude",
+      "key": "geodude",
       "height": "1′4″"
     },
     {
@@ -2224,7 +2224,7 @@ module.exports = {
         ]
       },
       "weight": "231.5",
-      "_key": "graveler",
+      "key": "graveler",
       "height": "3′3″"
     },
     {
@@ -2253,7 +2253,7 @@ module.exports = {
         ]
       },
       "weight": "661.4",
-      "_key": "golem",
+      "key": "golem",
       "height": "4′7″"
     },
     {
@@ -2281,7 +2281,7 @@ module.exports = {
         ]
       },
       "weight": "66.1",
-      "_key": "ponyta",
+      "key": "ponyta",
       "height": "3′3″"
     },
     {
@@ -2309,7 +2309,7 @@ module.exports = {
         ]
       },
       "weight": "209.4",
-      "_key": "rapidash",
+      "key": "rapidash",
       "height": "5′7″"
     },
     {
@@ -2338,7 +2338,7 @@ module.exports = {
         ]
       },
       "weight": "79.4",
-      "_key": "slowpoke",
+      "key": "slowpoke",
       "height": "3′11″"
     },
     {
@@ -2367,7 +2367,7 @@ module.exports = {
         ]
       },
       "weight": "173.1",
-      "_key": "slowbro",
+      "key": "slowbro",
       "height": "5′3″"
     },
     {
@@ -2396,7 +2396,7 @@ module.exports = {
         ]
       },
       "weight": "13.2",
-      "_key": "magnemite",
+      "key": "magnemite",
       "height": "1′0″"
     },
     {
@@ -2425,7 +2425,7 @@ module.exports = {
         ]
       },
       "weight": "132.3",
-      "_key": "magneton",
+      "key": "magneton",
       "height": "3′3″"
     },
     {
@@ -2454,7 +2454,7 @@ module.exports = {
         ]
       },
       "weight": "33.1",
-      "_key": "farfetch'd",
+      "key": "farfetch'd",
       "height": "2′7″"
     },
     {
@@ -2483,7 +2483,7 @@ module.exports = {
         ]
       },
       "weight": "86.4",
-      "_key": "doduo",
+      "key": "doduo",
       "height": "4′7″"
     },
     {
@@ -2512,7 +2512,7 @@ module.exports = {
         ]
       },
       "weight": "187.8",
-      "_key": "dodrio",
+      "key": "dodrio",
       "height": "5′11″"
     },
     {
@@ -2540,7 +2540,7 @@ module.exports = {
         ]
       },
       "weight": "198.4",
-      "_key": "seel",
+      "key": "seel",
       "height": "3′7″"
     },
     {
@@ -2569,7 +2569,7 @@ module.exports = {
         ]
       },
       "weight": "264.6",
-      "_key": "dewgong",
+      "key": "dewgong",
       "height": "5′7″"
     },
     {
@@ -2597,7 +2597,7 @@ module.exports = {
         ]
       },
       "weight": "66.1",
-      "_key": "grimer",
+      "key": "grimer",
       "height": "2′11″"
     },
     {
@@ -2625,7 +2625,7 @@ module.exports = {
         ]
       },
       "weight": "66.1",
-      "_key": "muk",
+      "key": "muk",
       "height": "3′11″"
     },
     {
@@ -2653,7 +2653,7 @@ module.exports = {
         ]
       },
       "weight": "8.8",
-      "_key": "shellder",
+      "key": "shellder",
       "height": "1′0″"
     },
     {
@@ -2682,7 +2682,7 @@ module.exports = {
         ]
       },
       "weight": "292.1",
-      "_key": "cloyster",
+      "key": "cloyster",
       "height": "4′11″"
     },
     {
@@ -2708,7 +2708,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "0.2",
-      "_key": "gastly",
+      "key": "gastly",
       "height": "4′3″"
     },
     {
@@ -2734,7 +2734,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "0.2",
-      "_key": "haunter",
+      "key": "haunter",
       "height": "5′3″"
     },
     {
@@ -2760,7 +2760,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "89.3",
-      "_key": "gengar",
+      "key": "gengar",
       "height": "4′11″"
     },
     {
@@ -2786,7 +2786,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "89.3",
-      "_key": "mega-gengar",
+      "key": "mega-gengar",
       "height": "4′7″"
     },
     {
@@ -2815,7 +2815,7 @@ module.exports = {
         ]
       },
       "weight": "463",
-      "_key": "onix",
+      "key": "onix",
       "height": "28′10″"
     },
     {
@@ -2843,7 +2843,7 @@ module.exports = {
         ]
       },
       "weight": "71.4",
-      "_key": "drowzee",
+      "key": "drowzee",
       "height": "3′3″"
     },
     {
@@ -2871,7 +2871,7 @@ module.exports = {
         ]
       },
       "weight": "166.7",
-      "_key": "hypno",
+      "key": "hypno",
       "height": "5′3″"
     },
     {
@@ -2899,7 +2899,7 @@ module.exports = {
         ]
       },
       "weight": "14.3",
-      "_key": "krabby",
+      "key": "krabby",
       "height": "1′4″"
     },
     {
@@ -2927,7 +2927,7 @@ module.exports = {
         ]
       },
       "weight": "132.3",
-      "_key": "kingler",
+      "key": "kingler",
       "height": "4′3″"
     },
     {
@@ -2955,7 +2955,7 @@ module.exports = {
         ]
       },
       "weight": "22.9",
-      "_key": "voltorb",
+      "key": "voltorb",
       "height": "1′8″"
     },
     {
@@ -2983,7 +2983,7 @@ module.exports = {
         ]
       },
       "weight": "146.8",
-      "_key": "electrode",
+      "key": "electrode",
       "height": "3′11″"
     },
     {
@@ -3011,7 +3011,7 @@ module.exports = {
         ]
       },
       "weight": "5.5",
-      "_key": "exeggcute",
+      "key": "exeggcute",
       "height": "1′4″"
     },
     {
@@ -3039,7 +3039,7 @@ module.exports = {
         ]
       },
       "weight": "264.6",
-      "_key": "exeggutor",
+      "key": "exeggutor",
       "height": "6′7″"
     },
     {
@@ -3067,7 +3067,7 @@ module.exports = {
         ]
       },
       "weight": "14.3",
-      "_key": "cubone",
+      "key": "cubone",
       "height": "1′4″"
     },
     {
@@ -3095,7 +3095,7 @@ module.exports = {
         ]
       },
       "weight": "99.2",
-      "_key": "marowak",
+      "key": "marowak",
       "height": "3′3″"
     },
     {
@@ -3123,7 +3123,7 @@ module.exports = {
         ]
       },
       "weight": "109.8",
-      "_key": "hitmonlee",
+      "key": "hitmonlee",
       "height": "4′11″"
     },
     {
@@ -3151,7 +3151,7 @@ module.exports = {
         ]
       },
       "weight": "110.7",
-      "_key": "hitmonchan",
+      "key": "hitmonchan",
       "height": "4′7″"
     },
     {
@@ -3179,7 +3179,7 @@ module.exports = {
         ]
       },
       "weight": "144.4",
-      "_key": "lickitung",
+      "key": "lickitung",
       "height": "3′11″"
     },
     {
@@ -3204,7 +3204,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "2.2",
-      "_key": "koffing",
+      "key": "koffing",
       "height": "2′0″"
     },
     {
@@ -3229,7 +3229,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "20.9",
-      "_key": "weezing",
+      "key": "weezing",
       "height": "3′11″"
     },
     {
@@ -3258,7 +3258,7 @@ module.exports = {
         ]
       },
       "weight": "253.5",
-      "_key": "rhyhorn",
+      "key": "rhyhorn",
       "height": "3′3″"
     },
     {
@@ -3287,7 +3287,7 @@ module.exports = {
         ]
       },
       "weight": "264.6",
-      "_key": "rhydon",
+      "key": "rhydon",
       "height": "6′3″"
     },
     {
@@ -3315,7 +3315,7 @@ module.exports = {
         ]
       },
       "weight": "76.3",
-      "_key": "chansey",
+      "key": "chansey",
       "height": "3′7″"
     },
     {
@@ -3343,7 +3343,7 @@ module.exports = {
         ]
       },
       "weight": "77.2",
-      "_key": "tangela",
+      "key": "tangela",
       "height": "3′3″"
     },
     {
@@ -3371,7 +3371,7 @@ module.exports = {
         ]
       },
       "weight": "176.4",
-      "_key": "kangaskhan",
+      "key": "kangaskhan",
       "height": "7′3″"
     },
     {
@@ -3396,7 +3396,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "220.5",
-      "_key": "mega-kangaskhan",
+      "key": "mega-kangaskhan",
       "height": "7′3″"
     },
     {
@@ -3424,7 +3424,7 @@ module.exports = {
         ]
       },
       "weight": "17.6",
-      "_key": "horsea",
+      "key": "horsea",
       "height": "1′4″"
     },
     {
@@ -3452,7 +3452,7 @@ module.exports = {
         ]
       },
       "weight": "55.1",
-      "_key": "seadra",
+      "key": "seadra",
       "height": "3′11″"
     },
     {
@@ -3480,7 +3480,7 @@ module.exports = {
         ]
       },
       "weight": "33.1",
-      "_key": "goldeen",
+      "key": "goldeen",
       "height": "2′0″"
     },
     {
@@ -3508,7 +3508,7 @@ module.exports = {
         ]
       },
       "weight": "86",
-      "_key": "seaking",
+      "key": "seaking",
       "height": "4′3″"
     },
     {
@@ -3536,7 +3536,7 @@ module.exports = {
         ]
       },
       "weight": "76.1",
-      "_key": "staryu",
+      "key": "staryu",
       "height": "2′7″"
     },
     {
@@ -3565,7 +3565,7 @@ module.exports = {
         ]
       },
       "weight": "176.4",
-      "_key": "starmie",
+      "key": "starmie",
       "height": "3′7″"
     },
     {
@@ -3594,7 +3594,7 @@ module.exports = {
         ]
       },
       "weight": "120.2",
-      "_key": "mr-mime",
+      "key": "mr-mime",
       "height": "4′3″"
     },
     {
@@ -3623,7 +3623,7 @@ module.exports = {
         ]
       },
       "weight": "123.5",
-      "_key": "scyther",
+      "key": "scyther",
       "height": "4′11″"
     },
     {
@@ -3652,7 +3652,7 @@ module.exports = {
         ]
       },
       "weight": "89.5",
-      "_key": "jynx",
+      "key": "jynx",
       "height": "4′7″"
     },
     {
@@ -3679,7 +3679,7 @@ module.exports = {
         ]
       },
       "weight": "66.1",
-      "_key": "electabuzz",
+      "key": "electabuzz",
       "height": "3′7″"
     },
     {
@@ -3706,7 +3706,7 @@ module.exports = {
         ]
       },
       "weight": "98.1",
-      "_key": "magmar",
+      "key": "magmar",
       "height": "4′3″"
     },
     {
@@ -3734,7 +3734,7 @@ module.exports = {
         ]
       },
       "weight": "121.3",
-      "_key": "pinsir",
+      "key": "pinsir",
       "height": "4′11″"
     },
     {
@@ -3760,7 +3760,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "130.1",
-      "_key": "mega-pinsir",
+      "key": "mega-pinsir",
       "height": "5′7″"
     },
     {
@@ -3788,7 +3788,7 @@ module.exports = {
         ]
       },
       "weight": "194.9",
-      "_key": "tauros",
+      "key": "tauros",
       "height": "4′7″"
     },
     {
@@ -3815,7 +3815,7 @@ module.exports = {
         ]
       },
       "weight": "22",
-      "_key": "magikarp",
+      "key": "magikarp",
       "height": "2′11″"
     },
     {
@@ -3843,7 +3843,7 @@ module.exports = {
         ]
       },
       "weight": "518.1",
-      "_key": "gyarados",
+      "key": "gyarados",
       "height": "21′4″"
     },
     {
@@ -3869,7 +3869,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "672.4",
-      "_key": "mega-gyarados",
+      "key": "mega-gyarados",
       "height": "21′4″"
     },
     {
@@ -3898,7 +3898,7 @@ module.exports = {
         ]
       },
       "weight": "485",
-      "_key": "lapras",
+      "key": "lapras",
       "height": "8′2″"
     },
     {
@@ -3925,7 +3925,7 @@ module.exports = {
         ]
       },
       "weight": "8.8",
-      "_key": "ditto",
+      "key": "ditto",
       "height": "1′0″"
     },
     {
@@ -3953,7 +3953,7 @@ module.exports = {
         ]
       },
       "weight": "14.3",
-      "_key": "eevee",
+      "key": "eevee",
       "height": "1′0″"
     },
     {
@@ -3980,7 +3980,7 @@ module.exports = {
         ]
       },
       "weight": "63.9",
-      "_key": "vaporeon",
+      "key": "vaporeon",
       "height": "3′3″"
     },
     {
@@ -4007,7 +4007,7 @@ module.exports = {
         ]
       },
       "weight": "54",
-      "_key": "jolteon",
+      "key": "jolteon",
       "height": "2′7″"
     },
     {
@@ -4034,7 +4034,7 @@ module.exports = {
         ]
       },
       "weight": "55.1",
-      "_key": "flareon",
+      "key": "flareon",
       "height": "2′11″"
     },
     {
@@ -4062,7 +4062,7 @@ module.exports = {
         ]
       },
       "weight": "80.5",
-      "_key": "porygon",
+      "key": "porygon",
       "height": "2′7″"
     },
     {
@@ -4091,7 +4091,7 @@ module.exports = {
         ]
       },
       "weight": "16.5",
-      "_key": "omanyte",
+      "key": "omanyte",
       "height": "1′4″"
     },
     {
@@ -4120,7 +4120,7 @@ module.exports = {
         ]
       },
       "weight": "77.2",
-      "_key": "omastar",
+      "key": "omastar",
       "height": "3′3″"
     },
     {
@@ -4149,7 +4149,7 @@ module.exports = {
         ]
       },
       "weight": "25.4",
-      "_key": "kabuto",
+      "key": "kabuto",
       "height": "1′8″"
     },
     {
@@ -4178,7 +4178,7 @@ module.exports = {
         ]
       },
       "weight": "89.3",
-      "_key": "kabutops",
+      "key": "kabutops",
       "height": "4′3″"
     },
     {
@@ -4207,7 +4207,7 @@ module.exports = {
         ]
       },
       "weight": "130.1",
-      "_key": "aerodactyl",
+      "key": "aerodactyl",
       "height": "5′11″"
     },
     {
@@ -4233,7 +4233,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "174.2",
-      "_key": "mega-aerodactyl",
+      "key": "mega-aerodactyl",
       "height": "6′11″"
     },
     {
@@ -4261,7 +4261,7 @@ module.exports = {
         ]
       },
       "weight": "1014.1",
-      "_key": "snorlax",
+      "key": "snorlax",
       "height": "6′11″"
     },
     {
@@ -4289,7 +4289,7 @@ module.exports = {
         ]
       },
       "weight": "122.1",
-      "_key": "articuno",
+      "key": "articuno",
       "height": "5′7″"
     },
     {
@@ -4317,7 +4317,7 @@ module.exports = {
         ]
       },
       "weight": "116",
-      "_key": "zapdos",
+      "key": "zapdos",
       "height": "5′3″"
     },
     {
@@ -4345,7 +4345,7 @@ module.exports = {
         ]
       },
       "weight": "132.3",
-      "_key": "moltres",
+      "key": "moltres",
       "height": "6′7″"
     },
     {
@@ -4372,7 +4372,7 @@ module.exports = {
         ]
       },
       "weight": "7.3",
-      "_key": "dratini",
+      "key": "dratini",
       "height": "5′11″"
     },
     {
@@ -4399,7 +4399,7 @@ module.exports = {
         ]
       },
       "weight": "36.4",
-      "_key": "dragonair",
+      "key": "dragonair",
       "height": "13′1″"
     },
     {
@@ -4427,7 +4427,7 @@ module.exports = {
         ]
       },
       "weight": "463",
-      "_key": "dragonite",
+      "key": "dragonite",
       "height": "7′3″"
     },
     {
@@ -4454,7 +4454,7 @@ module.exports = {
         ]
       },
       "weight": "269",
-      "_key": "mewtwo",
+      "key": "mewtwo",
       "height": "6′7″"
     },
     {
@@ -4480,7 +4480,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "280",
-      "_key": "mega-mewtwo-x",
+      "key": "mega-mewtwo-x",
       "height": "7′7″"
     },
     {
@@ -4505,7 +4505,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "72.8",
-      "_key": "mega-mewtwo-y",
+      "key": "mega-mewtwo-y",
       "height": "4′11″"
     },
     {
@@ -4530,7 +4530,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "8.8",
-      "_key": "mew",
+      "key": "mew",
       "height": "1′4″"
     },
     {
@@ -4557,7 +4557,7 @@ module.exports = {
         ]
       },
       "weight": "14.1",
-      "_key": "chikorita",
+      "key": "chikorita",
       "height": "2′11″"
     },
     {
@@ -4584,7 +4584,7 @@ module.exports = {
         ]
       },
       "weight": "34.8",
-      "_key": "bayleef",
+      "key": "bayleef",
       "height": "3′11″"
     },
     {
@@ -4611,7 +4611,7 @@ module.exports = {
         ]
       },
       "weight": "221.6",
-      "_key": "meganium",
+      "key": "meganium",
       "height": "5′11″"
     },
     {
@@ -4638,7 +4638,7 @@ module.exports = {
         ]
       },
       "weight": "17.4",
-      "_key": "cyndaquil",
+      "key": "cyndaquil",
       "height": "1′8″"
     },
     {
@@ -4665,7 +4665,7 @@ module.exports = {
         ]
       },
       "weight": "41.9",
-      "_key": "quilava",
+      "key": "quilava",
       "height": "2′11″"
     },
     {
@@ -4692,7 +4692,7 @@ module.exports = {
         ]
       },
       "weight": "175.3",
-      "_key": "typhlosion",
+      "key": "typhlosion",
       "height": "5′7″"
     },
     {
@@ -4719,7 +4719,7 @@ module.exports = {
         ]
       },
       "weight": "20.9",
-      "_key": "totodile",
+      "key": "totodile",
       "height": "2′0″"
     },
     {
@@ -4746,7 +4746,7 @@ module.exports = {
         ]
       },
       "weight": "55.1",
-      "_key": "croconaw",
+      "key": "croconaw",
       "height": "3′7″"
     },
     {
@@ -4773,7 +4773,7 @@ module.exports = {
         ]
       },
       "weight": "195.8",
-      "_key": "feraligatr",
+      "key": "feraligatr",
       "height": "7′7″"
     },
     {
@@ -4801,7 +4801,7 @@ module.exports = {
         ]
       },
       "weight": "13.2",
-      "_key": "sentret",
+      "key": "sentret",
       "height": "2′7″"
     },
     {
@@ -4829,7 +4829,7 @@ module.exports = {
         ]
       },
       "weight": "71.7",
-      "_key": "furret",
+      "key": "furret",
       "height": "5′11″"
     },
     {
@@ -4858,7 +4858,7 @@ module.exports = {
         ]
       },
       "weight": "46.7",
-      "_key": "hoothoot",
+      "key": "hoothoot",
       "height": "2′4″"
     },
     {
@@ -4887,7 +4887,7 @@ module.exports = {
         ]
       },
       "weight": "89.9",
-      "_key": "noctowl",
+      "key": "noctowl",
       "height": "5′3″"
     },
     {
@@ -4916,7 +4916,7 @@ module.exports = {
         ]
       },
       "weight": "23.8",
-      "_key": "ledyba",
+      "key": "ledyba",
       "height": "3′3″"
     },
     {
@@ -4945,7 +4945,7 @@ module.exports = {
         ]
       },
       "weight": "78.5",
-      "_key": "ledian",
+      "key": "ledian",
       "height": "4′7″"
     },
     {
@@ -4974,7 +4974,7 @@ module.exports = {
         ]
       },
       "weight": "18.7",
-      "_key": "spinarak",
+      "key": "spinarak",
       "height": "1′8″"
     },
     {
@@ -5003,7 +5003,7 @@ module.exports = {
         ]
       },
       "weight": "73.9",
-      "_key": "ariados",
+      "key": "ariados",
       "height": "3′7″"
     },
     {
@@ -5031,7 +5031,7 @@ module.exports = {
         ]
       },
       "weight": "165.3",
-      "_key": "crobat",
+      "key": "crobat",
       "height": "5′11″"
     },
     {
@@ -5060,7 +5060,7 @@ module.exports = {
         ]
       },
       "weight": "26.5",
-      "_key": "chinchou",
+      "key": "chinchou",
       "height": "1′8″"
     },
     {
@@ -5089,7 +5089,7 @@ module.exports = {
         ]
       },
       "weight": "49.6",
-      "_key": "lanturn",
+      "key": "lanturn",
       "height": "3′11″"
     },
     {
@@ -5116,7 +5116,7 @@ module.exports = {
         ]
       },
       "weight": "4.4",
-      "_key": "pichu",
+      "key": "pichu",
       "height": "1′0″"
     },
     {
@@ -5144,7 +5144,7 @@ module.exports = {
         ]
       },
       "weight": "6.6",
-      "_key": "cleffa",
+      "key": "cleffa",
       "height": "1′0″"
     },
     {
@@ -5173,7 +5173,7 @@ module.exports = {
         ]
       },
       "weight": "2.2",
-      "_key": "igglybuff",
+      "key": "igglybuff",
       "height": "1′0″"
     },
     {
@@ -5201,7 +5201,7 @@ module.exports = {
         ]
       },
       "weight": "3.3",
-      "_key": "togepi",
+      "key": "togepi",
       "height": "1′0″"
     },
     {
@@ -5230,7 +5230,7 @@ module.exports = {
         ]
       },
       "weight": "7.1",
-      "_key": "togetic",
+      "key": "togetic",
       "height": "2′0″"
     },
     {
@@ -5259,7 +5259,7 @@ module.exports = {
         ]
       },
       "weight": "4.4",
-      "_key": "natu",
+      "key": "natu",
       "height": "0′8″"
     },
     {
@@ -5288,7 +5288,7 @@ module.exports = {
         ]
       },
       "weight": "33.1",
-      "_key": "xatu",
+      "key": "xatu",
       "height": "4′11″"
     },
     {
@@ -5315,7 +5315,7 @@ module.exports = {
         ]
       },
       "weight": "17.2",
-      "_key": "mareep",
+      "key": "mareep",
       "height": "2′0″"
     },
     {
@@ -5342,7 +5342,7 @@ module.exports = {
         ]
       },
       "weight": "29.3",
-      "_key": "flaaffy",
+      "key": "flaaffy",
       "height": "2′7″"
     },
     {
@@ -5369,7 +5369,7 @@ module.exports = {
         ]
       },
       "weight": "135.6",
-      "_key": "ampharos",
+      "key": "ampharos",
       "height": "4′7″"
     },
     {
@@ -5395,7 +5395,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "135.6",
-      "_key": "mega-ampharos",
+      "key": "mega-ampharos",
       "height": "4′7″"
     },
     {
@@ -5422,7 +5422,7 @@ module.exports = {
         ]
       },
       "weight": "12.8",
-      "_key": "bellossom",
+      "key": "bellossom",
       "height": "1′4″"
     },
     {
@@ -5451,7 +5451,7 @@ module.exports = {
         ]
       },
       "weight": "18.7",
-      "_key": "marill",
+      "key": "marill",
       "height": "1′4″"
     },
     {
@@ -5480,7 +5480,7 @@ module.exports = {
         ]
       },
       "weight": "62.8",
-      "_key": "azumarill",
+      "key": "azumarill",
       "height": "2′7″"
     },
     {
@@ -5508,7 +5508,7 @@ module.exports = {
         ]
       },
       "weight": "83.8",
-      "_key": "sudowoodo",
+      "key": "sudowoodo",
       "height": "3′11″"
     },
     {
@@ -5536,7 +5536,7 @@ module.exports = {
         ]
       },
       "weight": "74.7",
-      "_key": "politoed",
+      "key": "politoed",
       "height": "3′7″"
     },
     {
@@ -5565,7 +5565,7 @@ module.exports = {
         ]
       },
       "weight": "1.1",
-      "_key": "hoppip",
+      "key": "hoppip",
       "height": "1′4″"
     },
     {
@@ -5594,7 +5594,7 @@ module.exports = {
         ]
       },
       "weight": "2.2",
-      "_key": "skiploom",
+      "key": "skiploom",
       "height": "2′0″"
     },
     {
@@ -5623,7 +5623,7 @@ module.exports = {
         ]
       },
       "weight": "6.6",
-      "_key": "jumpluff",
+      "key": "jumpluff",
       "height": "2′7″"
     },
     {
@@ -5651,7 +5651,7 @@ module.exports = {
         ]
       },
       "weight": "25.4",
-      "_key": "aipom",
+      "key": "aipom",
       "height": "2′7″"
     },
     {
@@ -5679,7 +5679,7 @@ module.exports = {
         ]
       },
       "weight": "4",
-      "_key": "sunkern",
+      "key": "sunkern",
       "height": "1′0″"
     },
     {
@@ -5707,7 +5707,7 @@ module.exports = {
         ]
       },
       "weight": "18.7",
-      "_key": "sunflora",
+      "key": "sunflora",
       "height": "2′7″"
     },
     {
@@ -5736,7 +5736,7 @@ module.exports = {
         ]
       },
       "weight": "83.8",
-      "_key": "yanma",
+      "key": "yanma",
       "height": "3′11″"
     },
     {
@@ -5765,7 +5765,7 @@ module.exports = {
         ]
       },
       "weight": "18.7",
-      "_key": "wooper",
+      "key": "wooper",
       "height": "1′4″"
     },
     {
@@ -5794,7 +5794,7 @@ module.exports = {
         ]
       },
       "weight": "165.3",
-      "_key": "quagsire",
+      "key": "quagsire",
       "height": "4′7″"
     },
     {
@@ -5821,7 +5821,7 @@ module.exports = {
         ]
       },
       "weight": "58.4",
-      "_key": "espeon",
+      "key": "espeon",
       "height": "2′11″"
     },
     {
@@ -5848,7 +5848,7 @@ module.exports = {
         ]
       },
       "weight": "59.5",
-      "_key": "umbreon",
+      "key": "umbreon",
       "height": "3′3″"
     },
     {
@@ -5877,7 +5877,7 @@ module.exports = {
         ]
       },
       "weight": "4.6",
-      "_key": "murkrow",
+      "key": "murkrow",
       "height": "1′8″"
     },
     {
@@ -5906,7 +5906,7 @@ module.exports = {
         ]
       },
       "weight": "175.3",
-      "_key": "slowking",
+      "key": "slowking",
       "height": "6′7″"
     },
     {
@@ -5931,7 +5931,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "2.2",
-      "_key": "misdreavus",
+      "key": "misdreavus",
       "height": "2′4″"
     },
     {
@@ -5956,7 +5956,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "11",
-      "_key": "unown",
+      "key": "unown",
       "height": "1′8″"
     },
     {
@@ -5983,7 +5983,7 @@ module.exports = {
         ]
       },
       "weight": "62.8",
-      "_key": "wobbuffet",
+      "key": "wobbuffet",
       "height": "4′3″"
     },
     {
@@ -6012,7 +6012,7 @@ module.exports = {
         ]
       },
       "weight": "91.5",
-      "_key": "girafarig",
+      "key": "girafarig",
       "height": "4′11″"
     },
     {
@@ -6039,7 +6039,7 @@ module.exports = {
         ]
       },
       "weight": "15.9",
-      "_key": "pineco",
+      "key": "pineco",
       "height": "2′0″"
     },
     {
@@ -6067,7 +6067,7 @@ module.exports = {
         ]
       },
       "weight": "277.3",
-      "_key": "forretress",
+      "key": "forretress",
       "height": "3′11″"
     },
     {
@@ -6095,7 +6095,7 @@ module.exports = {
         ]
       },
       "weight": "30.9",
-      "_key": "dunsparce",
+      "key": "dunsparce",
       "height": "4′11″"
     },
     {
@@ -6124,7 +6124,7 @@ module.exports = {
         ]
       },
       "weight": "142.9",
-      "_key": "gligar",
+      "key": "gligar",
       "height": "3′7″"
     },
     {
@@ -6153,7 +6153,7 @@ module.exports = {
         ]
       },
       "weight": "881.8",
-      "_key": "steelix",
+      "key": "steelix",
       "height": "30′2″"
     },
     {
@@ -6181,7 +6181,7 @@ module.exports = {
         ]
       },
       "weight": "17.2",
-      "_key": "snubbull",
+      "key": "snubbull",
       "height": "2′0″"
     },
     {
@@ -6209,7 +6209,7 @@ module.exports = {
         ]
       },
       "weight": "107.4",
-      "_key": "granbull",
+      "key": "granbull",
       "height": "4′7″"
     },
     {
@@ -6238,7 +6238,7 @@ module.exports = {
         ]
       },
       "weight": "8.6",
-      "_key": "qwilfish",
+      "key": "qwilfish",
       "height": "1′8″"
     },
     {
@@ -6267,7 +6267,7 @@ module.exports = {
         ]
       },
       "weight": "260.1",
-      "_key": "scizor",
+      "key": "scizor",
       "height": "5′11″"
     },
     {
@@ -6293,7 +6293,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "275.6",
-      "_key": "mega-scizor",
+      "key": "mega-scizor",
       "height": "6′7″"
     },
     {
@@ -6322,7 +6322,7 @@ module.exports = {
         ]
       },
       "weight": "45.2",
-      "_key": "shuckle",
+      "key": "shuckle",
       "height": "2′0″"
     },
     {
@@ -6351,7 +6351,7 @@ module.exports = {
         ]
       },
       "weight": "119",
-      "_key": "heracross",
+      "key": "heracross",
       "height": "4′11″"
     },
     {
@@ -6377,7 +6377,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "137.8",
-      "_key": "mega-heracross",
+      "key": "mega-heracross",
       "height": "5′7″"
     },
     {
@@ -6406,7 +6406,7 @@ module.exports = {
         ]
       },
       "weight": "61.7",
-      "_key": "sneasel",
+      "key": "sneasel",
       "height": "2′11″"
     },
     {
@@ -6434,7 +6434,7 @@ module.exports = {
         ]
       },
       "weight": "19.4",
-      "_key": "teddiursa",
+      "key": "teddiursa",
       "height": "2′0″"
     },
     {
@@ -6462,7 +6462,7 @@ module.exports = {
         ]
       },
       "weight": "277.3",
-      "_key": "ursaring",
+      "key": "ursaring",
       "height": "5′11″"
     },
     {
@@ -6490,7 +6490,7 @@ module.exports = {
         ]
       },
       "weight": "77.2",
-      "_key": "slugma",
+      "key": "slugma",
       "height": "2′4″"
     },
     {
@@ -6519,7 +6519,7 @@ module.exports = {
         ]
       },
       "weight": "121.3",
-      "_key": "magcargo",
+      "key": "magcargo",
       "height": "2′7″"
     },
     {
@@ -6548,7 +6548,7 @@ module.exports = {
         ]
       },
       "weight": "14.3",
-      "_key": "swinub",
+      "key": "swinub",
       "height": "1′4″"
     },
     {
@@ -6577,7 +6577,7 @@ module.exports = {
         ]
       },
       "weight": "123",
-      "_key": "piloswine",
+      "key": "piloswine",
       "height": "3′7″"
     },
     {
@@ -6606,7 +6606,7 @@ module.exports = {
         ]
       },
       "weight": "11",
-      "_key": "corsola",
+      "key": "corsola",
       "height": "2′0″"
     },
     {
@@ -6634,7 +6634,7 @@ module.exports = {
         ]
       },
       "weight": "26.5",
-      "_key": "remoraid",
+      "key": "remoraid",
       "height": "2′0″"
     },
     {
@@ -6662,7 +6662,7 @@ module.exports = {
         ]
       },
       "weight": "62.8",
-      "_key": "octillery",
+      "key": "octillery",
       "height": "2′11″"
     },
     {
@@ -6691,7 +6691,7 @@ module.exports = {
         ]
       },
       "weight": "35.3",
-      "_key": "delibird",
+      "key": "delibird",
       "height": "2′11″"
     },
     {
@@ -6720,7 +6720,7 @@ module.exports = {
         ]
       },
       "weight": "485",
-      "_key": "mantine",
+      "key": "mantine",
       "height": "6′11″"
     },
     {
@@ -6749,7 +6749,7 @@ module.exports = {
         ]
       },
       "weight": "111.3",
-      "_key": "skarmory",
+      "key": "skarmory",
       "height": "5′7″"
     },
     {
@@ -6778,7 +6778,7 @@ module.exports = {
         ]
       },
       "weight": "23.8",
-      "_key": "houndour",
+      "key": "houndour",
       "height": "2′0″"
     },
     {
@@ -6807,7 +6807,7 @@ module.exports = {
         ]
       },
       "weight": "77.2",
-      "_key": "houndoom",
+      "key": "houndoom",
       "height": "4′7″"
     },
     {
@@ -6833,7 +6833,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "109.1",
-      "_key": "mega-houndoom",
+      "key": "mega-houndoom",
       "height": "6′3″"
     },
     {
@@ -6862,7 +6862,7 @@ module.exports = {
         ]
       },
       "weight": "335.1",
-      "_key": "kingdra",
+      "key": "kingdra",
       "height": "5′11″"
     },
     {
@@ -6889,7 +6889,7 @@ module.exports = {
         ]
       },
       "weight": "73.9",
-      "_key": "phanpy",
+      "key": "phanpy",
       "height": "1′8″"
     },
     {
@@ -6916,7 +6916,7 @@ module.exports = {
         ]
       },
       "weight": "264.6",
-      "_key": "donphan",
+      "key": "donphan",
       "height": "3′7″"
     },
     {
@@ -6944,7 +6944,7 @@ module.exports = {
         ]
       },
       "weight": "71.7",
-      "_key": "porygon2",
+      "key": "porygon2",
       "height": "2′0″"
     },
     {
@@ -6972,7 +6972,7 @@ module.exports = {
         ]
       },
       "weight": "157",
-      "_key": "stantler",
+      "key": "stantler",
       "height": "4′7″"
     },
     {
@@ -7000,7 +7000,7 @@ module.exports = {
         ]
       },
       "weight": "127.9",
-      "_key": "smeargle",
+      "key": "smeargle",
       "height": "3′11″"
     },
     {
@@ -7028,7 +7028,7 @@ module.exports = {
         ]
       },
       "weight": "46.3",
-      "_key": "tyrogue",
+      "key": "tyrogue",
       "height": "2′4″"
     },
     {
@@ -7056,7 +7056,7 @@ module.exports = {
         ]
       },
       "weight": "105.8",
-      "_key": "hitmontop",
+      "key": "hitmontop",
       "height": "4′7″"
     },
     {
@@ -7085,7 +7085,7 @@ module.exports = {
         ]
       },
       "weight": "13.2",
-      "_key": "smoochum",
+      "key": "smoochum",
       "height": "1′4″"
     },
     {
@@ -7112,7 +7112,7 @@ module.exports = {
         ]
       },
       "weight": "51.8",
-      "_key": "elekid",
+      "key": "elekid",
       "height": "2′0″"
     },
     {
@@ -7139,7 +7139,7 @@ module.exports = {
         ]
       },
       "weight": "47.2",
-      "_key": "magby",
+      "key": "magby",
       "height": "2′4″"
     },
     {
@@ -7167,7 +7167,7 @@ module.exports = {
         ]
       },
       "weight": "166.4",
-      "_key": "miltank",
+      "key": "miltank",
       "height": "3′11″"
     },
     {
@@ -7195,7 +7195,7 @@ module.exports = {
         ]
       },
       "weight": "103.2",
-      "_key": "blissey",
+      "key": "blissey",
       "height": "4′11″"
     },
     {
@@ -7222,7 +7222,7 @@ module.exports = {
         ]
       },
       "weight": "392.4",
-      "_key": "raikou",
+      "key": "raikou",
       "height": "6′3″"
     },
     {
@@ -7249,7 +7249,7 @@ module.exports = {
         ]
       },
       "weight": "436.5",
-      "_key": "entei",
+      "key": "entei",
       "height": "6′11″"
     },
     {
@@ -7276,7 +7276,7 @@ module.exports = {
         ]
       },
       "weight": "412.3",
-      "_key": "suicune",
+      "key": "suicune",
       "height": "6′7″"
     },
     {
@@ -7304,7 +7304,7 @@ module.exports = {
         ]
       },
       "weight": "158.7",
-      "_key": "larvitar",
+      "key": "larvitar",
       "height": "2′0″"
     },
     {
@@ -7330,7 +7330,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "335.1",
-      "_key": "pupitar",
+      "key": "pupitar",
       "height": "3′11″"
     },
     {
@@ -7358,7 +7358,7 @@ module.exports = {
         ]
       },
       "weight": "445.3",
-      "_key": "tyranitar",
+      "key": "tyranitar",
       "height": "6′7″"
     },
     {
@@ -7384,7 +7384,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "562.2",
-      "_key": "mega-tyranitar",
+      "key": "mega-tyranitar",
       "height": "8′2″"
     },
     {
@@ -7412,7 +7412,7 @@ module.exports = {
         ]
       },
       "weight": "476.2",
-      "_key": "lugia",
+      "key": "lugia",
       "height": "17′1″"
     },
     {
@@ -7440,7 +7440,7 @@ module.exports = {
         ]
       },
       "weight": "438.7",
-      "_key": "ho-oh",
+      "key": "ho-oh",
       "height": "12′6″"
     },
     {
@@ -7466,7 +7466,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "11",
-      "_key": "celebi",
+      "key": "celebi",
       "height": "2′0″"
     },
     {
@@ -7493,7 +7493,7 @@ module.exports = {
         ]
       },
       "weight": "11",
-      "_key": "treecko",
+      "key": "treecko",
       "height": "1′8″"
     },
     {
@@ -7520,7 +7520,7 @@ module.exports = {
         ]
       },
       "weight": "47.6",
-      "_key": "grovyle",
+      "key": "grovyle",
       "height": "2′11″"
     },
     {
@@ -7547,7 +7547,7 @@ module.exports = {
         ]
       },
       "weight": "115.1",
-      "_key": "sceptile",
+      "key": "sceptile",
       "height": "5′7″"
     },
     {
@@ -7574,7 +7574,7 @@ module.exports = {
         ]
       },
       "weight": "5.5",
-      "_key": "torchic",
+      "key": "torchic",
       "height": "1′4″"
     },
     {
@@ -7602,7 +7602,7 @@ module.exports = {
         ]
       },
       "weight": "43",
-      "_key": "combusken",
+      "key": "combusken",
       "height": "2′11″"
     },
     {
@@ -7630,7 +7630,7 @@ module.exports = {
         ]
       },
       "weight": "114.6",
-      "_key": "blaziken",
+      "key": "blaziken",
       "height": "6′3″"
     },
     {
@@ -7656,7 +7656,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "114.6",
-      "_key": "mega-blaziken",
+      "key": "mega-blaziken",
       "height": "6′3″"
     },
     {
@@ -7683,7 +7683,7 @@ module.exports = {
         ]
       },
       "weight": "16.8",
-      "_key": "mudkip",
+      "key": "mudkip",
       "height": "1′4″"
     },
     {
@@ -7711,7 +7711,7 @@ module.exports = {
         ]
       },
       "weight": "61.7",
-      "_key": "marshtomp",
+      "key": "marshtomp",
       "height": "2′4″"
     },
     {
@@ -7739,7 +7739,7 @@ module.exports = {
         ]
       },
       "weight": "180.6",
-      "_key": "swampert",
+      "key": "swampert",
       "height": "4′11″"
     },
     {
@@ -7767,7 +7767,7 @@ module.exports = {
         ]
       },
       "weight": "30",
-      "_key": "poochyena",
+      "key": "poochyena",
       "height": "1′8″"
     },
     {
@@ -7795,7 +7795,7 @@ module.exports = {
         ]
       },
       "weight": "81.6",
-      "_key": "mightyena",
+      "key": "mightyena",
       "height": "3′3″"
     },
     {
@@ -7823,7 +7823,7 @@ module.exports = {
         ]
       },
       "weight": "38.6",
-      "_key": "zigzagoon",
+      "key": "zigzagoon",
       "height": "1′4″"
     },
     {
@@ -7851,7 +7851,7 @@ module.exports = {
         ]
       },
       "weight": "71.7",
-      "_key": "linoone",
+      "key": "linoone",
       "height": "1′8″"
     },
     {
@@ -7878,7 +7878,7 @@ module.exports = {
         ]
       },
       "weight": "7.9",
-      "_key": "wurmple",
+      "key": "wurmple",
       "height": "1′0″"
     },
     {
@@ -7903,7 +7903,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "22",
-      "_key": "silcoon",
+      "key": "silcoon",
       "height": "2′0″"
     },
     {
@@ -7931,7 +7931,7 @@ module.exports = {
         ]
       },
       "weight": "62.6",
-      "_key": "beautifly",
+      "key": "beautifly",
       "height": "3′3″"
     },
     {
@@ -7956,7 +7956,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "25.4",
-      "_key": "cascoon",
+      "key": "cascoon",
       "height": "2′4″"
     },
     {
@@ -7984,7 +7984,7 @@ module.exports = {
         ]
       },
       "weight": "69.7",
-      "_key": "dustox",
+      "key": "dustox",
       "height": "3′11″"
     },
     {
@@ -8013,7 +8013,7 @@ module.exports = {
         ]
       },
       "weight": "5.7",
-      "_key": "lotad",
+      "key": "lotad",
       "height": "1′8″"
     },
     {
@@ -8042,7 +8042,7 @@ module.exports = {
         ]
       },
       "weight": "71.7",
-      "_key": "lombre",
+      "key": "lombre",
       "height": "3′11″"
     },
     {
@@ -8071,7 +8071,7 @@ module.exports = {
         ]
       },
       "weight": "121.3",
-      "_key": "ludicolo",
+      "key": "ludicolo",
       "height": "4′11″"
     },
     {
@@ -8099,7 +8099,7 @@ module.exports = {
         ]
       },
       "weight": "8.8",
-      "_key": "seedot",
+      "key": "seedot",
       "height": "1′8″"
     },
     {
@@ -8128,7 +8128,7 @@ module.exports = {
         ]
       },
       "weight": "61.7",
-      "_key": "nuzleaf",
+      "key": "nuzleaf",
       "height": "3′3″"
     },
     {
@@ -8157,7 +8157,7 @@ module.exports = {
         ]
       },
       "weight": "131.4",
-      "_key": "shiftry",
+      "key": "shiftry",
       "height": "4′3″"
     },
     {
@@ -8185,7 +8185,7 @@ module.exports = {
         ]
       },
       "weight": "5.1",
-      "_key": "taillow",
+      "key": "taillow",
       "height": "1′0″"
     },
     {
@@ -8213,7 +8213,7 @@ module.exports = {
         ]
       },
       "weight": "43.7",
-      "_key": "swellow",
+      "key": "swellow",
       "height": "2′4″"
     },
     {
@@ -8241,7 +8241,7 @@ module.exports = {
         ]
       },
       "weight": "20.9",
-      "_key": "wingull",
+      "key": "wingull",
       "height": "2′0″"
     },
     {
@@ -8269,7 +8269,7 @@ module.exports = {
         ]
       },
       "weight": "61.7",
-      "_key": "pelipper",
+      "key": "pelipper",
       "height": "3′11″"
     },
     {
@@ -8298,7 +8298,7 @@ module.exports = {
         ]
       },
       "weight": "14.6",
-      "_key": "ralts",
+      "key": "ralts",
       "height": "1′4″"
     },
     {
@@ -8327,7 +8327,7 @@ module.exports = {
         ]
       },
       "weight": "44.5",
-      "_key": "kirlia",
+      "key": "kirlia",
       "height": "2′7″"
     },
     {
@@ -8356,7 +8356,7 @@ module.exports = {
         ]
       },
       "weight": "106.7",
-      "_key": "gardevoir",
+      "key": "gardevoir",
       "height": "5′3″"
     },
     {
@@ -8382,7 +8382,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "106.7",
-      "_key": "mega-gardevoir",
+      "key": "mega-gardevoir",
       "height": "5′3″"
     },
     {
@@ -8410,7 +8410,7 @@ module.exports = {
         ]
       },
       "weight": "3.7",
-      "_key": "surskit",
+      "key": "surskit",
       "height": "1′8″"
     },
     {
@@ -8438,7 +8438,7 @@ module.exports = {
         ]
       },
       "weight": "7.9",
-      "_key": "masquerain",
+      "key": "masquerain",
       "height": "2′7″"
     },
     {
@@ -8466,7 +8466,7 @@ module.exports = {
         ]
       },
       "weight": "9.9",
-      "_key": "shroomish",
+      "key": "shroomish",
       "height": "1′4″"
     },
     {
@@ -8495,7 +8495,7 @@ module.exports = {
         ]
       },
       "weight": "86.4",
-      "_key": "breloom",
+      "key": "breloom",
       "height": "3′11″"
     },
     {
@@ -8520,7 +8520,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "52.9",
-      "_key": "slakoth",
+      "key": "slakoth",
       "height": "2′7″"
     },
     {
@@ -8545,7 +8545,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "102.5",
-      "_key": "vigoroth",
+      "key": "vigoroth",
       "height": "4′7″"
     },
     {
@@ -8570,7 +8570,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "287.7",
-      "_key": "slaking",
+      "key": "slaking",
       "height": "6′7″"
     },
     {
@@ -8598,7 +8598,7 @@ module.exports = {
         ]
       },
       "weight": "12.1",
-      "_key": "nincada",
+      "key": "nincada",
       "height": "1′8″"
     },
     {
@@ -8626,7 +8626,7 @@ module.exports = {
         ]
       },
       "weight": "26.5",
-      "_key": "ninjask",
+      "key": "ninjask",
       "height": "2′7″"
     },
     {
@@ -8652,7 +8652,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "2.6",
-      "_key": "shedinja",
+      "key": "shedinja",
       "height": "2′7″"
     },
     {
@@ -8679,7 +8679,7 @@ module.exports = {
         ]
       },
       "weight": "35.9",
-      "_key": "whismur",
+      "key": "whismur",
       "height": "2′0″"
     },
     {
@@ -8706,7 +8706,7 @@ module.exports = {
         ]
       },
       "weight": "89.3",
-      "_key": "loudred",
+      "key": "loudred",
       "height": "3′3″"
     },
     {
@@ -8733,7 +8733,7 @@ module.exports = {
         ]
       },
       "weight": "185.2",
-      "_key": "exploud",
+      "key": "exploud",
       "height": "4′11″"
     },
     {
@@ -8761,7 +8761,7 @@ module.exports = {
         ]
       },
       "weight": "190.5",
-      "_key": "makuhita",
+      "key": "makuhita",
       "height": "3′3″"
     },
     {
@@ -8789,7 +8789,7 @@ module.exports = {
         ]
       },
       "weight": "559.5",
-      "_key": "hariyama",
+      "key": "hariyama",
       "height": "7′7″"
     },
     {
@@ -8818,7 +8818,7 @@ module.exports = {
         ]
       },
       "weight": "4.4",
-      "_key": "azurill",
+      "key": "azurill",
       "height": "0′8″"
     },
     {
@@ -8846,7 +8846,7 @@ module.exports = {
         ]
       },
       "weight": "213.8",
-      "_key": "nosepass",
+      "key": "nosepass",
       "height": "3′3″"
     },
     {
@@ -8874,7 +8874,7 @@ module.exports = {
         ]
       },
       "weight": "24.3",
-      "_key": "skitty",
+      "key": "skitty",
       "height": "2′0″"
     },
     {
@@ -8902,7 +8902,7 @@ module.exports = {
         ]
       },
       "weight": "71.9",
-      "_key": "delcatty",
+      "key": "delcatty",
       "height": "3′7″"
     },
     {
@@ -8931,7 +8931,7 @@ module.exports = {
         ]
       },
       "weight": "24.3",
-      "_key": "sableye",
+      "key": "sableye",
       "height": "1′8″"
     },
     {
@@ -8960,7 +8960,7 @@ module.exports = {
         ]
       },
       "weight": "25.4",
-      "_key": "mawile",
+      "key": "mawile",
       "height": "2′0″"
     },
     {
@@ -8986,7 +8986,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "51.8",
-      "_key": "mega-mawile",
+      "key": "mega-mawile",
       "height": "3′3″"
     },
     {
@@ -9015,7 +9015,7 @@ module.exports = {
         ]
       },
       "weight": "132.3",
-      "_key": "aron",
+      "key": "aron",
       "height": "1′4″"
     },
     {
@@ -9044,7 +9044,7 @@ module.exports = {
         ]
       },
       "weight": "264.6",
-      "_key": "lairon",
+      "key": "lairon",
       "height": "2′11″"
     },
     {
@@ -9073,7 +9073,7 @@ module.exports = {
         ]
       },
       "weight": "793.7",
-      "_key": "aggron",
+      "key": "aggron",
       "height": "6′11″"
     },
     {
@@ -9098,7 +9098,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "870.8",
-      "_key": "mega-aggron",
+      "key": "mega-aggron",
       "height": "7′3″"
     },
     {
@@ -9126,7 +9126,7 @@ module.exports = {
         ]
       },
       "weight": "24.7",
-      "_key": "meditite",
+      "key": "meditite",
       "height": "2′0″"
     },
     {
@@ -9154,7 +9154,7 @@ module.exports = {
         ]
       },
       "weight": "69.4",
-      "_key": "medicham",
+      "key": "medicham",
       "height": "4′3″"
     },
     {
@@ -9180,7 +9180,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "69.4",
-      "_key": "mega-medicham",
+      "key": "mega-medicham",
       "height": "4′3″"
     },
     {
@@ -9208,7 +9208,7 @@ module.exports = {
         ]
       },
       "weight": "33.5",
-      "_key": "electrike",
+      "key": "electrike",
       "height": "2′0″"
     },
     {
@@ -9236,7 +9236,7 @@ module.exports = {
         ]
       },
       "weight": "88.6",
-      "_key": "manectric",
+      "key": "manectric",
       "height": "4′11″"
     },
     {
@@ -9261,7 +9261,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "97",
-      "_key": "mega-manectric",
+      "key": "mega-manectric",
       "height": "5′11″"
     },
     {
@@ -9288,7 +9288,7 @@ module.exports = {
         ]
       },
       "weight": "9.3",
-      "_key": "plusle",
+      "key": "plusle",
       "height": "1′4″"
     },
     {
@@ -9315,7 +9315,7 @@ module.exports = {
         ]
       },
       "weight": "9.3",
-      "_key": "minun",
+      "key": "minun",
       "height": "1′4″"
     },
     {
@@ -9343,7 +9343,7 @@ module.exports = {
         ]
       },
       "weight": "39",
-      "_key": "volbeat",
+      "key": "volbeat",
       "height": "2′4″"
     },
     {
@@ -9371,7 +9371,7 @@ module.exports = {
         ]
       },
       "weight": "39",
-      "_key": "illumise",
+      "key": "illumise",
       "height": "2′0″"
     },
     {
@@ -9400,7 +9400,7 @@ module.exports = {
         ]
       },
       "weight": "4.4",
-      "_key": "roselia",
+      "key": "roselia",
       "height": "1′0″"
     },
     {
@@ -9428,7 +9428,7 @@ module.exports = {
         ]
       },
       "weight": "22.7",
-      "_key": "gulpin",
+      "key": "gulpin",
       "height": "1′4″"
     },
     {
@@ -9456,7 +9456,7 @@ module.exports = {
         ]
       },
       "weight": "176.4",
-      "_key": "swalot",
+      "key": "swalot",
       "height": "5′7″"
     },
     {
@@ -9484,7 +9484,7 @@ module.exports = {
         ]
       },
       "weight": "45.9",
-      "_key": "carvanha",
+      "key": "carvanha",
       "height": "2′7″"
     },
     {
@@ -9512,7 +9512,7 @@ module.exports = {
         ]
       },
       "weight": "195.8",
-      "_key": "sharpedo",
+      "key": "sharpedo",
       "height": "5′11″"
     },
     {
@@ -9540,7 +9540,7 @@ module.exports = {
         ]
       },
       "weight": "286.6",
-      "_key": "wailmer",
+      "key": "wailmer",
       "height": "6′7″"
     },
     {
@@ -9568,7 +9568,7 @@ module.exports = {
         ]
       },
       "weight": "877.4",
-      "_key": "wailord",
+      "key": "wailord",
       "height": "47′7″"
     },
     {
@@ -9597,7 +9597,7 @@ module.exports = {
         ]
       },
       "weight": "52.9",
-      "_key": "numel",
+      "key": "numel",
       "height": "2′4″"
     },
     {
@@ -9626,7 +9626,7 @@ module.exports = {
         ]
       },
       "weight": "485",
-      "_key": "camerupt",
+      "key": "camerupt",
       "height": "6′3″"
     },
     {
@@ -9653,7 +9653,7 @@ module.exports = {
         ]
       },
       "weight": "177.3",
-      "_key": "torkoal",
+      "key": "torkoal",
       "height": "1′8″"
     },
     {
@@ -9681,7 +9681,7 @@ module.exports = {
         ]
       },
       "weight": "67.5",
-      "_key": "spoink",
+      "key": "spoink",
       "height": "2′4″"
     },
     {
@@ -9709,7 +9709,7 @@ module.exports = {
         ]
       },
       "weight": "157.6",
-      "_key": "grumpig",
+      "key": "grumpig",
       "height": "2′11″"
     },
     {
@@ -9737,7 +9737,7 @@ module.exports = {
         ]
       },
       "weight": "11",
-      "_key": "spinda",
+      "key": "spinda",
       "height": "3′7″"
     },
     {
@@ -9765,7 +9765,7 @@ module.exports = {
         ]
       },
       "weight": "33.1",
-      "_key": "trapinch",
+      "key": "trapinch",
       "height": "2′4″"
     },
     {
@@ -9791,7 +9791,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "33.7",
-      "_key": "vibrava",
+      "key": "vibrava",
       "height": "3′7″"
     },
     {
@@ -9817,7 +9817,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "180.8",
-      "_key": "flygon",
+      "key": "flygon",
       "height": "6′7″"
     },
     {
@@ -9844,7 +9844,7 @@ module.exports = {
         ]
       },
       "weight": "113.1",
-      "_key": "cacnea",
+      "key": "cacnea",
       "height": "1′4″"
     },
     {
@@ -9872,7 +9872,7 @@ module.exports = {
         ]
       },
       "weight": "170.6",
-      "_key": "cacturne",
+      "key": "cacturne",
       "height": "4′3″"
     },
     {
@@ -9900,7 +9900,7 @@ module.exports = {
         ]
       },
       "weight": "2.6",
-      "_key": "swablu",
+      "key": "swablu",
       "height": "1′4″"
     },
     {
@@ -9928,7 +9928,7 @@ module.exports = {
         ]
       },
       "weight": "45.4",
-      "_key": "altaria",
+      "key": "altaria",
       "height": "3′7″"
     },
     {
@@ -9955,7 +9955,7 @@ module.exports = {
         ]
       },
       "weight": "88.8",
-      "_key": "zangoose",
+      "key": "zangoose",
       "height": "4′3″"
     },
     {
@@ -9982,7 +9982,7 @@ module.exports = {
         ]
       },
       "weight": "115.7",
-      "_key": "seviper",
+      "key": "seviper",
       "height": "8′10″"
     },
     {
@@ -10008,7 +10008,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "370.4",
-      "_key": "lunatone",
+      "key": "lunatone",
       "height": "3′3″"
     },
     {
@@ -10034,7 +10034,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "339.5",
-      "_key": "solrock",
+      "key": "solrock",
       "height": "3′11″"
     },
     {
@@ -10063,7 +10063,7 @@ module.exports = {
         ]
       },
       "weight": "4.2",
-      "_key": "barboach",
+      "key": "barboach",
       "height": "1′4″"
     },
     {
@@ -10092,7 +10092,7 @@ module.exports = {
         ]
       },
       "weight": "52",
-      "_key": "whiscash",
+      "key": "whiscash",
       "height": "2′11″"
     },
     {
@@ -10120,7 +10120,7 @@ module.exports = {
         ]
       },
       "weight": "25.4",
-      "_key": "corphish",
+      "key": "corphish",
       "height": "2′0″"
     },
     {
@@ -10149,7 +10149,7 @@ module.exports = {
         ]
       },
       "weight": "72.3",
-      "_key": "crawdaunt",
+      "key": "crawdaunt",
       "height": "3′7″"
     },
     {
@@ -10175,7 +10175,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "47.4",
-      "_key": "baltoy",
+      "key": "baltoy",
       "height": "1′8″"
     },
     {
@@ -10201,7 +10201,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "238.1",
-      "_key": "claydol",
+      "key": "claydol",
       "height": "4′11″"
     },
     {
@@ -10229,7 +10229,7 @@ module.exports = {
         ]
       },
       "weight": "52.5",
-      "_key": "lileep",
+      "key": "lileep",
       "height": "3′3″"
     },
     {
@@ -10257,7 +10257,7 @@ module.exports = {
         ]
       },
       "weight": "133.2",
-      "_key": "cradily",
+      "key": "cradily",
       "height": "4′11″"
     },
     {
@@ -10285,7 +10285,7 @@ module.exports = {
         ]
       },
       "weight": "27.6",
-      "_key": "anorith",
+      "key": "anorith",
       "height": "2′4″"
     },
     {
@@ -10313,7 +10313,7 @@ module.exports = {
         ]
       },
       "weight": "150.4",
-      "_key": "armaldo",
+      "key": "armaldo",
       "height": "4′11″"
     },
     {
@@ -10340,7 +10340,7 @@ module.exports = {
         ]
       },
       "weight": "16.3",
-      "_key": "feebas",
+      "key": "feebas",
       "height": "2′0″"
     },
     {
@@ -10368,7 +10368,7 @@ module.exports = {
         ]
       },
       "weight": "357.1",
-      "_key": "milotic",
+      "key": "milotic",
       "height": "20′4″"
     },
     {
@@ -10393,7 +10393,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "1.8",
-      "_key": "castform",
+      "key": "castform",
       "height": "1′0″"
     },
     {
@@ -10420,7 +10420,7 @@ module.exports = {
         ]
       },
       "weight": "48.5",
-      "_key": "kecleon",
+      "key": "kecleon",
       "height": "3′3″"
     },
     {
@@ -10448,7 +10448,7 @@ module.exports = {
         ]
       },
       "weight": "5.1",
-      "_key": "shuppet",
+      "key": "shuppet",
       "height": "2′0″"
     },
     {
@@ -10476,7 +10476,7 @@ module.exports = {
         ]
       },
       "weight": "27.6",
-      "_key": "banette",
+      "key": "banette",
       "height": "3′7″"
     },
     {
@@ -10501,7 +10501,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "28.7",
-      "_key": "mega-banette",
+      "key": "mega-banette",
       "height": "3′11″"
     },
     {
@@ -10528,7 +10528,7 @@ module.exports = {
         ]
       },
       "weight": "33.1",
-      "_key": "duskull",
+      "key": "duskull",
       "height": "2′7″"
     },
     {
@@ -10555,7 +10555,7 @@ module.exports = {
         ]
       },
       "weight": "67.5",
-      "_key": "dusclops",
+      "key": "dusclops",
       "height": "5′3″"
     },
     {
@@ -10584,7 +10584,7 @@ module.exports = {
         ]
       },
       "weight": "220.5",
-      "_key": "tropius",
+      "key": "tropius",
       "height": "6′7″"
     },
     {
@@ -10609,7 +10609,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "2.2",
-      "_key": "chimecho",
+      "key": "chimecho",
       "height": "2′0″"
     },
     {
@@ -10637,7 +10637,7 @@ module.exports = {
         ]
       },
       "weight": "103.6",
-      "_key": "absol",
+      "key": "absol",
       "height": "3′11″"
     },
     {
@@ -10662,7 +10662,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "108",
-      "_key": "mega-absol",
+      "key": "mega-absol",
       "height": "3′11″"
     },
     {
@@ -10689,7 +10689,7 @@ module.exports = {
         ]
       },
       "weight": "30.9",
-      "_key": "wynaut",
+      "key": "wynaut",
       "height": "2′0″"
     },
     {
@@ -10717,7 +10717,7 @@ module.exports = {
         ]
       },
       "weight": "37",
-      "_key": "snorunt",
+      "key": "snorunt",
       "height": "2′4″"
     },
     {
@@ -10745,7 +10745,7 @@ module.exports = {
         ]
       },
       "weight": "565.5",
-      "_key": "glalie",
+      "key": "glalie",
       "height": "4′11″"
     },
     {
@@ -10774,7 +10774,7 @@ module.exports = {
         ]
       },
       "weight": "87.1",
-      "_key": "spheal",
+      "key": "spheal",
       "height": "2′7″"
     },
     {
@@ -10803,7 +10803,7 @@ module.exports = {
         ]
       },
       "weight": "193.1",
-      "_key": "sealeo",
+      "key": "sealeo",
       "height": "3′7″"
     },
     {
@@ -10832,7 +10832,7 @@ module.exports = {
         ]
       },
       "weight": "332",
-      "_key": "walrein",
+      "key": "walrein",
       "height": "4′7″"
     },
     {
@@ -10859,7 +10859,7 @@ module.exports = {
         ]
       },
       "weight": "115.7",
-      "_key": "clamperl",
+      "key": "clamperl",
       "height": "1′4″"
     },
     {
@@ -10886,7 +10886,7 @@ module.exports = {
         ]
       },
       "weight": "59.5",
-      "_key": "huntail",
+      "key": "huntail",
       "height": "5′7″"
     },
     {
@@ -10913,7 +10913,7 @@ module.exports = {
         ]
       },
       "weight": "49.8",
-      "_key": "gorebyss",
+      "key": "gorebyss",
       "height": "5′11″"
     },
     {
@@ -10942,7 +10942,7 @@ module.exports = {
         ]
       },
       "weight": "51.6",
-      "_key": "relicanth",
+      "key": "relicanth",
       "height": "3′3″"
     },
     {
@@ -10969,7 +10969,7 @@ module.exports = {
         ]
       },
       "weight": "19.2",
-      "_key": "luvdisc",
+      "key": "luvdisc",
       "height": "2′0″"
     },
     {
@@ -10996,7 +10996,7 @@ module.exports = {
         ]
       },
       "weight": "92.8",
-      "_key": "bagon",
+      "key": "bagon",
       "height": "2′0″"
     },
     {
@@ -11023,7 +11023,7 @@ module.exports = {
         ]
       },
       "weight": "243.6",
-      "_key": "shelgon",
+      "key": "shelgon",
       "height": "3′7″"
     },
     {
@@ -11051,7 +11051,7 @@ module.exports = {
         ]
       },
       "weight": "226.2",
-      "_key": "salamence",
+      "key": "salamence",
       "height": "4′11″"
     },
     {
@@ -11079,7 +11079,7 @@ module.exports = {
         ]
       },
       "weight": "209.9",
-      "_key": "beldum",
+      "key": "beldum",
       "height": "2′0″"
     },
     {
@@ -11107,7 +11107,7 @@ module.exports = {
         ]
       },
       "weight": "446.4",
-      "_key": "metang",
+      "key": "metang",
       "height": "3′11″"
     },
     {
@@ -11135,7 +11135,7 @@ module.exports = {
         ]
       },
       "weight": "1212.5",
-      "_key": "metagross",
+      "key": "metagross",
       "height": "5′3″"
     },
     {
@@ -11162,7 +11162,7 @@ module.exports = {
         ]
       },
       "weight": "507.1",
-      "_key": "regirock",
+      "key": "regirock",
       "height": "5′7″"
     },
     {
@@ -11189,7 +11189,7 @@ module.exports = {
         ]
       },
       "weight": "385.8",
-      "_key": "regice",
+      "key": "regice",
       "height": "5′11″"
     },
     {
@@ -11216,7 +11216,7 @@ module.exports = {
         ]
       },
       "weight": "451.9",
-      "_key": "registeel",
+      "key": "registeel",
       "height": "6′3″"
     },
     {
@@ -11242,7 +11242,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "88.2",
-      "_key": "latias",
+      "key": "latias",
       "height": "4′7″"
     },
     {
@@ -11268,7 +11268,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "132.3",
-      "_key": "latios",
+      "key": "latios",
       "height": "6′7″"
     },
     {
@@ -11293,7 +11293,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "776",
-      "_key": "kyogre",
+      "key": "kyogre",
       "height": "14′9″"
     },
     {
@@ -11318,7 +11318,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "2094.4",
-      "_key": "groudon",
+      "key": "groudon",
       "height": "11′6″"
     },
     {
@@ -11344,7 +11344,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "455.3",
-      "_key": "rayquaza",
+      "key": "rayquaza",
       "height": "23′0″"
     },
     {
@@ -11370,7 +11370,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "2.4",
-      "_key": "jirachi",
+      "key": "jirachi",
       "height": "1′0″"
     },
     {
@@ -11395,7 +11395,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "134",
-      "_key": "deoxys-normal-forme",
+      "key": "deoxys-normal-forme",
       "height": "5′7″"
     },
     {
@@ -11420,7 +11420,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "134",
-      "_key": "deoxys-attack-forme",
+      "key": "deoxys-attack-forme",
       "height": "5′7″"
     },
     {
@@ -11445,7 +11445,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "134",
-      "_key": "deoxys-defense-forme",
+      "key": "deoxys-defense-forme",
       "height": "5′7″"
     },
     {
@@ -11470,7 +11470,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "134",
-      "_key": "deoxys-speed-forme",
+      "key": "deoxys-speed-forme",
       "height": "5′7″"
     },
     {
@@ -11497,7 +11497,7 @@ module.exports = {
         ]
       },
       "weight": "22.5",
-      "_key": "turtwig",
+      "key": "turtwig",
       "height": "1′4″"
     },
     {
@@ -11524,7 +11524,7 @@ module.exports = {
         ]
       },
       "weight": "213.8",
-      "_key": "grotle",
+      "key": "grotle",
       "height": "3′7″"
     },
     {
@@ -11552,7 +11552,7 @@ module.exports = {
         ]
       },
       "weight": "683.4",
-      "_key": "torterra",
+      "key": "torterra",
       "height": "7′3″"
     },
     {
@@ -11579,7 +11579,7 @@ module.exports = {
         ]
       },
       "weight": "13.7",
-      "_key": "chimchar",
+      "key": "chimchar",
       "height": "1′8″"
     },
     {
@@ -11607,7 +11607,7 @@ module.exports = {
         ]
       },
       "weight": "48.5",
-      "_key": "monferno",
+      "key": "monferno",
       "height": "2′11″"
     },
     {
@@ -11635,7 +11635,7 @@ module.exports = {
         ]
       },
       "weight": "121.3",
-      "_key": "infernape",
+      "key": "infernape",
       "height": "3′11″"
     },
     {
@@ -11662,7 +11662,7 @@ module.exports = {
         ]
       },
       "weight": "11.5",
-      "_key": "piplup",
+      "key": "piplup",
       "height": "1′4″"
     },
     {
@@ -11689,7 +11689,7 @@ module.exports = {
         ]
       },
       "weight": "50.7",
-      "_key": "prinplup",
+      "key": "prinplup",
       "height": "2′7″"
     },
     {
@@ -11717,7 +11717,7 @@ module.exports = {
         ]
       },
       "weight": "186.3",
-      "_key": "empoleon",
+      "key": "empoleon",
       "height": "5′7″"
     },
     {
@@ -11745,7 +11745,7 @@ module.exports = {
         ]
       },
       "weight": "4.4",
-      "_key": "starly",
+      "key": "starly",
       "height": "1′0″"
     },
     {
@@ -11773,7 +11773,7 @@ module.exports = {
         ]
       },
       "weight": "34.2",
-      "_key": "staravia",
+      "key": "staravia",
       "height": "2′0″"
     },
     {
@@ -11801,7 +11801,7 @@ module.exports = {
         ]
       },
       "weight": "54.9",
-      "_key": "staraptor",
+      "key": "staraptor",
       "height": "3′11″"
     },
     {
@@ -11829,7 +11829,7 @@ module.exports = {
         ]
       },
       "weight": "44.1",
-      "_key": "bidoof",
+      "key": "bidoof",
       "height": "1′8″"
     },
     {
@@ -11858,7 +11858,7 @@ module.exports = {
         ]
       },
       "weight": "69.4",
-      "_key": "bibarel",
+      "key": "bibarel",
       "height": "3′3″"
     },
     {
@@ -11885,7 +11885,7 @@ module.exports = {
         ]
       },
       "weight": "4.9",
-      "_key": "kricketot",
+      "key": "kricketot",
       "height": "1′0″"
     },
     {
@@ -11912,7 +11912,7 @@ module.exports = {
         ]
       },
       "weight": "56.2",
-      "_key": "kricketune",
+      "key": "kricketune",
       "height": "3′3″"
     },
     {
@@ -11940,7 +11940,7 @@ module.exports = {
         ]
       },
       "weight": "20.9",
-      "_key": "shinx",
+      "key": "shinx",
       "height": "1′8″"
     },
     {
@@ -11968,7 +11968,7 @@ module.exports = {
         ]
       },
       "weight": "67.2",
-      "_key": "luxio",
+      "key": "luxio",
       "height": "2′11″"
     },
     {
@@ -11996,7 +11996,7 @@ module.exports = {
         ]
       },
       "weight": "92.6",
-      "_key": "luxray",
+      "key": "luxray",
       "height": "4′7″"
     },
     {
@@ -12025,7 +12025,7 @@ module.exports = {
         ]
       },
       "weight": "2.6",
-      "_key": "budew",
+      "key": "budew",
       "height": "0′8″"
     },
     {
@@ -12054,7 +12054,7 @@ module.exports = {
         ]
       },
       "weight": "32",
-      "_key": "roserade",
+      "key": "roserade",
       "height": "2′11″"
     },
     {
@@ -12081,7 +12081,7 @@ module.exports = {
         ]
       },
       "weight": "69.4",
-      "_key": "cranidos",
+      "key": "cranidos",
       "height": "2′11″"
     },
     {
@@ -12108,7 +12108,7 @@ module.exports = {
         ]
       },
       "weight": "226",
-      "_key": "rampardos",
+      "key": "rampardos",
       "height": "5′3″"
     },
     {
@@ -12136,7 +12136,7 @@ module.exports = {
         ]
       },
       "weight": "125.7",
-      "_key": "shieldon",
+      "key": "shieldon",
       "height": "1′8″"
     },
     {
@@ -12164,7 +12164,7 @@ module.exports = {
         ]
       },
       "weight": "329.6",
-      "_key": "bastiodon",
+      "key": "bastiodon",
       "height": "4′3″"
     },
     {
@@ -12191,7 +12191,7 @@ module.exports = {
         ]
       },
       "weight": "7.5",
-      "_key": "burmy",
+      "key": "burmy",
       "height": "0′8″"
     },
     {
@@ -12219,7 +12219,7 @@ module.exports = {
         ]
       },
       "weight": "14.3",
-      "_key": "wormadam-plant-cloak",
+      "key": "wormadam-plant-cloak",
       "height": "1′8″"
     },
     {
@@ -12247,7 +12247,7 @@ module.exports = {
         ]
       },
       "weight": "14.3",
-      "_key": "wormadam-sandy-cloak",
+      "key": "wormadam-sandy-cloak",
       "height": "1′8″"
     },
     {
@@ -12275,7 +12275,7 @@ module.exports = {
         ]
       },
       "weight": "14.3",
-      "_key": "wormadam-trash-cloak",
+      "key": "wormadam-trash-cloak",
       "height": "1′8″"
     },
     {
@@ -12303,7 +12303,7 @@ module.exports = {
         ]
       },
       "weight": "51.4",
-      "_key": "mothim",
+      "key": "mothim",
       "height": "2′11″"
     },
     {
@@ -12331,7 +12331,7 @@ module.exports = {
         ]
       },
       "weight": "12.1",
-      "_key": "combee",
+      "key": "combee",
       "height": "1′0″"
     },
     {
@@ -12359,7 +12359,7 @@ module.exports = {
         ]
       },
       "weight": "84.9",
-      "_key": "vespiquen",
+      "key": "vespiquen",
       "height": "3′11″"
     },
     {
@@ -12387,7 +12387,7 @@ module.exports = {
         ]
       },
       "weight": "8.6",
-      "_key": "pachirisu",
+      "key": "pachirisu",
       "height": "1′4″"
     },
     {
@@ -12414,7 +12414,7 @@ module.exports = {
         ]
       },
       "weight": "65",
-      "_key": "buizel",
+      "key": "buizel",
       "height": "2′4″"
     },
     {
@@ -12441,7 +12441,7 @@ module.exports = {
         ]
       },
       "weight": "73.9",
-      "_key": "floatzel",
+      "key": "floatzel",
       "height": "3′7″"
     },
     {
@@ -12466,7 +12466,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "7.3",
-      "_key": "cherubi",
+      "key": "cherubi",
       "height": "1′4″"
     },
     {
@@ -12491,7 +12491,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "20.5",
-      "_key": "cherrim",
+      "key": "cherrim",
       "height": "1′8″"
     },
     {
@@ -12519,7 +12519,7 @@ module.exports = {
         ]
       },
       "weight": "13.9",
-      "_key": "shellos",
+      "key": "shellos",
       "height": "1′0″"
     },
     {
@@ -12548,7 +12548,7 @@ module.exports = {
         ]
       },
       "weight": "65.9",
-      "_key": "gastrodon",
+      "key": "gastrodon",
       "height": "2′11″"
     },
     {
@@ -12576,7 +12576,7 @@ module.exports = {
         ]
       },
       "weight": "44.8",
-      "_key": "ambipom",
+      "key": "ambipom",
       "height": "3′11″"
     },
     {
@@ -12605,7 +12605,7 @@ module.exports = {
         ]
       },
       "weight": "2.6",
-      "_key": "drifloon",
+      "key": "drifloon",
       "height": "1′4″"
     },
     {
@@ -12634,7 +12634,7 @@ module.exports = {
         ]
       },
       "weight": "33.1",
-      "_key": "drifblim",
+      "key": "drifblim",
       "height": "3′11″"
     },
     {
@@ -12662,7 +12662,7 @@ module.exports = {
         ]
       },
       "weight": "12.1",
-      "_key": "buneary",
+      "key": "buneary",
       "height": "1′4″"
     },
     {
@@ -12690,7 +12690,7 @@ module.exports = {
         ]
       },
       "weight": "73.4",
-      "_key": "lopunny",
+      "key": "lopunny",
       "height": "3′11″"
     },
     {
@@ -12715,7 +12715,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "9.7",
-      "_key": "mismagius",
+      "key": "mismagius",
       "height": "2′11″"
     },
     {
@@ -12744,7 +12744,7 @@ module.exports = {
         ]
       },
       "weight": "60.2",
-      "_key": "honchkrow",
+      "key": "honchkrow",
       "height": "2′11″"
     },
     {
@@ -12772,7 +12772,7 @@ module.exports = {
         ]
       },
       "weight": "8.6",
-      "_key": "glameow",
+      "key": "glameow",
       "height": "1′8″"
     },
     {
@@ -12800,7 +12800,7 @@ module.exports = {
         ]
       },
       "weight": "96.6",
-      "_key": "purugly",
+      "key": "purugly",
       "height": "3′3″"
     },
     {
@@ -12825,7 +12825,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "1.3",
-      "_key": "chingling",
+      "key": "chingling",
       "height": "0′8″"
     },
     {
@@ -12854,7 +12854,7 @@ module.exports = {
         ]
       },
       "weight": "42.3",
-      "_key": "stunky",
+      "key": "stunky",
       "height": "1′4″"
     },
     {
@@ -12883,7 +12883,7 @@ module.exports = {
         ]
       },
       "weight": "83.8",
-      "_key": "skuntank",
+      "key": "skuntank",
       "height": "3′3″"
     },
     {
@@ -12912,7 +12912,7 @@ module.exports = {
         ]
       },
       "weight": "133.4",
-      "_key": "bronzor",
+      "key": "bronzor",
       "height": "1′8″"
     },
     {
@@ -12941,7 +12941,7 @@ module.exports = {
         ]
       },
       "weight": "412.3",
-      "_key": "bronzong",
+      "key": "bronzong",
       "height": "4′3″"
     },
     {
@@ -12969,7 +12969,7 @@ module.exports = {
         ]
       },
       "weight": "33.1",
-      "_key": "bonsly",
+      "key": "bonsly",
       "height": "1′8″"
     },
     {
@@ -12998,7 +12998,7 @@ module.exports = {
         ]
       },
       "weight": "28.7",
-      "_key": "mime-jr",
+      "key": "mime-jr",
       "height": "2′0″"
     },
     {
@@ -13026,7 +13026,7 @@ module.exports = {
         ]
       },
       "weight": "53.8",
-      "_key": "happiny",
+      "key": "happiny",
       "height": "2′0″"
     },
     {
@@ -13055,7 +13055,7 @@ module.exports = {
         ]
       },
       "weight": "4.2",
-      "_key": "chatot",
+      "key": "chatot",
       "height": "1′8″"
     },
     {
@@ -13083,7 +13083,7 @@ module.exports = {
         ]
       },
       "weight": "238.1",
-      "_key": "spiritomb",
+      "key": "spiritomb",
       "height": "3′3″"
     },
     {
@@ -13111,7 +13111,7 @@ module.exports = {
         ]
       },
       "weight": "45.2",
-      "_key": "gible",
+      "key": "gible",
       "height": "2′4″"
     },
     {
@@ -13139,7 +13139,7 @@ module.exports = {
         ]
       },
       "weight": "123.5",
-      "_key": "gabite",
+      "key": "gabite",
       "height": "4′7″"
     },
     {
@@ -13167,7 +13167,7 @@ module.exports = {
         ]
       },
       "weight": "209.4",
-      "_key": "garchomp",
+      "key": "garchomp",
       "height": "6′3″"
     },
     {
@@ -13193,7 +13193,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "209.4",
-      "_key": "mega-garchomp",
+      "key": "mega-garchomp",
       "height": "6′3″"
     },
     {
@@ -13221,7 +13221,7 @@ module.exports = {
         ]
       },
       "weight": "231.5",
-      "_key": "munchlax",
+      "key": "munchlax",
       "height": "2′0″"
     },
     {
@@ -13249,7 +13249,7 @@ module.exports = {
         ]
       },
       "weight": "44.5",
-      "_key": "riolu",
+      "key": "riolu",
       "height": "2′4″"
     },
     {
@@ -13278,7 +13278,7 @@ module.exports = {
         ]
       },
       "weight": "119",
-      "_key": "lucario",
+      "key": "lucario",
       "height": "3′11″"
     },
     {
@@ -13304,7 +13304,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "126.8",
-      "_key": "mega-lucario",
+      "key": "mega-lucario",
       "height": "4′3″"
     },
     {
@@ -13331,7 +13331,7 @@ module.exports = {
         ]
       },
       "weight": "109.1",
-      "_key": "hippopotas",
+      "key": "hippopotas",
       "height": "2′7″"
     },
     {
@@ -13358,7 +13358,7 @@ module.exports = {
         ]
       },
       "weight": "661.4",
-      "_key": "hippowdon",
+      "key": "hippowdon",
       "height": "6′7″"
     },
     {
@@ -13387,7 +13387,7 @@ module.exports = {
         ]
       },
       "weight": "26.5",
-      "_key": "skorupi",
+      "key": "skorupi",
       "height": "2′7″"
     },
     {
@@ -13416,7 +13416,7 @@ module.exports = {
         ]
       },
       "weight": "135.6",
-      "_key": "drapion",
+      "key": "drapion",
       "height": "4′3″"
     },
     {
@@ -13445,7 +13445,7 @@ module.exports = {
         ]
       },
       "weight": "50.7",
-      "_key": "croagunk",
+      "key": "croagunk",
       "height": "2′4″"
     },
     {
@@ -13474,7 +13474,7 @@ module.exports = {
         ]
       },
       "weight": "97.9",
-      "_key": "toxicroak",
+      "key": "toxicroak",
       "height": "4′3″"
     },
     {
@@ -13499,7 +13499,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "59.5",
-      "_key": "carnivine",
+      "key": "carnivine",
       "height": "4′7″"
     },
     {
@@ -13527,7 +13527,7 @@ module.exports = {
         ]
       },
       "weight": "15.4",
-      "_key": "finneon",
+      "key": "finneon",
       "height": "1′4″"
     },
     {
@@ -13555,7 +13555,7 @@ module.exports = {
         ]
       },
       "weight": "52.9",
-      "_key": "lumineon",
+      "key": "lumineon",
       "height": "3′11″"
     },
     {
@@ -13584,7 +13584,7 @@ module.exports = {
         ]
       },
       "weight": "143.3",
-      "_key": "mantyke",
+      "key": "mantyke",
       "height": "3′3″"
     },
     {
@@ -13612,7 +13612,7 @@ module.exports = {
         ]
       },
       "weight": "111.3",
-      "_key": "snover",
+      "key": "snover",
       "height": "3′3″"
     },
     {
@@ -13640,7 +13640,7 @@ module.exports = {
         ]
       },
       "weight": "298.7",
-      "_key": "abomasnow",
+      "key": "abomasnow",
       "height": "7′3″"
     },
     {
@@ -13666,7 +13666,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "407.8",
-      "_key": "mega-abomasnow",
+      "key": "mega-abomasnow",
       "height": "8′10″"
     },
     {
@@ -13694,7 +13694,7 @@ module.exports = {
         ]
       },
       "weight": "75",
-      "_key": "weavile",
+      "key": "weavile",
       "height": "3′7″"
     },
     {
@@ -13723,7 +13723,7 @@ module.exports = {
         ]
       },
       "weight": "396.8",
-      "_key": "magnezone",
+      "key": "magnezone",
       "height": "3′11″"
     },
     {
@@ -13751,7 +13751,7 @@ module.exports = {
         ]
       },
       "weight": "308.6",
-      "_key": "lickilicky",
+      "key": "lickilicky",
       "height": "5′7″"
     },
     {
@@ -13780,7 +13780,7 @@ module.exports = {
         ]
       },
       "weight": "623.5",
-      "_key": "rhyperior",
+      "key": "rhyperior",
       "height": "7′10″"
     },
     {
@@ -13808,7 +13808,7 @@ module.exports = {
         ]
       },
       "weight": "283.5",
-      "_key": "tangrowth",
+      "key": "tangrowth",
       "height": "6′7″"
     },
     {
@@ -13835,7 +13835,7 @@ module.exports = {
         ]
       },
       "weight": "305.6",
-      "_key": "electivire",
+      "key": "electivire",
       "height": "5′11″"
     },
     {
@@ -13862,7 +13862,7 @@ module.exports = {
         ]
       },
       "weight": "149.9",
-      "_key": "magmortar",
+      "key": "magmortar",
       "height": "5′3″"
     },
     {
@@ -13891,7 +13891,7 @@ module.exports = {
         ]
       },
       "weight": "83.8",
-      "_key": "togekiss",
+      "key": "togekiss",
       "height": "4′11″"
     },
     {
@@ -13920,7 +13920,7 @@ module.exports = {
         ]
       },
       "weight": "113.5",
-      "_key": "yanmega",
+      "key": "yanmega",
       "height": "6′3″"
     },
     {
@@ -13947,7 +13947,7 @@ module.exports = {
         ]
       },
       "weight": "56.2",
-      "_key": "leafeon",
+      "key": "leafeon",
       "height": "3′3″"
     },
     {
@@ -13974,7 +13974,7 @@ module.exports = {
         ]
       },
       "weight": "57.1",
-      "_key": "glaceon",
+      "key": "glaceon",
       "height": "2′7″"
     },
     {
@@ -14003,7 +14003,7 @@ module.exports = {
         ]
       },
       "weight": "93.7",
-      "_key": "gliscor",
+      "key": "gliscor",
       "height": "6′7″"
     },
     {
@@ -14032,7 +14032,7 @@ module.exports = {
         ]
       },
       "weight": "641.5",
-      "_key": "mamoswine",
+      "key": "mamoswine",
       "height": "8′2″"
     },
     {
@@ -14060,7 +14060,7 @@ module.exports = {
         ]
       },
       "weight": "75",
-      "_key": "porygon-z",
+      "key": "porygon-z",
       "height": "2′11″"
     },
     {
@@ -14088,7 +14088,7 @@ module.exports = {
         ]
       },
       "weight": "114.6",
-      "_key": "gallade",
+      "key": "gallade",
       "height": "5′3″"
     },
     {
@@ -14117,7 +14117,7 @@ module.exports = {
         ]
       },
       "weight": "749.6",
-      "_key": "probopass",
+      "key": "probopass",
       "height": "4′7″"
     },
     {
@@ -14144,7 +14144,7 @@ module.exports = {
         ]
       },
       "weight": "235",
-      "_key": "dusknoir",
+      "key": "dusknoir",
       "height": "7′3″"
     },
     {
@@ -14172,7 +14172,7 @@ module.exports = {
         ]
       },
       "weight": "58.6",
-      "_key": "froslass",
+      "key": "froslass",
       "height": "4′3″"
     },
     {
@@ -14198,7 +14198,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "0.7",
-      "_key": "rotom",
+      "key": "rotom",
       "height": "1′0″"
     },
     {
@@ -14224,7 +14224,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "0.7",
-      "_key": "rotom-heat-rotom",
+      "key": "rotom-heat-rotom",
       "height": "1′0″"
     },
     {
@@ -14250,7 +14250,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "0.7",
-      "_key": "rotom-wash-rotom",
+      "key": "rotom-wash-rotom",
       "height": "1′0″"
     },
     {
@@ -14276,7 +14276,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "0.7",
-      "_key": "rotom-frost-rotom",
+      "key": "rotom-frost-rotom",
       "height": "1′0″"
     },
     {
@@ -14302,7 +14302,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "0.7",
-      "_key": "rotom-fan-rotom",
+      "key": "rotom-fan-rotom",
       "height": "1′0″"
     },
     {
@@ -14328,7 +14328,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "0.7",
-      "_key": "rotom-mow-rotom",
+      "key": "rotom-mow-rotom",
       "height": "1′0″"
     },
     {
@@ -14353,7 +14353,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "0.7",
-      "_key": "uxie",
+      "key": "uxie",
       "height": "1′0″"
     },
     {
@@ -14378,7 +14378,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "0.7",
-      "_key": "mesprit",
+      "key": "mesprit",
       "height": "1′0″"
     },
     {
@@ -14403,7 +14403,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "0.7",
-      "_key": "azelf",
+      "key": "azelf",
       "height": "1′0″"
     },
     {
@@ -14431,7 +14431,7 @@ module.exports = {
         ]
       },
       "weight": "1505.8",
-      "_key": "dialga",
+      "key": "dialga",
       "height": "17′9″"
     },
     {
@@ -14459,7 +14459,7 @@ module.exports = {
         ]
       },
       "weight": "740.8",
-      "_key": "palkia",
+      "key": "palkia",
       "height": "13′9″"
     },
     {
@@ -14487,7 +14487,7 @@ module.exports = {
         ]
       },
       "weight": "948",
-      "_key": "heatran",
+      "key": "heatran",
       "height": "5′7″"
     },
     {
@@ -14512,7 +14512,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "925.9",
-      "_key": "regigigas",
+      "key": "regigigas",
       "height": "12′2″"
     },
     {
@@ -14541,7 +14541,7 @@ module.exports = {
         ]
       },
       "weight": "1653.5",
-      "_key": "giratina-altered-forme",
+      "key": "giratina-altered-forme",
       "height": "14′9″"
     },
     {
@@ -14570,7 +14570,7 @@ module.exports = {
         ]
       },
       "weight": "1433",
-      "_key": "giratina-origin-forme",
+      "key": "giratina-origin-forme",
       "height": "22′8″"
     },
     {
@@ -14595,7 +14595,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "188.7",
-      "_key": "cresselia",
+      "key": "cresselia",
       "height": "4′11″"
     },
     {
@@ -14620,7 +14620,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "6.8",
-      "_key": "phione",
+      "key": "phione",
       "height": "1′4″"
     },
     {
@@ -14645,7 +14645,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "3.1",
-      "_key": "manaphy",
+      "key": "manaphy",
       "height": "1′0″"
     },
     {
@@ -14670,7 +14670,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "111.3",
-      "_key": "darkrai",
+      "key": "darkrai",
       "height": "4′11″"
     },
     {
@@ -14697,7 +14697,7 @@ module.exports = {
         ]
       },
       "weight": "4.6",
-      "_key": "shaymin-land-forme",
+      "key": "shaymin-land-forme",
       "height": "0′8″"
     },
     {
@@ -14725,7 +14725,7 @@ module.exports = {
         ]
       },
       "weight": "11.5",
-      "_key": "shaymin-sky-forme",
+      "key": "shaymin-sky-forme",
       "height": "1′4″"
     },
     {
@@ -14750,7 +14750,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "705.5",
-      "_key": "arceus",
+      "key": "arceus",
       "height": "10′6″"
     },
     {
@@ -14776,7 +14776,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "8.8",
-      "_key": "victini",
+      "key": "victini",
       "height": "1′4″"
     },
     {
@@ -14803,7 +14803,7 @@ module.exports = {
         ]
       },
       "weight": "17.9",
-      "_key": "snivy",
+      "key": "snivy",
       "height": "2′0″"
     },
     {
@@ -14830,7 +14830,7 @@ module.exports = {
         ]
       },
       "weight": "35.3",
-      "_key": "servine",
+      "key": "servine",
       "height": "2′7″"
     },
     {
@@ -14857,7 +14857,7 @@ module.exports = {
         ]
       },
       "weight": "138.9",
-      "_key": "serperior",
+      "key": "serperior",
       "height": "10′10″"
     },
     {
@@ -14884,7 +14884,7 @@ module.exports = {
         ]
       },
       "weight": "21.8",
-      "_key": "tepig",
+      "key": "tepig",
       "height": "1′8″"
     },
     {
@@ -14912,7 +14912,7 @@ module.exports = {
         ]
       },
       "weight": "122.4",
-      "_key": "pignite",
+      "key": "pignite",
       "height": "3′3″"
     },
     {
@@ -14940,7 +14940,7 @@ module.exports = {
         ]
       },
       "weight": "330.7",
-      "_key": "emboar",
+      "key": "emboar",
       "height": "5′3″"
     },
     {
@@ -14967,7 +14967,7 @@ module.exports = {
         ]
       },
       "weight": "13",
-      "_key": "oshawott",
+      "key": "oshawott",
       "height": "1′8″"
     },
     {
@@ -14994,7 +14994,7 @@ module.exports = {
         ]
       },
       "weight": "54",
-      "_key": "dewott",
+      "key": "dewott",
       "height": "2′7″"
     },
     {
@@ -15021,7 +15021,7 @@ module.exports = {
         ]
       },
       "weight": "208.6",
-      "_key": "samurott",
+      "key": "samurott",
       "height": "4′11″"
     },
     {
@@ -15049,7 +15049,7 @@ module.exports = {
         ]
       },
       "weight": "25.6",
-      "_key": "patrat",
+      "key": "patrat",
       "height": "1′8″"
     },
     {
@@ -15077,7 +15077,7 @@ module.exports = {
         ]
       },
       "weight": "59.5",
-      "_key": "watchog",
+      "key": "watchog",
       "height": "3′7″"
     },
     {
@@ -15105,7 +15105,7 @@ module.exports = {
         ]
       },
       "weight": "9",
-      "_key": "lillipup",
+      "key": "lillipup",
       "height": "1′4″"
     },
     {
@@ -15133,7 +15133,7 @@ module.exports = {
         ]
       },
       "weight": "32.4",
-      "_key": "herdier",
+      "key": "herdier",
       "height": "2′11″"
     },
     {
@@ -15161,7 +15161,7 @@ module.exports = {
         ]
       },
       "weight": "134.5",
-      "_key": "stoutland",
+      "key": "stoutland",
       "height": "3′11″"
     },
     {
@@ -15189,7 +15189,7 @@ module.exports = {
         ]
       },
       "weight": "22.3",
-      "_key": "purrloin",
+      "key": "purrloin",
       "height": "1′4″"
     },
     {
@@ -15217,7 +15217,7 @@ module.exports = {
         ]
       },
       "weight": "82.7",
-      "_key": "liepard",
+      "key": "liepard",
       "height": "3′7″"
     },
     {
@@ -15244,7 +15244,7 @@ module.exports = {
         ]
       },
       "weight": "23.1",
-      "_key": "pansage",
+      "key": "pansage",
       "height": "2′0″"
     },
     {
@@ -15271,7 +15271,7 @@ module.exports = {
         ]
       },
       "weight": "67.2",
-      "_key": "simisage",
+      "key": "simisage",
       "height": "3′7″"
     },
     {
@@ -15298,7 +15298,7 @@ module.exports = {
         ]
       },
       "weight": "24.3",
-      "_key": "pansear",
+      "key": "pansear",
       "height": "2′0″"
     },
     {
@@ -15325,7 +15325,7 @@ module.exports = {
         ]
       },
       "weight": "61.7",
-      "_key": "simisear",
+      "key": "simisear",
       "height": "3′3″"
     },
     {
@@ -15352,7 +15352,7 @@ module.exports = {
         ]
       },
       "weight": "29.8",
-      "_key": "panpour",
+      "key": "panpour",
       "height": "2′0″"
     },
     {
@@ -15379,7 +15379,7 @@ module.exports = {
         ]
       },
       "weight": "63.9",
-      "_key": "simipour",
+      "key": "simipour",
       "height": "3′3″"
     },
     {
@@ -15407,7 +15407,7 @@ module.exports = {
         ]
       },
       "weight": "51.4",
-      "_key": "munna",
+      "key": "munna",
       "height": "2′0″"
     },
     {
@@ -15435,7 +15435,7 @@ module.exports = {
         ]
       },
       "weight": "133.4",
-      "_key": "musharna",
+      "key": "musharna",
       "height": "3′7″"
     },
     {
@@ -15464,7 +15464,7 @@ module.exports = {
         ]
       },
       "weight": "4.6",
-      "_key": "pidove",
+      "key": "pidove",
       "height": "1′0″"
     },
     {
@@ -15493,7 +15493,7 @@ module.exports = {
         ]
       },
       "weight": "33.1",
-      "_key": "tranquill",
+      "key": "tranquill",
       "height": "2′0″"
     },
     {
@@ -15522,7 +15522,7 @@ module.exports = {
         ]
       },
       "weight": "63.9",
-      "_key": "unfezant",
+      "key": "unfezant",
       "height": "3′11″"
     },
     {
@@ -15550,7 +15550,7 @@ module.exports = {
         ]
       },
       "weight": "65.7",
-      "_key": "blitzle",
+      "key": "blitzle",
       "height": "2′7″"
     },
     {
@@ -15578,7 +15578,7 @@ module.exports = {
         ]
       },
       "weight": "175.3",
-      "_key": "zebstrika",
+      "key": "zebstrika",
       "height": "5′3″"
     },
     {
@@ -15605,7 +15605,7 @@ module.exports = {
         ]
       },
       "weight": "39.7",
-      "_key": "roggenrola",
+      "key": "roggenrola",
       "height": "1′4″"
     },
     {
@@ -15632,7 +15632,7 @@ module.exports = {
         ]
       },
       "weight": "224.9",
-      "_key": "boldore",
+      "key": "boldore",
       "height": "2′11″"
     },
     {
@@ -15659,7 +15659,7 @@ module.exports = {
         ]
       },
       "weight": "573.2",
-      "_key": "gigalith",
+      "key": "gigalith",
       "height": "5′7″"
     },
     {
@@ -15688,7 +15688,7 @@ module.exports = {
         ]
       },
       "weight": "4.6",
-      "_key": "woobat",
+      "key": "woobat",
       "height": "1′4″"
     },
     {
@@ -15717,7 +15717,7 @@ module.exports = {
         ]
       },
       "weight": "23.1",
-      "_key": "swoobat",
+      "key": "swoobat",
       "height": "2′11″"
     },
     {
@@ -15745,7 +15745,7 @@ module.exports = {
         ]
       },
       "weight": "18.7",
-      "_key": "drilbur",
+      "key": "drilbur",
       "height": "1′0″"
     },
     {
@@ -15774,7 +15774,7 @@ module.exports = {
         ]
       },
       "weight": "89.1",
-      "_key": "excadrill",
+      "key": "excadrill",
       "height": "2′4″"
     },
     {
@@ -15802,7 +15802,7 @@ module.exports = {
         ]
       },
       "weight": "68.3",
-      "_key": "audino",
+      "key": "audino",
       "height": "3′7″"
     },
     {
@@ -15830,7 +15830,7 @@ module.exports = {
         ]
       },
       "weight": "27.6",
-      "_key": "timburr",
+      "key": "timburr",
       "height": "2′0″"
     },
     {
@@ -15858,7 +15858,7 @@ module.exports = {
         ]
       },
       "weight": "88.2",
-      "_key": "gurdurr",
+      "key": "gurdurr",
       "height": "3′11″"
     },
     {
@@ -15886,7 +15886,7 @@ module.exports = {
         ]
       },
       "weight": "191.8",
-      "_key": "conkeldurr",
+      "key": "conkeldurr",
       "height": "4′7″"
     },
     {
@@ -15914,7 +15914,7 @@ module.exports = {
         ]
       },
       "weight": "9.9",
-      "_key": "tympole",
+      "key": "tympole",
       "height": "1′8″"
     },
     {
@@ -15943,7 +15943,7 @@ module.exports = {
         ]
       },
       "weight": "37.5",
-      "_key": "palpitoad",
+      "key": "palpitoad",
       "height": "2′7″"
     },
     {
@@ -15972,7 +15972,7 @@ module.exports = {
         ]
       },
       "weight": "136.7",
-      "_key": "seismitoad",
+      "key": "seismitoad",
       "height": "4′11″"
     },
     {
@@ -16000,7 +16000,7 @@ module.exports = {
         ]
       },
       "weight": "122.4",
-      "_key": "throh",
+      "key": "throh",
       "height": "4′3″"
     },
     {
@@ -16028,7 +16028,7 @@ module.exports = {
         ]
       },
       "weight": "112.4",
-      "_key": "sawk",
+      "key": "sawk",
       "height": "4′7″"
     },
     {
@@ -16057,7 +16057,7 @@ module.exports = {
         ]
       },
       "weight": "5.5",
-      "_key": "sewaddle",
+      "key": "sewaddle",
       "height": "1′0″"
     },
     {
@@ -16086,7 +16086,7 @@ module.exports = {
         ]
       },
       "weight": "16.1",
-      "_key": "swadloon",
+      "key": "swadloon",
       "height": "1′8″"
     },
     {
@@ -16115,7 +16115,7 @@ module.exports = {
         ]
       },
       "weight": "45.2",
-      "_key": "leavanny",
+      "key": "leavanny",
       "height": "3′11″"
     },
     {
@@ -16144,7 +16144,7 @@ module.exports = {
         ]
       },
       "weight": "11.7",
-      "_key": "venipede",
+      "key": "venipede",
       "height": "1′4″"
     },
     {
@@ -16173,7 +16173,7 @@ module.exports = {
         ]
       },
       "weight": "129",
-      "_key": "whirlipede",
+      "key": "whirlipede",
       "height": "3′11″"
     },
     {
@@ -16202,7 +16202,7 @@ module.exports = {
         ]
       },
       "weight": "442",
-      "_key": "scolipede",
+      "key": "scolipede",
       "height": "8′2″"
     },
     {
@@ -16231,7 +16231,7 @@ module.exports = {
         ]
       },
       "weight": "1.3",
-      "_key": "cottonee",
+      "key": "cottonee",
       "height": "1′0″"
     },
     {
@@ -16260,7 +16260,7 @@ module.exports = {
         ]
       },
       "weight": "14.6",
-      "_key": "whimsicott",
+      "key": "whimsicott",
       "height": "2′4″"
     },
     {
@@ -16288,7 +16288,7 @@ module.exports = {
         ]
       },
       "weight": "14.6",
-      "_key": "petilil",
+      "key": "petilil",
       "height": "1′8″"
     },
     {
@@ -16316,7 +16316,7 @@ module.exports = {
         ]
       },
       "weight": "35.9",
-      "_key": "lilligant",
+      "key": "lilligant",
       "height": "3′7″"
     },
     {
@@ -16345,7 +16345,7 @@ module.exports = {
         ]
       },
       "weight": "39.7",
-      "_key": "basculin",
+      "key": "basculin",
       "height": "3′3″"
     },
     {
@@ -16374,7 +16374,7 @@ module.exports = {
         ]
       },
       "weight": "33.5",
-      "_key": "sandile",
+      "key": "sandile",
       "height": "2′4″"
     },
     {
@@ -16403,7 +16403,7 @@ module.exports = {
         ]
       },
       "weight": "73.6",
-      "_key": "krokorok",
+      "key": "krokorok",
       "height": "3′3″"
     },
     {
@@ -16432,7 +16432,7 @@ module.exports = {
         ]
       },
       "weight": "212.3",
-      "_key": "krookodile",
+      "key": "krookodile",
       "height": "4′11″"
     },
     {
@@ -16459,7 +16459,7 @@ module.exports = {
         ]
       },
       "weight": "82.7",
-      "_key": "darumaka",
+      "key": "darumaka",
       "height": "2′0″"
     },
     {
@@ -16486,7 +16486,7 @@ module.exports = {
         ]
       },
       "weight": "204.8",
-      "_key": "darmanitan-standard-mode",
+      "key": "darmanitan-standard-mode",
       "height": "4′3″"
     },
     {
@@ -16514,7 +16514,7 @@ module.exports = {
         ]
       },
       "weight": "204.8",
-      "_key": "darmanitan-zen-mode",
+      "key": "darmanitan-zen-mode",
       "height": "4′3″"
     },
     {
@@ -16542,7 +16542,7 @@ module.exports = {
         ]
       },
       "weight": "61.7",
-      "_key": "maractus",
+      "key": "maractus",
       "height": "3′3″"
     },
     {
@@ -16571,7 +16571,7 @@ module.exports = {
         ]
       },
       "weight": "32",
-      "_key": "dwebble",
+      "key": "dwebble",
       "height": "1′0″"
     },
     {
@@ -16600,7 +16600,7 @@ module.exports = {
         ]
       },
       "weight": "440.9",
-      "_key": "crustle",
+      "key": "crustle",
       "height": "4′7″"
     },
     {
@@ -16629,7 +16629,7 @@ module.exports = {
         ]
       },
       "weight": "26",
-      "_key": "scraggy",
+      "key": "scraggy",
       "height": "2′0″"
     },
     {
@@ -16658,7 +16658,7 @@ module.exports = {
         ]
       },
       "weight": "66.1",
-      "_key": "scrafty",
+      "key": "scrafty",
       "height": "3′7″"
     },
     {
@@ -16687,7 +16687,7 @@ module.exports = {
         ]
       },
       "weight": "30.9",
-      "_key": "sigilyph",
+      "key": "sigilyph",
       "height": "4′7″"
     },
     {
@@ -16712,7 +16712,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "3.3",
-      "_key": "yamask",
+      "key": "yamask",
       "height": "1′8″"
     },
     {
@@ -16737,7 +16737,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "168.7",
-      "_key": "cofagrigus",
+      "key": "cofagrigus",
       "height": "5′7″"
     },
     {
@@ -16766,7 +16766,7 @@ module.exports = {
         ]
       },
       "weight": "36.4",
-      "_key": "tirtouga",
+      "key": "tirtouga",
       "height": "2′4″"
     },
     {
@@ -16795,7 +16795,7 @@ module.exports = {
         ]
       },
       "weight": "178.6",
-      "_key": "carracosta",
+      "key": "carracosta",
       "height": "3′11″"
     },
     {
@@ -16821,7 +16821,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "20.9",
-      "_key": "archen",
+      "key": "archen",
       "height": "1′8″"
     },
     {
@@ -16847,7 +16847,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "70.5",
-      "_key": "archeops",
+      "key": "archeops",
       "height": "4′7″"
     },
     {
@@ -16875,7 +16875,7 @@ module.exports = {
         ]
       },
       "weight": "68.3",
-      "_key": "trubbish",
+      "key": "trubbish",
       "height": "2′0″"
     },
     {
@@ -16903,7 +16903,7 @@ module.exports = {
         ]
       },
       "weight": "236.6",
-      "_key": "garbodor",
+      "key": "garbodor",
       "height": "6′3″"
     },
     {
@@ -16928,7 +16928,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "27.6",
-      "_key": "zorua",
+      "key": "zorua",
       "height": "2′4″"
     },
     {
@@ -16953,7 +16953,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "178.8",
-      "_key": "zoroark",
+      "key": "zoroark",
       "height": "5′3″"
     },
     {
@@ -16981,7 +16981,7 @@ module.exports = {
         ]
       },
       "weight": "12.8",
-      "_key": "minccino",
+      "key": "minccino",
       "height": "1′4″"
     },
     {
@@ -17009,7 +17009,7 @@ module.exports = {
         ]
       },
       "weight": "16.5",
-      "_key": "cinccino",
+      "key": "cinccino",
       "height": "1′8″"
     },
     {
@@ -17037,7 +17037,7 @@ module.exports = {
         ]
       },
       "weight": "12.8",
-      "_key": "gothita",
+      "key": "gothita",
       "height": "1′4″"
     },
     {
@@ -17065,7 +17065,7 @@ module.exports = {
         ]
       },
       "weight": "39.7",
-      "_key": "gothorita",
+      "key": "gothorita",
       "height": "2′4″"
     },
     {
@@ -17093,7 +17093,7 @@ module.exports = {
         ]
       },
       "weight": "97",
-      "_key": "gothitelle",
+      "key": "gothitelle",
       "height": "4′11″"
     },
     {
@@ -17121,7 +17121,7 @@ module.exports = {
         ]
       },
       "weight": "2.2",
-      "_key": "solosis",
+      "key": "solosis",
       "height": "1′0″"
     },
     {
@@ -17149,7 +17149,7 @@ module.exports = {
         ]
       },
       "weight": "17.6",
-      "_key": "duosion",
+      "key": "duosion",
       "height": "2′0″"
     },
     {
@@ -17177,7 +17177,7 @@ module.exports = {
         ]
       },
       "weight": "44.3",
-      "_key": "reuniclus",
+      "key": "reuniclus",
       "height": "3′3″"
     },
     {
@@ -17206,7 +17206,7 @@ module.exports = {
         ]
       },
       "weight": "12.1",
-      "_key": "ducklett",
+      "key": "ducklett",
       "height": "1′8″"
     },
     {
@@ -17235,7 +17235,7 @@ module.exports = {
         ]
       },
       "weight": "53.4",
-      "_key": "swanna",
+      "key": "swanna",
       "height": "4′3″"
     },
     {
@@ -17262,7 +17262,7 @@ module.exports = {
         ]
       },
       "weight": "12.6",
-      "_key": "vanillite",
+      "key": "vanillite",
       "height": "1′4″"
     },
     {
@@ -17289,7 +17289,7 @@ module.exports = {
         ]
       },
       "weight": "90.4",
-      "_key": "vanillish",
+      "key": "vanillish",
       "height": "3′7″"
     },
     {
@@ -17316,7 +17316,7 @@ module.exports = {
         ]
       },
       "weight": "126.8",
-      "_key": "vanilluxe",
+      "key": "vanilluxe",
       "height": "4′3″"
     },
     {
@@ -17345,7 +17345,7 @@ module.exports = {
         ]
       },
       "weight": "43",
-      "_key": "deerling",
+      "key": "deerling",
       "height": "2′0″"
     },
     {
@@ -17374,7 +17374,7 @@ module.exports = {
         ]
       },
       "weight": "203.9",
-      "_key": "sawsbuck",
+      "key": "sawsbuck",
       "height": "6′3″"
     },
     {
@@ -17402,7 +17402,7 @@ module.exports = {
         ]
       },
       "weight": "11",
-      "_key": "emolga",
+      "key": "emolga",
       "height": "1′4″"
     },
     {
@@ -17430,7 +17430,7 @@ module.exports = {
         ]
       },
       "weight": "13",
-      "_key": "karrablast",
+      "key": "karrablast",
       "height": "1′8″"
     },
     {
@@ -17459,7 +17459,7 @@ module.exports = {
         ]
       },
       "weight": "72.8",
-      "_key": "escavalier",
+      "key": "escavalier",
       "height": "3′3″"
     },
     {
@@ -17487,7 +17487,7 @@ module.exports = {
         ]
       },
       "weight": "2.2",
-      "_key": "foongus",
+      "key": "foongus",
       "height": "0′8″"
     },
     {
@@ -17515,7 +17515,7 @@ module.exports = {
         ]
       },
       "weight": "23.1",
-      "_key": "amoonguss",
+      "key": "amoonguss",
       "height": "2′0″"
     },
     {
@@ -17544,7 +17544,7 @@ module.exports = {
         ]
       },
       "weight": "72.8",
-      "_key": "frillish",
+      "key": "frillish",
       "height": "3′11″"
     },
     {
@@ -17573,7 +17573,7 @@ module.exports = {
         ]
       },
       "weight": "297.6",
-      "_key": "jellicent",
+      "key": "jellicent",
       "height": "7′3″"
     },
     {
@@ -17601,7 +17601,7 @@ module.exports = {
         ]
       },
       "weight": "69.7",
-      "_key": "alomomola",
+      "key": "alomomola",
       "height": "3′11″"
     },
     {
@@ -17630,7 +17630,7 @@ module.exports = {
         ]
       },
       "weight": "1.3",
-      "_key": "joltik",
+      "key": "joltik",
       "height": "0′4″"
     },
     {
@@ -17659,7 +17659,7 @@ module.exports = {
         ]
       },
       "weight": "31.5",
-      "_key": "galvantula",
+      "key": "galvantula",
       "height": "2′7″"
     },
     {
@@ -17685,7 +17685,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "41.4",
-      "_key": "ferroseed",
+      "key": "ferroseed",
       "height": "2′0″"
     },
     {
@@ -17713,7 +17713,7 @@ module.exports = {
         ]
       },
       "weight": "242.5",
-      "_key": "ferrothorn",
+      "key": "ferrothorn",
       "height": "3′3″"
     },
     {
@@ -17741,7 +17741,7 @@ module.exports = {
         ]
       },
       "weight": "46.3",
-      "_key": "klink",
+      "key": "klink",
       "height": "1′0″"
     },
     {
@@ -17769,7 +17769,7 @@ module.exports = {
         ]
       },
       "weight": "112.4",
-      "_key": "klang",
+      "key": "klang",
       "height": "2′0″"
     },
     {
@@ -17797,7 +17797,7 @@ module.exports = {
         ]
       },
       "weight": "178.6",
-      "_key": "klinklang",
+      "key": "klinklang",
       "height": "2′0″"
     },
     {
@@ -17822,7 +17822,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "0.7",
-      "_key": "tynamo",
+      "key": "tynamo",
       "height": "0′8″"
     },
     {
@@ -17847,7 +17847,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "48.5",
-      "_key": "eelektrik",
+      "key": "eelektrik",
       "height": "3′11″"
     },
     {
@@ -17872,7 +17872,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "177.5",
-      "_key": "eelektross",
+      "key": "eelektross",
       "height": "6′11″"
     },
     {
@@ -17900,7 +17900,7 @@ module.exports = {
         ]
       },
       "weight": "19.8",
-      "_key": "elgyem",
+      "key": "elgyem",
       "height": "1′8″"
     },
     {
@@ -17928,7 +17928,7 @@ module.exports = {
         ]
       },
       "weight": "76.1",
-      "_key": "beheeyem",
+      "key": "beheeyem",
       "height": "3′3″"
     },
     {
@@ -17957,7 +17957,7 @@ module.exports = {
         ]
       },
       "weight": "6.8",
-      "_key": "litwick",
+      "key": "litwick",
       "height": "1′0″"
     },
     {
@@ -17986,7 +17986,7 @@ module.exports = {
         ]
       },
       "weight": "28.7",
-      "_key": "lampent",
+      "key": "lampent",
       "height": "2′0″"
     },
     {
@@ -18015,7 +18015,7 @@ module.exports = {
         ]
       },
       "weight": "75.6",
-      "_key": "chandelure",
+      "key": "chandelure",
       "height": "3′3″"
     },
     {
@@ -18043,7 +18043,7 @@ module.exports = {
         ]
       },
       "weight": "39.7",
-      "_key": "axew",
+      "key": "axew",
       "height": "2′0″"
     },
     {
@@ -18071,7 +18071,7 @@ module.exports = {
         ]
       },
       "weight": "79.4",
-      "_key": "fraxure",
+      "key": "fraxure",
       "height": "3′3″"
     },
     {
@@ -18099,7 +18099,7 @@ module.exports = {
         ]
       },
       "weight": "232.6",
-      "_key": "haxorus",
+      "key": "haxorus",
       "height": "5′11″"
     },
     {
@@ -18126,7 +18126,7 @@ module.exports = {
         ]
       },
       "weight": "18.7",
-      "_key": "cubchoo",
+      "key": "cubchoo",
       "height": "1′8″"
     },
     {
@@ -18153,7 +18153,7 @@ module.exports = {
         ]
       },
       "weight": "573.2",
-      "_key": "beartic",
+      "key": "beartic",
       "height": "8′6″"
     },
     {
@@ -18178,7 +18178,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "326.3",
-      "_key": "cryogonal",
+      "key": "cryogonal",
       "height": "3′7″"
     },
     {
@@ -18206,7 +18206,7 @@ module.exports = {
         ]
       },
       "weight": "17",
-      "_key": "shelmet",
+      "key": "shelmet",
       "height": "1′4″"
     },
     {
@@ -18234,7 +18234,7 @@ module.exports = {
         ]
       },
       "weight": "55.8",
-      "_key": "accelgor",
+      "key": "accelgor",
       "height": "2′7″"
     },
     {
@@ -18263,7 +18263,7 @@ module.exports = {
         ]
       },
       "weight": "24.3",
-      "_key": "stunfisk",
+      "key": "stunfisk",
       "height": "2′4″"
     },
     {
@@ -18291,7 +18291,7 @@ module.exports = {
         ]
       },
       "weight": "44.1",
-      "_key": "mienfoo",
+      "key": "mienfoo",
       "height": "2′11″"
     },
     {
@@ -18319,7 +18319,7 @@ module.exports = {
         ]
       },
       "weight": "78.3",
-      "_key": "mienshao",
+      "key": "mienshao",
       "height": "4′7″"
     },
     {
@@ -18347,7 +18347,7 @@ module.exports = {
         ]
       },
       "weight": "306.4",
-      "_key": "druddigon",
+      "key": "druddigon",
       "height": "5′3″"
     },
     {
@@ -18376,7 +18376,7 @@ module.exports = {
         ]
       },
       "weight": "202.8",
-      "_key": "golett",
+      "key": "golett",
       "height": "3′3″"
     },
     {
@@ -18405,7 +18405,7 @@ module.exports = {
         ]
       },
       "weight": "727.5",
-      "_key": "golurk",
+      "key": "golurk",
       "height": "9′2″"
     },
     {
@@ -18434,7 +18434,7 @@ module.exports = {
         ]
       },
       "weight": "22.5",
-      "_key": "pawniard",
+      "key": "pawniard",
       "height": "1′8″"
     },
     {
@@ -18463,7 +18463,7 @@ module.exports = {
         ]
       },
       "weight": "154.3",
-      "_key": "bisharp",
+      "key": "bisharp",
       "height": "5′3″"
     },
     {
@@ -18491,7 +18491,7 @@ module.exports = {
         ]
       },
       "weight": "208.6",
-      "_key": "bouffalant",
+      "key": "bouffalant",
       "height": "5′3″"
     },
     {
@@ -18520,7 +18520,7 @@ module.exports = {
         ]
       },
       "weight": "23.1",
-      "_key": "rufflet",
+      "key": "rufflet",
       "height": "1′8″"
     },
     {
@@ -18549,7 +18549,7 @@ module.exports = {
         ]
       },
       "weight": "90.4",
-      "_key": "braviary",
+      "key": "braviary",
       "height": "4′11″"
     },
     {
@@ -18578,7 +18578,7 @@ module.exports = {
         ]
       },
       "weight": "19.8",
-      "_key": "vullaby",
+      "key": "vullaby",
       "height": "1′8″"
     },
     {
@@ -18607,7 +18607,7 @@ module.exports = {
         ]
       },
       "weight": "87.1",
-      "_key": "mandibuzz",
+      "key": "mandibuzz",
       "height": "3′11″"
     },
     {
@@ -18635,7 +18635,7 @@ module.exports = {
         ]
       },
       "weight": "127.9",
-      "_key": "heatmor",
+      "key": "heatmor",
       "height": "4′7″"
     },
     {
@@ -18664,7 +18664,7 @@ module.exports = {
         ]
       },
       "weight": "72.8",
-      "_key": "durant",
+      "key": "durant",
       "height": "1′0″"
     },
     {
@@ -18690,7 +18690,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "38.1",
-      "_key": "deino",
+      "key": "deino",
       "height": "2′7″"
     },
     {
@@ -18716,7 +18716,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "110.2",
-      "_key": "zweilous",
+      "key": "zweilous",
       "height": "4′7″"
     },
     {
@@ -18742,7 +18742,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "352.7",
-      "_key": "hydreigon",
+      "key": "hydreigon",
       "height": "5′11″"
     },
     {
@@ -18770,7 +18770,7 @@ module.exports = {
         ]
       },
       "weight": "63.5",
-      "_key": "larvesta",
+      "key": "larvesta",
       "height": "3′7″"
     },
     {
@@ -18798,7 +18798,7 @@ module.exports = {
         ]
       },
       "weight": "101.4",
-      "_key": "volcarona",
+      "key": "volcarona",
       "height": "5′3″"
     },
     {
@@ -18824,7 +18824,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "551.2",
-      "_key": "cobalion",
+      "key": "cobalion",
       "height": "6′11″"
     },
     {
@@ -18850,7 +18850,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "573.2",
-      "_key": "terrakion",
+      "key": "terrakion",
       "height": "6′3″"
     },
     {
@@ -18876,7 +18876,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "440.9",
-      "_key": "virizion",
+      "key": "virizion",
       "height": "6′7″"
     },
     {
@@ -18903,7 +18903,7 @@ module.exports = {
         ]
       },
       "weight": "138.9",
-      "_key": "tornadus-incarnate-forme",
+      "key": "tornadus-incarnate-forme",
       "height": "4′11″"
     },
     {
@@ -18930,7 +18930,7 @@ module.exports = {
         ]
       },
       "weight": "138.9",
-      "_key": "tornadus-therian-forme",
+      "key": "tornadus-therian-forme",
       "height": "4′7″"
     },
     {
@@ -18958,7 +18958,7 @@ module.exports = {
         ]
       },
       "weight": "134.5",
-      "_key": "thundurus-incarnate-forme",
+      "key": "thundurus-incarnate-forme",
       "height": "4′11″"
     },
     {
@@ -18986,7 +18986,7 @@ module.exports = {
         ]
       },
       "weight": "134.5",
-      "_key": "thundurus-therian-forme",
+      "key": "thundurus-therian-forme",
       "height": "9′10″"
     },
     {
@@ -19012,7 +19012,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "727.5",
-      "_key": "reshiram",
+      "key": "reshiram",
       "height": "10′6″"
     },
     {
@@ -19038,7 +19038,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "760.6",
-      "_key": "zekrom",
+      "key": "zekrom",
       "height": "9′6″"
     },
     {
@@ -19066,7 +19066,7 @@ module.exports = {
         ]
       },
       "weight": "149.9",
-      "_key": "landorus-incarnate-forme",
+      "key": "landorus-incarnate-forme",
       "height": "4′11″"
     },
     {
@@ -19094,7 +19094,7 @@ module.exports = {
         ]
       },
       "weight": "149.9",
-      "_key": "landorus-therian-forme",
+      "key": "landorus-therian-forme",
       "height": "4′3″"
     },
     {
@@ -19120,7 +19120,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "716.5",
-      "_key": "kyurem-kyurem",
+      "key": "kyurem-kyurem",
       "height": "9′10″"
     },
     {
@@ -19146,7 +19146,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "716.5",
-      "_key": "kyurem-white-kyurem",
+      "key": "kyurem-white-kyurem",
       "height": "11′10″"
     },
     {
@@ -19172,7 +19172,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "716.5",
-      "_key": "kyurem-black-kyurem",
+      "key": "kyurem-black-kyurem",
       "height": "10′10″"
     },
     {
@@ -19198,7 +19198,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "106.9",
-      "_key": "keldeo-ordinary-forme",
+      "key": "keldeo-ordinary-forme",
       "height": "4′7″"
     },
     {
@@ -19224,7 +19224,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "106.9",
-      "_key": "keldeo-resolute-forme",
+      "key": "keldeo-resolute-forme",
       "height": "4′7″"
     },
     {
@@ -19250,7 +19250,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "14.3",
-      "_key": "meloetta-aria-forme",
+      "key": "meloetta-aria-forme",
       "height": "2′0″"
     },
     {
@@ -19276,7 +19276,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "14.3",
-      "_key": "meloetta-pirouette-forme",
+      "key": "meloetta-pirouette-forme",
       "height": "2′0″"
     },
     {
@@ -19302,7 +19302,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "181.9",
-      "_key": "genesect",
+      "key": "genesect",
       "height": "4′11″"
     },
     {
@@ -19329,7 +19329,7 @@ module.exports = {
         ]
       },
       "weight": "19.8",
-      "_key": "chespin",
+      "key": "chespin",
       "height": "1′4″"
     },
     {
@@ -19356,7 +19356,7 @@ module.exports = {
         ]
       },
       "weight": "63.9",
-      "_key": "quilladin",
+      "key": "quilladin",
       "height": "2′4″"
     },
     {
@@ -19384,7 +19384,7 @@ module.exports = {
         ]
       },
       "weight": "198.4",
-      "_key": "chesnaught",
+      "key": "chesnaught",
       "height": "5′3″"
     },
     {
@@ -19411,7 +19411,7 @@ module.exports = {
         ]
       },
       "weight": "20.7",
-      "_key": "fennekin",
+      "key": "fennekin",
       "height": "1′4″"
     },
     {
@@ -19438,7 +19438,7 @@ module.exports = {
         ]
       },
       "weight": "32",
-      "_key": "braixen",
+      "key": "braixen",
       "height": "3′3″"
     },
     {
@@ -19466,7 +19466,7 @@ module.exports = {
         ]
       },
       "weight": "86",
-      "_key": "delphox",
+      "key": "delphox",
       "height": "4′11″"
     },
     {
@@ -19493,7 +19493,7 @@ module.exports = {
         ]
       },
       "weight": "15.4",
-      "_key": "froakie",
+      "key": "froakie",
       "height": "1′0″"
     },
     {
@@ -19520,7 +19520,7 @@ module.exports = {
         ]
       },
       "weight": "24",
-      "_key": "frogadier",
+      "key": "frogadier",
       "height": "2′0″"
     },
     {
@@ -19548,7 +19548,7 @@ module.exports = {
         ]
       },
       "weight": "88.2",
-      "_key": "greninja",
+      "key": "greninja",
       "height": "4′11″"
     },
     {
@@ -19576,7 +19576,7 @@ module.exports = {
         ]
       },
       "weight": "11",
-      "_key": "bunnelby",
+      "key": "bunnelby",
       "height": "1′4″"
     },
     {
@@ -19605,7 +19605,7 @@ module.exports = {
         ]
       },
       "weight": "93.5",
-      "_key": "diggersby",
+      "key": "diggersby",
       "height": "3′3″"
     },
     {
@@ -19633,7 +19633,7 @@ module.exports = {
         ]
       },
       "weight": "3.7",
-      "_key": "fletchling",
+      "key": "fletchling",
       "height": "1′0″"
     },
     {
@@ -19661,7 +19661,7 @@ module.exports = {
         ]
       },
       "weight": "35.3",
-      "_key": "fletchinder",
+      "key": "fletchinder",
       "height": "2′4″"
     },
     {
@@ -19689,7 +19689,7 @@ module.exports = {
         ]
       },
       "weight": "54",
-      "_key": "talonflame",
+      "key": "talonflame",
       "height": "3′11″"
     },
     {
@@ -19717,7 +19717,7 @@ module.exports = {
         ]
       },
       "weight": "5.5",
-      "_key": "scatterbug",
+      "key": "scatterbug",
       "height": "1′0″"
     },
     {
@@ -19745,7 +19745,7 @@ module.exports = {
         ]
       },
       "weight": "18.5",
-      "_key": "spewpa",
+      "key": "spewpa",
       "height": "1′0″"
     },
     {
@@ -19774,7 +19774,7 @@ module.exports = {
         ]
       },
       "weight": "37.5",
-      "_key": "vivillon",
+      "key": "vivillon",
       "height": "3′11″"
     },
     {
@@ -19803,7 +19803,7 @@ module.exports = {
         ]
       },
       "weight": "29.8",
-      "_key": "litleo",
+      "key": "litleo",
       "height": "2′0″"
     },
     {
@@ -19832,7 +19832,7 @@ module.exports = {
         ]
       },
       "weight": "179.7",
-      "_key": "pyroar",
+      "key": "pyroar",
       "height": "4′11″"
     },
     {
@@ -19859,7 +19859,7 @@ module.exports = {
         ]
       },
       "weight": "0.2",
-      "_key": "flabébé",
+      "key": "flabébé",
       "height": "0′4″"
     },
     {
@@ -19886,7 +19886,7 @@ module.exports = {
         ]
       },
       "weight": "2",
-      "_key": "floette",
+      "key": "floette",
       "height": "0′8″"
     },
     {
@@ -19913,7 +19913,7 @@ module.exports = {
         ]
       },
       "weight": "22",
-      "_key": "florges",
+      "key": "florges",
       "height": "3′7″"
     },
     {
@@ -19940,7 +19940,7 @@ module.exports = {
         ]
       },
       "weight": "68.3",
-      "_key": "skiddo",
+      "key": "skiddo",
       "height": "2′11″"
     },
     {
@@ -19967,7 +19967,7 @@ module.exports = {
         ]
       },
       "weight": "200.6",
-      "_key": "gogoat",
+      "key": "gogoat",
       "height": "5′7″"
     },
     {
@@ -19995,7 +19995,7 @@ module.exports = {
         ]
       },
       "weight": "17.6",
-      "_key": "pancham",
+      "key": "pancham",
       "height": "2′0″"
     },
     {
@@ -20024,7 +20024,7 @@ module.exports = {
         ]
       },
       "weight": "299.8",
-      "_key": "pangoro",
+      "key": "pangoro",
       "height": "6′11″"
     },
     {
@@ -20049,7 +20049,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "61.7",
-      "_key": "furfrou",
+      "key": "furfrou",
       "height": "3′11″"
     },
     {
@@ -20077,7 +20077,7 @@ module.exports = {
         ]
       },
       "weight": "7.7",
-      "_key": "espurr",
+      "key": "espurr",
       "height": "1′0″"
     },
     {
@@ -20105,7 +20105,7 @@ module.exports = {
         ]
       },
       "weight": "18.7",
-      "_key": "meowstic-male",
+      "key": "meowstic-male",
       "height": "2′0″"
     },
     {
@@ -20133,7 +20133,7 @@ module.exports = {
         ]
       },
       "weight": "18.7",
-      "_key": "meowstic-female",
+      "key": "meowstic-female",
       "height": "2′0″"
     },
     {
@@ -20159,7 +20159,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "4.4",
-      "_key": "honedge",
+      "key": "honedge",
       "height": "2′7″"
     },
     {
@@ -20185,7 +20185,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "9.9",
-      "_key": "doublade",
+      "key": "doublade",
       "height": "2′9″"
     },
     {
@@ -20211,7 +20211,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "116.8",
-      "_key": "aegislash-blade-forme",
+      "key": "aegislash-blade-forme",
       "height": "5′7″"
     },
     {
@@ -20237,7 +20237,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "116.8",
-      "_key": "aegislash-shield-forme",
+      "key": "aegislash-shield-forme",
       "height": "5′7″"
     },
     {
@@ -20264,7 +20264,7 @@ module.exports = {
         ]
       },
       "weight": "1.1",
-      "_key": "spritzee",
+      "key": "spritzee",
       "height": "0′8″"
     },
     {
@@ -20291,7 +20291,7 @@ module.exports = {
         ]
       },
       "weight": "34.2",
-      "_key": "aromatisse",
+      "key": "aromatisse",
       "height": "2′7″"
     },
     {
@@ -20318,7 +20318,7 @@ module.exports = {
         ]
       },
       "weight": "7.7",
-      "_key": "swirlix",
+      "key": "swirlix",
       "height": "1′4″"
     },
     {
@@ -20345,7 +20345,7 @@ module.exports = {
         ]
       },
       "weight": "11",
-      "_key": "slurpuff",
+      "key": "slurpuff",
       "height": "2′7″"
     },
     {
@@ -20374,7 +20374,7 @@ module.exports = {
         ]
       },
       "weight": "7.7",
-      "_key": "inkay",
+      "key": "inkay",
       "height": "1′4″"
     },
     {
@@ -20403,7 +20403,7 @@ module.exports = {
         ]
       },
       "weight": "103.6",
-      "_key": "malamar",
+      "key": "malamar",
       "height": "4′11″"
     },
     {
@@ -20432,7 +20432,7 @@ module.exports = {
         ]
       },
       "weight": "68.3",
-      "_key": "binacle",
+      "key": "binacle",
       "height": "1′8″"
     },
     {
@@ -20461,7 +20461,7 @@ module.exports = {
         ]
       },
       "weight": "211.6",
-      "_key": "barbaracle",
+      "key": "barbaracle",
       "height": "4′3″"
     },
     {
@@ -20490,7 +20490,7 @@ module.exports = {
         ]
       },
       "weight": "16.1",
-      "_key": "skrelp",
+      "key": "skrelp",
       "height": "1′8″"
     },
     {
@@ -20519,7 +20519,7 @@ module.exports = {
         ]
       },
       "weight": "179.7",
-      "_key": "dragalge",
+      "key": "dragalge",
       "height": "5′11″"
     },
     {
@@ -20544,7 +20544,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "18.3",
-      "_key": "clauncher",
+      "key": "clauncher",
       "height": "1′8″"
     },
     {
@@ -20569,7 +20569,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "77.8",
-      "_key": "clawitzer",
+      "key": "clawitzer",
       "height": "4′3″"
     },
     {
@@ -20598,7 +20598,7 @@ module.exports = {
         ]
       },
       "weight": "13.2",
-      "_key": "helioptile",
+      "key": "helioptile",
       "height": "1′8″"
     },
     {
@@ -20627,7 +20627,7 @@ module.exports = {
         ]
       },
       "weight": "46.3",
-      "_key": "heliolisk",
+      "key": "heliolisk",
       "height": "3′3″"
     },
     {
@@ -20655,7 +20655,7 @@ module.exports = {
         ]
       },
       "weight": "57.3",
-      "_key": "tyrunt",
+      "key": "tyrunt",
       "height": "2′7″"
     },
     {
@@ -20683,7 +20683,7 @@ module.exports = {
         ]
       },
       "weight": "595.2",
-      "_key": "tyrantrum",
+      "key": "tyrantrum",
       "height": "8′2″"
     },
     {
@@ -20711,7 +20711,7 @@ module.exports = {
         ]
       },
       "weight": "55.6",
-      "_key": "amaura",
+      "key": "amaura",
       "height": "4′3″"
     },
     {
@@ -20739,7 +20739,7 @@ module.exports = {
         ]
       },
       "weight": "496",
-      "_key": "aurorus",
+      "key": "aurorus",
       "height": "8′10″"
     },
     {
@@ -20766,7 +20766,7 @@ module.exports = {
         ]
       },
       "weight": "51.8",
-      "_key": "sylveon",
+      "key": "sylveon",
       "height": "3′3″"
     },
     {
@@ -20795,7 +20795,7 @@ module.exports = {
         ]
       },
       "weight": "47.4",
-      "_key": "hawlucha",
+      "key": "hawlucha",
       "height": "2′7″"
     },
     {
@@ -20824,7 +20824,7 @@ module.exports = {
         ]
       },
       "weight": "4.9",
-      "_key": "dedenne",
+      "key": "dedenne",
       "height": "0′8″"
     },
     {
@@ -20852,7 +20852,7 @@ module.exports = {
         ]
       },
       "weight": "12.6",
-      "_key": "carbink",
+      "key": "carbink",
       "height": "1′0″"
     },
     {
@@ -20880,7 +20880,7 @@ module.exports = {
         ]
       },
       "weight": "6.2",
-      "_key": "goomy",
+      "key": "goomy",
       "height": "1′0″"
     },
     {
@@ -20908,7 +20908,7 @@ module.exports = {
         ]
       },
       "weight": "38.6",
-      "_key": "sliggoo",
+      "key": "sliggoo",
       "height": "2′7″"
     },
     {
@@ -20936,7 +20936,7 @@ module.exports = {
         ]
       },
       "weight": "331.8",
-      "_key": "goodra",
+      "key": "goodra",
       "height": "6′7″"
     },
     {
@@ -20964,7 +20964,7 @@ module.exports = {
         ]
       },
       "weight": "6.6",
-      "_key": "klefki",
+      "key": "klefki",
       "height": "0′8″"
     },
     {
@@ -20993,7 +20993,7 @@ module.exports = {
         ]
       },
       "weight": "15.4",
-      "_key": "phantump",
+      "key": "phantump",
       "height": "1′4″"
     },
     {
@@ -21022,7 +21022,7 @@ module.exports = {
         ]
       },
       "weight": "156.5",
-      "_key": "trevenant",
+      "key": "trevenant",
       "height": "4′11″"
     },
     {
@@ -21051,7 +21051,7 @@ module.exports = {
         ]
       },
       "weight": "11",
-      "_key": "pumpkaboo-average-size",
+      "key": "pumpkaboo-average-size",
       "height": "1′4″"
     },
     {
@@ -21080,7 +21080,7 @@ module.exports = {
         ]
       },
       "weight": "11",
-      "_key": "pumpkaboo-small-size",
+      "key": "pumpkaboo-small-size",
       "height": "1′4″"
     },
     {
@@ -21109,7 +21109,7 @@ module.exports = {
         ]
       },
       "weight": "11",
-      "_key": "pumpkaboo-large-size",
+      "key": "pumpkaboo-large-size",
       "height": "1′4″"
     },
     {
@@ -21138,7 +21138,7 @@ module.exports = {
         ]
       },
       "weight": "11",
-      "_key": "pumpkaboo-super-size",
+      "key": "pumpkaboo-super-size",
       "height": "1′4″"
     },
     {
@@ -21167,7 +21167,7 @@ module.exports = {
         ]
       },
       "weight": "86",
-      "_key": "gourgeist-average-size",
+      "key": "gourgeist-average-size",
       "height": "5′7″"
     },
     {
@@ -21196,7 +21196,7 @@ module.exports = {
         ]
       },
       "weight": "86",
-      "_key": "gourgeist-small-size",
+      "key": "gourgeist-small-size",
       "height": "5′7″"
     },
     {
@@ -21225,7 +21225,7 @@ module.exports = {
         ]
       },
       "weight": "86",
-      "_key": "gourgeist-large-size",
+      "key": "gourgeist-large-size",
       "height": "5′7″"
     },
     {
@@ -21254,7 +21254,7 @@ module.exports = {
         ]
       },
       "weight": "86",
-      "_key": "gourgeist-super-size",
+      "key": "gourgeist-super-size",
       "height": "5′7″"
     },
     {
@@ -21282,7 +21282,7 @@ module.exports = {
         ]
       },
       "weight": "219.4",
-      "_key": "bergmite",
+      "key": "bergmite",
       "height": "3′3″"
     },
     {
@@ -21310,7 +21310,7 @@ module.exports = {
         ]
       },
       "weight": "1113.3",
-      "_key": "avalugg",
+      "key": "avalugg",
       "height": "6′7″"
     },
     {
@@ -21339,7 +21339,7 @@ module.exports = {
         ]
       },
       "weight": "17.6",
-      "_key": "noibat",
+      "key": "noibat",
       "height": "1′8″"
     },
     {
@@ -21368,7 +21368,7 @@ module.exports = {
         ]
       },
       "weight": "187.4",
-      "_key": "noivern",
+      "key": "noivern",
       "height": "4′11″"
     },
     {
@@ -21393,7 +21393,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "474",
-      "_key": "xerneas",
+      "key": "xerneas",
       "height": "9′10″"
     },
     {
@@ -21419,7 +21419,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "447.5",
-      "_key": "yveltal",
+      "key": "yveltal",
       "height": "19′0″"
     },
     {
@@ -21445,7 +21445,7 @@ module.exports = {
         "hidden": []
       },
       "weight": "672.4",
-      "_key": "zygarde",
+      "key": "zygarde",
       "height": "16′5″"
     }
   ]

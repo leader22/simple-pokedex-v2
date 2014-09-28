@@ -60,7 +60,6 @@ module.exports = (function() {
             var key = this.params.key;
 
             var monster = monsterCollection.getMonsterByKey(key);
-            console.log(monster);
 
             yield this.render('detail', {
                 page:    'detail',
