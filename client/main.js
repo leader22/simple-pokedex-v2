@@ -1,5 +1,19 @@
+;(function(global) {
+    'use strict';
 
-var Dispathcer = require('./dispatcher');
-var Util       = require('../shared/util');
+    var doc = global.document;
 
-console.log('WEBPACK', Dispathcer, Util);
+    var route = location.pathname.split('/')[1];
+
+    var C = {
+        detail: function() {
+            var backBtn = doc.getElementById('js-back-btn');
+
+            backBtn.addEventListener('click', function() {
+                history.back();
+            }, false);
+        }
+    };
+
+    C[route] && C[route]();
+}(this.self || global));

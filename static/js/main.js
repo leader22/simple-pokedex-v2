@@ -44,63 +44,27 @@
 /* 0 */
 /***/ function(module, exports, __webpack_require__) {
 
-	
-	var Dispathcer = __webpack_require__(1);
-	var Util       = __webpack_require__(2);
-
-	console.log('WEBPACK', Dispathcer, Util);
-
-
-/***/ },
-/* 1 */
-/***/ function(module, exports, __webpack_require__) {
-
-	module.exports = (function() {
+	/* WEBPACK VAR INJECTION */(function(global) {;(function(global) {
 	    'use strict';
 
-	    var Dispatcher = function() {};
+	    var doc = global.document;
 
-	    Dispatcher.prototype = {
-	        constructor: Dispatcher
-	    };
+	    var route = location.pathname.split('/')[1];
 
-	    return Dispatcher;
-	}());
+	    var C = {
+	        detail: function() {
+	            var backBtn = doc.getElementById('js-back-btn');
 
-
-/***/ },
-/* 2 */
-/***/ function(module, exports, __webpack_require__) {
-
-	module.exports = (function() {
-	    'use strict';
-
-	    return {
-	        getJpOrEnByCtx: function(ctx) {
-	            var acceptLang = ctx.request.header['accept-language'];
-	            if (!acceptLang) { return 'ja'; }
-
-	            var lang = acceptLang.split(',')[0];
-	            return (lang === 'ja') ? 'ja' : 'en';
-	        },
-	        lbs2Kg: function(lbs) {
-	            return ((+lbs) * 0.4536).toFixed(1);
-	        },
-	        ft2M: function(ft) {
-	            var splt = ft.split('′'),
-	            strFt = (splt[0]|0) + '.' + (splt[1].split('″')[0]);
-	            return ((+strFt) * 0.3048).toFixed(1);
-	        },
-	        getBaseStatsRatio: function(stat, isTotal) {
-	            var MAX_STAT = 255, MAX_ALL_STAT = 780;
-
-	            var maxStat = (isTotal) ? MAX_ALL_STAT : MAX_STAT;
-	            return ((stat / maxStat) * 100).toFixed(1);
+	            backBtn.addEventListener('click', function() {
+	                history.back();
+	            }, false);
 	        }
 	    };
 
-	}());
-
+	    C[route] && C[route]();
+	}(this.self || global));
+	
+	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ }
 /******/ ])

@@ -24,6 +24,9 @@
         <div class="l-loading-layer" id="js-loading-layer"></div>
         <div id="js-view-content" class="l-view-content">
             <div class="l-view-<%- page %>"><%- body %></div>
+            <% if (page !== 'index') { %>
+            <a href="/" class="b-anchor-btn">トップへ</a>
+            <% } %>
         </div>
 
         <footer class="l-view-footer">
