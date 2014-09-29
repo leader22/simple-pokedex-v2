@@ -5,7 +5,8 @@ rebuild by koa, webpack, etc..
 
 
 # TODO
-- [ ] デーモン化するやり方
+- [ ] デーモン化するとこ
+  - [pm2](https://github.com/Unitech/pm2)でやってみる
 
 # Enhance
 - [ ] 既にわかってるメガポケ/ゲンシカイキを追加する
