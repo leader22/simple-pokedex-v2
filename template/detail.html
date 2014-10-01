@@ -89,6 +89,25 @@
 <% } %>
 
 <section>
+    <h2>おぼえる技</h2>
+
+    <% moveLearnTypesArr.forEach(function(obj) { %>
+    <h3><%- obj.label %></h3>
+    <ul>
+        <% monster.moves[obj.key].forEach(function(move) { %>
+        <li>
+            <% if (obj.key === 'level') { %>
+            <%- move.name %> @Lv<%- move.level %>
+            <% } else { %>
+            <%- move %>
+            <% } %>
+        </li>
+        <% }) %>
+    </ul>
+    <% }) %>
+</section>
+
+<section>
     <h2>その他</h2>
     <p class="texts">高さ: <%- monster.heightStr %> / 重さ: <%- monster.weightStr %></p>
 </section>

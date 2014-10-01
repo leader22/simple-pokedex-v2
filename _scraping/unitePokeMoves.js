@@ -47,7 +47,7 @@ for (; from <= to; from++) {
         }
     }
 
-    out[json.key] = learnTypeMap;
+    out[from] = learnTypeMap;
 }
 
 _writeFile(out);

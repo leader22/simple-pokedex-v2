@@ -70,6 +70,14 @@ module.exports = (function() {
             keywords.push(monster.name);
             keywords.push(key);
 
+            var moveLearnTypesArr = [
+                { key: 'level',   label: 'レベルアップ' },
+                { key: 'machine', label: 'わざマシン' },
+                { key: 'egg',     label: 'タマゴ技' },
+                { key: 'tutor',   label: 'おしえ技' },
+                { key: 'other',   label: 'そのた' }
+            ];
+
             yield this.render('detail', {
                 page:     'detail',
                 metaTags: {
@@ -77,7 +85,8 @@ module.exports = (function() {
                     keywords:    keywords
                 },
                 title:    titleData['detail'].replace('%s', monster.name),
-                monster:  monster
+                monster:  monster,
+                moveLearnTypesArr: moveLearnTypesArr
             });
         }
     };

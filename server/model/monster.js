@@ -6,6 +6,7 @@ module.exports = (function() {
 
     var Util     = appRequire('shared/util'),
         typeData = appRequire('server/data/type'),
+        moveData = appRequire('server/data/move'),
         langData = appRequire('server/data/lang/ja');
 
     var MonsterModel = function(monster, id) {
@@ -33,6 +34,10 @@ module.exports = (function() {
             if (monster.abilities.hidden.length) {
                 monster.abilities.hidden = monster.abilities.hidden.map(__extendAbilityStr);
             }
+
+            // わざ
+            var nationalId = monster.nationalPokedexNumber|0;
+            monster.moves = moveData[nationalId]
 
             // 種族値
             var baseStats = monster.baseStats;
