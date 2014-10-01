@@ -61,7 +61,7 @@
 	        }
 	    };
 
-	    C[route] && C[route]();
+	    route in C && C[route]();
 	}(this.self || global));
 	
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))

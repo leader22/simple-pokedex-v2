@@ -15,5 +15,5 @@
         }
     };
 
-    C[route] && C[route]();
+    route in C && C[route]();
 }(this.self || global));
