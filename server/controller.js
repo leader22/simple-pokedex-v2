@@ -3,6 +3,7 @@ module.exports = (function() {
 
     var categoryData      = appRequire('server/data/category'),
         textData          = appRequire('server/data/text'),
+        langData          = appRequire('server/data/lang/ja'),
         monsterData       = appRequire('server/data/monster'),
         MonsterCollection = appRequire('server/collection/monster');
 
@@ -70,12 +71,13 @@ module.exports = (function() {
             keywords.push(monster.name);
             keywords.push(key);
 
+            // オブジェクトからひくと、並びが保証されないので配列
             var moveLearnTypesArr = [
-                { key: 'level',   label: 'レベルアップ' },
-                { key: 'machine', label: 'わざマシン' },
-                { key: 'egg',     label: 'タマゴ技' },
-                { key: 'tutor',   label: 'おしえ技' },
-                { key: 'other',   label: 'そのた' }
+                'level',
+                'machine',
+                'egg',
+                'tutor',
+                'other'
             ];
 
             yield this.render('detail', {
@@ -86,7 +88,8 @@ module.exports = (function() {
                 },
                 title:    titleData['detail'].replace('%s', monster.name),
                 monster:  monster,
-                moveLearnTypesArr: moveLearnTypesArr
+                moveLearnTypesArr: moveLearnTypesArr,
+                learnTypeStrMap: langData['moveLearnType']
             });
         }
     };

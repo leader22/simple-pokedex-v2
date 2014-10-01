@@ -90,13 +90,12 @@
 
 <section>
     <h2>おぼえる技</h2>
-
-    <% moveLearnTypesArr.forEach(function(obj) { %>
-    <h3><%- obj.label %></h3>
+    <% moveLearnTypesArr.forEach(function(learnType) { %>
+    <h3><%- learnTypeStrMap[learnType] %></h3>
     <ul>
-        <% monster.moves[obj.key].forEach(function(move) { %>
+        <% monster.moves[learnType].forEach(function(move) { %>
         <li>
-            <% if (obj.key === 'level') { %>
+            <% if (learnType === 'level') { %>
             <%- move.name %> @Lv<%- move.level %>
             <% } else { %>
             <%- move %>
