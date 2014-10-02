@@ -63,17 +63,19 @@ module.exports = (function() {
     return MonsterModel;
 
     function __extendMoveName(moves) {
+                    global.non = global.non || {};
         for (let learnType in moves) {
-            let learnTypeMoves = moves[learnType];
+            let learnTypeMoves = moves[learnType] || [];
             learnTypeMoves = learnTypeMoves.map(function(move) {
-                var name;
                 if (learnType === 'level') {
-                    name = moveNames[move.name] || { name: 'NoData' };
-                    move.name = name.name + ': ' + move.name;
+try{
+                    move.name = moveNames[move.name].name;
+}catch(e){console.log(move)}
                 }
                 else {
-                    name = moveNames[move] || { name: 'NoData' };
-                    move = name.name + ': ' + move;
+try{
+                    move = moveNames[move].name;
+}catch(e){console.log(move)}
                 }
 
                 return move;
@@ -81,6 +83,7 @@ module.exports = (function() {
             moves[learnType] = learnTypeMoves;
         }
 
+        console.log(global.non);
         return moves;
     }
 

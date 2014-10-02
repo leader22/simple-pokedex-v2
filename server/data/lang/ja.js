@@ -547,7 +547,7 @@ module.exports = {
             "name": "タマゴうみ",
             "desc": ""
         },
-        "high-jump kick": {
+        "high-jump-kick": {
             "name": "とびひざげり",
             "desc": ""
         },
@@ -1839,7 +1839,7 @@ module.exports = {
             "name": "ダブルアタック",
             "desc": ""
         },
-        "roar-of time": {
+        "roar-of-time": {
             "name": "ときのほうこう",
             "desc": ""
         },

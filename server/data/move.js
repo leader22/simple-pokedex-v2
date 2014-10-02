@@ -55,7 +55,7 @@ module.exports = {
         "egg": [
             "amnesia",
             "charm",
-            "grasswhistle",
+            "grass-whistle",
             "ingrain",
             "leaf-storm",
             "light-screen",
@@ -87,7 +87,7 @@ module.exports = {
             },
             {
                 "level": 20,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 25,
@@ -119,7 +119,7 @@ module.exports = {
             },
             {
                 "level": 48,
-                "name": "solarbeam"
+                "name": "solar-beam"
             }
         ],
         "other": []
@@ -200,7 +200,7 @@ module.exports = {
             },
             {
                 "level": 22,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 29,
@@ -228,7 +228,7 @@ module.exports = {
             },
             {
                 "level": 54,
-                "name": "solarbeam"
+                "name": "solar-beam"
             }
         ],
         "other": []
@@ -318,7 +318,7 @@ module.exports = {
             },
             {
                 "level": 22,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 29,
@@ -350,7 +350,7 @@ module.exports = {
             },
             {
                 "level": 65,
-                "name": "solarbeam"
+                "name": "solar-beam"
             }
         ],
         "other": []
@@ -359,7 +359,7 @@ module.exports = {
         "tutor": [
             "fire-pledge",
             "heat-wave",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "aerial-ace",
@@ -377,8 +377,8 @@ module.exports = {
             "double-team",
             "dragon-claw",
             "dragon-rage",
-            "dragonbreath",
-            "dynamicpunch",
+            "dragon-breath",
+            "dynamic-punch",
             "echoed-voice",
             "endure",
             "facade",
@@ -425,7 +425,7 @@ module.exports = {
             "will-o-wisp"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "beat-up",
             "belly-drum",
             "bite",
@@ -503,7 +503,7 @@ module.exports = {
             "heat-wave",
             "outrage",
             "rock-slide",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "aerial-ace",
@@ -521,8 +521,8 @@ module.exports = {
             "double-team",
             "dragon-claw",
             "dragon-rage",
-            "dragonbreath",
-            "dynamicpunch",
+            "dragon-breath",
+            "dynamic-punch",
             "echoed-voice",
             "endure",
             "facade",
@@ -638,7 +638,7 @@ module.exports = {
             "outrage",
             "rock-slide",
             "tailwind",
-            "thunderpunch",
+            "thunder-punch",
             "twister"
         ],
         "machine": [
@@ -661,8 +661,8 @@ module.exports = {
             "dragon-pulse",
             "dragon-rage",
             "dragon-tail",
-            "dragonbreath",
-            "dynamicpunch",
+            "dragon-breath",
+            "dynamic-punch",
             "earthquake",
             "echoed-voice",
             "endure",
@@ -706,7 +706,7 @@ module.exports = {
             "sky-drop",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "steel-wing",
             "strength",
             "submission",
@@ -821,7 +821,7 @@ module.exports = {
             "dive",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fling",
@@ -957,7 +957,7 @@ module.exports = {
             "dive",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fling",
@@ -1084,7 +1084,7 @@ module.exports = {
             "double-edge",
             "double-team",
             "dragon-tail",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -1287,7 +1287,7 @@ module.exports = {
             "skill-swap",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "substitute",
             "sunny-day",
@@ -1309,7 +1309,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 16,
@@ -1455,7 +1455,7 @@ module.exports = {
             "sleep-talk",
             "sludge-bomb",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "substitute",
             "sunny-day",
@@ -1568,7 +1568,7 @@ module.exports = {
         "egg": [
             "air-cutter",
             "brave-bird",
-            "faint-attack",
+            "feint-attack",
             "foresight",
             "pursuit",
             "steel-wing",
@@ -1605,7 +1605,7 @@ module.exports = {
             },
             {
                 "level": 31,
-                "name": "featherdance"
+                "name": "feather-dance"
             },
             {
                 "level": 36,
@@ -1715,7 +1715,7 @@ module.exports = {
             },
             {
                 "level": 34,
-                "name": "featherdance"
+                "name": "feather-dance"
             },
             {
                 "level": 40,
@@ -1827,7 +1827,7 @@ module.exports = {
             },
             {
                 "level": 34,
-                "name": "featherdance"
+                "name": "feather-dance"
             },
             {
                 "level": 44,
@@ -2162,9 +2162,9 @@ module.exports = {
         ],
         "egg": [
             "astonish",
-            "faint-attack",
+            "feint-attack",
             "false-swipe",
-            "featherdance",
+            "feather-dance",
             "quick-attack",
             "scary-face",
             "tri-attack",
@@ -2629,7 +2629,7 @@ module.exports = {
             "dig",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "echoed-voice",
             "endure",
             "facade",
@@ -2668,7 +2668,7 @@ module.exports = {
             "swagger",
             "take-down",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "volt-switch",
             "wild-charge",
@@ -2682,7 +2682,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 6,
@@ -2755,7 +2755,7 @@ module.exports = {
             "dig",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "echoed-voice",
             "endure",
             "facade",
@@ -2801,7 +2801,7 @@ module.exports = {
             "thief",
             "thunder",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "volt-switch",
             "wild-charge",
@@ -2823,7 +2823,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 1,
@@ -2853,7 +2853,7 @@ module.exports = {
             "dig",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -2979,7 +2979,7 @@ module.exports = {
             "dig",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -3364,7 +3364,7 @@ module.exports = {
             "double-team",
             "dragon-pulse",
             "dragon-tail",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "echoed-voice",
             "endure",
@@ -3433,7 +3433,7 @@ module.exports = {
             "thief",
             "thunder",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "venoshock",
@@ -3763,7 +3763,7 @@ module.exports = {
             "double-team",
             "dragon-pulse",
             "dragon-tail",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "echoed-voice",
             "endure",
@@ -3832,7 +3832,7 @@ module.exports = {
             "thief",
             "thunder",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "venoshock",
@@ -3900,7 +3900,7 @@ module.exports = {
             "magic-coat",
             "role-play",
             "signal-beam",
-            "softboiled",
+            "soft-boiled",
             "trick",
             "wonder-room",
             "zen-headbutt"
@@ -3923,7 +3923,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "echoed-voice",
             "endure",
             "facade",
@@ -3970,7 +3970,7 @@ module.exports = {
             "sleep-talk",
             "snatch",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "submission",
@@ -3983,7 +3983,7 @@ module.exports = {
             "thunder",
             "thunder-wave",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "tri-attack",
             "water-gun",
@@ -4015,7 +4015,7 @@ module.exports = {
             },
             {
                 "level": 18,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 22,
@@ -4093,7 +4093,7 @@ module.exports = {
             "magic-coat",
             "role-play",
             "signal-beam",
-            "softboiled",
+            "soft-boiled",
             "trick",
             "wonder-room",
             "zen-headbutt"
@@ -4117,7 +4117,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "echoed-voice",
             "endure",
             "facade",
@@ -4168,7 +4168,7 @@ module.exports = {
             "sleep-talk",
             "snatch",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "submission",
@@ -4181,7 +4181,7 @@ module.exports = {
             "thunder",
             "thunder-wave",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "tri-attack",
             "water-gun",
@@ -4209,7 +4209,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "doubleslap"
+                "name": "double-slap"
             }
         ],
         "other": []
@@ -4264,7 +4264,7 @@ module.exports = {
         "egg": [
             "disable",
             "energy-ball",
-            "faint-attack",
+            "feint-attack",
             "flail",
             "flare-blitz",
             "heat-wave",
@@ -4396,7 +4396,7 @@ module.exports = {
             "skull-bash",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -4473,7 +4473,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "echoed-voice",
             "endure",
             "facade",
@@ -4515,7 +4515,7 @@ module.exports = {
             "sleep-talk",
             "snatch",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "submission",
@@ -4527,7 +4527,7 @@ module.exports = {
             "thunder",
             "thunder-wave",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "tri-attack",
             "water-gun",
@@ -4564,7 +4564,7 @@ module.exports = {
             },
             {
                 "level": 24,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 29,
@@ -4628,7 +4628,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "echoed-voice",
             "endure",
             "facade",
@@ -4677,7 +4677,7 @@ module.exports = {
             "sleep-talk",
             "snatch",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "submission",
@@ -4689,7 +4689,7 @@ module.exports = {
             "thunder",
             "thunder-wave",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "tri-attack",
             "water-gun",
@@ -4714,7 +4714,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "doubleslap"
+                "name": "double-slap"
             }
         ],
         "other": []
@@ -4779,7 +4779,7 @@ module.exports = {
         ],
         "egg": [
             "brave-bird",
-            "faint-attack",
+            "feint-attack",
             "gust",
             "hypnosis",
             "nasty-plot",
@@ -5022,7 +5022,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 17,
@@ -5054,7 +5054,7 @@ module.exports = {
             },
             {
                 "level": 46,
-                "name": "solarbeam"
+                "name": "solar-beam"
             }
         ],
         "other": []
@@ -5118,7 +5118,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 1,
@@ -5150,7 +5150,7 @@ module.exports = {
             },
             {
                 "level": 52,
-                "name": "solarbeam"
+                "name": "solar-beam"
             }
         ],
         "other": []
@@ -5198,7 +5198,7 @@ module.exports = {
             "sleep-talk",
             "sludge-bomb",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -5239,7 +5239,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             }
         ],
         "other": []
@@ -5290,7 +5290,7 @@ module.exports = {
             "sleep-talk",
             "sludge-bomb",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "substitute",
             "sunny-day",
@@ -5327,7 +5327,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 20,
@@ -5416,7 +5416,7 @@ module.exports = {
             "sleep-talk",
             "sludge-bomb",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "substitute",
             "sunny-day",
@@ -5444,7 +5444,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 1,
@@ -5512,7 +5512,7 @@ module.exports = {
             "sleep-talk",
             "sludge-bomb",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "substitute",
             "sunny-day",
@@ -5558,7 +5558,7 @@ module.exports = {
             },
             {
                 "level": 24,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 27,
@@ -5636,7 +5636,7 @@ module.exports = {
             "sleep-talk",
             "sludge-bomb",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "substitute",
             "sunny-day",
@@ -5663,7 +5663,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 1,
@@ -5773,9 +5773,9 @@ module.exports = {
             "toxic"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "beat-up",
-            "faint-attack",
+            "feint-attack",
             "final-gambit",
             "headbutt",
             "memento",
@@ -6067,7 +6067,7 @@ module.exports = {
             },
             {
                 "level": 28,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 33,
@@ -6211,7 +6211,7 @@ module.exports = {
             },
             {
                 "level": 29,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 32,
@@ -6276,7 +6276,7 @@ module.exports = {
             "dive",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "flash",
@@ -6422,7 +6422,7 @@ module.exports = {
             "dive",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "flash",
@@ -6571,7 +6571,7 @@ module.exports = {
             "dig",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -6624,7 +6624,7 @@ module.exports = {
             "thief",
             "thunder",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "u-turn",
             "work-up"
@@ -6636,7 +6636,7 @@ module.exports = {
             "meditate",
             "revenge",
             "reversal",
-            "smellingsalt"
+            "smelling-salts"
         ],
         "level": [
             {
@@ -6733,7 +6733,7 @@ module.exports = {
             "dig",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -6788,7 +6788,7 @@ module.exports = {
             "thief",
             "thunder",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "u-turn",
             "work-up"
@@ -6873,7 +6873,7 @@ module.exports = {
             "double-edge",
             "double-team",
             "dragon-rage",
-            "dragonbreath",
+            "dragon-breath",
             "endure",
             "facade",
             "fire-blast",
@@ -7011,7 +7011,7 @@ module.exports = {
             "double-team",
             "dragon-pulse",
             "dragon-rage",
-            "dragonbreath",
+            "dragon-breath",
             "endure",
             "facade",
             "fire-blast",
@@ -7041,7 +7041,7 @@ module.exports = {
             "sleep-talk",
             "snarl",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "sunny-day",
@@ -7093,7 +7093,7 @@ module.exports = {
             },
             {
                 "level": 50,
-                "name": "extremespeed"
+                "name": "extreme-speed"
             }
         ],
         "other": []
@@ -7172,7 +7172,7 @@ module.exports = {
             },
             {
                 "level": 25,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 25,
@@ -7295,7 +7295,7 @@ module.exports = {
             },
             {
                 "level": 26,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 27,
@@ -7355,7 +7355,7 @@ module.exports = {
             "dive",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -7428,7 +7428,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 51,
@@ -7467,7 +7467,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "embargo",
             "endure",
             "energy-ball",
@@ -7519,7 +7519,7 @@ module.exports = {
             "telekinesis",
             "thief",
             "thunder-wave",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "tri-attack",
@@ -7568,7 +7568,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "embargo",
             "endure",
             "energy-ball",
@@ -7618,7 +7618,7 @@ module.exports = {
             "taunt",
             "thief",
             "thunder-wave",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "tri-attack",
@@ -7715,7 +7715,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "embargo",
             "endure",
             "energy-ball",
@@ -7768,7 +7768,7 @@ module.exports = {
             "taunt",
             "thief",
             "thunder-wave",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "tri-attack",
@@ -7863,7 +7863,7 @@ module.exports = {
             "dig",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -7908,7 +7908,7 @@ module.exports = {
             "swagger",
             "take-down",
             "thief",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "work-up"
         ],
@@ -7922,7 +7922,7 @@ module.exports = {
             "meditate",
             "power-trick",
             "rolling-kick",
-            "smellingsalt",
+            "smelling-salts",
             "tickle"
         ],
         "level": [
@@ -8005,7 +8005,7 @@ module.exports = {
             "dig",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -8051,7 +8051,7 @@ module.exports = {
             "swagger",
             "take-down",
             "thief",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "work-up"
         ],
@@ -8136,7 +8136,7 @@ module.exports = {
             "dig",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -8185,7 +8185,7 @@ module.exports = {
             "swagger",
             "take-down",
             "thief",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "work-up"
         ],
@@ -8286,7 +8286,7 @@ module.exports = {
             "sleep-talk",
             "sludge-bomb",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -8323,7 +8323,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 18,
@@ -8403,7 +8403,7 @@ module.exports = {
             "sleep-talk",
             "sludge-bomb",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -8429,7 +8429,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 18,
@@ -8514,7 +8514,7 @@ module.exports = {
             "sleep-talk",
             "sludge-bomb",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -8568,7 +8568,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 27,
@@ -8842,13 +8842,13 @@ module.exports = {
     },
     "74": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "earth-power",
             "flamethrower",
             "iron-defense",
             "sucker-punch",
             "superpower",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -8861,7 +8861,7 @@ module.exports = {
             "dig",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fire-blast",
@@ -8935,7 +8935,7 @@ module.exports = {
             },
             {
                 "level": 21,
-                "name": "selfdestruct"
+                "name": "self-destruct"
             },
             {
                 "level": 25,
@@ -8974,14 +8974,14 @@ module.exports = {
     },
     "75": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "block",
             "earth-power",
             "flamethrower",
             "iron-defense",
             "sucker-punch",
             "superpower",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -8994,7 +8994,7 @@ module.exports = {
             "dig",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fire-blast",
@@ -9063,7 +9063,7 @@ module.exports = {
             },
             {
                 "level": 21,
-                "name": "selfdestruct"
+                "name": "self-destruct"
             },
             {
                 "level": 27,
@@ -9102,7 +9102,7 @@ module.exports = {
     },
     "76": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "block",
             "earth-power",
             "flamethrower",
@@ -9110,7 +9110,7 @@ module.exports = {
             "iron-head",
             "sucker-punch",
             "superpower",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -9123,7 +9123,7 @@ module.exports = {
             "dig",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fire-blast",
@@ -9202,7 +9202,7 @@ module.exports = {
             },
             {
                 "level": 21,
-                "name": "selfdestruct"
+                "name": "self-destruct"
             },
             {
                 "level": 27,
@@ -9279,7 +9279,7 @@ module.exports = {
             "skull-bash",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "sunny-day",
@@ -9391,7 +9391,7 @@ module.exports = {
             "skull-bash",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "sunny-day",
@@ -9653,7 +9653,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "echoed-voice",
             "endure",
@@ -9845,11 +9845,11 @@ module.exports = {
             },
             {
                 "level": 21,
-                "name": "sonicboom"
+                "name": "sonic-boom"
             },
             {
                 "level": 25,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 26,
@@ -9965,11 +9965,11 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "sonicboom"
+                "name": "sonic-boom"
             },
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 1,
@@ -10095,7 +10095,7 @@ module.exports = {
         ],
         "egg": [
             "covet",
-            "featherdance",
+            "feather-dance",
             "flail",
             "foresight",
             "gust",
@@ -10228,7 +10228,7 @@ module.exports = {
             "assurance",
             "brave-bird",
             "endeavor",
-            "faint-attack",
+            "feint-attack",
             "flail",
             "haze",
             "mirror-move",
@@ -10646,7 +10646,7 @@ module.exports = {
             "curse",
             "dig",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "explosion",
             "facade",
@@ -10672,7 +10672,7 @@ module.exports = {
             "rock-tomb",
             "round",
             "secret-power",
-            "selfdestruct",
+            "self-destruct",
             "shadow-ball",
             "shock-wave",
             "sleep-talk",
@@ -10685,7 +10685,7 @@ module.exports = {
             "thief",
             "thunder",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "venoshock",
@@ -10780,7 +10780,7 @@ module.exports = {
             "dark-pulse",
             "dig",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "explosion",
             "facade",
@@ -10811,7 +10811,7 @@ module.exports = {
             "rock-tomb",
             "round",
             "secret-power",
-            "selfdestruct",
+            "self-destruct",
             "shadow-ball",
             "shock-wave",
             "sleep-talk",
@@ -10824,7 +10824,7 @@ module.exports = {
             "thief",
             "thunder",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "venoshock",
@@ -10920,7 +10920,7 @@ module.exports = {
             "return",
             "round",
             "secret-power",
-            "selfdestruct",
+            "self-destruct",
             "sleep-talk",
             "snore",
             "substitute",
@@ -11045,7 +11045,7 @@ module.exports = {
             "return",
             "round",
             "secret-power",
-            "selfdestruct",
+            "self-destruct",
             "sleep-talk",
             "snore",
             "substitute",
@@ -11140,7 +11140,7 @@ module.exports = {
             "return",
             "round",
             "secret-power",
-            "selfdestruct",
+            "self-destruct",
             "shadow-ball",
             "skill-swap",
             "sleep-talk",
@@ -11172,7 +11172,7 @@ module.exports = {
             "perish-song",
             "scary-face",
             "smog",
-            "thunderpunch",
+            "thunder-punch",
             "will-o-wisp"
         ],
         "level": [
@@ -11240,7 +11240,7 @@ module.exports = {
             "knock-off",
             "ominous-wind",
             "pain-split",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "uproar",
             "wonder-room"
@@ -11274,7 +11274,7 @@ module.exports = {
             "return",
             "round",
             "secret-power",
-            "selfdestruct",
+            "self-destruct",
             "shadow-ball",
             "shadow-claw",
             "skill-swap",
@@ -11380,7 +11380,7 @@ module.exports = {
             "double-edge",
             "double-team",
             "drain-punch",
-            "dynamicpunch",
+            "dynamic-punch",
             "embargo",
             "endure",
             "energy-ball",
@@ -11417,7 +11417,7 @@ module.exports = {
             "round",
             "secret-power",
             "seismic-toss",
-            "selfdestruct",
+            "self-destruct",
             "shadow-ball",
             "shadow-claw",
             "skill-swap",
@@ -11437,7 +11437,7 @@ module.exports = {
             "thief",
             "thunder",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "trick-room",
@@ -11508,7 +11508,7 @@ module.exports = {
     },
     "95": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "earth-power",
             "iron-head",
             "psych-up",
@@ -11551,7 +11551,7 @@ module.exports = {
             "rock-tomb",
             "round",
             "secret-power",
-            "selfdestruct",
+            "self-destruct",
             "skull-bash",
             "sleep-talk",
             "snore",
@@ -11604,7 +11604,7 @@ module.exports = {
             },
             {
                 "level": 30,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 30,
@@ -11655,7 +11655,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fire-punch",
@@ -11701,7 +11701,7 @@ module.exports = {
             "teleport",
             "thief",
             "thunder-wave",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "tri-attack",
@@ -11804,7 +11804,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fire-punch",
@@ -11854,7 +11854,7 @@ module.exports = {
             "teleport",
             "thief",
             "thunder-wave",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "tri-attack",
@@ -11990,7 +11990,7 @@ module.exports = {
         "egg": [
             "agility",
             "amnesia",
-            "ancientpower",
+            "ancient-power",
             "chip-away",
             "dig",
             "flail",
@@ -12014,7 +12014,7 @@ module.exports = {
             },
             {
                 "level": 20,
-                "name": "vicegrip"
+                "name": "vice-grip"
             },
             {
                 "level": 21,
@@ -12053,7 +12053,7 @@ module.exports = {
     },
     "99": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "iron-defense",
             "knock-off",
             "superpower"
@@ -12138,7 +12138,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "vicegrip"
+                "name": "vice-grip"
             },
             {
                 "level": 23,
@@ -12240,7 +12240,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "sonicboom"
+                "name": "sonic-boom"
             },
             {
                 "level": 21,
@@ -12248,7 +12248,7 @@ module.exports = {
             },
             {
                 "level": 22,
-                "name": "selfdestruct"
+                "name": "self-destruct"
             },
             {
                 "level": 26,
@@ -12345,7 +12345,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "sonicboom"
+                "name": "sonic-boom"
             },
             {
                 "level": 1,
@@ -12361,7 +12361,7 @@ module.exports = {
             },
             {
                 "level": 22,
-                "name": "selfdestruct"
+                "name": "self-destruct"
             },
             {
                 "level": 26,
@@ -12439,7 +12439,7 @@ module.exports = {
             "rollout",
             "round",
             "secret-power",
-            "selfdestruct",
+            "self-destruct",
             "skill-swap",
             "sleep-talk",
             "sludge-bomb",
@@ -12457,7 +12457,7 @@ module.exports = {
             "trick-room"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "block",
             "ingrain",
             "leaf-storm",
@@ -12507,11 +12507,11 @@ module.exports = {
             },
             {
                 "level": 37,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 42,
-                "name": "solarbeam"
+                "name": "solar-beam"
             },
             {
                 "level": 47,
@@ -12530,7 +12530,7 @@ module.exports = {
     },
     "103": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "block",
             "gravity",
             "low-kick",
@@ -12576,12 +12576,12 @@ module.exports = {
             "rollout",
             "round",
             "secret-power",
-            "selfdestruct",
+            "self-destruct",
             "skill-swap",
             "sleep-talk",
             "sludge-bomb",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "sunny-day",
@@ -12657,7 +12657,7 @@ module.exports = {
             "dig",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "echoed-voice",
             "endure",
@@ -12699,12 +12699,12 @@ module.exports = {
             "swagger",
             "take-down",
             "thief",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "water-gun"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "belly-drum",
             "chip-away",
             "double-kick",
@@ -12804,7 +12804,7 @@ module.exports = {
             "dig",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "echoed-voice",
             "endure",
@@ -12850,7 +12850,7 @@ module.exports = {
             "swagger",
             "take-down",
             "thief",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "water-gun"
         ],
@@ -12940,7 +12940,7 @@ module.exports = {
             "detect",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "facade",
             "fling",
@@ -13039,7 +13039,7 @@ module.exports = {
             },
             {
                 "level": 48,
-                "name": "hi-jump-kick"
+                "name": "high-jump-kick"
             },
             {
                 "level": 51,
@@ -13076,7 +13076,7 @@ module.exports = {
             "double-edge",
             "double-team",
             "drain-punch",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -13171,7 +13171,7 @@ module.exports = {
             },
             {
                 "level": 43,
-                "name": "thunderpunch"
+                "name": "thunder-punch"
             },
             {
                 "level": 44,
@@ -13217,7 +13217,7 @@ module.exports = {
             "double-team",
             "dragon-tail",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -13262,7 +13262,7 @@ module.exports = {
             "skull-bash",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "submission",
             "substitute",
@@ -13274,7 +13274,7 @@ module.exports = {
             "thief",
             "thunder",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "water-gun",
             "water-pulse",
@@ -13287,7 +13287,7 @@ module.exports = {
             "hammer-arm",
             "magnitude",
             "muddy-water",
-            "smellingsalt"
+            "smelling-salts"
         ],
         "level": [
             {
@@ -13443,7 +13443,7 @@ module.exports = {
             },
             {
                 "level": 40,
-                "name": "selfdestruct"
+                "name": "self-destruct"
             },
             {
                 "level": 45,
@@ -13553,7 +13553,7 @@ module.exports = {
             },
             {
                 "level": 43,
-                "name": "selfdestruct"
+                "name": "self-destruct"
             },
             {
                 "level": 49,
@@ -13576,7 +13576,7 @@ module.exports = {
     },
     "111": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "aqua-tail",
             "earth-power",
             "endeavor",
@@ -13719,7 +13719,7 @@ module.exports = {
     },
     "112": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "aqua-tail",
             "block",
             "earth-power",
@@ -13749,7 +13749,7 @@ module.exports = {
             "double-team",
             "dragon-pulse",
             "dragon-tail",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -13809,7 +13809,7 @@ module.exports = {
             "thief",
             "thunder",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "water-gun",
             "whirlpool",
@@ -13889,7 +13889,7 @@ module.exports = {
             "hyper-voice",
             "ice-punch",
             "last-resort",
-            "thunderpunch",
+            "thunder-punch",
             "zen-headbutt"
         ],
         "machine": [
@@ -13908,7 +13908,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "echoed-voice",
             "egg-bomb",
@@ -13962,8 +13962,8 @@ module.exports = {
             "sleep-talk",
             "snatch",
             "snore",
-            "softboiled",
-            "solarbeam",
+            "soft-boiled",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "submission",
@@ -13998,7 +13998,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 1,
@@ -14094,7 +14094,7 @@ module.exports = {
             "sleep-talk",
             "sludge-bomb",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -14139,11 +14139,11 @@ module.exports = {
             },
             {
                 "level": 32,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 33,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 36,
@@ -14212,7 +14212,7 @@ module.exports = {
             "double-edge",
             "double-team",
             "drain-punch",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "facade",
             "fire-blast",
@@ -14257,7 +14257,7 @@ module.exports = {
             "skull-bash",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "submission",
             "substitute",
@@ -14268,7 +14268,7 @@ module.exports = {
             "thief",
             "thunder",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "water-gun",
             "water-pulse",
@@ -14367,7 +14367,7 @@ module.exports = {
             "dive",
             "double-edge",
             "double-team",
-            "dragonbreath",
+            "dragon-breath",
             "endure",
             "facade",
             "flash-cannon",
@@ -14476,7 +14476,7 @@ module.exports = {
             "dive",
             "double-edge",
             "double-team",
-            "dragonbreath",
+            "dragon-breath",
             "endure",
             "facade",
             "flash-cannon",
@@ -15045,7 +15045,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "energy-ball",
             "facade",
@@ -15089,7 +15089,7 @@ module.exports = {
             "sleep-talk",
             "snatch",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "submission",
             "sunny-day",
             "swagger",
@@ -15101,7 +15101,7 @@ module.exports = {
             "thunder",
             "thunder-wave",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "trick-room",
@@ -15158,7 +15158,7 @@ module.exports = {
             },
             {
                 "level": 31,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 31,
@@ -15354,7 +15354,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "echoed-voice",
             "endure",
             "energy-ball",
@@ -15440,7 +15440,7 @@ module.exports = {
             },
             {
                 "level": 23,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 28,
@@ -15506,7 +15506,7 @@ module.exports = {
             "detect",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fire-punch",
@@ -15580,7 +15580,7 @@ module.exports = {
             },
             {
                 "level": 34,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 37,
@@ -15592,7 +15592,7 @@ module.exports = {
             },
             {
                 "level": 42,
-                "name": "thunderpunch"
+                "name": "thunder-punch"
             },
             {
                 "level": 49,
@@ -15624,7 +15624,7 @@ module.exports = {
             "detect",
             "double-edge",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fire-blast",
@@ -15668,7 +15668,7 @@ module.exports = {
             "take-down",
             "teleport",
             "thief",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "will-o-wisp"
         ],
@@ -15680,7 +15680,7 @@ module.exports = {
             },
             {
                 "level": 16,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 19,
@@ -15790,7 +15790,7 @@ module.exports = {
         "egg": [
             "bug-bite",
             "close-combat",
-            "faint-attack",
+            "feint-attack",
             "false-swipe",
             "feint",
             "flail",
@@ -15801,7 +15801,7 @@ module.exports = {
         "level": [
             {
                 "level": 1,
-                "name": "vicegrip"
+                "name": "vice-grip"
             },
             {
                 "level": 21,
@@ -15915,7 +15915,7 @@ module.exports = {
             "skull-bash",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "substitute",
@@ -16041,7 +16041,7 @@ module.exports = {
             "double-team",
             "dragon-pulse",
             "dragon-tail",
-            "dragonbreath",
+            "dragon-breath",
             "earthquake",
             "endure",
             "facade",
@@ -16167,7 +16167,7 @@ module.exports = {
             "double-team",
             "dragon-pulse",
             "dragon-rage",
-            "dragonbreath",
+            "dragon-breath",
             "dream-eater",
             "echoed-voice",
             "endure",
@@ -16200,7 +16200,7 @@ module.exports = {
             "skull-bash",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "surf",
@@ -16215,7 +16215,7 @@ module.exports = {
             "zap-cannon"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "aurora-beam",
             "dragon-dance",
             "fissure",
@@ -16617,7 +16617,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 37,
@@ -16836,7 +16836,7 @@ module.exports = {
             "skull-bash",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -17033,7 +17033,7 @@ module.exports = {
             },
             {
                 "level": 49,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 52,
@@ -17163,7 +17163,7 @@ module.exports = {
             },
             {
                 "level": 54,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 56,
@@ -17299,7 +17299,7 @@ module.exports = {
             },
             {
                 "level": 55,
-                "name": "ancientpower"
+                "name": "ancient-power"
             }
         ],
         "other": []
@@ -17443,7 +17443,7 @@ module.exports = {
             },
             {
                 "level": 65,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 72,
@@ -17478,7 +17478,7 @@ module.exports = {
             "dragon-claw",
             "dragon-pulse",
             "dragon-rage",
-            "dragonbreath",
+            "dragon-breath",
             "earthquake",
             "endure",
             "facade",
@@ -17554,7 +17554,7 @@ module.exports = {
             },
             {
                 "level": 29,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 33,
@@ -17618,7 +17618,7 @@ module.exports = {
             "counter",
             "curse",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -17659,13 +17659,13 @@ module.exports = {
             "sandstorm",
             "secret-power",
             "seismic-toss",
-            "selfdestruct",
+            "self-destruct",
             "shadow-ball",
             "shock-wave",
             "skull-bash",
             "sleep-talk",
             "smack-down",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "submission",
             "substitute",
@@ -17675,7 +17675,7 @@ module.exports = {
             "take-down",
             "thunder",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "water-gun",
             "water-pulse",
@@ -17854,7 +17854,7 @@ module.exports = {
             },
             {
                 "level": 29,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 37,
@@ -17959,7 +17959,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 1,
@@ -17971,7 +17971,7 @@ module.exports = {
             },
             {
                 "level": 29,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 37,
@@ -18079,7 +18079,7 @@ module.exports = {
             },
             {
                 "level": 29,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 37,
@@ -18115,7 +18115,7 @@ module.exports = {
             },
             {
                 "level": 71,
-                "name": "solarbeam"
+                "name": "solar-beam"
             },
             {
                 "level": 73,
@@ -18146,7 +18146,7 @@ module.exports = {
             "double-edge",
             "double-team",
             "dragon-pulse",
-            "dragonbreath",
+            "dragon-breath",
             "endure",
             "facade",
             "fire-blast",
@@ -18190,7 +18190,7 @@ module.exports = {
         "egg": [
             "aqua-jet",
             "dragon-dance",
-            "extremespeed",
+            "extreme-speed",
             "haze",
             "light-screen",
             "mist",
@@ -18270,7 +18270,7 @@ module.exports = {
             "double-edge",
             "double-team",
             "dragon-pulse",
-            "dragonbreath",
+            "dragon-breath",
             "endure",
             "facade",
             "fire-blast",
@@ -18405,8 +18405,8 @@ module.exports = {
             "double-team",
             "dragon-claw",
             "dragon-pulse",
-            "dragonbreath",
-            "dynamicpunch",
+            "dragon-breath",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -18463,7 +18463,7 @@ module.exports = {
             "take-down",
             "thunder",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "water-gun",
             "water-pulse",
@@ -18578,7 +18578,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "embargo",
             "endure",
@@ -18630,7 +18630,7 @@ module.exports = {
             "sandstorm",
             "secret-power",
             "seismic-toss",
-            "selfdestruct",
+            "self-destruct",
             "shadow-ball",
             "shock-wave",
             "skill-swap",
@@ -18638,7 +18638,7 @@ module.exports = {
             "sleep-talk",
             "snatch",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "submission",
@@ -18652,7 +18652,7 @@ module.exports = {
             "thunder",
             "thunder-wave",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "tri-attack",
@@ -18754,7 +18754,7 @@ module.exports = {
             "earth-power",
             "electroweb",
             "endeavor",
-            "faint-attack",
+            "feint-attack",
             "fake-out",
             "flamethrower",
             "foul-play",
@@ -18829,10 +18829,10 @@ module.exports = {
             "dragon-pulse",
             "dragon-rage",
             "dragon-tail",
-            "dragonbreath",
+            "dragon-breath",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "echoed-voice",
             "egg-bomb",
@@ -18910,7 +18910,7 @@ module.exports = {
             "scald",
             "secret-power",
             "seismic-toss",
-            "selfdestruct",
+            "self-destruct",
             "shadow-ball",
             "shadow-claw",
             "shock-wave",
@@ -18926,8 +18926,8 @@ module.exports = {
             "snarl",
             "snatch",
             "snore",
-            "softboiled",
-            "solarbeam",
+            "soft-boiled",
+            "solar-beam",
             "stealth-rock",
             "steel-wing",
             "stone-edge",
@@ -18949,7 +18949,7 @@ module.exports = {
             "thunder",
             "thunder-wave",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "tri-attack",
@@ -19000,7 +19000,7 @@ module.exports = {
             },
             {
                 "level": 50,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 60,
@@ -19069,10 +19069,10 @@ module.exports = {
             "toxic"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "counter",
             "flail",
-            "grasswhistle",
+            "grass-whistle",
             "heal-pulse",
             "ingrain",
             "leaf-storm",
@@ -19102,7 +19102,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 20,
@@ -19134,14 +19134,14 @@ module.exports = {
             },
             {
                 "level": 50,
-                "name": "solarbeam"
+                "name": "solar-beam"
             }
         ],
         "other": []
     },
     "153": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "counter",
             "double-edge",
             "grass-pledge",
@@ -19207,7 +19207,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 22,
@@ -19239,14 +19239,14 @@ module.exports = {
             },
             {
                 "level": 55,
-                "name": "solarbeam"
+                "name": "solar-beam"
             }
         ],
         "other": []
     },
     "154": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "counter",
             "double-edge",
             "frenzy-plant",
@@ -19320,7 +19320,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 22,
@@ -19356,7 +19356,7 @@ module.exports = {
             },
             {
                 "level": 61,
-                "name": "solarbeam"
+                "name": "solar-beam"
             }
         ],
         "other": []
@@ -19605,7 +19605,7 @@ module.exports = {
             "detect",
             "dig",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -19638,11 +19638,11 @@ module.exports = {
             "shadow-claw",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "swagger",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "wild-charge",
             "will-o-wisp"
@@ -19733,7 +19733,7 @@ module.exports = {
             "dig",
             "dive",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fling",
@@ -19767,7 +19767,7 @@ module.exports = {
             "whirlpool"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "aqua-jet",
             "block",
             "crunch",
@@ -19843,7 +19843,7 @@ module.exports = {
     },
     "159": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "block",
             "body-slam",
             "counter",
@@ -19874,7 +19874,7 @@ module.exports = {
             "dive",
             "double-team",
             "dragon-claw",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fling",
@@ -19982,7 +19982,7 @@ module.exports = {
     },
     "160": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "block",
             "body-slam",
             "counter",
@@ -20019,7 +20019,7 @@ module.exports = {
             "dragon-claw",
             "dragon-pulse",
             "dragon-tail",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -20153,7 +20153,7 @@ module.exports = {
             "detect",
             "dig",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "echoed-voice",
             "endure",
             "facade",
@@ -20184,14 +20184,14 @@ module.exports = {
             "shock-wave",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "surf",
             "swagger",
             "swift",
             "thief",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "u-turn",
             "water-pulse",
@@ -20300,7 +20300,7 @@ module.exports = {
             "detect",
             "dig",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "echoed-voice",
             "endure",
             "facade",
@@ -20335,7 +20335,7 @@ module.exports = {
             "shock-wave",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "surf",
@@ -20344,7 +20344,7 @@ module.exports = {
             "thief",
             "thunder",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "u-turn",
             "water-pulse",
@@ -20466,8 +20466,8 @@ module.exports = {
         ],
         "egg": [
             "agility",
-            "faint-attack",
-            "featherdance",
+            "feint-attack",
+            "feather-dance",
             "mirror-move",
             "night-shade",
             "sky-attack",
@@ -20700,7 +20700,7 @@ module.exports = {
             "dig",
             "double-team",
             "drain-punch",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "flash",
@@ -20721,13 +20721,13 @@ module.exports = {
             "secret-power",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "sunny-day",
             "swagger",
             "sweet-scent",
             "thief",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "u-turn"
         ],
@@ -20817,7 +20817,7 @@ module.exports = {
             "dig",
             "double-team",
             "drain-punch",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "flash",
@@ -20842,14 +20842,14 @@ module.exports = {
             "secret-power",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "struggle-bug",
             "sunny-day",
             "swagger",
             "sweet-scent",
             "thief",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "u-turn"
         ],
@@ -20942,7 +20942,7 @@ module.exports = {
             "sleep-talk",
             "sludge-bomb",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "sunny-day",
             "swagger",
@@ -20960,7 +20960,7 @@ module.exports = {
             "pursuit",
             "rage-powder",
             "signal-beam",
-            "sonicboom",
+            "sonic-boom",
             "toxic-spikes",
             "twineedle"
         ],
@@ -21067,7 +21067,7 @@ module.exports = {
             "sleep-talk",
             "sludge-bomb",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "sunny-day",
             "swagger",
@@ -21577,14 +21577,14 @@ module.exports = {
             "bestow",
             "bide",
             "charge",
-            "doubleslap",
+            "double-slap",
             "encore",
             "fake-out",
             "flail",
             "lucky-chant",
             "present",
             "reversal",
-            "thunderpunch",
+            "thunder-punch",
             "tickle",
             "wish"
         ],
@@ -21595,7 +21595,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 6,
@@ -21636,7 +21636,7 @@ module.exports = {
             "role-play",
             "seismic-toss",
             "signal-beam",
-            "softboiled",
+            "soft-boiled",
             "thunder-wave",
             "trick",
             "uproar",
@@ -21686,7 +21686,7 @@ module.exports = {
             "shock-wave",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "swagger",
             "telekinesis",
@@ -21804,7 +21804,7 @@ module.exports = {
             "shock-wave",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "swagger",
             "toxic",
@@ -21815,7 +21815,7 @@ module.exports = {
         ],
         "egg": [
             "covet",
-            "faint-attack",
+            "feint-attack",
             "fake-tears",
             "gravity",
             "last-resort",
@@ -21867,7 +21867,7 @@ module.exports = {
             "mimic",
             "seismic-toss",
             "signal-beam",
-            "softboiled",
+            "soft-boiled",
             "thunder-wave",
             "trick",
             "uproar",
@@ -21911,7 +21911,7 @@ module.exports = {
             "shock-wave",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "swagger",
             "swift",
@@ -21958,7 +21958,7 @@ module.exports = {
             },
             {
                 "level": 21,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 25,
@@ -22018,7 +22018,7 @@ module.exports = {
             "seismic-toss",
             "signal-beam",
             "sky-attack",
-            "softboiled",
+            "soft-boiled",
             "substitute",
             "tailwind",
             "thunder-wave",
@@ -22075,7 +22075,7 @@ module.exports = {
             "silver-wind",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "steel-wing",
             "sunny-day",
             "swagger",
@@ -22114,7 +22114,7 @@ module.exports = {
             },
             {
                 "level": 21,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 25,
@@ -22208,7 +22208,7 @@ module.exports = {
             "skill-swap",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "swagger",
             "swift",
@@ -22220,8 +22220,8 @@ module.exports = {
         ],
         "egg": [
             "drill-peck",
-            "faint-attack",
-            "featherdance",
+            "feint-attack",
+            "feather-dance",
             "haze",
             "quick-attack",
             "refresh",
@@ -22357,7 +22357,7 @@ module.exports = {
             "skill-swap",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "steel-wing",
             "sunny-day",
             "swagger",
@@ -22505,7 +22505,7 @@ module.exports = {
             },
             {
                 "level": 9,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 16,
@@ -22573,7 +22573,7 @@ module.exports = {
             "curse",
             "defense-curl",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "echoed-voice",
             "endure",
             "facade",
@@ -22600,7 +22600,7 @@ module.exports = {
             "strength",
             "swagger",
             "swift",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "volt-switch",
             "wild-charge",
@@ -22618,7 +22618,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 18,
@@ -22696,7 +22696,7 @@ module.exports = {
             "curse",
             "defense-curl",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "echoed-voice",
             "endure",
             "facade",
@@ -22744,7 +22744,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 1,
@@ -22768,7 +22768,7 @@ module.exports = {
             },
             {
                 "level": 30,
-                "name": "thunderpunch"
+                "name": "thunder-punch"
             },
             {
                 "level": 33,
@@ -22884,7 +22884,7 @@ module.exports = {
             },
             {
                 "level": 55,
-                "name": "solarbeam"
+                "name": "solar-beam"
             }
         ],
         "other": []
@@ -22912,7 +22912,7 @@ module.exports = {
             "dig",
             "dive",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fling",
@@ -23040,7 +23040,7 @@ module.exports = {
             "dig",
             "dive",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fling",
@@ -23161,7 +23161,7 @@ module.exports = {
             "defense-curl",
             "dig",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -23195,14 +23195,14 @@ module.exports = {
             "swagger",
             "taunt",
             "thief",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic"
         ],
         "egg": [
             "harden",
             "sand-tomb",
-            "selfdestruct"
+            "self-destruct"
         ],
         "level": [
             {
@@ -23239,7 +23239,7 @@ module.exports = {
             },
             {
                 "level": 37,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 41,
@@ -23287,7 +23287,7 @@ module.exports = {
             "dig",
             "dive",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "echoed-voice",
             "endure",
@@ -23345,7 +23345,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 43,
@@ -23395,7 +23395,7 @@ module.exports = {
             "silver-wind",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "swagger",
             "sweet-scent",
@@ -23433,7 +23433,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 15,
@@ -23519,7 +23519,7 @@ module.exports = {
             "silver-wind",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "swagger",
             "sweet-scent",
@@ -23545,7 +23545,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 15,
@@ -23633,7 +23633,7 @@ module.exports = {
             "silver-wind",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "swagger",
             "sweet-scent",
@@ -23659,7 +23659,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 15,
@@ -23741,7 +23741,7 @@ module.exports = {
             "dig",
             "double-team",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fire-punch",
@@ -23773,14 +23773,14 @@ module.exports = {
             "sleep-talk",
             "snatch",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "swagger",
             "taunt",
             "thief",
             "thunder",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "u-turn",
             "water-pulse",
@@ -23792,7 +23792,7 @@ module.exports = {
             "bounce",
             "counter",
             "covet",
-            "doubleslap",
+            "double-slap",
             "fake-out",
             "pursuit",
             "revenge",
@@ -23895,7 +23895,7 @@ module.exports = {
             "sleep-talk",
             "sludge-bomb",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "swagger",
             "sweet-scent",
             "toxic"
@@ -23903,7 +23903,7 @@ module.exports = {
         "egg": [
             "bide",
             "encore",
-            "grasswhistle",
+            "grass-whistle",
             "helping-hand",
             "leech-seed",
             "morning-sun",
@@ -24026,7 +24026,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "grasswhistle"
+                "name": "grass-whistle"
             },
             {
                 "level": 17,
@@ -24058,7 +24058,7 @@ module.exports = {
             },
             {
                 "level": 46,
-                "name": "solarbeam"
+                "name": "solar-beam"
             }
         ],
         "other": []
@@ -24099,7 +24099,7 @@ module.exports = {
             "shadow-ball",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "steel-wing",
             "sunny-day",
             "swagger",
@@ -24107,7 +24107,7 @@ module.exports = {
             "toxic"
         ],
         "egg": [
-            "faint-attack",
+            "feint-attack",
             "feint",
             "leech-life",
             "reversal",
@@ -24134,7 +24134,7 @@ module.exports = {
             },
             {
                 "level": 19,
-                "name": "sonicboom"
+                "name": "sonic-boom"
             },
             {
                 "level": 23,
@@ -24154,7 +24154,7 @@ module.exports = {
             },
             {
                 "level": 33,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 37,
@@ -24207,7 +24207,7 @@ module.exports = {
             "dig",
             "dive",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "flash",
@@ -24242,7 +24242,7 @@ module.exports = {
         "egg": [
             "acid-spray",
             "after-you",
-            "ancientpower",
+            "ancient-power",
             "body-slam",
             "counter",
             "double-kick",
@@ -24309,7 +24309,7 @@ module.exports = {
     "195": {
         "tutor": [
             "after-you",
-            "ancientpower",
+            "ancient-power",
             "aqua-tail",
             "body-slam",
             "counter",
@@ -24334,7 +24334,7 @@ module.exports = {
             "dig",
             "dive",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "flash",
@@ -24649,7 +24649,7 @@ module.exports = {
             },
             {
                 "level": 36,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 42,
@@ -24742,7 +24742,7 @@ module.exports = {
             "brave-bird",
             "confuse-ray",
             "drill-peck",
-            "featherdance",
+            "feather-dance",
             "mirror-move",
             "perish-song",
             "psycho-shift",
@@ -24779,7 +24779,7 @@ module.exports = {
             },
             {
                 "level": 31,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 40,
@@ -24842,7 +24842,7 @@ module.exports = {
             "dragon-tail",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "echoed-voice",
             "endure",
@@ -25311,7 +25311,7 @@ module.exports = {
             "secret-power",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "struggle-bug",
@@ -25343,7 +25343,7 @@ module.exports = {
             },
             {
                 "level": 8,
-                "name": "selfdestruct"
+                "name": "self-destruct"
             },
             {
                 "level": 9,
@@ -25437,7 +25437,7 @@ module.exports = {
             "secret-power",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "struggle-bug",
@@ -25468,7 +25468,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "selfdestruct"
+                "name": "self-destruct"
             },
             {
                 "level": 15,
@@ -25590,7 +25590,7 @@ module.exports = {
             "shock-wave",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "sunny-day",
@@ -25604,7 +25604,7 @@ module.exports = {
         ],
         "egg": [
             "agility",
-            "ancientpower",
+            "ancient-power",
             "astonish",
             "bide",
             "bite",
@@ -25779,7 +25779,7 @@ module.exports = {
             },
             {
                 "level": 28,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 36,
@@ -25810,7 +25810,7 @@ module.exports = {
     },
     "208": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "aqua-tail",
             "block",
             "body-slam",
@@ -25820,7 +25820,7 @@ module.exports = {
             "magnet-rise",
             "mimic",
             "rock-slide",
-            "selfdestruct",
+            "self-destruct",
             "substitute",
             "twister"
         ],
@@ -25836,7 +25836,7 @@ module.exports = {
             "double-team",
             "dragon-pulse",
             "dragon-tail",
-            "dragonbreath",
+            "dragon-breath",
             "earthquake",
             "endure",
             "facade",
@@ -25979,7 +25979,7 @@ module.exports = {
             "detect",
             "dig",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -26010,14 +26010,14 @@ module.exports = {
             "sludge-bomb",
             "snarl",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "swagger",
             "taunt",
             "thief",
             "thunder",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "water-pulse",
@@ -26028,13 +26028,13 @@ module.exports = {
         "egg": [
             "close-combat",
             "crunch",
-            "faint-attack",
+            "feint-attack",
             "heal-bell",
             "leer",
             "metronome",
             "present",
             "reflect",
-            "smellingsalt"
+            "smelling-salts"
         ],
         "level": [
             {
@@ -26125,7 +26125,7 @@ module.exports = {
             "detect",
             "dig",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -26163,7 +26163,7 @@ module.exports = {
             "sludge-bomb",
             "snarl",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "sunny-day",
@@ -26171,7 +26171,7 @@ module.exports = {
             "taunt",
             "thief",
             "thunder",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "water-pulse",
@@ -26251,7 +26251,7 @@ module.exports = {
             "ice-beam",
             "mimic",
             "pain-split",
-            "selfdestruct",
+            "self-destruct",
             "substitute",
             "swords-dance",
             "thunder-wave"
@@ -26519,7 +26519,7 @@ module.exports = {
     "213": {
         "tutor": [
             "after-you",
-            "ancientpower",
+            "ancient-power",
             "bind",
             "body-slam",
             "double-edge",
@@ -26803,7 +26803,7 @@ module.exports = {
             "dig",
             "double-team",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "embargo",
             "endure",
             "facade",
@@ -26887,7 +26887,7 @@ module.exports = {
             },
             {
                 "level": 25,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 33,
@@ -26948,7 +26948,7 @@ module.exports = {
             "defense-curl",
             "dig",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -26982,7 +26982,7 @@ module.exports = {
             "swift",
             "taunt",
             "thief",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "work-up",
@@ -27033,7 +27033,7 @@ module.exports = {
             },
             {
                 "level": 22,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 29,
@@ -27096,7 +27096,7 @@ module.exports = {
             "defense-curl",
             "dig",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "endure",
             "facade",
@@ -27136,7 +27136,7 @@ module.exports = {
             "swift",
             "taunt",
             "thief",
-            "thunderpunch",
+            "thunder-punch",
             "torment",
             "toxic",
             "work-up",
@@ -27174,7 +27174,7 @@ module.exports = {
             },
             {
                 "level": 22,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 29,
@@ -27210,7 +27210,7 @@ module.exports = {
             "iron-defense",
             "mimic",
             "pain-split",
-            "selfdestruct",
+            "self-destruct",
             "substitute"
         ],
         "machine": [
@@ -27287,7 +27287,7 @@ module.exports = {
             },
             {
                 "level": 26,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 29,
@@ -27324,7 +27324,7 @@ module.exports = {
             "iron-defense",
             "mimic",
             "pain-split",
-            "selfdestruct",
+            "self-destruct",
             "substitute"
         ],
         "machine": [
@@ -27364,7 +27364,7 @@ module.exports = {
             "sleep-talk",
             "smack-down",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "stone-edge",
             "strength",
@@ -27405,7 +27405,7 @@ module.exports = {
             },
             {
                 "level": 26,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 29,
@@ -27485,7 +27485,7 @@ module.exports = {
             "toxic"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "avalanche",
             "bite",
             "body-slam",
@@ -27613,7 +27613,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 1,
@@ -27676,7 +27676,7 @@ module.exports = {
             "icy-wind",
             "magic-coat",
             "mimic",
-            "selfdestruct",
+            "self-destruct",
             "substitute",
             "sucker-punch"
         ],
@@ -27793,7 +27793,7 @@ module.exports = {
             },
             {
                 "level": 43,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 44,
@@ -28442,7 +28442,7 @@ module.exports = {
             "snarl",
             "snatch",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "swagger",
             "swift",
@@ -28491,7 +28491,7 @@ module.exports = {
             },
             {
                 "level": 27,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 30,
@@ -28580,7 +28580,7 @@ module.exports = {
             "snarl",
             "snatch",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "swagger",
@@ -28627,7 +28627,7 @@ module.exports = {
             },
             {
                 "level": 30,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 32,
@@ -28684,7 +28684,7 @@ module.exports = {
             "curse",
             "dive",
             "double-team",
-            "dragonbreath",
+            "dragon-breath",
             "endure",
             "facade",
             "flash-cannon",
@@ -28815,7 +28815,7 @@ module.exports = {
             "toxic"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "body-slam",
             "counter",
             "endeavor",
@@ -28884,7 +28884,7 @@ module.exports = {
     },
     "232": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "block",
             "body-slam",
             "bounce",
@@ -29063,7 +29063,7 @@ module.exports = {
             "shock-wave",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "swagger",
             "swift",
@@ -29189,7 +29189,7 @@ module.exports = {
             "skill-swap",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "swagger",
             "swift",
@@ -29345,7 +29345,7 @@ module.exports = {
             "bullet-punch",
             "feint",
             "helping-hand",
-            "hi-jump-kick",
+            "high-jump-kick",
             "mach-punch",
             "mind-reader",
             "pursuit",
@@ -29525,7 +29525,7 @@ module.exports = {
             "curse",
             "double-team",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "echoed-voice",
             "endure",
             "facade",
@@ -29664,7 +29664,7 @@ module.exports = {
             "curse",
             "detect",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "fire-punch",
@@ -29715,11 +29715,11 @@ module.exports = {
             },
             {
                 "level": 7,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 9,
-                "name": "thunderpunch"
+                "name": "thunder-punch"
             },
             {
                 "level": 10,
@@ -29778,7 +29778,7 @@ module.exports = {
             "curse",
             "detect",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "facade",
             "flame-charge",
@@ -29803,7 +29803,7 @@ module.exports = {
             "snore",
             "swagger",
             "thief",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "will-o-wisp"
         ],
@@ -29833,7 +29833,7 @@ module.exports = {
             },
             {
                 "level": 16,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 19,
@@ -29902,7 +29902,7 @@ module.exports = {
             "bulldoze",
             "curse",
             "double-team",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "echoed-voice",
             "endure",
@@ -29936,7 +29936,7 @@ module.exports = {
             "shock-wave",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "sunny-day",
@@ -29944,7 +29944,7 @@ module.exports = {
             "swagger",
             "sweet-scent",
             "thunder",
-            "thunderpunch",
+            "thunder-punch",
             "toxic",
             "water-pulse",
             "whirlpool",
@@ -30041,7 +30041,7 @@ module.exports = {
             "substitute",
             "thunder-wave",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "zen-headbutt"
         ],
         "machine": [
@@ -30057,7 +30057,7 @@ module.exports = {
             "double-team",
             "drain-punch",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "earthquake",
             "echoed-voice",
             "endure",
@@ -30101,7 +30101,7 @@ module.exports = {
             "sleep-talk",
             "snatch",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "sunny-day",
@@ -30133,11 +30133,11 @@ module.exports = {
             },
             {
                 "level": 10,
-                "name": "softboiled"
+                "name": "soft-boiled"
             },
             {
                 "level": 13,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 18,
@@ -30255,7 +30255,7 @@ module.exports = {
             },
             {
                 "level": 11,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 21,
@@ -30346,7 +30346,7 @@ module.exports = {
             "sleep-talk",
             "snarl",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "sunny-day",
@@ -30585,7 +30585,7 @@ module.exports = {
             "toxic"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "assurance",
             "dragon-dance",
             "focus-energy",
@@ -30658,7 +30658,7 @@ module.exports = {
     },
     "247": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "body-slam",
             "double-edge",
             "earth-power",
@@ -30772,7 +30772,7 @@ module.exports = {
     },
     "248": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "aqua-tail",
             "block",
             "body-slam",
@@ -30796,7 +30796,7 @@ module.exports = {
             "superpower",
             "thunder-wave",
             "thunderbolt",
-            "thunderpunch",
+            "thunder-punch",
             "uproar"
         ],
         "machine": [
@@ -30815,8 +30815,8 @@ module.exports = {
             "dragon-claw",
             "dragon-pulse",
             "dragon-tail",
-            "dragonbreath",
-            "dynamicpunch",
+            "dragon-breath",
+            "dynamic-punch",
             "endure",
             "facade",
             "fire-blast",
@@ -30975,7 +30975,7 @@ module.exports = {
             "double-team",
             "dragon-pulse",
             "dragon-tail",
-            "dragonbreath",
+            "dragon-breath",
             "dream-eater",
             "earthquake",
             "echoed-voice",
@@ -31083,7 +31083,7 @@ module.exports = {
             },
             {
                 "level": 88,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 99,
@@ -31124,7 +31124,7 @@ module.exports = {
             "defog",
             "detect",
             "double-team",
-            "dragonbreath",
+            "dragon-breath",
             "dream-eater",
             "earthquake",
             "echoed-voice",
@@ -31162,7 +31162,7 @@ module.exports = {
             "sky-drop",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "steel-wing",
             "strength",
             "swagger",
@@ -31227,7 +31227,7 @@ module.exports = {
             },
             {
                 "level": 88,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 99,
@@ -31303,7 +31303,7 @@ module.exports = {
             "skill-swap",
             "sleep-talk",
             "snore",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "sunny-day",
             "swagger",
@@ -31343,7 +31343,7 @@ module.exports = {
             },
             {
                 "level": 20,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 30,
@@ -31381,7 +31381,7 @@ module.exports = {
             "body-slam",
             "counter",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fury-cutter",
             "grass-pledge",
@@ -31399,7 +31399,7 @@ module.exports = {
             "swagger",
             "swift",
             "swords-dance",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "acrobatics",
@@ -31430,7 +31430,7 @@ module.exports = {
             "round",
             "safeguard",
             "secret-power",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "toxic"
@@ -31439,9 +31439,9 @@ module.exports = {
             "crunch",
             "crush-claw",
             "double-kick",
-            "dragonbreath",
+            "dragon-breath",
             "endeavor",
-            "grasswhistle",
+            "grass-whistle",
             "leaf-storm",
             "leech-seed",
             "magical-leaf",
@@ -31507,7 +31507,7 @@ module.exports = {
             "body-slam",
             "counter",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endeavor",
             "endure",
             "grass-pledge",
@@ -31526,7 +31526,7 @@ module.exports = {
             "swift",
             "swords-dance",
             "synthesis",
-            "thunderpunch",
+            "thunder-punch",
             "worry-seed"
         ],
         "machine": [
@@ -31561,7 +31561,7 @@ module.exports = {
             "round",
             "safeguard",
             "secret-power",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "toxic",
@@ -31629,7 +31629,7 @@ module.exports = {
             "body-slam",
             "counter",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endeavor",
             "endure",
             "frenzy-plant",
@@ -31650,7 +31650,7 @@ module.exports = {
             "swift",
             "swords-dance",
             "synthesis",
-            "thunderpunch",
+            "thunder-punch",
             "worry-seed"
         ],
         "machine": [
@@ -31695,7 +31695,7 @@ module.exports = {
             "round",
             "safeguard",
             "secret-power",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "toxic"
@@ -31822,7 +31822,7 @@ module.exports = {
             "crush-claw",
             "curse",
             "endure",
-            "featherdance",
+            "feather-dance",
             "feint",
             "flame-burst",
             "last-resort",
@@ -31830,7 +31830,7 @@ module.exports = {
             "night-slash",
             "reversal",
             "rock-slide",
-            "smellingsalt",
+            "smelling-salts",
             "swagger"
         ],
         "level": [
@@ -31888,7 +31888,7 @@ module.exports = {
             "counter",
             "double-edge",
             "dual-chop",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-pledge",
             "fire-punch",
@@ -31910,7 +31910,7 @@ module.exports = {
             "swagger",
             "swift",
             "swords-dance",
-            "thunderpunch",
+            "thunder-punch",
             "vacuum-wave"
         ],
         "machine": [
@@ -32016,7 +32016,7 @@ module.exports = {
             "counter",
             "double-edge",
             "dual-chop",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-pledge",
             "fury-cutter",
@@ -32040,7 +32040,7 @@ module.exports = {
             "swagger",
             "swift",
             "swords-dance",
-            "thunderpunch",
+            "thunder-punch",
             "vacuum-wave"
         ],
         "machine": [
@@ -32082,7 +32082,7 @@ module.exports = {
             "round",
             "secret-power",
             "shadow-claw",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "sunny-day",
@@ -32094,7 +32094,7 @@ module.exports = {
         "level": [
             {
                 "level": 1,
-                "name": "hi-jump-kick"
+                "name": "high-jump-kick"
             },
             {
                 "level": 1,
@@ -32215,7 +32215,7 @@ module.exports = {
             "waterfall"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "avalanche",
             "bite",
             "counter",
@@ -32284,13 +32284,13 @@ module.exports = {
     },
     "259": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "aqua-tail",
             "body-slam",
             "counter",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "earth-power",
             "endure",
             "headbutt",
@@ -32408,13 +32408,13 @@ module.exports = {
     },
     "260": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "aqua-tail",
             "body-slam",
             "counter",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "earth-power",
             "endure",
             "headbutt",
@@ -33127,7 +33127,7 @@ module.exports = {
             "safeguard",
             "secret-power",
             "shadow-ball",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "sunny-day",
             "thief",
@@ -33244,7 +33244,7 @@ module.exports = {
             "secret-power",
             "shadow-ball",
             "sludge-bomb",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "sunny-day",
             "thief",
@@ -33337,7 +33337,7 @@ module.exports = {
             "round",
             "scald",
             "secret-power",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "surf",
             "thief",
@@ -33408,7 +33408,7 @@ module.exports = {
         "tutor": [
             "body-slam",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-punch",
             "headbutt",
@@ -33424,7 +33424,7 @@ module.exports = {
             "swagger",
             "swords-dance",
             "synthesis",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -33456,7 +33456,7 @@ module.exports = {
             "round",
             "scald",
             "secret-power",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "surf",
@@ -33523,7 +33523,7 @@ module.exports = {
             "body-slam",
             "counter",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-punch",
             "headbutt",
@@ -33543,7 +33543,7 @@ module.exports = {
             "swagger",
             "swords-dance",
             "synthesis",
-            "thunderpunch",
+            "thunder-punch",
             "uproar",
             "zen-headbutt"
         ],
@@ -33582,7 +33582,7 @@ module.exports = {
             "round",
             "scald",
             "secret-power",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "surf",
@@ -33627,7 +33627,7 @@ module.exports = {
             "mimic",
             "rollout",
             "seed-bomb",
-            "selfdestruct",
+            "self-destruct",
             "sleep-talk",
             "snore",
             "spite",
@@ -33657,7 +33657,7 @@ module.exports = {
             "round",
             "secret-power",
             "shadow-ball",
-            "solarbeam",
+            "solar-beam",
             "toxic"
         ],
         "egg": [
@@ -33723,7 +33723,7 @@ module.exports = {
             "psych-up",
             "rollout",
             "seed-bomb",
-            "selfdestruct",
+            "self-destruct",
             "sleep-talk",
             "snore",
             "spite",
@@ -33767,7 +33767,7 @@ module.exports = {
             "secret-power",
             "shadow-ball",
             "snarl",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "thief",
@@ -33805,7 +33805,7 @@ module.exports = {
             },
             {
                 "level": 31,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 37,
@@ -33844,7 +33844,7 @@ module.exports = {
             "psych-up",
             "rollout",
             "seed-bomb",
-            "selfdestruct",
+            "self-destruct",
             "sleep-talk",
             "snore",
             "spite",
@@ -33897,7 +33897,7 @@ module.exports = {
             "shadow-ball",
             "silver-wind",
             "snarl",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "thief",
@@ -33913,7 +33913,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 1,
@@ -34400,7 +34400,7 @@ module.exports = {
             "swagger",
             "swift",
             "thunder-wave",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "wonder-room",
             "zen-headbutt"
@@ -34544,7 +34544,7 @@ module.exports = {
             "swagger",
             "swift",
             "thunder-wave",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "wonder-room",
             "zen-headbutt"
@@ -34679,7 +34679,7 @@ module.exports = {
             "swagger",
             "swift",
             "thunder-wave",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "wonder-room",
             "zen-headbutt"
@@ -34829,7 +34829,7 @@ module.exports = {
             "scald",
             "secret-power",
             "shadow-ball",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "sunny-day",
             "thief",
@@ -34933,7 +34933,7 @@ module.exports = {
             "scald",
             "secret-power",
             "shadow-ball",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "sunny-day",
             "thief",
@@ -35030,7 +35030,7 @@ module.exports = {
             "secret-power",
             "sludge-bomb",
             "snatch",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "toxic",
             "venoshock"
@@ -35072,7 +35072,7 @@ module.exports = {
             },
             {
                 "level": 28,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 29,
@@ -35116,7 +35116,7 @@ module.exports = {
             "swagger",
             "swords-dance",
             "synthesis",
-            "thunderpunch",
+            "thunder-punch",
             "vacuum-wave",
             "worry-seed"
         ],
@@ -35157,7 +35157,7 @@ module.exports = {
             "secret-power",
             "sludge-bomb",
             "snatch",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "sunny-day",
@@ -35217,7 +35217,7 @@ module.exports = {
             },
             {
                 "level": 54,
-                "name": "dynamicpunch"
+                "name": "dynamic-punch"
             }
         ],
         "other": []
@@ -35225,7 +35225,7 @@ module.exports = {
     "287": {
         "tutor": [
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-punch",
             "fury-cutter",
@@ -35242,7 +35242,7 @@ module.exports = {
             "substitute",
             "sucker-punch",
             "swagger",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "aerial-ace",
@@ -35276,7 +35276,7 @@ module.exports = {
             "shadow-ball",
             "shadow-claw",
             "shock-wave",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "thunder",
@@ -35317,7 +35317,7 @@ module.exports = {
             },
             {
                 "level": 19,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 25,
@@ -35348,7 +35348,7 @@ module.exports = {
             "body-slam",
             "covet",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "fire-punch",
             "fury-cutter",
             "gunk-shot",
@@ -35367,7 +35367,7 @@ module.exports = {
             "substitute",
             "sucker-punch",
             "swagger",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "aerial-ace",
@@ -35406,7 +35406,7 @@ module.exports = {
             "shadow-ball",
             "shadow-claw",
             "shock-wave",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "taunt",
@@ -35471,7 +35471,7 @@ module.exports = {
             "block",
             "body-slam",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-punch",
             "fury-cutter",
@@ -35490,7 +35490,7 @@ module.exports = {
             "snore",
             "substitute",
             "sucker-punch",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "aerial-ace",
@@ -35533,7 +35533,7 @@ module.exports = {
             "shadow-claw",
             "shock-wave",
             "smack-down",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "taunt",
@@ -35563,7 +35563,7 @@ module.exports = {
             },
             {
                 "level": 19,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 25,
@@ -35634,7 +35634,7 @@ module.exports = {
             "sandstorm",
             "secret-power",
             "shadow-ball",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "sunny-day",
             "toxic",
@@ -35644,7 +35644,7 @@ module.exports = {
             "bug-bite",
             "bug-buzz",
             "endure",
-            "faint-attack",
+            "feint-attack",
             "final-gambit",
             "gust",
             "night-slash",
@@ -35737,7 +35737,7 @@ module.exports = {
             "secret-power",
             "shadow-ball",
             "silver-wind",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "sunny-day",
             "thief",
@@ -35849,7 +35849,7 @@ module.exports = {
             "sandstorm",
             "secret-power",
             "shadow-claw",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "sunny-day",
             "telekinesis",
@@ -35917,7 +35917,7 @@ module.exports = {
             "counter",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-punch",
             "headbutt",
@@ -35931,7 +35931,7 @@ module.exports = {
             "rollout",
             "seismic-toss",
             "substitute",
-            "thunderpunch",
+            "thunder-punch",
             "zen-headbutt"
         ],
         "machine": [
@@ -35957,7 +35957,7 @@ module.exports = {
             "secret-power",
             "shadow-ball",
             "shock-wave",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "toxic",
             "water-pulse",
@@ -35969,7 +35969,7 @@ module.exports = {
             "extrasensory",
             "fake-tears",
             "hammer-arm",
-            "smellingsalt",
+            "smelling-salts",
             "smokescreen",
             "snore",
             "swagger",
@@ -36033,7 +36033,7 @@ module.exports = {
             "counter",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endeavor",
             "endure",
             "fire-punch",
@@ -36052,7 +36052,7 @@ module.exports = {
             "snore",
             "substitute",
             "swagger",
-            "thunderpunch",
+            "thunder-punch",
             "zen-headbutt"
         ],
         "machine": [
@@ -36085,7 +36085,7 @@ module.exports = {
             "shadow-ball",
             "shock-wave",
             "smack-down",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "taunt",
@@ -36157,7 +36157,7 @@ module.exports = {
             "counter",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endeavor",
             "endure",
             "fire-punch",
@@ -36177,7 +36177,7 @@ module.exports = {
             "snore",
             "substitute",
             "swagger",
-            "thunderpunch",
+            "thunder-punch",
             "zen-headbutt"
         ],
         "machine": [
@@ -36214,7 +36214,7 @@ module.exports = {
             "shadow-ball",
             "shock-wave",
             "smack-down",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "surf",
@@ -36322,7 +36322,7 @@ module.exports = {
             "substitute",
             "superpower",
             "swagger",
-            "thunderpunch",
+            "thunder-punch",
             "vacuum-wave"
         ],
         "machine": [
@@ -36367,8 +36367,8 @@ module.exports = {
             "counter",
             "cross-chop",
             "detect",
-            "dynamicpunch",
-            "faint-attack",
+            "dynamic-punch",
+            "feint-attack",
             "feint",
             "foresight",
             "helping-hand",
@@ -36414,7 +36414,7 @@ module.exports = {
             },
             {
                 "level": 31,
-                "name": "smellingsalt"
+                "name": "smelling-salts"
             },
             {
                 "level": 34,
@@ -36452,7 +36452,7 @@ module.exports = {
             "body-slam",
             "counter",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "fire-punch",
             "headbutt",
             "helping-hand",
@@ -36471,7 +36471,7 @@ module.exports = {
             "substitute",
             "superpower",
             "swagger",
-            "thunderpunch",
+            "thunder-punch",
             "vacuum-wave"
         ],
         "machine": [
@@ -36558,7 +36558,7 @@ module.exports = {
             },
             {
                 "level": 33,
-                "name": "smellingsalt"
+                "name": "smelling-salts"
             },
             {
                 "level": 40,
@@ -36688,11 +36688,11 @@ module.exports = {
     },
     "299": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "body-slam",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-punch",
             "gravity",
@@ -36704,12 +36704,12 @@ module.exports = {
             "mimic",
             "mud-slap",
             "pain-split",
-            "selfdestruct",
+            "self-destruct",
             "sleep-talk",
             "snore",
             "substitute",
             "swagger",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -36858,7 +36858,7 @@ module.exports = {
             "secret-power",
             "shadow-ball",
             "shock-wave",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "thunder",
             "thunderbolt",
@@ -36917,7 +36917,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 19,
@@ -36929,7 +36929,7 @@ module.exports = {
             },
             {
                 "level": 27,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 29,
@@ -37012,7 +37012,7 @@ module.exports = {
             "secret-power",
             "shadow-ball",
             "shock-wave",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "thunder",
@@ -37042,7 +37042,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "doubleslap"
+                "name": "double-slap"
             }
         ],
         "other": []
@@ -37053,7 +37053,7 @@ module.exports = {
             "counter",
             "double-edge",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-punch",
             "fury-cutter",
@@ -37080,7 +37080,7 @@ module.exports = {
             "substitute",
             "sucker-punch",
             "swagger",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "wonder-room"
         ],
@@ -37177,7 +37177,7 @@ module.exports = {
             },
             {
                 "level": 29,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 33,
@@ -37223,7 +37223,7 @@ module.exports = {
             "body-slam",
             "counter",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "foul-play",
             "headbutt",
@@ -37246,7 +37246,7 @@ module.exports = {
             "substitute",
             "super-fang",
             "swagger",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -37283,7 +37283,7 @@ module.exports = {
             "secret-power",
             "shadow-ball",
             "sludge-bomb",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "sunny-day",
@@ -37292,7 +37292,7 @@ module.exports = {
             "toxic"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "false-swipe",
             "fire-fang",
             "guard-swap",
@@ -37325,11 +37325,11 @@ module.exports = {
             },
             {
                 "level": 21,
-                "name": "vicegrip"
+                "name": "vice-grip"
             },
             {
                 "level": 26,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 31,
@@ -37368,7 +37368,7 @@ module.exports = {
     },
     "304": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "defense-curl",
             "earth-power",
             "endure",
@@ -37423,7 +37423,7 @@ module.exports = {
             "endeavor",
             "head-smash",
             "screech",
-            "smellingsalt",
+            "smelling-salts",
             "stomp"
         ],
         "level": [
@@ -37496,7 +37496,7 @@ module.exports = {
     },
     "305": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "body-slam",
             "defense-curl",
             "earth-power",
@@ -37618,13 +37618,13 @@ module.exports = {
     },
     "306": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "aqua-tail",
             "block",
             "body-slam",
             "counter",
             "defense-curl",
-            "dynamicpunch",
+            "dynamic-punch",
             "earth-power",
             "endeavor",
             "endure",
@@ -37648,7 +37648,7 @@ module.exports = {
             "superpower",
             "swagger",
             "thunder-wave",
-            "thunderpunch",
+            "thunder-punch",
             "uproar"
         ],
         "machine": [
@@ -37696,7 +37696,7 @@ module.exports = {
             "shadow-claw",
             "shock-wave",
             "smack-down",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "stone-edge",
             "strength",
@@ -37850,7 +37850,7 @@ module.exports = {
         "egg": [
             "baton-pass",
             "bullet-punch",
-            "dynamicpunch",
+            "dynamic-punch",
             "fake-out",
             "fire-punch",
             "foresight",
@@ -37858,7 +37858,7 @@ module.exports = {
             "ice-punch",
             "power-swap",
             "psycho-cut",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "level": [
             {
@@ -37899,7 +37899,7 @@ module.exports = {
             },
             {
                 "level": 32,
-                "name": "hi-jump-kick"
+                "name": "high-jump-kick"
             },
             {
                 "level": 38,
@@ -37930,7 +37930,7 @@ module.exports = {
             "counter",
             "double-edge",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "gravity",
             "headbutt",
@@ -38009,7 +38009,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thunderpunch"
+                "name": "thunder-punch"
             },
             {
                 "level": 1,
@@ -38049,7 +38049,7 @@ module.exports = {
             },
             {
                 "level": 32,
-                "name": "hi-jump-kick"
+                "name": "high-jump-kick"
             },
             {
                 "level": 40,
@@ -38305,7 +38305,7 @@ module.exports = {
             "counter",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "headbutt",
             "magnet-rise",
@@ -38321,7 +38321,7 @@ module.exports = {
             "snore",
             "swagger",
             "swift",
-            "thunderpunch",
+            "thunder-punch",
             "uproar"
         ],
         "machine": [
@@ -38433,7 +38433,7 @@ module.exports = {
             "counter",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "headbutt",
             "last-resort",
@@ -38450,7 +38450,7 @@ module.exports = {
             "snore",
             "swagger",
             "swift",
-            "thunderpunch",
+            "thunder-punch",
             "uproar"
         ],
         "machine": [
@@ -38566,7 +38566,7 @@ module.exports = {
             "body-slam",
             "bug-bite",
             "counter",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "ice-punch",
             "mega-kick",
@@ -38585,7 +38585,7 @@ module.exports = {
             "swift",
             "tailwind",
             "thunder-wave",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "acrobatics",
@@ -38611,7 +38611,7 @@ module.exports = {
             "secret-power",
             "shadow-ball",
             "shock-wave",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "sunny-day",
             "thief",
@@ -38687,7 +38687,7 @@ module.exports = {
             "bug-bite",
             "counter",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "ice-punch",
             "mega-kick",
@@ -38706,7 +38706,7 @@ module.exports = {
             "swift",
             "tailwind",
             "thunder-wave",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "acrobatics",
@@ -38734,7 +38734,7 @@ module.exports = {
             "secret-power",
             "shadow-ball",
             "shock-wave",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "sunny-day",
             "thief",
@@ -38845,7 +38845,7 @@ module.exports = {
             "secret-power",
             "shadow-ball",
             "sludge-bomb",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "venoshock"
         ],
@@ -38893,7 +38893,7 @@ module.exports = {
             },
             {
                 "level": 29,
-                "name": "grasswhistle"
+                "name": "grass-whistle"
             },
             {
                 "level": 33,
@@ -38932,7 +38932,7 @@ module.exports = {
             "counter",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "explosion",
             "fire-punch",
@@ -38943,12 +38943,12 @@ module.exports = {
             "nightmare",
             "rollout",
             "seed-bomb",
-            "selfdestruct",
+            "self-destruct",
             "sleep-talk",
             "snore",
             "substitute",
             "swagger",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -38972,7 +38972,7 @@ module.exports = {
             "shock-wave",
             "sludge-wave",
             "snatch",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "venoshock",
@@ -39057,7 +39057,7 @@ module.exports = {
             "defense-curl",
             "double-edge",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "explosion",
             "fire-punch",
@@ -39069,12 +39069,12 @@ module.exports = {
             "pain-split",
             "rollout",
             "seed-bomb",
-            "selfdestruct",
+            "self-destruct",
             "sleep-talk",
             "snore",
             "substitute",
             "swagger",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -39102,7 +39102,7 @@ module.exports = {
             "shock-wave",
             "sludge-wave",
             "snatch",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "venoshock",
@@ -39228,7 +39228,7 @@ module.exports = {
             "whirlpool"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "double-edge",
             "hydro-pump",
             "thrash"
@@ -39291,7 +39291,7 @@ module.exports = {
     },
     "319": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "bounce",
             "double-edge",
             "endure",
@@ -39432,7 +39432,7 @@ module.exports = {
             "hyper-voice",
             "icy-wind",
             "mimic",
-            "selfdestruct",
+            "self-destruct",
             "substitute"
         ],
         "machine": [
@@ -39554,7 +39554,7 @@ module.exports = {
             "icy-wind",
             "iron-head",
             "mimic",
-            "selfdestruct",
+            "self-destruct",
             "sleep-talk",
             "snore",
             "substitute",
@@ -39701,7 +39701,7 @@ module.exports = {
             "will-o-wisp"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "body-slam",
             "defense-curl",
             "heat-wave",
@@ -39790,7 +39790,7 @@ module.exports = {
             "mimic",
             "mud-slap",
             "rollout",
-            "selfdestruct",
+            "self-destruct",
             "sleep-talk",
             "snore",
             "substitute",
@@ -39825,7 +39825,7 @@ module.exports = {
             "round",
             "sandstorm",
             "secret-power",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "stone-edge",
             "strength",
@@ -39913,7 +39913,7 @@ module.exports = {
             "mud-slap",
             "rock-slide",
             "rollout",
-            "selfdestruct",
+            "self-destruct",
             "snore",
             "substitute",
             "swagger"
@@ -39942,7 +39942,7 @@ module.exports = {
             "round",
             "secret-power",
             "sludge-bomb",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "stone-edge",
             "strength",
@@ -40165,7 +40165,7 @@ module.exports = {
             "covet",
             "double-edge",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-punch",
             "headbutt",
@@ -40183,7 +40183,7 @@ module.exports = {
             "substitute",
             "swagger",
             "swift",
-            "thunderpunch",
+            "thunder-punch",
             "trick"
         ],
         "machine": [
@@ -40301,7 +40301,7 @@ module.exports = {
             "covet",
             "defense-curl",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-punch",
             "headbutt",
@@ -40324,7 +40324,7 @@ module.exports = {
             "substitute",
             "swagger",
             "swift",
-            "thunderpunch",
+            "thunder-punch",
             "zen-headbutt"
         ],
         "machine": [
@@ -40378,7 +40378,7 @@ module.exports = {
             "rapid-spin",
             "rock-slide",
             "role-play",
-            "smellingsalt",
+            "smelling-salts",
             "trick",
             "wish"
         ],
@@ -40397,7 +40397,7 @@ module.exports = {
             },
             {
                 "level": 12,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 16,
@@ -40471,7 +40471,7 @@ module.exports = {
             "rock-tomb",
             "round",
             "secret-power",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "struggle-bug",
             "sunny-day",
@@ -40497,7 +40497,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 17,
@@ -40593,7 +40593,7 @@ module.exports = {
             "round",
             "secret-power",
             "silver-wind",
-            "solarbeam",
+            "solar-beam",
             "steel-wing",
             "strength",
             "struggle-bug",
@@ -40617,11 +40617,11 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 1,
-                "name": "sonicboom"
+                "name": "sonic-boom"
             },
             {
                 "level": 17,
@@ -40637,7 +40637,7 @@ module.exports = {
             },
             {
                 "level": 35,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 41,
@@ -40680,7 +40680,7 @@ module.exports = {
             "swagger",
             "swift",
             "tailwind",
-            "thunderpunch",
+            "thunder-punch",
             "twister"
         ],
         "machine": [
@@ -40715,7 +40715,7 @@ module.exports = {
             "round",
             "secret-power",
             "silver-wind",
-            "solarbeam",
+            "solar-beam",
             "steel-wing",
             "stone-edge",
             "strength",
@@ -40732,7 +40732,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "sonicboom"
+                "name": "sonic-boom"
             },
             {
                 "level": 1,
@@ -40744,7 +40744,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 17,
@@ -40760,7 +40760,7 @@ module.exports = {
             },
             {
                 "level": 35,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 41,
@@ -40800,7 +40800,7 @@ module.exports = {
             "swagger",
             "swords-dance",
             "synthesis",
-            "thunderpunch",
+            "thunder-punch",
             "worry-seed"
         ],
         "machine": [
@@ -40828,7 +40828,7 @@ module.exports = {
             "return",
             "round",
             "secret-power",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "toxic",
             "venoshock"
@@ -40838,13 +40838,13 @@ module.exports = {
             "block",
             "counter",
             "disable",
-            "dynamicpunch",
-            "grasswhistle",
+            "dynamic-punch",
+            "grass-whistle",
             "low-kick",
             "magical-leaf",
             "nasty-plot",
             "seed-bomb",
-            "smellingsalt",
+            "smelling-salts",
             "switcheroo",
             "teeter-dance"
         ],
@@ -40883,7 +40883,7 @@ module.exports = {
             },
             {
                 "level": 29,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 33,
@@ -40922,7 +40922,7 @@ module.exports = {
             "body-slam",
             "counter",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "foul-play",
             "fury-cutter",
@@ -40943,7 +40943,7 @@ module.exports = {
             "swagger",
             "swords-dance",
             "synthesis",
-            "thunderpunch",
+            "thunder-punch",
             "worry-seed"
         ],
         "machine": [
@@ -40976,7 +40976,7 @@ module.exports = {
             "return",
             "round",
             "secret-power",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "toxic",
@@ -41022,7 +41022,7 @@ module.exports = {
             },
             {
                 "level": 29,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 35,
@@ -41098,7 +41098,7 @@ module.exports = {
             "roost",
             "round",
             "secret-power",
-            "solarbeam",
+            "solar-beam",
             "steel-wing",
             "sunny-day",
             "thief",
@@ -41107,7 +41107,7 @@ module.exports = {
         "egg": [
             "agility",
             "dragon-rush",
-            "featherdance",
+            "feather-dance",
             "haze",
             "hyper-voice",
             "power-swap",
@@ -41230,7 +41230,7 @@ module.exports = {
             "roost",
             "round",
             "secret-power",
-            "solarbeam",
+            "solar-beam",
             "steel-wing",
             "sunny-day",
             "thief",
@@ -41280,7 +41280,7 @@ module.exports = {
             },
             {
                 "level": 35,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 40,
@@ -41314,7 +41314,7 @@ module.exports = {
             "body-slam",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endeavor",
             "endure",
             "fire-punch",
@@ -41337,7 +41337,7 @@ module.exports = {
             "swagger",
             "swift",
             "thunder-wave",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "aerial-ace",
@@ -41376,7 +41376,7 @@ module.exports = {
             "shadow-ball",
             "shadow-claw",
             "shock-wave",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "thief",
@@ -41598,7 +41598,7 @@ module.exports = {
     },
     "337": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "body-slam",
             "defense-curl",
             "double-edge",
@@ -41615,7 +41615,7 @@ module.exports = {
             "psych-up",
             "rock-slide",
             "rollout",
-            "selfdestruct",
+            "self-destruct",
             "signal-beam",
             "sleep-talk",
             "snore",
@@ -41727,7 +41727,7 @@ module.exports = {
     },
     "338": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "body-slam",
             "defense-curl",
             "double-edge",
@@ -41744,7 +41744,7 @@ module.exports = {
             "pain-split",
             "psych-up",
             "rollout",
-            "selfdestruct",
+            "self-destruct",
             "signal-beam",
             "sleep-talk",
             "snore",
@@ -41845,7 +41845,7 @@ module.exports = {
             },
             {
                 "level": 43,
-                "name": "solarbeam"
+                "name": "solar-beam"
             },
             {
                 "level": 49,
@@ -42129,7 +42129,7 @@ module.exports = {
             "x-scissor"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "body-slam",
             "chip-away",
             "dragon-dance",
@@ -42150,7 +42150,7 @@ module.exports = {
             },
             {
                 "level": 10,
-                "name": "vicegrip"
+                "name": "vice-grip"
             },
             {
                 "level": 13,
@@ -42197,7 +42197,7 @@ module.exports = {
     },
     "342": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "body-slam",
             "counter",
             "double-edge",
@@ -42265,7 +42265,7 @@ module.exports = {
         "level": [
             {
                 "level": 1,
-                "name": "vicegrip"
+                "name": "vice-grip"
             },
             {
                 "level": 1,
@@ -42371,7 +42371,7 @@ module.exports = {
             "shadow-ball",
             "skill-swap",
             "smack-down",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "sunny-day",
             "telekinesis",
@@ -42406,11 +42406,11 @@ module.exports = {
             },
             {
                 "level": 19,
-                "name": "selfdestruct"
+                "name": "self-destruct"
             },
             {
                 "level": 25,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 31,
@@ -42506,7 +42506,7 @@ module.exports = {
             "shadow-ball",
             "skill-swap",
             "smack-down",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "stone-edge",
             "strength",
@@ -42547,11 +42547,11 @@ module.exports = {
             },
             {
                 "level": 19,
-                "name": "selfdestruct"
+                "name": "self-destruct"
             },
             {
                 "level": 25,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 31,
@@ -42638,7 +42638,7 @@ module.exports = {
             "secret-power",
             "sludge-bomb",
             "smack-down",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "sunny-day",
             "swords-dance",
@@ -42684,7 +42684,7 @@ module.exports = {
             },
             {
                 "level": 43,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 50,
@@ -42760,7 +42760,7 @@ module.exports = {
             "sludge-bomb",
             "sludge-wave",
             "smack-down",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "stone-edge",
             "strength",
@@ -42800,7 +42800,7 @@ module.exports = {
             },
             {
                 "level": 48,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 56,
@@ -42908,7 +42908,7 @@ module.exports = {
             },
             {
                 "level": 37,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 43,
@@ -43023,7 +43023,7 @@ module.exports = {
             },
             {
                 "level": 37,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 46,
@@ -43089,7 +43089,7 @@ module.exports = {
             "brine",
             "confuse-ray",
             "dragon-pulse",
-            "dragonbreath",
+            "dragon-breath",
             "haze",
             "hypnosis",
             "iron-tail",
@@ -43266,7 +43266,7 @@ module.exports = {
             "secret-power",
             "shadow-ball",
             "shock-wave",
-            "solarbeam",
+            "solar-beam",
             "thief",
             "thunder",
             "thunderbolt",
@@ -43336,7 +43336,7 @@ module.exports = {
             "counter",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-punch",
             "fury-cutter",
@@ -43361,7 +43361,7 @@ module.exports = {
             "swagger",
             "swift",
             "thunder-wave",
-            "thunderpunch",
+            "thunder-punch",
             "wonder-room"
         ],
         "machine": [
@@ -43403,7 +43403,7 @@ module.exports = {
             "shock-wave",
             "skill-swap",
             "snatch",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "sunny-day",
@@ -43451,7 +43451,7 @@ module.exports = {
             },
             {
                 "level": 7,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 12,
@@ -43487,7 +43487,7 @@ module.exports = {
             },
             {
                 "level": 49,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 55,
@@ -43604,7 +43604,7 @@ module.exports = {
             },
             {
                 "level": 37,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 38,
@@ -43730,7 +43730,7 @@ module.exports = {
             },
             {
                 "level": 39,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 42,
@@ -43812,7 +43812,7 @@ module.exports = {
         ],
         "egg": [
             "destiny-bond",
-            "faint-attack",
+            "feint-attack",
             "grudge",
             "imprison",
             "memento",
@@ -43885,7 +43885,7 @@ module.exports = {
             "counter",
             "double-edge",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-punch",
             "headbutt",
@@ -43908,7 +43908,7 @@ module.exports = {
             "substitute",
             "sucker-punch",
             "swagger",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "wonder-room"
         ],
@@ -44133,7 +44133,7 @@ module.exports = {
             },
             {
                 "level": 41,
-                "name": "solarbeam"
+                "name": "solar-beam"
             },
             {
                 "level": 47,
@@ -44383,7 +44383,7 @@ module.exports = {
             "baton-pass",
             "curse",
             "double-edge",
-            "faint-attack",
+            "feint-attack",
             "hex",
             "magic-coat",
             "mean-look",
@@ -44614,7 +44614,7 @@ module.exports = {
             "iron-head",
             "mimic",
             "rollout",
-            "selfdestruct",
+            "self-destruct",
             "signal-beam",
             "sleep-talk",
             "snore",
@@ -45391,7 +45391,7 @@ module.exports = {
             },
             {
                 "level": 43,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 50,
@@ -45597,7 +45597,7 @@ module.exports = {
             },
             {
                 "level": 33,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 35,
@@ -45707,7 +45707,7 @@ module.exports = {
             },
             {
                 "level": 38,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 47,
@@ -45835,7 +45835,7 @@ module.exports = {
             },
             {
                 "level": 38,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 47,
@@ -45886,7 +45886,7 @@ module.exports = {
             "body-slam",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "explosion",
             "fury-cutter",
@@ -45900,14 +45900,14 @@ module.exports = {
             "psych-up",
             "rock-slide",
             "rollout",
-            "selfdestruct",
+            "self-destruct",
             "signal-beam",
             "sleep-talk",
             "snore",
             "substitute",
             "swagger",
             "swift",
-            "thunderpunch",
+            "thunder-punch",
             "trick"
         ],
         "machine": [
@@ -46014,7 +46014,7 @@ module.exports = {
             "body-slam",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "explosion",
             "fury-cutter",
@@ -46028,14 +46028,14 @@ module.exports = {
             "psych-up",
             "rock-slide",
             "rollout",
-            "selfdestruct",
+            "self-destruct",
             "signal-beam",
             "sleep-talk",
             "snore",
             "substitute",
             "swagger",
             "swift",
-            "thunderpunch",
+            "thunder-punch",
             "trick"
         ],
         "machine": [
@@ -46148,7 +46148,7 @@ module.exports = {
             "counter",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "earth-power",
             "endure",
             "fire-punch",
@@ -46164,13 +46164,13 @@ module.exports = {
             "rock-slide",
             "rollout",
             "seismic-toss",
-            "selfdestruct",
+            "self-destruct",
             "sleep-talk",
             "snore",
             "substitute",
             "swagger",
             "thunder-wave",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "brick-break",
@@ -46231,7 +46231,7 @@ module.exports = {
             },
             {
                 "level": 33,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 41,
@@ -46271,7 +46271,7 @@ module.exports = {
             "counter",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "gravity",
             "headbutt",
@@ -46285,14 +46285,14 @@ module.exports = {
             "rock-slide",
             "rollout",
             "seismic-toss",
-            "selfdestruct",
+            "self-destruct",
             "signal-beam",
             "sleep-talk",
             "snore",
             "substitute",
             "swagger",
             "thunder-wave",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "avalanche",
@@ -46354,7 +46354,7 @@ module.exports = {
             },
             {
                 "level": 33,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 41,
@@ -46390,7 +46390,7 @@ module.exports = {
             "counter",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "gravity",
             "headbutt",
@@ -46404,13 +46404,13 @@ module.exports = {
             "rock-slide",
             "rollout",
             "seismic-toss",
-            "selfdestruct",
+            "self-destruct",
             "sleep-talk",
             "snore",
             "substitute",
             "swagger",
             "thunder-wave",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "aerial-ace",
@@ -46472,7 +46472,7 @@ module.exports = {
             },
             {
                 "level": 33,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 41,
@@ -46583,7 +46583,7 @@ module.exports = {
             "shadow-ball",
             "shadow-claw",
             "shock-wave",
-            "solarbeam",
+            "solar-beam",
             "steel-wing",
             "sunny-day",
             "surf",
@@ -46615,7 +46615,7 @@ module.exports = {
             },
             {
                 "level": 20,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 25,
@@ -46738,7 +46738,7 @@ module.exports = {
             "shadow-ball",
             "shadow-claw",
             "shock-wave",
-            "solarbeam",
+            "solar-beam",
             "steel-wing",
             "sunny-day",
             "surf",
@@ -46773,7 +46773,7 @@ module.exports = {
             },
             {
                 "level": 20,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 25,
@@ -46894,7 +46894,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 20,
@@ -46950,7 +46950,7 @@ module.exports = {
             "counter",
             "defense-curl",
             "double-edge",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-punch",
             "fury-cutter",
@@ -46971,7 +46971,7 @@ module.exports = {
             "swift",
             "swords-dance",
             "thunder-wave",
-            "thunderpunch",
+            "thunder-punch",
             "uproar"
         ],
         "machine": [
@@ -47031,7 +47031,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 15,
@@ -47067,7 +47067,7 @@ module.exports = {
             },
             {
                 "level": 65,
-                "name": "solarbeam"
+                "name": "solar-beam"
             },
             {
                 "level": 75,
@@ -47146,7 +47146,7 @@ module.exports = {
             "shadow-claw",
             "shock-wave",
             "sky-drop",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "sunny-day",
@@ -47171,7 +47171,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 20,
@@ -47203,7 +47203,7 @@ module.exports = {
             },
             {
                 "level": 60,
-                "name": "extremespeed"
+                "name": "extreme-speed"
             },
             {
                 "level": 65,
@@ -47222,11 +47222,11 @@ module.exports = {
     },
     "385": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "body-slam",
             "defense-curl",
             "dream-eater",
-            "dynamicpunch",
+            "dynamic-punch",
             "endure",
             "fire-punch",
             "headbutt",
@@ -47247,7 +47247,7 @@ module.exports = {
             "substitute",
             "swagger",
             "thunder-wave",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "uproar"
         ],
@@ -47377,7 +47377,7 @@ module.exports = {
             "signal-beam",
             "snore",
             "swift",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "wonder-room"
         ],
@@ -47427,7 +47427,7 @@ module.exports = {
             "shock-wave",
             "skill-swap",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "substitute",
@@ -47538,7 +47538,7 @@ module.exports = {
             "safeguard",
             "secret-power",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "substitute",
@@ -47652,7 +47652,7 @@ module.exports = {
             "safeguard",
             "secret-power",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "substitute",
@@ -47763,7 +47763,7 @@ module.exports = {
             "sandstorm",
             "secret-power",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "stone-edge",
             "strength",
@@ -47905,7 +47905,7 @@ module.exports = {
             "helping-hand",
             "quick-guard",
             "submission",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "level": [
             {
@@ -47980,7 +47980,7 @@ module.exports = {
             "rollout",
             "snore",
             "swift",
-            "thunderpunch",
+            "thunder-punch",
             "vacuum-wave"
         ],
         "machine": [
@@ -48112,7 +48112,7 @@ module.exports = {
             "rollout",
             "snore",
             "swift",
-            "thunderpunch",
+            "thunder-punch",
             "vacuum-wave"
         ],
         "machine": [
@@ -48159,7 +48159,7 @@ module.exports = {
             "secret-power",
             "shadow-claw",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "stone-edge",
             "strength",
@@ -48286,7 +48286,7 @@ module.exports = {
             "agility",
             "aqua-ring",
             "double-hit",
-            "featherdance",
+            "feather-dance",
             "flail",
             "mud-slap",
             "mud-sport",
@@ -48641,7 +48641,7 @@ module.exports = {
             "astonish",
             "detect",
             "double-edge",
-            "featherdance",
+            "feather-dance",
             "foresight",
             "fury-attack",
             "pursuit",
@@ -49593,7 +49593,7 @@ module.exports = {
             "shadow-ball",
             "sleep-talk",
             "sludge-bomb",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -49604,7 +49604,7 @@ module.exports = {
         "egg": [
             "cotton-spore",
             "extrasensory",
-            "grasswhistle",
+            "grass-whistle",
             "leaf-storm",
             "mind-reader",
             "pin-missile",
@@ -49680,7 +49680,7 @@ module.exports = {
             "shadow-ball",
             "sleep-talk",
             "sludge-bomb",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -49723,7 +49723,7 @@ module.exports = {
             "snore",
             "spite",
             "superpower",
-            "thunderpunch",
+            "thunder-punch",
             "uproar"
         ],
         "machine": [
@@ -49816,7 +49816,7 @@ module.exports = {
             },
             {
                 "level": 28,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 28,
@@ -49848,7 +49848,7 @@ module.exports = {
             "snore",
             "spite",
             "superpower",
-            "thunderpunch",
+            "thunder-punch",
             "uproar"
         ],
         "machine": [
@@ -49942,7 +49942,7 @@ module.exports = {
             },
             {
                 "level": 28,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 28,
@@ -50060,7 +50060,7 @@ module.exports = {
             },
             {
                 "level": 28,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 33,
@@ -50168,7 +50168,7 @@ module.exports = {
             },
             {
                 "level": 28,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 30,
@@ -50258,7 +50258,7 @@ module.exports = {
             "shadow-ball",
             "skill-swap",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "substitute",
             "sunny-day",
@@ -50365,7 +50365,7 @@ module.exports = {
             "shadow-ball",
             "skill-swap",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "substitute",
             "sunny-day",
@@ -50403,7 +50403,7 @@ module.exports = {
             },
             {
                 "level": 29,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 32,
@@ -50600,7 +50600,7 @@ module.exports = {
             "mud-slap",
             "seed-bomb",
             "snore",
-            "thunderpunch",
+            "thunder-punch",
             "uproar"
         ],
         "machine": [
@@ -50753,7 +50753,7 @@ module.exports = {
         "egg": [
             "aqua-ring",
             "baton-pass",
-            "doubleslap",
+            "double-slap",
             "fury-cutter",
             "fury-swipes",
             "headbutt",
@@ -50775,7 +50775,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "sonicboom"
+                "name": "sonic-boom"
             },
             {
                 "level": 3,
@@ -50899,7 +50899,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "sonicboom"
+                "name": "sonic-boom"
             },
             {
                 "level": 6,
@@ -50980,7 +50980,7 @@ module.exports = {
         "egg": [
             "aromatherapy",
             "defense-curl",
-            "grasswhistle",
+            "grass-whistle",
             "heal-pulse",
             "healing-wish",
             "nature-power",
@@ -51028,7 +51028,7 @@ module.exports = {
             },
             {
                 "level": 37,
-                "name": "solarbeam"
+                "name": "solar-beam"
             },
             {
                 "level": 40,
@@ -51116,7 +51116,7 @@ module.exports = {
             },
             {
                 "level": 43,
-                "name": "solarbeam"
+                "name": "solar-beam"
             },
             {
                 "level": 48,
@@ -51127,7 +51127,7 @@ module.exports = {
     },
     "422": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "dive",
             "earth-power",
             "headbutt",
@@ -51223,7 +51223,7 @@ module.exports = {
     },
     "423": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "block",
             "dive",
             "earth-power",
@@ -51335,7 +51335,7 @@ module.exports = {
             "seed-bomb",
             "snore",
             "spite",
-            "thunderpunch",
+            "thunder-punch",
             "uproar"
         ],
         "machine": [
@@ -51374,7 +51374,7 @@ module.exports = {
             "shock-wave",
             "sleep-talk",
             "snatch",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "sunny-day",
@@ -51751,7 +51751,7 @@ module.exports = {
             "shadow-ball",
             "shock-wave",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -51776,7 +51776,7 @@ module.exports = {
             "sky-uppercut",
             "sweet-kiss",
             "switcheroo",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "level": [
             {
@@ -51862,7 +51862,7 @@ module.exports = {
             "mud-slap",
             "snore",
             "swift",
-            "thunderpunch",
+            "thunder-punch",
             "uproar"
         ],
         "machine": [
@@ -51897,7 +51897,7 @@ module.exports = {
             "shadow-ball",
             "shock-wave",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "sunny-day",
@@ -52269,7 +52269,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 20,
@@ -52386,7 +52386,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 20,
@@ -52764,7 +52764,7 @@ module.exports = {
     },
     "436": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "gravity",
             "rollout",
             "signal-beam",
@@ -52806,7 +52806,7 @@ module.exports = {
             "shadow-ball",
             "skill-swap",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "substitute",
             "sunny-day",
@@ -52867,7 +52867,7 @@ module.exports = {
             },
             {
                 "level": 41,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 49,
@@ -52886,7 +52886,7 @@ module.exports = {
     },
     "437": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "gravity",
             "iron-head",
             "rollout",
@@ -52933,7 +52933,7 @@ module.exports = {
             "shadow-ball",
             "skill-swap",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "substitute",
@@ -53006,7 +53006,7 @@ module.exports = {
             },
             {
                 "level": 50,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 61,
@@ -53071,7 +53071,7 @@ module.exports = {
             "headbutt",
             "rollout",
             "sand-tomb",
-            "selfdestruct"
+            "self-destruct"
         ],
         "level": [
             {
@@ -53104,7 +53104,7 @@ module.exports = {
             },
             {
                 "level": 25,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 30,
@@ -53171,7 +53171,7 @@ module.exports = {
             "skill-swap",
             "sleep-talk",
             "snatch",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "swagger",
             "taunt",
@@ -53226,7 +53226,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 18,
@@ -53321,7 +53321,7 @@ module.exports = {
             "shadow-ball",
             "shock-wave",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "sunny-day",
             "swagger",
             "thunder-wave",
@@ -53465,7 +53465,7 @@ module.exports = {
             },
             {
                 "level": 41,
-                "name": "featherdance"
+                "name": "feather-dance"
             },
             {
                 "level": 45,
@@ -53560,7 +53560,7 @@ module.exports = {
             },
             {
                 "level": 7,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 13,
@@ -53645,7 +53645,7 @@ module.exports = {
         "egg": [
             "body-slam",
             "double-edge",
-            "dragonbreath",
+            "dragon-breath",
             "iron-head",
             "iron-tail",
             "metal-claw",
@@ -53935,7 +53935,7 @@ module.exports = {
             "seed-bomb",
             "snore",
             "superpower",
-            "thunderpunch",
+            "thunder-punch",
             "uproar"
         ],
         "machine": [
@@ -53971,7 +53971,7 @@ module.exports = {
             "shadow-ball",
             "shock-wave",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "sunny-day",
             "surf",
@@ -53990,7 +53990,7 @@ module.exports = {
             "curse",
             "double-edge",
             "pursuit",
-            "selfdestruct",
+            "self-destruct",
             "substitute",
             "whirlwind",
             "zen-headbutt"
@@ -54079,7 +54079,7 @@ module.exports = {
             "role-play",
             "snore",
             "swift",
-            "thunderpunch",
+            "thunder-punch",
             "zen-headbutt"
         ],
         "machine": [
@@ -54134,7 +54134,7 @@ module.exports = {
             "crunch",
             "detect",
             "follow-me",
-            "hi-jump-kick",
+            "high-jump-kick",
             "iron-defense",
             "low-kick",
             "mind-reader",
@@ -54203,7 +54203,7 @@ module.exports = {
             "role-play",
             "snore",
             "swift",
-            "thunderpunch",
+            "thunder-punch",
             "vacuum-wave",
             "zen-headbutt"
         ],
@@ -54331,7 +54331,7 @@ module.exports = {
             },
             {
                 "level": 51,
-                "name": "extremespeed"
+                "name": "extreme-speed"
             }
         ],
         "other": []
@@ -54589,7 +54589,7 @@ module.exports = {
         "egg": [
             "agility",
             "confuse-ray",
-            "faint-attack",
+            "feint-attack",
             "night-slash",
             "poison-tail",
             "pursuit",
@@ -54816,7 +54816,7 @@ module.exports = {
             "snore",
             "spite",
             "super-fang",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -54869,13 +54869,13 @@ module.exports = {
             "counter",
             "cross-chop",
             "drain-punch",
-            "dynamicpunch",
+            "dynamic-punch",
             "fake-out",
             "feint",
             "headbutt",
             "me-first",
             "meditate",
-            "smellingsalt",
+            "smelling-salts",
             "vacuum-wave",
             "wake-up-slap"
         ],
@@ -54902,7 +54902,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 22,
@@ -54961,7 +54961,7 @@ module.exports = {
             "snore",
             "spite",
             "super-fang",
-            "thunderpunch",
+            "thunder-punch",
             "vacuum-wave"
         ],
         "machine": [
@@ -55038,7 +55038,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 22,
@@ -55115,7 +55115,7 @@ module.exports = {
             "secret-power",
             "sleep-talk",
             "sludge-bomb",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -55124,7 +55124,7 @@ module.exports = {
             "toxic"
         ],
         "egg": [
-            "grasswhistle",
+            "grass-whistle",
             "leech-seed",
             "magical-leaf",
             "rage-powder",
@@ -55162,7 +55162,7 @@ module.exports = {
             },
             {
                 "level": 27,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 31,
@@ -55563,7 +55563,7 @@ module.exports = {
             "secret-power",
             "shadow-ball",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "swords-dance",
             "toxic",
@@ -55597,7 +55597,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "grasswhistle"
+                "name": "grass-whistle"
             },
             {
                 "level": 17,
@@ -55683,7 +55683,7 @@ module.exports = {
             "secret-power",
             "shadow-ball",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "swords-dance",
@@ -55714,7 +55714,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "grasswhistle"
+                "name": "grass-whistle"
             },
             {
                 "level": 17,
@@ -55851,7 +55851,7 @@ module.exports = {
             },
             {
                 "level": 14,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 21,
@@ -55950,7 +55950,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 1,
@@ -55966,7 +55966,7 @@ module.exports = {
             },
             {
                 "level": 14,
-                "name": "sonicboom"
+                "name": "sonic-boom"
             },
             {
                 "level": 17,
@@ -56026,7 +56026,7 @@ module.exports = {
             "icy-wind",
             "mud-slap",
             "snore",
-            "thunderpunch",
+            "thunder-punch",
             "zen-headbutt"
         ],
         "machine": [
@@ -56073,7 +56073,7 @@ module.exports = {
             "shadow-ball",
             "shock-wave",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "sunny-day",
@@ -56159,7 +56159,7 @@ module.exports = {
     },
     "464": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "aqua-tail",
             "block",
             "earth-power",
@@ -56176,7 +56176,7 @@ module.exports = {
             "snore",
             "spite",
             "superpower",
-            "thunderpunch",
+            "thunder-punch",
             "uproar"
         ],
         "machine": [
@@ -56355,7 +56355,7 @@ module.exports = {
             "shock-wave",
             "sleep-talk",
             "sludge-bomb",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "sunny-day",
@@ -56388,7 +56388,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 19,
@@ -56408,7 +56408,7 @@ module.exports = {
             },
             {
                 "level": 33,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 36,
@@ -56515,7 +56515,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 1,
@@ -56535,7 +56535,7 @@ module.exports = {
             },
             {
                 "level": 28,
-                "name": "thunderpunch"
+                "name": "thunder-punch"
             },
             {
                 "level": 32,
@@ -56607,7 +56607,7 @@ module.exports = {
             "round",
             "secret-power",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "swagger",
@@ -56626,7 +56626,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thunderpunch"
+                "name": "thunder-punch"
             },
             {
                 "level": 1,
@@ -56642,7 +56642,7 @@ module.exports = {
             },
             {
                 "level": 16,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 19,
@@ -56690,7 +56690,7 @@ module.exports = {
     "468": {
         "tutor": [
             "air-cutter",
-            "ancientpower",
+            "ancient-power",
             "covet",
             "endeavor",
             "headbutt",
@@ -56755,7 +56755,7 @@ module.exports = {
             "shock-wave",
             "silver-wind",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "steel-wing",
             "substitute",
             "sunny-day",
@@ -56778,7 +56778,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "extremespeed"
+                "name": "extreme-speed"
             },
             {
                 "level": 1,
@@ -56825,7 +56825,7 @@ module.exports = {
             "shadow-ball",
             "silver-wind",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "steel-wing",
             "struggle-bug",
             "substitute",
@@ -56862,7 +56862,7 @@ module.exports = {
             },
             {
                 "level": 14,
-                "name": "sonicboom"
+                "name": "sonic-boom"
             },
             {
                 "level": 17,
@@ -56882,7 +56882,7 @@ module.exports = {
             },
             {
                 "level": 33,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 38,
@@ -56955,7 +56955,7 @@ module.exports = {
             "secret-power",
             "shadow-ball",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "swagger",
@@ -57008,7 +57008,7 @@ module.exports = {
             },
             {
                 "level": 57,
-                "name": "grasswhistle"
+                "name": "grass-whistle"
             },
             {
                 "level": 64,
@@ -57234,7 +57234,7 @@ module.exports = {
             },
             {
                 "level": 23,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 27,
@@ -57332,7 +57332,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 1,
@@ -57437,7 +57437,7 @@ module.exports = {
             "shadow-ball",
             "shock-wave",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -57536,7 +57536,7 @@ module.exports = {
             "signal-beam",
             "snore",
             "swift",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "vacuum-wave",
             "wonder-room",
@@ -57684,7 +57684,7 @@ module.exports = {
     },
     "476": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "fire-punch",
             "headbutt",
             "ice-punch",
@@ -57694,7 +57694,7 @@ module.exports = {
             "pain-split",
             "rollout",
             "snore",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -57889,7 +57889,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thunderpunch"
+                "name": "thunder-punch"
             },
             {
                 "level": 1,
@@ -58118,7 +58118,7 @@ module.exports = {
         "level": [
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 1,
@@ -58190,7 +58190,7 @@ module.exports = {
             "role-play",
             "signal-beam",
             "snore",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "wonder-room",
             "zen-headbutt"
@@ -58229,7 +58229,7 @@ module.exports = {
             "shock-wave",
             "skill-swap",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "substitute",
             "sunny-day",
@@ -58309,7 +58309,7 @@ module.exports = {
             "role-play",
             "signal-beam",
             "snore",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "wonder-room",
             "zen-headbutt"
@@ -58428,7 +58428,7 @@ module.exports = {
             "role-play",
             "signal-beam",
             "snore",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "wonder-room",
             "zen-headbutt"
@@ -58618,7 +58618,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 10,
@@ -58630,7 +58630,7 @@ module.exports = {
             },
             {
                 "level": 20,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 24,
@@ -58748,7 +58748,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 10,
@@ -58760,7 +58760,7 @@ module.exports = {
             },
             {
                 "level": 20,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 30,
@@ -58841,7 +58841,7 @@ module.exports = {
             "round",
             "secret-power",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "strength",
             "substitute",
@@ -58856,7 +58856,7 @@ module.exports = {
         "level": [
             {
                 "level": 1,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 9,
@@ -58911,7 +58911,7 @@ module.exports = {
     },
     "486": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "block",
             "earth-power",
             "gravity",
@@ -58983,7 +58983,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thunderpunch"
+                "name": "thunder-punch"
             },
             {
                 "level": 1,
@@ -59114,7 +59114,7 @@ module.exports = {
         "level": [
             {
                 "level": 1,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 1,
@@ -59130,7 +59130,7 @@ module.exports = {
             },
             {
                 "level": 20,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 24,
@@ -59217,7 +59217,7 @@ module.exports = {
             "shadow-ball",
             "skill-swap",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -59281,7 +59281,7 @@ module.exports = {
     },
     "489": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "bounce",
             "covet",
             "heal-bell",
@@ -59375,7 +59375,7 @@ module.exports = {
     },
     "490": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "bounce",
             "covet",
             "heal-bell",
@@ -59586,7 +59586,7 @@ module.exports = {
             },
             {
                 "level": 29,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 38,
@@ -59657,7 +59657,7 @@ module.exports = {
             "safeguard",
             "secret-power",
             "sleep-talk",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -59712,7 +59712,7 @@ module.exports = {
             },
             {
                 "level": 82,
-                "name": "grasswhistle"
+                "name": "grass-whistle"
             },
             {
                 "level": 91,
@@ -59731,7 +59731,7 @@ module.exports = {
     },
     "493": {
         "tutor": [
-            "ancientpower",
+            "ancient-power",
             "aqua-tail",
             "dive",
             "draco-meteor",
@@ -59823,7 +59823,7 @@ module.exports = {
             "sleep-talk",
             "sludge-bomb",
             "snarl",
-            "solarbeam",
+            "solar-beam",
             "stealth-rock",
             "stone-edge",
             "strength",
@@ -59877,7 +59877,7 @@ module.exports = {
             },
             {
                 "level": 40,
-                "name": "extremespeed"
+                "name": "extreme-speed"
             },
             {
                 "level": 50,
@@ -59919,7 +59919,7 @@ module.exports = {
             "skill-swap",
             "sleep-talk",
             "snore",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "uproar"
         ],
@@ -59951,7 +59951,7 @@ module.exports = {
             "round",
             "safeguard",
             "shadow-ball",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -60072,7 +60072,7 @@ module.exports = {
             "return",
             "round",
             "safeguard",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -60190,7 +60190,7 @@ module.exports = {
             "return",
             "round",
             "safeguard",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -60304,7 +60304,7 @@ module.exports = {
             "rock-smash",
             "round",
             "safeguard",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "sunny-day",
@@ -60405,7 +60405,7 @@ module.exports = {
             "rock-smash",
             "rock-tomb",
             "round",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "sunny-day",
@@ -60504,7 +60504,7 @@ module.exports = {
             "sleep-talk",
             "snore",
             "superpower",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -60531,7 +60531,7 @@ module.exports = {
             "rock-smash",
             "rock-tomb",
             "round",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "substitute",
@@ -60628,7 +60628,7 @@ module.exports = {
             "sleep-talk",
             "snore",
             "superpower",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -60661,7 +60661,7 @@ module.exports = {
             "round",
             "scald",
             "smack-down",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "substitute",
@@ -61216,7 +61216,7 @@ module.exports = {
             "signal-beam",
             "sleep-talk",
             "snore",
-            "thunderpunch",
+            "thunder-punch",
             "zen-headbutt"
         ],
         "machine": [
@@ -61681,7 +61681,7 @@ module.exports = {
             "charm",
             "covet",
             "encore",
-            "faint-attack",
+            "feint-attack",
             "fake-tears",
             "foul-play",
             "pay-day",
@@ -61907,7 +61907,7 @@ module.exports = {
             "rock-tomb",
             "round",
             "shadow-claw",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -61920,7 +61920,7 @@ module.exports = {
             "astonish",
             "bullet-seed",
             "covet",
-            "grasswhistle",
+            "grass-whistle",
             "leaf-storm",
             "low-kick",
             "magical-leaf",
@@ -62039,7 +62039,7 @@ module.exports = {
             "rock-tomb",
             "round",
             "shadow-claw",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -62102,7 +62102,7 @@ module.exports = {
             "rock-tomb",
             "round",
             "shadow-claw",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -62238,7 +62238,7 @@ module.exports = {
             "rock-tomb",
             "round",
             "shadow-claw",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -62524,7 +62524,7 @@ module.exports = {
             "magic-coat",
             "secret-power",
             "sleep-talk",
-            "sonicboom",
+            "sonic-boom",
             "swift"
         ],
         "level": [
@@ -62751,7 +62751,7 @@ module.exports = {
             },
             {
                 "level": 36,
-                "name": "featherdance"
+                "name": "feather-dance"
             },
             {
                 "level": 39,
@@ -62843,7 +62843,7 @@ module.exports = {
             },
             {
                 "level": 41,
-                "name": "featherdance"
+                "name": "feather-dance"
             },
             {
                 "level": 45,
@@ -62938,7 +62938,7 @@ module.exports = {
             },
             {
                 "level": 44,
-                "name": "featherdance"
+                "name": "feather-dance"
             },
             {
                 "level": 49,
@@ -63355,7 +63355,7 @@ module.exports = {
             "rock-smash",
             "rock-tomb",
             "round",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "swagger",
@@ -63898,7 +63898,7 @@ module.exports = {
             "skill-swap",
             "snatch",
             "snore",
-            "thunderpunch",
+            "thunder-punch",
             "uproar",
             "zen-headbutt"
         ],
@@ -63934,7 +63934,7 @@ module.exports = {
             "round",
             "safeguard",
             "shadow-ball",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "surf",
@@ -63979,7 +63979,7 @@ module.exports = {
             },
             {
                 "level": 10,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 15,
@@ -64029,7 +64029,7 @@ module.exports = {
             "knock-off",
             "sleep-talk",
             "snore",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -64072,7 +64072,7 @@ module.exports = {
             "foresight",
             "mach-punch",
             "reversal",
-            "smellingsalt",
+            "smelling-salts",
             "wide-guard"
         ],
         "level": [
@@ -64118,7 +64118,7 @@ module.exports = {
             },
             {
                 "level": 34,
-                "name": "dynamicpunch"
+                "name": "dynamic-punch"
             },
             {
                 "level": 37,
@@ -64153,7 +64153,7 @@ module.exports = {
             "knock-off",
             "sleep-talk",
             "snore",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -64230,7 +64230,7 @@ module.exports = {
             },
             {
                 "level": 37,
-                "name": "dynamicpunch"
+                "name": "dynamic-punch"
             },
             {
                 "level": 41,
@@ -64265,7 +64265,7 @@ module.exports = {
             "knock-off",
             "sleep-talk",
             "snore",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -64346,7 +64346,7 @@ module.exports = {
             },
             {
                 "level": 37,
-                "name": "dynamicpunch"
+                "name": "dynamic-punch"
             },
             {
                 "level": 41,
@@ -64685,7 +64685,7 @@ module.exports = {
             "pain-split",
             "sleep-talk",
             "snore",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -64800,7 +64800,7 @@ module.exports = {
             "sleep-talk",
             "snore",
             "superpower",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -64930,7 +64930,7 @@ module.exports = {
             "return",
             "round",
             "safeguard",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -65014,7 +65014,7 @@ module.exports = {
             "return",
             "round",
             "safeguard",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "substitute",
             "sunny-day",
@@ -65029,7 +65029,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "grasswhistle"
+                "name": "grass-whistle"
             },
             {
                 "level": 1,
@@ -65092,7 +65092,7 @@ module.exports = {
             "round",
             "safeguard",
             "shadow-claw",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -65176,7 +65176,7 @@ module.exports = {
             "rock-smash",
             "round",
             "sludge-bomb",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "substitute",
             "sunny-day",
@@ -65269,7 +65269,7 @@ module.exports = {
             "rock-smash",
             "round",
             "sludge-bomb",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "substitute",
             "sunny-day",
@@ -65373,7 +65373,7 @@ module.exports = {
             "rock-tomb",
             "round",
             "sludge-bomb",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "struggle-bug",
             "substitute",
@@ -65483,7 +65483,7 @@ module.exports = {
             "beat-up",
             "encore",
             "fake-tears",
-            "grasswhistle",
+            "grass-whistle",
             "memento",
             "natural-gift",
             "switcheroo",
@@ -65521,7 +65521,7 @@ module.exports = {
             },
             {
                 "level": 22,
-                "name": "poisonpowder"
+                "name": "poison-powder"
             },
             {
                 "level": 26,
@@ -65553,7 +65553,7 @@ module.exports = {
             },
             {
                 "level": 46,
-                "name": "solarbeam"
+                "name": "solar-beam"
             }
         ],
         "other": []
@@ -65591,7 +65591,7 @@ module.exports = {
             "round",
             "safeguard",
             "shadow-ball",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -65657,7 +65657,7 @@ module.exports = {
             "return",
             "round",
             "safeguard",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "swagger",
             "toxic"
@@ -65666,7 +65666,7 @@ module.exports = {
             "bide",
             "charm",
             "endure",
-            "grasswhistle",
+            "grass-whistle",
             "healing-wish",
             "ingrain",
             "natural-gift",
@@ -65773,7 +65773,7 @@ module.exports = {
             "return",
             "round",
             "safeguard",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -66331,7 +66331,7 @@ module.exports = {
             "rock-smash",
             "rock-tomb",
             "round",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "sunny-day",
@@ -66459,7 +66459,7 @@ module.exports = {
             "rock-tomb",
             "round",
             "smack-down",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "substitute",
@@ -66576,7 +66576,7 @@ module.exports = {
         "egg": [
             "bounce",
             "bullet-seed",
-            "grasswhistle",
+            "grass-whistle",
             "leech-seed",
             "seed-bomb",
             "spikes",
@@ -66646,7 +66646,7 @@ module.exports = {
             },
             {
                 "level": 50,
-                "name": "solarbeam"
+                "name": "solar-beam"
             },
             {
                 "level": 55,
@@ -66686,7 +66686,7 @@ module.exports = {
             "round",
             "sandstorm",
             "shadow-claw",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "struggle-bug",
@@ -66724,7 +66724,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 17,
@@ -66800,7 +66800,7 @@ module.exports = {
             "round",
             "sandstorm",
             "shadow-claw",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "struggle-bug",
@@ -66829,7 +66829,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 17,
@@ -66932,7 +66932,7 @@ module.exports = {
             "fake-out",
             "fire-punch",
             "ice-punch",
-            "thunderpunch",
+            "thunder-punch",
             "zen-headbutt"
         ],
         "level": [
@@ -66950,7 +66950,7 @@ module.exports = {
             },
             {
                 "level": 9,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 12,
@@ -66974,7 +66974,7 @@ module.exports = {
             },
             {
                 "level": 31,
-                "name": "hi-jump-kick"
+                "name": "high-jump-kick"
             },
             {
                 "level": 34,
@@ -67022,7 +67022,7 @@ module.exports = {
             "snore",
             "spite",
             "super-fang",
-            "thunderpunch",
+            "thunder-punch",
             "zen-headbutt"
         ],
         "machine": [
@@ -67081,7 +67081,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 12,
@@ -67105,7 +67105,7 @@ module.exports = {
             },
             {
                 "level": 31,
-                "name": "hi-jump-kick"
+                "name": "high-jump-kick"
             },
             {
                 "level": 34,
@@ -67174,7 +67174,7 @@ module.exports = {
             "safeguard",
             "shadow-ball",
             "smack-down",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "swagger",
             "telekinesis",
@@ -67184,7 +67184,7 @@ module.exports = {
             "trick-room"
         ],
         "egg": [
-            "ancientpower",
+            "ancient-power",
             "psycho-shift",
             "roost",
             "skill-swap",
@@ -67575,7 +67575,7 @@ module.exports = {
             },
             {
                 "level": 18,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 21,
@@ -67697,7 +67697,7 @@ module.exports = {
             },
             {
                 "level": 18,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 21,
@@ -67825,7 +67825,7 @@ module.exports = {
             },
             {
                 "level": 18,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 21,
@@ -67841,7 +67841,7 @@ module.exports = {
             },
             {
                 "level": 31,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 35,
@@ -67954,7 +67954,7 @@ module.exports = {
             },
             {
                 "level": 18,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 21,
@@ -67970,7 +67970,7 @@ module.exports = {
             },
             {
                 "level": 31,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 35,
@@ -68036,7 +68036,7 @@ module.exports = {
             "rock-blast",
             "rollout",
             "sand-attack",
-            "selfdestruct",
+            "self-destruct",
             "spikes"
         ],
         "level": [
@@ -68062,7 +68062,7 @@ module.exports = {
             },
             {
                 "level": 14,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 18,
@@ -68138,7 +68138,7 @@ module.exports = {
             "round",
             "sludge-wave",
             "smack-down",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -68170,7 +68170,7 @@ module.exports = {
             },
             {
                 "level": 14,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 18,
@@ -68293,7 +68293,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 21,
@@ -68419,7 +68419,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 21,
@@ -68533,7 +68533,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 15,
@@ -68744,7 +68744,7 @@ module.exports = {
             },
             {
                 "level": 14,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 16,
@@ -68756,7 +68756,7 @@ module.exports = {
             },
             {
                 "level": 24,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 25,
@@ -68868,7 +68868,7 @@ module.exports = {
             },
             {
                 "level": 14,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 16,
@@ -68880,7 +68880,7 @@ module.exports = {
             },
             {
                 "level": 24,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 25,
@@ -68996,7 +68996,7 @@ module.exports = {
             },
             {
                 "level": 14,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 16,
@@ -69008,7 +69008,7 @@ module.exports = {
             },
             {
                 "level": 24,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 25,
@@ -69291,7 +69291,7 @@ module.exports = {
             "sleep-talk",
             "snore",
             "superpower",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "zen-headbutt"
         ],
@@ -69475,7 +69475,7 @@ module.exports = {
             },
             {
                 "level": 21,
-                "name": "featherdance"
+                "name": "feather-dance"
             },
             {
                 "level": 24,
@@ -69572,7 +69572,7 @@ module.exports = {
             },
             {
                 "level": 21,
-                "name": "featherdance"
+                "name": "feather-dance"
             },
             {
                 "level": 24,
@@ -69935,7 +69935,7 @@ module.exports = {
             "agility",
             "baton-pass",
             "fake-tears",
-            "grasswhistle",
+            "grass-whistle",
             "natural-gift",
             "odor-sleuth",
             "sleep-talk",
@@ -69969,7 +69969,7 @@ module.exports = {
             },
             {
                 "level": 16,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 20,
@@ -70001,7 +70001,7 @@ module.exports = {
             },
             {
                 "level": 51,
-                "name": "solarbeam"
+                "name": "solar-beam"
             }
         ],
         "other": []
@@ -70080,7 +70080,7 @@ module.exports = {
             },
             {
                 "level": 16,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 20,
@@ -70116,7 +70116,7 @@ module.exports = {
             },
             {
                 "level": 60,
-                "name": "solarbeam"
+                "name": "solar-beam"
             }
         ],
         "other": []
@@ -70169,7 +70169,7 @@ module.exports = {
         "level": [
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 4,
@@ -70260,7 +70260,7 @@ module.exports = {
         "egg": [
             "bug-bite",
             "counter",
-            "faint-attack",
+            "feint-attack",
             "horn-attack",
             "knock-off",
             "megahorn",
@@ -70462,7 +70462,7 @@ module.exports = {
             "defense-curl",
             "endure",
             "gastro-acid",
-            "poisonpowder",
+            "poison-powder",
             "rollout",
             "stun-spore"
         ],
@@ -70493,7 +70493,7 @@ module.exports = {
             },
             {
                 "level": 20,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 24,
@@ -70517,7 +70517,7 @@ module.exports = {
             },
             {
                 "level": 43,
-                "name": "solarbeam"
+                "name": "solar-beam"
             },
             {
                 "level": 45,
@@ -70591,7 +70591,7 @@ module.exports = {
             },
             {
                 "level": 20,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 24,
@@ -70615,7 +70615,7 @@ module.exports = {
             },
             {
                 "level": 49,
-                "name": "solarbeam"
+                "name": "solar-beam"
             },
             {
                 "level": 54,
@@ -70911,7 +70911,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 17,
@@ -71002,7 +71002,7 @@ module.exports = {
         "egg": [
             "cross-poison",
             "disable",
-            "faint-attack",
+            "feint-attack",
             "pin-missile",
             "poison-sting",
             "pursuit",
@@ -71206,7 +71206,7 @@ module.exports = {
             "rock-polish",
             "rock-smash",
             "round",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -71267,7 +71267,7 @@ module.exports = {
             },
             {
                 "level": 38,
-                "name": "selfdestruct"
+                "name": "self-destruct"
             },
             {
                 "level": 43,
@@ -71324,7 +71324,7 @@ module.exports = {
             "round",
             "sandstorm",
             "shadow-claw",
-            "solarbeam",
+            "solar-beam",
             "strength",
             "substitute",
             "sunny-day",
@@ -71383,7 +71383,7 @@ module.exports = {
             },
             {
                 "level": 38,
-                "name": "selfdestruct"
+                "name": "self-destruct"
             },
             {
                 "level": 40,
@@ -71445,7 +71445,7 @@ module.exports = {
         "level": [
             {
                 "level": 1,
-                "name": "vicegrip"
+                "name": "vice-grip"
             },
             {
                 "level": 6,
@@ -71453,7 +71453,7 @@ module.exports = {
             },
             {
                 "level": 11,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 16,
@@ -71547,11 +71547,11 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 1,
-                "name": "vicegrip"
+                "name": "vice-grip"
             },
             {
                 "level": 1,
@@ -71648,11 +71648,11 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 1,
-                "name": "vicegrip"
+                "name": "vice-grip"
             },
             {
                 "level": 1,
@@ -71848,7 +71848,7 @@ module.exports = {
             "snore",
             "super-fang",
             "superpower",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "acrobatics",
@@ -72210,7 +72210,7 @@ module.exports = {
             "return",
             "round",
             "safeguard",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -72333,7 +72333,7 @@ module.exports = {
             "return",
             "round",
             "safeguard",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -72453,7 +72453,7 @@ module.exports = {
             "round",
             "safeguard",
             "shadow-ball",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -73160,7 +73160,7 @@ module.exports = {
             },
             {
                 "level": 53,
-                "name": "solarbeam"
+                "name": "solar-beam"
             },
             {
                 "level": 57,
@@ -73436,7 +73436,7 @@ module.exports = {
             },
             {
                 "level": 9,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 13,
@@ -73538,7 +73538,7 @@ module.exports = {
             "knock-off",
             "low-kick",
             "me-first",
-            "smellingsalt",
+            "smelling-salts",
             "vital-throw"
         ],
         "level": [
@@ -73560,7 +73560,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 21,
@@ -73596,7 +73596,7 @@ module.exports = {
             },
             {
                 "level": 53,
-                "name": "hi-jump-kick"
+                "name": "high-jump-kick"
             },
             {
                 "level": 57,
@@ -73679,7 +73679,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "doubleslap"
+                "name": "double-slap"
             },
             {
                 "level": 21,
@@ -73715,7 +73715,7 @@ module.exports = {
             },
             {
                 "level": 56,
-                "name": "hi-jump-kick"
+                "name": "high-jump-kick"
             },
             {
                 "level": 63,
@@ -73741,7 +73741,7 @@ module.exports = {
             "sleep-talk",
             "snore",
             "stealth-rock",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "aerial-ace",
@@ -73788,7 +73788,7 @@ module.exports = {
         ],
         "egg": [
             "crush-claw",
-            "faint-attack",
+            "feint-attack",
             "fire-fang",
             "glare",
             "iron-tail",
@@ -73883,7 +73883,7 @@ module.exports = {
             "snore",
             "stealth-rock",
             "superpower",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "brick-break",
@@ -73958,7 +73958,7 @@ module.exports = {
             },
             {
                 "level": 30,
-                "name": "dynamicpunch"
+                "name": "dynamic-punch"
             },
             {
                 "level": 35,
@@ -73999,7 +73999,7 @@ module.exports = {
             "snore",
             "stealth-rock",
             "superpower",
-            "thunderpunch",
+            "thunder-punch",
             "zen-headbutt"
         ],
         "machine": [
@@ -74033,7 +74033,7 @@ module.exports = {
             "round",
             "safeguard",
             "shadow-ball",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "substitute",
@@ -74083,7 +74083,7 @@ module.exports = {
             },
             {
                 "level": 30,
-                "name": "dynamicpunch"
+                "name": "dynamic-punch"
             },
             {
                 "level": 35,
@@ -74191,7 +74191,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 22,
@@ -74320,7 +74320,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 22,
@@ -74773,7 +74773,7 @@ module.exports = {
             },
             {
                 "level": 23,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 28,
@@ -74888,7 +74888,7 @@ module.exports = {
             },
             {
                 "level": 23,
-                "name": "faint-attack"
+                "name": "feint-attack"
             },
             {
                 "level": 28,
@@ -74943,7 +74943,7 @@ module.exports = {
             "recycle",
             "snore",
             "superpower",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "aerial-ace",
@@ -74967,7 +74967,7 @@ module.exports = {
             "rock-tomb",
             "round",
             "shadow-claw",
-            "solarbeam",
+            "solar-beam",
             "substitute",
             "sunny-day",
             "swagger",
@@ -74979,7 +74979,7 @@ module.exports = {
         "egg": [
             "body-slam",
             "curse",
-            "faint-attack",
+            "feint-attack",
             "heat-wave",
             "night-slash",
             "pursuit",
@@ -75097,7 +75097,7 @@ module.exports = {
         "egg": [
             "baton-pass",
             "endure",
-            "faint-attack",
+            "feint-attack",
             "rock-climb",
             "screech",
             "thunder-fang"
@@ -75105,7 +75105,7 @@ module.exports = {
         "level": [
             {
                 "level": 1,
-                "name": "vicegrip"
+                "name": "vice-grip"
             },
             {
                 "level": 1,
@@ -75237,7 +75237,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 20,
@@ -75344,7 +75344,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 20,
@@ -75475,7 +75475,7 @@ module.exports = {
             },
             {
                 "level": 17,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 20,
@@ -75546,7 +75546,7 @@ module.exports = {
             "return",
             "round",
             "safeguard",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "substitute",
             "sunny-day",
@@ -75652,7 +75652,7 @@ module.exports = {
             "return",
             "round",
             "safeguard",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "substitute",
             "sunny-day",
@@ -75971,7 +75971,7 @@ module.exports = {
             "rock-smash",
             "round",
             "safeguard",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "substitute",
@@ -76173,7 +76173,7 @@ module.exports = {
             "sleep-talk",
             "snore",
             "superpower",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "attract",
@@ -76229,7 +76229,7 @@ module.exports = {
             },
             {
                 "level": 1,
-                "name": "thundershock"
+                "name": "thunder-shock"
             },
             {
                 "level": 7,
@@ -76333,7 +76333,7 @@ module.exports = {
             "safeguard",
             "shadow-ball",
             "shadow-claw",
-            "solarbeam",
+            "solar-beam",
             "stone-edge",
             "strength",
             "substitute",
@@ -76358,7 +76358,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 22,
@@ -76366,7 +76366,7 @@ module.exports = {
             },
             {
                 "level": 29,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 36,
@@ -76418,7 +76418,7 @@ module.exports = {
             "sleep-talk",
             "snore",
             "tailwind",
-            "thunderpunch"
+            "thunder-punch"
         ],
         "machine": [
             "charge-beam",
@@ -76477,7 +76477,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 22,
@@ -76485,7 +76485,7 @@ module.exports = {
             },
             {
                 "level": 29,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 36,
@@ -76710,7 +76710,7 @@ module.exports = {
             },
             {
                 "level": 15,
-                "name": "ancientpower"
+                "name": "ancient-power"
             },
             {
                 "level": 22,
@@ -76718,7 +76718,7 @@ module.exports = {
             },
             {
                 "level": 29,
-                "name": "dragonbreath"
+                "name": "dragon-breath"
             },
             {
                 "level": 36,
@@ -76884,7 +76884,7 @@ module.exports = {
             "sleep-talk",
             "snatch",
             "snore",
-            "thunderpunch",
+            "thunder-punch",
             "trick",
             "uproar",
             "wonder-room",
@@ -77043,7 +77043,7 @@ module.exports = {
             "rock-polish",
             "round",
             "shadow-claw",
-            "solarbeam",
+            "solar-beam",
             "struggle-bug",
             "substitute",
             "swagger",
@@ -77129,7 +77129,7 @@ module.exports = {
             },
             {
                 "level": 77,
-                "name": "selfdestruct"
+                "name": "self-destruct"
             }
         ],
         "other": []
