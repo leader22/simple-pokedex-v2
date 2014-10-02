@@ -812,7 +812,7 @@ module.exports = {
             "body-slam",
             "brick-break",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "counter",
             "curse",
@@ -948,7 +948,7 @@ module.exports = {
             "body-slam",
             "brick-break",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "counter",
             "curse",
@@ -1073,7 +1073,7 @@ module.exports = {
             "body-slam",
             "brick-break",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "captivate",
             "counter",
@@ -1867,7 +1867,7 @@ module.exports = {
             "bide",
             "blizzard",
             "body-slam",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "charge-beam",
             "curse",
@@ -1993,7 +1993,7 @@ module.exports = {
             "bide",
             "blizzard",
             "body-slam",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "charge-beam",
             "curse",
@@ -3224,7 +3224,7 @@ module.exports = {
             "bide",
             "blizzard",
             "body-slam",
-            "bubblebeam",
+            "bubble-beam",
             "curse",
             "cut",
             "defense-curl",
@@ -3351,7 +3351,7 @@ module.exports = {
             "bide",
             "blizzard",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "captivate",
             "counter",
@@ -3622,7 +3622,7 @@ module.exports = {
             "bide",
             "blizzard",
             "body-slam",
-            "bubblebeam",
+            "bubble-beam",
             "curse",
             "cut",
             "defense-curl",
@@ -3750,7 +3750,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "captivate",
             "counter",
@@ -3911,7 +3911,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "calm-mind",
             "captivate",
             "charge-beam",
@@ -4104,7 +4104,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "calm-mind",
             "captivate",
             "charge-beam",
@@ -4463,7 +4463,7 @@ module.exports = {
             "bide",
             "blizzard",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "charge-beam",
             "counter",
@@ -4617,7 +4617,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "charge-beam",
             "counter",
@@ -5973,7 +5973,7 @@ module.exports = {
             "attract",
             "bide",
             "body-slam",
-            "bubblebeam",
+            "bubble-beam",
             "curse",
             "cut",
             "dark-pulse",
@@ -6121,7 +6121,7 @@ module.exports = {
             "attract",
             "bide",
             "body-slam",
-            "bubblebeam",
+            "bubble-beam",
             "curse",
             "cut",
             "dark-pulse",
@@ -6267,7 +6267,7 @@ module.exports = {
             "body-slam",
             "brick-break",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "calm-mind",
             "captivate",
             "counter",
@@ -6413,7 +6413,7 @@ module.exports = {
             "body-slam",
             "brick-break",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "calm-mind",
             "captivate",
             "counter",
@@ -7106,7 +7106,7 @@ module.exports = {
             "attract",
             "bide",
             "blizzard",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "defense-curl",
@@ -7219,7 +7219,7 @@ module.exports = {
             "bide",
             "blizzard",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "captivate",
             "counter",
@@ -7343,7 +7343,7 @@ module.exports = {
             "bide",
             "blizzard",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "bulk-up",
             "bulldoze",
             "captivate",
@@ -8595,7 +8595,7 @@ module.exports = {
             "bide",
             "blizzard",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "cut",
@@ -8728,7 +8728,7 @@ module.exports = {
             "bide",
             "blizzard",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "cut",
@@ -9489,7 +9489,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "calm-mind",
             "captivate",
@@ -9642,7 +9642,7 @@ module.exports = {
             "body-slam",
             "brick-break",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "calm-mind",
             "captivate",
@@ -10407,7 +10407,7 @@ module.exports = {
             "bide",
             "blizzard",
             "body-slam",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "dive",
@@ -10527,7 +10527,7 @@ module.exports = {
             "bide",
             "blizzard",
             "body-slam",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "dive",
@@ -10897,7 +10897,7 @@ module.exports = {
             "attract",
             "bide",
             "blizzard",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "dive",
@@ -11017,7 +11017,7 @@ module.exports = {
             "bide",
             "blizzard",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "dive",
@@ -11941,7 +11941,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "cut",
@@ -12064,7 +12064,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "cut",
@@ -12648,7 +12648,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "captivate",
             "counter",
@@ -12795,7 +12795,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "captivate",
             "counter",
@@ -13206,7 +13206,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "captivate",
             "counter",
@@ -13739,7 +13739,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "counter",
             "curse",
@@ -13898,7 +13898,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "calm-mind",
             "captivate",
@@ -14202,7 +14202,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "captivate",
             "counter",
@@ -14361,7 +14361,7 @@ module.exports = {
             "attract",
             "bide",
             "blizzard",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "dive",
@@ -14470,7 +14470,7 @@ module.exports = {
             "attract",
             "bide",
             "blizzard",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "dive",
@@ -14571,7 +14571,7 @@ module.exports = {
             "attract",
             "bide",
             "blizzard",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "dive",
@@ -14689,7 +14689,7 @@ module.exports = {
             "attract",
             "bide",
             "blizzard",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "dive",
@@ -14802,7 +14802,7 @@ module.exports = {
             "bide",
             "blizzard",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "curse",
             "dive",
             "double-edge",
@@ -14931,7 +14931,7 @@ module.exports = {
             "bide",
             "blizzard",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "curse",
             "dive",
             "double-edge",
@@ -15345,7 +15345,7 @@ module.exports = {
             "attract",
             "bide",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "calm-mind",
             "captivate",
             "counter",
@@ -16031,7 +16031,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "captivate",
             "curse",
@@ -16158,7 +16158,7 @@ module.exports = {
             "avalanche",
             "bide",
             "blizzard",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "captivate",
             "curse",
@@ -16418,7 +16418,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "detect",
@@ -16926,7 +16926,7 @@ module.exports = {
             "bide",
             "blizzard",
             "body-slam",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "dive",
@@ -17059,7 +17059,7 @@ module.exports = {
             "bide",
             "blizzard",
             "body-slam",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "dive",
@@ -17190,7 +17190,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "double-edge",
@@ -17323,7 +17323,7 @@ module.exports = {
             "body-slam",
             "brick-break",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "cut",
@@ -17612,7 +17612,7 @@ module.exports = {
             "bide",
             "blizzard",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "captivate",
             "counter",
@@ -17782,7 +17782,7 @@ module.exports = {
             "aerial-ace",
             "avalanche",
             "bide",
-            "bubblebeam",
+            "bubble-beam",
             "curse",
             "defog",
             "detect",
@@ -18139,7 +18139,7 @@ module.exports = {
             "bide",
             "blizzard",
             "body-slam",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "detect",
@@ -18263,7 +18263,7 @@ module.exports = {
             "bide",
             "blizzard",
             "body-slam",
-            "bubblebeam",
+            "bubble-beam",
             "captivate",
             "curse",
             "detect",
@@ -18393,7 +18393,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "bulldoze",
             "captivate",
             "curse",
@@ -18566,7 +18566,7 @@ module.exports = {
             "blizzard",
             "body-slam",
             "brick-break",
-            "bubblebeam",
+            "bubble-beam",
             "bulk-up",
             "bulldoze",
             "calm-mind",
@@ -18807,7 +18807,7 @@ module.exports = {
             "body-slam",
             "brick-break",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "bulk-up",
             "bulldoze",
             "bullet-seed",
@@ -21351,7 +21351,7 @@ module.exports = {
             },
             {
                 "level": 28,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 28,
@@ -21480,7 +21480,7 @@ module.exports = {
             },
             {
                 "level": 30,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 30,
@@ -22989,7 +22989,7 @@ module.exports = {
             },
             {
                 "level": 21,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 23,
@@ -23110,7 +23110,7 @@ module.exports = {
             },
             {
                 "level": 25,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 27,
@@ -23329,7 +23329,7 @@ module.exports = {
         "level": [
             {
                 "level": 1,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 1,
@@ -26303,7 +26303,7 @@ module.exports = {
             "acid-spray",
             "aqua-jet",
             "astonish",
-            "bubblebeam",
+            "bubble-beam",
             "flail",
             "haze",
             "signal-beam",
@@ -27765,7 +27765,7 @@ module.exports = {
             },
             {
                 "level": 25,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 28,
@@ -27892,7 +27892,7 @@ module.exports = {
             },
             {
                 "level": 22,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 27,
@@ -28013,7 +28013,7 @@ module.exports = {
             },
             {
                 "level": 22,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 25,
@@ -28225,7 +28225,7 @@ module.exports = {
             },
             {
                 "level": 18,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 25,
@@ -28742,7 +28742,7 @@ module.exports = {
             },
             {
                 "level": 18,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 29,
@@ -30503,7 +30503,7 @@ module.exports = {
             },
             {
                 "level": 41,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 50,
@@ -33383,7 +33383,7 @@ module.exports = {
             },
             {
                 "level": 25,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 27,
@@ -33493,7 +33493,7 @@ module.exports = {
             },
             {
                 "level": 25,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 27,
@@ -34865,7 +34865,7 @@ module.exports = {
             },
             {
                 "level": 25,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 31,
@@ -36669,7 +36669,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 15,
@@ -42158,7 +42158,7 @@ module.exports = {
             },
             {
                 "level": 20,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 23,
@@ -42281,7 +42281,7 @@ module.exports = {
             },
             {
                 "level": 20,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 23,
@@ -48321,7 +48321,7 @@ module.exports = {
             },
             {
                 "level": 22,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 25,
@@ -48436,7 +48436,7 @@ module.exports = {
             },
             {
                 "level": 24,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 28,
@@ -48564,7 +48564,7 @@ module.exports = {
             },
             {
                 "level": 24,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 28,
@@ -55479,7 +55479,7 @@ module.exports = {
             },
             {
                 "level": 10,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 13,
@@ -59344,7 +59344,7 @@ module.exports = {
             },
             {
                 "level": 24,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 31,
@@ -59452,7 +59452,7 @@ module.exports = {
             },
             {
                 "level": 24,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 31,
@@ -64424,7 +64424,7 @@ module.exports = {
             },
             {
                 "level": 12,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 16,
@@ -64516,7 +64516,7 @@ module.exports = {
             },
             {
                 "level": 12,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 16,
@@ -64625,7 +64625,7 @@ module.exports = {
             },
             {
                 "level": 12,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 16,
@@ -65849,7 +65849,7 @@ module.exports = {
         "egg": [
             "agility",
             "brine",
-            "bubblebeam",
+            "bubble-beam",
             "mud-shot",
             "muddy-water",
             "rage",
@@ -69471,7 +69471,7 @@ module.exports = {
             },
             {
                 "level": 19,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 21,
@@ -69568,7 +69568,7 @@ module.exports = {
             },
             {
                 "level": 19,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 21,
@@ -70699,7 +70699,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 17,
@@ -70808,7 +70808,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 17,
@@ -76817,7 +76817,7 @@ module.exports = {
             },
             {
                 "level": 13,
-                "name": "bubblebeam"
+                "name": "bubble-beam"
             },
             {
                 "level": 19,
