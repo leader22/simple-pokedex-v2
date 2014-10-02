@@ -9,6 +9,8 @@ module.exports = (function() {
         moveData = appRequire('server/data/move'),
         langData = appRequire('server/data/lang/ja');
 
+    var moveNames = langData.move;
+
     var MonsterModel = function(monster, id) {
         this.attributes = {};
         this.initialize(monster, id);
@@ -37,7 +39,7 @@ module.exports = (function() {
 
             // わざ
             var nationalId = monster.nationalPokedexNumber|0;
-            monster.moves = moveData[nationalId]
+            monster.moves = __extendMoveName(moveData[nationalId]);
 
             // 種族値
             var baseStats = monster.baseStats;
@@ -60,6 +62,27 @@ module.exports = (function() {
 
     return MonsterModel;
 
+    function __extendMoveName(moves) {
+        for (let learnType in moves) {
+            let learnTypeMoves = moves[learnType];
+            learnTypeMoves = learnTypeMoves.map(function(move) {
+                var name;
+                if (learnType === 'level') {
+                    name = moveNames[move.name] || { name: 'NoData' };
+                    move.name = name.name + ': ' + move.name;
+                }
+                else {
+                    name = moveNames[move] || { name: 'NoData' };
+                    move = name.name;
+                }
+
+                return move;
+            });
+            moves[learnType] = learnTypeMoves;
+        }
+
+        return moves;
+    }
 
     function __extendTypeStr(type) {
         return {
