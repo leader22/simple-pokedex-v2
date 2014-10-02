@@ -73,7 +73,7 @@ module.exports = (function() {
                 }
                 else {
                     name = moveNames[move] || { name: 'NoData' };
-                    move = name.name;
+                    move = name.name + ': ' + move;
                 }
 
                 return move;
