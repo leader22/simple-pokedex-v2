@@ -20,3 +20,4 @@ rebuild by koa, gulp, es6, webpack, etc..
   - [ ] カロスポケのわざデータ
   - [ ] わざ名の英和辞書(効果はできればでok)
 - [ ] ES6っぽくする(let, const, defineProp, etc..)
+  - [ ] Data系はconstに

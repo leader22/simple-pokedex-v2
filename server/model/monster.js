@@ -39,7 +39,8 @@ module.exports = (function() {
 
             // わざ
             var nationalId = monster.nationalPokedexNumber|0;
-            monster.moves = __extendMoveName(moveData[nationalId]);
+            monster.moves = extend(true, {}, moveData[nationalId]);
+            monster.moves = __extendMoveName(monster.moves);
 
             // 種族値
             var baseStats = monster.baseStats;
@@ -63,19 +64,17 @@ module.exports = (function() {
     return MonsterModel;
 
     function __extendMoveName(moves) {
-                    global.non = global.non || {};
-        for (let learnType in moves) {
-            let learnTypeMoves = moves[learnType] || [];
+        var learnType, learnTypeMoves, key;
+        for (learnType in moves) {
+            learnTypeMoves = moves[learnType] || [];
             learnTypeMoves = learnTypeMoves.map(function(move) {
                 if (learnType === 'level') {
-try{
-                    move.name = moveNames[move.name].name;
-}catch(e){console.log(move)}
+                    key = move.name;
+                    move.name = moveNames[key].name;
                 }
                 else {
-try{
-                    move = moveNames[move].name;
-}catch(e){console.log(move)}
+                    key = move;
+                    move = moveNames[key].name;
                 }
 
                 return move;
@@ -83,7 +82,6 @@ try{
             moves[learnType] = learnTypeMoves;
         }
 
-        console.log(global.non);
         return moves;
     }
 
