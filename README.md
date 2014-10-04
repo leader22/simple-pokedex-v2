@@ -14,10 +14,10 @@ rebuild by koa, gulp, es6, webpack, etc..
   - [ ] データの追加
   - [ ] はてなマークをスプライトに
   - [ ] unknownフラグと出し分け
-- [ ] わざを検索できるように
+- [x] わざを検索できるように
   - [x] {``http://pokeapi.co/api/v1/pokemon/{nationalPokedexNumber}``}をローカルから叩いて、``move``だけに整形するスクリプト
   - [x] それ叩いた結果を``key``で引ける形のオブジェクトに
-  - [ ] カロスポケのわざデータ
-  - [ ] わざ名の英和辞書(効果はできればでok)
+  - [x] わざ名の英和辞書(効果はできればでok)
 - [ ] ES6っぽくする(let, const, defineProp, etc..)
   - [ ] Data系はconstに
+- [ ] カロスポケのわざデータ
