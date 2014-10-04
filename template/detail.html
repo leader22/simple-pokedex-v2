@@ -103,7 +103,7 @@
         <% monster.moves[learnType].forEach(function(move) { %>
         <li>
             <% if (learnType === 'level') { %>
-            <span class="b-lv-label">Lv<%- move.level %></span><%- move.name %>
+            <span class="b-lv-label">Lv<%- move.level %>: </span><%- move.name %>
             <% } else { %>
             <%- move %>
             <% } %>
