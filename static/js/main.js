@@ -48,7 +48,7 @@
 	    'use strict';
 
 	    var Controller = __webpack_require__(1);
-	    var Dispatcher = __webpack_require__(2);
+	    var Dispatcher = __webpack_require__(3);
 
 	    new Dispatcher({ controller: Controller })
 	        .add('/detail', ['detail'])
@@ -65,37 +65,12 @@
 	/* WEBPACK VAR INJECTION */(function(global) {module.exports = (function(global) {
 	    'use strict';
 
-	    var doc = global.document;
+	    var DetailView = __webpack_require__(4);
+
 
 	    var C = {
 	        detail: function() {
-	            var backBtn = doc.getElementById('js-back-btn');
-	            var tabSelector = doc.getElementsByClassName('js-tab-selector');
-	            var tabWrap     = doc.getElementsByClassName('js-tab-wrap');
-
-	            [].forEach.call(tabSelector, function(elm) {
-	                elm.addEventListener('click', function(ev) {
-	                    __resetAllTabWrap();
-	                    var idx = ev.currentTarget.getAttribute('data-index');
-	                    tabWrap[idx].style.display = 'block';
-	                    tabSelector[idx].classList.add('is-selected');
-	                });
-	            });
-
-	            __resetAllTabWrap();
-	            tabWrap[0].style.display = 'block';
-	            tabSelector[0].classList.add('is-selected');
-
-	            backBtn.addEventListener('click', function() {
-	                history.back();
-	            }, false);
-
-	            function __resetAllTabWrap() {
-	                [].forEach.call(tabWrap, function(elm, idx) {
-	                    elm.style.display = 'none';
-	                    tabSelector[idx].classList.remove('is-selected');
-	                });
-	            }
+	            new DetailView().start();
 	        }
 	    };
 
@@ -106,7 +81,8 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ },
-/* 2 */
+/* 2 */,
+/* 3 */
 /***/ function(module, exports, __webpack_require__) {
 
 	module.exports = (function() {
@@ -168,6 +144,120 @@
 	    return Dispatcher;
 	}());
 
+
+/***/ },
+/* 4 */
+/***/ function(module, exports, __webpack_require__) {
+
+	/* WEBPACK VAR INJECTION */(function(global) {module.exports = (function(global) {
+	    'use strict';
+
+	    var Const = __webpack_require__(5);
+	    var Dom   = __webpack_require__(6);
+
+	    var DetailView = function() { this.initialize(); };
+	    DetailView.prototype = {
+	        constructor: DetailView,
+	        ui: {
+	            backBtn:      '#js-back-btn',
+	            tabSelector: '.js-tab-selector',
+	            tabWrap:     '.js-tab-wrap'
+	        },
+	        initialize: function() {
+	            for (var selector in this.ui) {
+	                this.ui[selector] = Dom.get(this.ui[selector]);
+	            }
+
+	            var that = this;
+	            [].forEach.call(this.ui.tabSelector, function(elm) {
+	                elm.addEventListener('click', function(ev) {
+	                    that._resetAllTabWrap();
+	                    var idx = ev.currentTarget.getAttribute('data-index');
+	                    Dom.show(that.ui.tabWrap[idx]);
+	                    that.ui.tabSelector[idx].classList.add(Const.CLASS.IS_SELECTED);
+	                });
+	            });
+
+	            return this;
+	        },
+
+	        start: function() {
+	            this._resetAllTabWrap();
+	            this.ui.tabWrap[0].style.display = 'block';
+	            this.ui.tabSelector[0].classList.add(Const.CLASS.IS_SELECTED);
+
+	            this.ui.backBtn.addEventListener('click', function() {
+	                history.back();
+	            }, false);
+	        },
+
+	        _resetAllTabWrap: function() {
+	            var that = this;
+	            [].forEach.call(this.ui.tabWrap, function(elm, idx) {
+	                elm.style.display = 'none';
+	                that.ui.tabSelector[idx].classList.remove(Const.CLASS.IS_SELECTED);
+	            });
+	        }
+	    };
+
+	    return DetailView;
+
+
+	}(this.self || global));
+	
+	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
+
+/***/ },
+/* 5 */
+/***/ function(module, exports, __webpack_require__) {
+
+	module.exports = {
+	    CLASS: {
+	        IS_SELECTED: 'is-selected'
+	    }
+	};
+
+
+/***/ },
+/* 6 */
+/***/ function(module, exports, __webpack_require__) {
+
+	/* WEBPACK VAR INJECTION */(function(global) {module.exports = (function(global) {
+	    'use strict';
+
+	    var doc = global.document;
+
+	    var Dom = {
+	        get: function(selector) {
+	            var prefix = selector[0];
+
+	            if (prefix === '#') {
+	                return doc.getElementById(selector.substring(1, selector.length));
+	            }
+	            else if (prefix === '.') {
+	                return doc.getElementsByClassName(selector.substring(1, selector.length));
+	            }
+	            else {
+	                return doc.querySelectorAll(selector);
+	            }
+	        },
+
+	        hide: function(elm) {
+	            elm.style.display = 'none';
+	            return elm;
+	        },
+
+	        show: function(elm) {
+	            elm.style.display = 'block';
+	            return elm;
+	        }
+	    };
+
+	    return Dom;
+
+	}(this.self || global));
+	
+	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ }
 /******/ ])
