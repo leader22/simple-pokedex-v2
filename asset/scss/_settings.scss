@@ -37,3 +37,11 @@ $basePx: 8;
   border-bottom: 1px solid $color3;
   padding: #{sitePx(1)}px;
 }
+
+%box {
+  @include display-box;
+}
+
+%flex {
+  @include box-flex(1);
+}

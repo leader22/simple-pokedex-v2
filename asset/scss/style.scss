@@ -38,14 +38,16 @@ p {
 
 .texts {
   font-size: .8rem;
+  background-color: $color3;
+  padding: #{sitePx(1)}px;
 }
 
 .box {
-  @include display-box;
+  @extend %box;
 }
 
 .flex {
-  @include box-flex(1);
+  @extend %flex;
 }
 
 /*+
@@ -56,6 +58,7 @@ body {
 }
 
 // Common
+$header-height: #{sitePx(4)}px;
 .l-view-header {
   position: fixed;
   top: 0;
@@ -65,11 +68,11 @@ body {
   background-color: $color1;
   color: $color2;
   text-align: center;
-  @include vJustify(#{sitePx(4)}px);
+  @include vJustify($header-height);
 }
 
 .l-view-content {
-  padding: #{sitePx(4)}px 0;
+  padding: $header-height 0 0;
   z-index: 1;
 
   // このdivが各View
@@ -86,11 +89,6 @@ body {
 }
 
 .l-view-footer {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  z-index: 10;
   background-color: $color4;
   color: $color2;
   text-align: center;
@@ -298,5 +296,36 @@ body {
         }
       }
     }
+  }
+
+  .b-tab-selector-wrap {
+    @extend %box;
+    font-size: .9rem;
+    text-align: center;
+    background-color: $color5;
+    color: $color2;
+    height: #{sitePx(4)}px;
+    line-height: #{sitePx(4)}px;
+    margin-bottom: #{sitePx(1)}px;
+
+    > li {
+      @extend %flex;
+
+      &.is-selected {
+        background-color: $color6;
+      }
+    }
+  }
+
+  .b-tab-wrap {
+    list-style-position: inside;
+    list-style-type: square;
+  }
+
+  .b-lv-label {
+    display: inline-block;
+    width: #{sitePx(4)}px;
+    text-align: right;
+    margin-right: #{sitePx(1)}px;
   }
 }

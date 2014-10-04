@@ -313,6 +313,18 @@ table {
   border-bottom: 1px solid #eeeeee;
   padding: 8px; }
 
+.box, .l-view-detail .b-tab-selector-wrap {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-box;
+  display: box; }
+
+.flex, .l-view-detail .b-tab-selector-wrap > li {
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -ms-box-flex: 1;
+  box-flex: 1; }
+
 .m-icon-id-0::before {
   background-position: -607px -1025px; }
 
@@ -2724,19 +2736,9 @@ p {
   transition: color 0.5s ease; }
 
 .texts {
-  font-size: .8rem; }
-
-.box {
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-box;
-  display: box; }
-
-.flex {
-  -webkit-box-flex: 1;
-  -moz-box-flex: 1;
-  -ms-box-flex: 1;
-  box-flex: 1; }
+  font-size: .8rem;
+  background-color: #eeeeee;
+  padding: 8px; }
 
 /*+
  * Stylings
@@ -2757,17 +2759,12 @@ body {
   line-height: 32px; }
 
 .l-view-content {
-  padding: 32px 0;
+  padding: 32px 0 0;
   z-index: 1; }
 .l-view-content > div h2, .l-view-content > div h3, .l-view-content > div h4, .l-view-content > div h5, .l-view-content > div h6 {
   color: #354753; }
 
 .l-view-footer {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  z-index: 10;
   background-color: #354753;
   color: white;
   text-align: center;
@@ -2929,3 +2926,21 @@ body {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
+.l-view-detail .b-tab-selector-wrap {
+  font-size: .9rem;
+  text-align: center;
+  background-color: #0094c8;
+  color: white;
+  height: 32px;
+  line-height: 32px;
+  margin-bottom: 8px; }
+.l-view-detail .b-tab-selector-wrap > li.is-selected {
+  background-color: #274a78; }
+.l-view-detail .b-tab-wrap {
+  list-style-position: inside;
+  list-style-type: square; }
+.l-view-detail .b-lv-label {
+  display: inline-block;
+  width: 32px;
+  text-align: right;
+  margin-right: 8px; }

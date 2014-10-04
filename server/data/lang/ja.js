@@ -1,9 +1,9 @@
 module.exports = {
     "moveLearnType": {
-        "level": "レベルアップ",
+        "level": "レベル",
         "machine": "わざマシン",
-        "egg": "タマゴ技",
-        "tutor": "教え技",
+        "egg": "タマゴ",
+        "tutor": "教え",
         "other": "そのた"
     },
     "move": {

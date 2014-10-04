@@ -90,22 +90,30 @@
 
 <section>
     <h2>おぼえる技</h2>
+
+    <ul class="b-tab-selector-wrap">
+        <% moveLearnTypesArr.forEach(function(learnType, idx) { %>
+        <li class="js-tab-selector" data-index="<%- idx %>"><%- learnTypeStrMap[learnType] %></li>
+        <% }) %>
+    </ul>
+
     <% moveLearnTypesArr.forEach(function(learnType) { %>
-    <h3><%- learnTypeStrMap[learnType] %></h3>
-    <ul class="texts">
+    <div class="js-tab-wrap">
+    <ul class="b-tab-wrap texts">
         <% monster.moves[learnType].forEach(function(move) { %>
         <li>
             <% if (learnType === 'level') { %>
-            <%- move.name %> @Lv<%- move.level %>
+            <span class="b-lv-label">Lv<%- move.level %></span><%- move.name %>
             <% } else { %>
             <%- move %>
             <% } %>
         </li>
         <% }) %>
         <% if (monster.moves[learnType].length === 0) { %>
-            <li>データがありません</li>
+            <li>まだデータがありません</li>
         <% } %>
     </ul>
+    </div>
     <% }) %>
 </section>
 
