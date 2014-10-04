@@ -102,6 +102,9 @@
             <% } %>
         </li>
         <% }) %>
+        <% if (monster.moves[learnType].length === 0) { %>
+            データがありません
+        <% } %>
     </ul>
     <% }) %>
 </section>
