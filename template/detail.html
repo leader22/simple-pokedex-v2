@@ -92,7 +92,7 @@
     <h2>おぼえる技</h2>
     <% moveLearnTypesArr.forEach(function(learnType) { %>
     <h3><%- learnTypeStrMap[learnType] %></h3>
-    <ul>
+    <ul class="texts">
         <% monster.moves[learnType].forEach(function(move) { %>
         <li>
             <% if (learnType === 'level') { %>
@@ -103,7 +103,7 @@
         </li>
         <% }) %>
         <% if (monster.moves[learnType].length === 0) { %>
-            データがありません
+            <li>データがありません</li>
         <% } %>
     </ul>
     <% }) %>
