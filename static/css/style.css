@@ -299,6 +299,27 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+/*+
+ * Reset
+ ****************************************************/
+h1, h2, h3, h4, h5, h6 {
+  font-size: inherit;
+  margin: 0;
+  padding: 0; }
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+a {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+a:hover {
+  opacity: .75; }
+
+p {
+  margin: 0; }
+
 .b-monster-icon::before, .l-view-list .b-monster-list > li a::before {
   background-image: url(/static/img/poke-sprites.png);
   background-repeat: no-repeat; }
@@ -2703,27 +2724,6 @@ table {
 
 .m-type-fairy {
   background-color: #EDAEE3; }
-
-/*+
- * Reset
- ****************************************************/
-h1, h2, h3, h4, h5, h6 {
-  font-size: inherit;
-  margin: 0;
-  padding: 0; }
-
-ul {
-  margin: 0;
-  padding: 0;
-  list-style: none; }
-
-a {
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
-a:hover {
-  opacity: .75; }
-
-p {
-  margin: 0; }
 
 /*+
  * Modules
