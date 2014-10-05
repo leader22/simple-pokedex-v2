@@ -16,7 +16,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "NODE_ENV=development supervisor -w server --harmony index.js",
+    "server-dev": "NODE_ENV=development supervisor -w server --harmony index.js",
+    "client-dev": "gulp dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
