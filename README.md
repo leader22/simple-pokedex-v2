@@ -13,11 +13,11 @@ rebuild by koa, gulp, es6, webpack, etc..
 - [ ] 既にわかってるメガシンカ/ゲンシカイキ/その他いないやつ(ディアンシー)を追加する
   - [ ] データの追加
   - [x] はてなマークをスプライトに
-  - [ ] unknownフラグと出し分け
+  - [x] unknownフラグと出し分け
 - [x] わざを検索できるように
   - [x] {``http://pokeapi.co/api/v1/pokemon/{nationalPokedexNumber}``}をローカルから叩いて、``move``だけに整形するスクリプト
   - [x] それ叩いた結果を``key``で引ける形のオブジェクトに
   - [x] わざ名の英和辞書(効果はできればでok)
 - [ ] ES6っぽくする(let, const, defineProp, etc..)
   - [ ] Data系はconstに
-- [ ] カロスポケのわざデータ
+- [ ] カロスポケのわざデータ([ココ](http://www.serebii.net/pokedex-xy/720.shtml)とか)

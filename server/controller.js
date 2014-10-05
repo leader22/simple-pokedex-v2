@@ -50,7 +50,7 @@ module.exports = (function() {
             }
             else {
                 title = titleData['list'];
-                monsters = monsterCollection.all();
+                monsters = monsterCollection.getAllMonsters();
             }
 
             yield this.render('list', {
