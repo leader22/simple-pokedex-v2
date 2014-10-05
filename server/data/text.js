@@ -10,11 +10,15 @@ module.exports = {
         },
         list: {
             description: 'ポケモンの一覧です。',
-            keywords:    []
+            keywords:    ['ぜんこく図鑑']
         },
         detail: {
             description: 'ポケモン「%s」の詳細データです。',
             keywords:    ['種族値', '特性', '夢特性']
+        },
+        error: {
+            description: '存在しないページです。',
+            keywords:    []
         }
     },
     title: {
@@ -23,6 +27,7 @@ module.exports = {
         list:            'ポケモン一覧',
         megaList:        'メガシンカポケ一覧',
         categorisedList: '%sから始まるポケモン一覧',
-        detail:          '%sのデータ'
+        detail:          '%sのデータ',
+        error:           'エラー'
     }
 };

@@ -91,6 +91,14 @@ module.exports = (function() {
                 moveLearnTypesArr: moveLearnTypesArr,
                 learnTypeStrMap: langData['moveLearnType']
             });
+        },
+
+        error: function *() {
+            yield this.render('error', {
+                page:     'error',
+                metaTags: metaTags['error'],
+                title:    titleData['error']
+            });
         }
     };
 }());
