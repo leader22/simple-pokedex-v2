@@ -3254,7 +3254,20 @@ module.exports = {
         "diancie": "ディアンシー",
         "mega-diancie": "メガディアンシー",
         "hoopa": "フーパ",
-        "volcanion": "ボルケニオン"
+        "volcanion": "ボルケニオン",
+        "mega-sceptile": "メガジュカイン",
+        "mega-swampert": "メガラグラージ",
+        "mega-slowbro": "メガヤドラン",
+        "mega-sableye": "メガヤミラミ",
+        "mega-sharpedo": "メガサメハダー",
+        "mega-camerupt": "メガバクーダ",
+        "mega-altaria": "メガチルタリス",
+        "mega-salamence": "メガボーマンダ",
+        "mega-metagross": "メガメタグロス",
+        "mega-rayquaza": "メガレックウザ",
+        "mega-lopunny": "メガミミロップ",
+        "mega-gallade": "メガエルレイド",
+        "mega-audino": "メガタブンネ"
     },
     "ability": {
         "adaptability": {
@@ -3372,6 +3385,10 @@ module.exports = {
         "defiant": {
             "name": "まけんき",
             "desc": "相手の技や特性で｢のうりょく｣ランクが下がった時、自分の｢こうげき｣ランクが2段階上がる。"
+        },
+        "delta-stream": {
+            "name": "デルタストリーム",
+            "desc": "戦闘に出ている間、天気が「らんきりゅう」になる。 / 技「あまごい」「にほんばれ」「すなあらし」「あられ」が失敗する。 / 特性「あめふらし」「ひでり」「すなおこし」「ゆきふらし」が発動しなくなる。 / ひこうタイプのポケモンの弱点となるタイプの技のダメージが、通常のダメージになる。"
         },
         "download": {
             "name": "ダウンロード",

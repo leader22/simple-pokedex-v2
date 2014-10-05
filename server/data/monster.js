@@ -21552,6 +21552,357 @@ module.exports = {
       "weight": "429.9",
       "key": "volcanion",
       "height": "5′07″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "254",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Sceptile",
+      "type": [
+        "grass",
+        "dragon"
+      ],
+      "_id": 779,
+      "abilities": {
+        "normal": [
+          "lightning-rod"
+        ],
+        "hidden": []
+      },
+      "weight": "121.7",
+      "key": "mega-sceptile",
+      "height": "6′03″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "260",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Swampert",
+      "type": [
+        "water",
+        "ground"
+      ],
+      "_id": 780,
+      "abilities": {
+        "normal": [
+          "swift-swim"
+        ],
+        "hidden": []
+      },
+      "weight": "224.8",
+      "key": "mega-swampert",
+      "height": "6′03″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "080",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Slowbro",
+      "type": [
+        "water",
+        "psychic"
+      ],
+      "_id": 781,
+      "abilities": {
+        "normal": [
+          "shell-armor"
+        ],
+        "hidden": []
+      },
+      "weight": "264.5",
+      "key": "mega-slowbro",
+      "height": "6′56″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "302",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Sableye",
+      "type": [
+        "dark",
+        "ghost"
+      ],
+      "_id": 782,
+      "abilities": {
+        "normal": [
+          "magic-bounce"
+        ],
+        "hidden": []
+      },
+      "weight": "354.9",
+      "key": "mega-sableye",
+      "height": "1′08″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "319",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Sharpedo",
+      "type": [
+        "water",
+        "dark"
+      ],
+      "_id": 783,
+      "abilities": {
+        "normal": [
+          "strong-jaw"
+        ],
+        "hidden": []
+      },
+      "weight": "287.3",
+      "key": "mega-sharpedo",
+      "height": "8′20″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "323",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Camerupt",
+      "type": [
+        "fire",
+        "ground"
+      ],
+      "_id": 784,
+      "abilities": {
+        "normal": [
+          "sheer-force"
+        ],
+        "hidden": []
+      },
+      "weight": "706.6",
+      "key": "mega-camerupt",
+      "height": "8′20″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "334",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Altaria",
+      "type": [
+        "dragon",
+        "fairy"
+      ],
+      "_id": 785,
+      "abilities": {
+        "normal": [
+          "pixilate"
+        ],
+        "hidden": []
+      },
+      "weight": "45.4",
+      "key": "mega-altaria",
+      "height": "4′92″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "373",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Salamence",
+      "type": [
+        "dragon",
+        "flying"
+      ],
+      "_id": 786,
+      "abilities": {
+        "normal": [
+          "aerilate"
+        ],
+        "hidden": []
+      },
+      "weight": "248.0",
+      "key": "mega-salamence",
+      "height": "5′90″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "376",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Metagross",
+      "type": [
+        "steel",
+        "psychic"
+      ],
+      "_id": 787,
+      "abilities": {
+        "normal": [
+          "tough-claws"
+        ],
+        "hidden": []
+      },
+      "weight": "2078.7",
+      "key": "mega-metagross",
+      "height": "8′02″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "384",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Rayquaza",
+      "type": [
+        "dragon",
+        "flying"
+      ],
+      "_id": 788,
+      "abilities": {
+        "normal": [
+          "delta-stream"
+        ],
+        "hidden": []
+      },
+      "weight": "0.0",
+      "key": "mega-rayquaza",
+      "height": "0′00″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "428",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Lopunny",
+      "type": [
+        "normal",
+        "fighting"
+      ],
+      "_id": 789,
+      "abilities": {
+        "normal": [
+          "scrappy"
+        ],
+        "hidden": []
+      },
+      "weight": "62.4",
+      "key": "mega-lopunny",
+      "height": "4′26″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "475",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Gallade",
+      "type": [
+        "psychic",
+        "fighting"
+      ],
+      "_id": 790,
+      "abilities": {
+        "normal": [
+          "inner-focus"
+        ],
+        "hidden": []
+      },
+      "weight": "124.3",
+      "key": "mega-gallade",
+      "height": "5′24″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "531",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Audino",
+      "type": [
+        "normal",
+        "fairy"
+      ],
+      "_id": 791,
+      "abilities": {
+        "normal": [
+          "healer"
+        ],
+        "hidden": []
+      },
+      "weight": "70.5",
+      "key": "mega-audino",
+      "height": "4′92″"
     }
   ]
 };
