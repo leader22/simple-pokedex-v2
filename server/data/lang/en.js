@@ -755,6 +755,18 @@ module.exports = {
       "zen-mode": {
           "name": "Zen Mode",
           "desc": "Changes Daruma Forme in a pinch."
+      },
+      "delta-stream": {
+          "name": "Delta Stream",
+          "desc": "..."
+      },
+      "desolate-land": {
+          "name": "Desolate Land",
+          "desc": "..."
+      },
+      "primordial-sea": {
+          "name": "Primordial Sea",
+          "desc": "..."
       }
   }
 };
