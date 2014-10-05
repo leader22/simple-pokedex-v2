@@ -77135,507 +77135,8105 @@ module.exports = {
         "other": []
     },
     "650": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "growl"
+            },
+            {
+                "level": "5",
+                "name": "vine-whip"
+            },
+            {
+                "level": "8",
+                "name": "rollout"
+            },
+            {
+                "level": "11",
+                "name": "bite"
+            },
+            {
+                "level": "15",
+                "name": "leech-seed"
+            },
+            {
+                "level": "18",
+                "name": "pin-missile"
+            },
+            {
+                "level": "27",
+                "name": "take-down"
+            },
+            {
+                "level": "32",
+                "name": "seed-bomb"
+            },
+            {
+                "level": "35",
+                "name": "mud-shot"
+            },
+            {
+                "level": "39",
+                "name": "bulk-up"
+            },
+            {
+                "level": "42",
+                "name": "body-slam"
+            },
+            {
+                "level": "45",
+                "name": "pain-split"
+            },
+            {
+                "level": "48",
+                "name": "wood-hammer"
+            }
+        ],
+        "tutor": [
+            "grass-pledge"
+        ],
+        "machine": [
+            "roar",
+            "toxic",
+            "bulk-up",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "protect",
+            "frustration",
+            "solar-beam",
+            "smack-down",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "reflect",
+            "sludge-bomb",
+            "rock-tomb",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "low-sweep",
+            "round",
+            "energy-ball",
+            "fling",
+            "shadow-claw",
+            "payback",
+            "retaliate",
+            "flash",
+            "stone-edge",
+            "gyro-ball",
+            "swords-dance",
+            "bulldoze",
+            "rock-slide",
+            "poison-jab",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "rock-smash",
+            "nature-power",
+            "power-up-punch",
+            "confide",
+            "cut",
+            "strength"
+        ],
+        "egg": [
+            "belly-drum",
+            "curse",
+            "defense-curl",
+            "quick-guard",
+            "rollout",
+            "spikes",
+            "synthesis"
+        ]
     },
     "651": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "growl"
+            },
+            {
+                "level": "5",
+                "name": "vine-whip"
+            },
+            {
+                "level": "8",
+                "name": "rollout"
+            },
+            {
+                "level": "11",
+                "name": "bite"
+            },
+            {
+                "level": "15",
+                "name": "leech-seed"
+            },
+            {
+                "level": "20",
+                "name": "pin-missile"
+            },
+            {
+                "level": "26",
+                "name": "needle-arm"
+            },
+            {
+                "level": "30",
+                "name": "take-down"
+            },
+            {
+                "level": "35",
+                "name": "seed-bomb"
+            },
+            {
+                "level": "39",
+                "name": "mud-shot"
+            },
+            {
+                "level": "44",
+                "name": "bulk-up"
+            },
+            {
+                "level": "48",
+                "name": "body-slam"
+            },
+            {
+                "level": "52",
+                "name": "pain-split"
+            },
+            {
+                "level": "55",
+                "name": "wood-hammer"
+            }
+        ],
+        "tutor": [
+            "grass-pledge"
+        ],
+        "machine": [
+            "hone-claws",
+            "roar",
+            "toxic",
+            "bulk-up",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "protect",
+            "frustration",
+            "solar-beam",
+            "smack-down",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "reflect",
+            "sludge-bomb",
+            "rock-tomb",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "low-sweep",
+            "round",
+            "energy-ball",
+            "fling",
+            "shadow-claw",
+            "payback",
+            "retaliate",
+            "flash",
+            "stone-edge",
+            "gyro-ball",
+            "swords-dance",
+            "bulldoze",
+            "rock-slide",
+            "poison-jab",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "rock-smash",
+            "nature-power",
+            "power-up-punch",
+            "confide",
+            "cut",
+            "strength"
+        ],
+        "egg": [
+            "belly-drum",
+            "curse",
+            "defense-curl",
+            "quick-guard",
+            "rollout",
+            "spikes",
+            "synthesis"
+        ]
     },
     "652": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "feint"
+            },
+            {
+                "level": "1",
+                "name": "hammer-arm"
+            },
+            {
+                "level": "1",
+                "name": "belly-drum"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "growl"
+            },
+            {
+                "level": "5",
+                "name": "vine-whip"
+            },
+            {
+                "level": "8",
+                "name": "rollout"
+            },
+            {
+                "level": "11",
+                "name": "bite"
+            },
+            {
+                "level": "15",
+                "name": "leech-seed"
+            },
+            {
+                "level": "20",
+                "name": "pin-missile"
+            },
+            {
+                "level": "26",
+                "name": "needle-arm"
+            },
+            {
+                "level": "30",
+                "name": "take-down"
+            },
+            {
+                "level": "35",
+                "name": "seed-bomb"
+            },
+            {
+                "level": "36",
+                "name": "spiky-shield"
+            },
+            {
+                "level": "41",
+                "name": "mud-shot"
+            },
+            {
+                "level": "44",
+                "name": "bulk-up"
+            },
+            {
+                "level": "48",
+                "name": "body-slam"
+            },
+            {
+                "level": "52",
+                "name": "pain-split"
+            },
+            {
+                "level": "55",
+                "name": "wood-hammer"
+            },
+            {
+                "level": "60",
+                "name": "hammer-arm"
+            },
+            {
+                "level": "70",
+                "name": "giga-impact"
+            },
+            {
+                "level": "75",
+                "name": "spiky-shield"
+            }
+        ],
+        "tutor": [
+            "frenzy-plant",
+            "grass-pledge"
+        ],
+        "machine": [
+            "hone-claws",
+            "dragon-claw",
+            "roar",
+            "toxic",
+            "bulk-up",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "hyper-beam",
+            "protect",
+            "frustration",
+            "solar-beam",
+            "smack-down",
+            "earthquake",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "reflect",
+            "sludge-bomb",
+            "rock-tomb",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "low-sweep",
+            "round",
+            "focus-blast",
+            "energy-ball",
+            "fling",
+            "shadow-claw",
+            "payback",
+            "retaliate",
+            "giga-impact",
+            "flash",
+            "stone-edge",
+            "gyro-ball",
+            "swords-dance",
+            "bulldoze",
+            "rock-slide",
+            "poison-jab",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "rock-smash",
+            "nature-power",
+            "power-up-punch",
+            "confide",
+            "cut",
+            "strength"
+        ],
+        "egg": [
+            "belly-drum",
+            "curse",
+            "defense-curl",
+            "quick-guard",
+            "rollout",
+            "spikes",
+            "synthesis"
+        ]
     },
     "653": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "scratch"
+            },
+            {
+                "level": "1",
+                "name": "tail-whip"
+            },
+            {
+                "level": "5",
+                "name": "ember"
+            },
+            {
+                "level": "11",
+                "name": "howl"
+            },
+            {
+                "level": "14",
+                "name": "flame-charge"
+            },
+            {
+                "level": "17",
+                "name": "psybeam"
+            },
+            {
+                "level": "20",
+                "name": "fire-spin"
+            },
+            {
+                "level": "25",
+                "name": "lucky-chant"
+            },
+            {
+                "level": "27",
+                "name": "light-screen"
+            },
+            {
+                "level": "31",
+                "name": "psyshock"
+            },
+            {
+                "level": "35",
+                "name": "flamethrower"
+            },
+            {
+                "level": "38",
+                "name": "will-o-wisp"
+            },
+            {
+                "level": "41",
+                "name": "psychic"
+            },
+            {
+                "level": "43",
+                "name": "sunny-day"
+            },
+            {
+                "level": "46",
+                "name": "magic-room"
+            },
+            {
+                "level": "48",
+                "name": "fire-blast"
+            }
+        ],
+        "tutor": [
+            "fire-pledge"
+        ],
+        "machine": [
+            "psyshock",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "solar-beam",
+            "return",
+            "psychic",
+            "double-team",
+            "flamethrower",
+            "fire-blast",
+            "facade",
+            "flame-charge",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "echoed-voice",
+            "overheat",
+            "incinerate",
+            "will-o-wisp",
+            "embargo",
+            "psych-up",
+            "dream-eater",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "power-up-punch",
+            "confide",
+            "cut"
+        ],
+        "egg": [
+            "heat-wave",
+            "hypnosis",
+            "magic-coat",
+            "wish"
+        ]
     },
     "654": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "scratch"
+            },
+            {
+                "level": "1",
+                "name": "tail-whip"
+            },
+            {
+                "level": "5",
+                "name": "ember"
+            },
+            {
+                "level": "11",
+                "name": "howl"
+            },
+            {
+                "level": "14",
+                "name": "flame-charge"
+            },
+            {
+                "level": "18",
+                "name": "psybeam"
+            },
+            {
+                "level": "22",
+                "name": "fire-spin"
+            },
+            {
+                "level": "27",
+                "name": "lucky-chant"
+            },
+            {
+                "level": "30",
+                "name": "light-screen"
+            },
+            {
+                "level": "34",
+                "name": "psyshock"
+            },
+            {
+                "level": "41",
+                "name": "flamethrower"
+            },
+            {
+                "level": "45",
+                "name": "will-o-wisp"
+            },
+            {
+                "level": "48",
+                "name": "psychic"
+            },
+            {
+                "level": "51",
+                "name": "sunny-day"
+            },
+            {
+                "level": "53",
+                "name": "magic-room"
+            },
+            {
+                "level": "55",
+                "name": "fire-blast"
+            }
+        ],
+        "tutor": [
+            "fire-pledge"
+        ],
+        "machine": [
+            "psyshock",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "solar-beam",
+            "return",
+            "psychic",
+            "double-team",
+            "flamethrower",
+            "fire-blast",
+            "facade",
+            "flame-charge",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "echoed-voice",
+            "overheat",
+            "incinerate",
+            "will-o-wisp",
+            "embargo",
+            "psych-up",
+            "dream-eater",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "power-up-punch",
+            "confide",
+            "cut"
+        ],
+        "egg": [
+            "heat-wave",
+            "hypnosis",
+            "magic-coat",
+            "wish"
+        ]
     },
     "655": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "future-sight"
+            },
+            {
+                "level": "1",
+                "name": "role-play"
+            },
+            {
+                "level": "1",
+                "name": "switcheroo"
+            },
+            {
+                "level": "1",
+                "name": "shadow-ball"
+            },
+            {
+                "level": "1",
+                "name": "scratch"
+            },
+            {
+                "level": "1",
+                "name": "tail-whip"
+            },
+            {
+                "level": "5",
+                "name": "ember"
+            },
+            {
+                "level": "11",
+                "name": "howl"
+            },
+            {
+                "level": "14",
+                "name": "flame-charge"
+            },
+            {
+                "level": "18",
+                "name": "psybeam"
+            },
+            {
+                "level": "22",
+                "name": "fire-spin"
+            },
+            {
+                "level": "27",
+                "name": "lucky-chant"
+            },
+            {
+                "level": "30",
+                "name": "light-screen"
+            },
+            {
+                "level": "34",
+                "name": "psyshock"
+            },
+            {
+                "level": "36",
+                "name": "mystical-fire"
+            },
+            {
+                "level": "42",
+                "name": "flamethrower"
+            },
+            {
+                "level": "47",
+                "name": "will-o-wisp"
+            },
+            {
+                "level": "51",
+                "name": "psychic"
+            },
+            {
+                "level": "55",
+                "name": "sunny-day"
+            },
+            {
+                "level": "56",
+                "name": "magic-room"
+            },
+            {
+                "level": "61",
+                "name": "fire-blast"
+            },
+            {
+                "level": "69",
+                "name": "future-sight"
+            },
+            {
+                "level": "75",
+                "name": "mystical-fire"
+            }
+        ],
+        "tutor": [
+            "blast-burn",
+            "fire-pledge"
+        ],
+        "machine": [
+            "psyshock",
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "solar-beam",
+            "return",
+            "psychic",
+            "shadow-ball",
+            "double-team",
+            "flamethrower",
+            "fire-blast",
+            "facade",
+            "flame-charge",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "echoed-voice",
+            "overheat",
+            "incinerate",
+            "will-o-wisp",
+            "embargo",
+            "giga-impact",
+            "psych-up",
+            "dream-eater",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "trick-room",
+            "power-up-punch",
+            "confide",
+            "cut"
+        ],
+        "egg": [
+            "heat-wave",
+            "hypnosis",
+            "magic-coat",
+            "wish"
+        ]
     },
     "656": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "pound"
+            },
+            {
+                "level": "1",
+                "name": "growl"
+            },
+            {
+                "level": "5",
+                "name": "bubble"
+            },
+            {
+                "level": "8",
+                "name": "quick-attack"
+            },
+            {
+                "level": "10",
+                "name": "lick"
+            },
+            {
+                "level": "14",
+                "name": "water-pulse"
+            },
+            {
+                "level": "18",
+                "name": "smokescreen"
+            },
+            {
+                "level": "21",
+                "name": "round"
+            },
+            {
+                "level": "25",
+                "name": "fling"
+            },
+            {
+                "level": "29",
+                "name": "smack-down"
+            },
+            {
+                "level": "35",
+                "name": "substitute"
+            },
+            {
+                "level": "39",
+                "name": "bounce"
+            },
+            {
+                "level": "43",
+                "name": "double-team"
+            },
+            {
+                "level": "48",
+                "name": "hydro-pump"
+            }
+        ],
+        "tutor": [
+            "water-pledge"
+        ],
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "taunt",
+            "ice-beam",
+            "blizzard",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "smack-down",
+            "return",
+            "dig",
+            "double-team",
+            "rock-tomb",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "echoed-voice",
+            "scald",
+            "fling",
+            "acrobatics",
+            "rock-slide",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "rock-smash",
+            "power-up-punch",
+            "confide",
+            "cut",
+            "surf",
+            "strength",
+            "waterfall"
+        ],
+        "egg": [
+            "bestow",
+            "camouflage",
+            "mind-reader",
+            "mud-sport",
+            "toxic-spikes",
+            "water-sport"
+        ]
     },
     "657": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "pound"
+            },
+            {
+                "level": "1",
+                "name": "growl"
+            },
+            {
+                "level": "5",
+                "name": "bubble"
+            },
+            {
+                "level": "8",
+                "name": "quick-attack"
+            },
+            {
+                "level": "10",
+                "name": "lick"
+            },
+            {
+                "level": "14",
+                "name": "water-pulse"
+            },
+            {
+                "level": "20",
+                "name": "smokescreen"
+            },
+            {
+                "level": "23",
+                "name": "round"
+            },
+            {
+                "level": "28",
+                "name": "fling"
+            },
+            {
+                "level": "33",
+                "name": "smack-down"
+            },
+            {
+                "level": "38",
+                "name": "substitute"
+            },
+            {
+                "level": "44",
+                "name": "bounce"
+            },
+            {
+                "level": "48",
+                "name": "double-team"
+            },
+            {
+                "level": "55",
+                "name": "hydro-pump"
+            }
+        ],
+        "tutor": [
+            "water-pledge"
+        ],
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "taunt",
+            "ice-beam",
+            "blizzard",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "smack-down",
+            "return",
+            "dig",
+            "double-team",
+            "rock-tomb",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "echoed-voice",
+            "scald",
+            "fling",
+            "acrobatics",
+            "rock-slide",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "rock-smash",
+            "dark-pulse",
+            "power-up-punch",
+            "confide",
+            "cut",
+            "surf",
+            "strength",
+            "waterfall"
+        ],
+        "egg": [
+            "bestow",
+            "camouflage",
+            "mind-reader",
+            "mud-sport",
+            "toxic-spikes",
+            "water-sport"
+        ]
     },
     "658": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "night-slash"
+            },
+            {
+                "level": "1",
+                "name": "role-play"
+            },
+            {
+                "level": "1",
+                "name": "mat-block"
+            },
+            {
+                "level": "1",
+                "name": "pound"
+            },
+            {
+                "level": "1",
+                "name": "growl"
+            },
+            {
+                "level": "5",
+                "name": "bubble"
+            },
+            {
+                "level": "8",
+                "name": "quick-attack"
+            },
+            {
+                "level": "10",
+                "name": "lick"
+            },
+            {
+                "level": "14",
+                "name": "water-pulse"
+            },
+            {
+                "level": "20",
+                "name": "smokescreen"
+            },
+            {
+                "level": "23",
+                "name": "shadow-sneak"
+            },
+            {
+                "level": "28",
+                "name": "spikes"
+            },
+            {
+                "level": "33",
+                "name": "feint-attack"
+            },
+            {
+                "level": "36",
+                "name": "water-shuriken"
+            },
+            {
+                "level": "43",
+                "name": "substitute"
+            },
+            {
+                "level": "49",
+                "name": "extrasensory"
+            },
+            {
+                "level": "52",
+                "name": "double-team"
+            },
+            {
+                "level": "56",
+                "name": "haze"
+            },
+            {
+                "level": "60",
+                "name": "hydro-pump"
+            },
+            {
+                "level": "70",
+                "name": "night-slash"
+            },
+            {
+                "level": "75",
+                "name": "water-shuriken"
+            }
+        ],
+        "tutor": [
+            "hydro-cannon",
+            "water-pledge"
+        ],
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "taunt",
+            "ice-beam",
+            "blizzard",
+            "hyper-beam",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "smack-down",
+            "return",
+            "dig",
+            "double-team",
+            "rock-tomb",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "echoed-voice",
+            "scald",
+            "fling",
+            "acrobatics",
+            "giga-impact",
+            "rock-slide",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "rock-smash",
+            "dark-pulse",
+            "power-up-punch",
+            "confide",
+            "cut",
+            "surf",
+            "strength",
+            "waterfall"
+        ],
+        "egg": [
+            "bestow",
+            "camouflage",
+            "mind-reader",
+            "mud-sport",
+            "toxic-spikes",
+            "water-sport"
+        ]
     },
     "659": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "agility"
+            },
+            {
+                "level": "1",
+                "name": "leer"
+            },
+            {
+                "level": "7",
+                "name": "quick-attack"
+            },
+            {
+                "level": "10",
+                "name": "double-slap"
+            },
+            {
+                "level": "13",
+                "name": "mud-slap"
+            },
+            {
+                "level": "15",
+                "name": "take-down"
+            },
+            {
+                "level": "18",
+                "name": "mud-shot"
+            },
+            {
+                "level": "20",
+                "name": "double-kick"
+            },
+            {
+                "level": "25",
+                "name": "odor-sleuth"
+            },
+            {
+                "level": "29",
+                "name": "flail"
+            },
+            {
+                "level": "33",
+                "name": "dig"
+            },
+            {
+                "level": "38",
+                "name": "bounce"
+            },
+            {
+                "level": "42",
+                "name": "super-fang"
+            },
+            {
+                "level": "47",
+                "name": "facade"
+            },
+            {
+                "level": "49",
+                "name": "earthquake"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "bulk-up",
+            "hidden-power",
+            "protect",
+            "frustration",
+            "smack-down",
+            "earthquake",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "sludge-bomb",
+            "sandstorm",
+            "rock-tomb",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "fling",
+            "payback",
+            "stone-edge",
+            "bulldoze",
+            "rock-slide",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "wild-charge",
+            "rock-smash",
+            "nature-power",
+            "power-up-punch",
+            "confide",
+            "cut",
+            "surf",
+            "strength"
+        ],
+        "egg": [
+            "defense-curl",
+            "rollout",
+            "spikes"
+        ]
     },
     "660": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "hammer-arm"
+            },
+            {
+                "level": "1",
+                "name": "rototiller"
+            },
+            {
+                "level": "1",
+                "name": "bulldoze"
+            },
+            {
+                "level": "1",
+                "name": "swords-dance"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "agility"
+            },
+            {
+                "level": "1",
+                "name": "leer"
+            },
+            {
+                "level": "7",
+                "name": "quick-attack"
+            },
+            {
+                "level": "13",
+                "name": "mud-slap"
+            },
+            {
+                "level": "15",
+                "name": "take-down"
+            },
+            {
+                "level": "18",
+                "name": "mud-shot"
+            },
+            {
+                "level": "20",
+                "name": "double-kick"
+            },
+            {
+                "level": "26",
+                "name": "odor-sleuth"
+            },
+            {
+                "level": "31",
+                "name": "flail"
+            },
+            {
+                "level": "37",
+                "name": "dig"
+            },
+            {
+                "level": "42",
+                "name": "bounce"
+            },
+            {
+                "level": "48",
+                "name": "super-fang"
+            },
+            {
+                "level": "53",
+                "name": "facade"
+            },
+            {
+                "level": "57",
+                "name": "earthquake"
+            },
+            {
+                "level": "60",
+                "name": "hammer-arm"
+            }
+        ],
+        "tutor": [
+            "double-slap"
+        ],
+        "machine": [
+            "toxic",
+            "bulk-up",
+            "hidden-power",
+            "hyper-beam",
+            "protect",
+            "frustration",
+            "smack-down",
+            "earthquake",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "sludge-bomb",
+            "sandstorm",
+            "rock-tomb",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "fling",
+            "payback",
+            "giga-impact",
+            "stone-edge",
+            "swords-dance",
+            "bulldoze",
+            "rock-slide",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "wild-charge",
+            "rock-smash",
+            "nature-power",
+            "power-up-punch",
+            "confide",
+            "cut",
+            "surf",
+            "strength"
+        ],
+        "egg": [
+            "defense-curl",
+            "rollout",
+            "spikes"
+        ]
     },
     "661": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "growl"
+            },
+            {
+                "level": "6",
+                "name": "quick-attack"
+            },
+            {
+                "level": "10",
+                "name": "peck"
+            },
+            {
+                "level": "13",
+                "name": "agility"
+            },
+            {
+                "level": "16",
+                "name": "flail"
+            },
+            {
+                "level": "21",
+                "name": "roost"
+            },
+            {
+                "level": "25",
+                "name": "razor-wind"
+            },
+            {
+                "level": "29",
+                "name": "natural-gift"
+            },
+            {
+                "level": "34",
+                "name": "flame-charge"
+            },
+            {
+                "level": "39",
+                "name": "acrobatics"
+            },
+            {
+                "level": "41",
+                "name": "me-first"
+            },
+            {
+                "level": "45",
+                "name": "tailwind"
+            },
+            {
+                "level": "48",
+                "name": "steel-wing"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "protect",
+            "roost",
+            "frustration",
+            "return",
+            "double-team",
+            "aerial-ace",
+            "facade",
+            "flame-charge",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "overheat",
+            "steel-wing",
+            "acrobatics",
+            "swords-dance",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "confide",
+            "fly"
+        ],
+        "egg": [
+            "quick-guard",
+            "snatch",
+            "tailwind"
+        ]
     },
     "662": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "growl"
+            },
+            {
+                "level": "6",
+                "name": "quick-attack"
+            },
+            {
+                "level": "10",
+                "name": "peck"
+            },
+            {
+                "level": "13",
+                "name": "agility"
+            },
+            {
+                "level": "16",
+                "name": "flail"
+            },
+            {
+                "level": "17",
+                "name": "ember"
+            },
+            {
+                "level": "25",
+                "name": "roost"
+            },
+            {
+                "level": "27",
+                "name": "razor-wind"
+            },
+            {
+                "level": "31",
+                "name": "natural-gift"
+            },
+            {
+                "level": "38",
+                "name": "flame-charge"
+            },
+            {
+                "level": "42",
+                "name": "acrobatics"
+            },
+            {
+                "level": "46",
+                "name": "me-first"
+            },
+            {
+                "level": "51",
+                "name": "tailwind"
+            },
+            {
+                "level": "55",
+                "name": "steel-wing"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "protect",
+            "roost",
+            "frustration",
+            "return",
+            "double-team",
+            "flamethrower",
+            "fire-blast",
+            "aerial-ace",
+            "facade",
+            "flame-charge",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "overheat",
+            "steel-wing",
+            "incinerate",
+            "will-o-wisp",
+            "acrobatics",
+            "swords-dance",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "confide",
+            "fly"
+        ],
+        "egg": [
+            "quick-guard",
+            "snatch",
+            "tailwind"
+        ]
     },
     "663": {
+        "level": [
+            {
+                "level": "1",
+                "name": "brave-bird"
+            },
+            {
+                "level": "1",
+                "name": "flare-blitz"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "growl"
+            },
+            {
+                "level": "6",
+                "name": "quick-attack"
+            },
+            {
+                "level": "10",
+                "name": "peck"
+            },
+            {
+                "level": "13",
+                "name": "agility"
+            },
+            {
+                "level": "16",
+                "name": "flail"
+            },
+            {
+                "level": "17",
+                "name": "ember"
+            },
+            {
+                "level": "25",
+                "name": "roost"
+            },
+            {
+                "level": "27",
+                "name": "razor-wind"
+            },
+            {
+                "level": "31",
+                "name": "natural-gift"
+            },
+            {
+                "level": "39",
+                "name": "flame-charge"
+            },
+            {
+                "level": "44",
+                "name": "acrobatics"
+            },
+            {
+                "level": "49",
+                "name": "me-first"
+            },
+            {
+                "level": "55",
+                "name": "tailwind"
+            },
+            {
+                "level": "60",
+                "name": "steel-wing"
+            },
+            {
+                "level": "64",
+                "name": "brave-bird"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "hone-claws",
+            "toxic",
+            "bulk-up",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "hyper-beam",
+            "protect",
+            "roost",
+            "frustration",
+            "solar-beam",
+            "return",
+            "double-team",
+            "flamethrower",
+            "fire-blast",
+            "aerial-ace",
+            "facade",
+            "flame-charge",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "overheat",
+            "steel-wing",
+            "incinerate",
+            "will-o-wisp",
+            "acrobatics",
+            "giga-impact",
+            "swords-dance",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "confide",
+            "fly"
+        ],
+        "egg": [
+            "quick-guard",
+            "snatch",
+            "tailwind"
+        ]
     },
     "664": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "string-shot"
+            },
+            {
+                "level": "6",
+                "name": "stun-spore"
+            },
+            {
+                "level": "15",
+                "name": "bug-bite"
+            }
+        ],
         "tutor": [],
         "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "egg": [
+            "poison-powder",
+            "rage-powder",
+            "stun-spore"
+        ]
     },
     "665": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "harden"
+            },
+            {
+                "level": "9",
+                "name": "protect"
+            }
+        ],
+        "tutor": [
+            "tackle",
+            "string-shot",
+            "stun-spore",
+            "bug-bite"
+        ],
+        "machine": [
+            "protect"
+        ],
+        "egg": [
+            "poison-powder",
+            "rage-powder",
+            "stun-spore"
+        ]
     },
     "666": {
+        "level": [
+            {
+                "level": "1",
+                "name": "powder"
+            },
+            {
+                "level": "1",
+                "name": "sleep-powder"
+            },
+            {
+                "level": "1",
+                "name": "poison-powder"
+            },
+            {
+                "level": "1",
+                "name": "stun-spore"
+            },
+            {
+                "level": "1",
+                "name": "gust"
+            },
+            {
+                "level": "1",
+                "name": "light-screen"
+            },
+            {
+                "level": "12",
+                "name": "struggle-bug"
+            },
+            {
+                "level": "17",
+                "name": "psybeam"
+            },
+            {
+                "level": "21",
+                "name": "supersonic"
+            },
+            {
+                "level": "25",
+                "name": "draining-kiss"
+            },
+            {
+                "level": "31",
+                "name": "aromatherapy"
+            },
+            {
+                "level": "35",
+                "name": "bug-buzz"
+            },
+            {
+                "level": "41",
+                "name": "safeguard"
+            },
+            {
+                "level": "45",
+                "name": "quiver-dance"
+            },
+            {
+                "level": "50",
+                "name": "hurricane"
+            },
+            {
+                "level": "55",
+                "name": "powder"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "roost",
+            "safeguard",
+            "frustration",
+            "solar-beam",
+            "return",
+            "psychic",
+            "double-team",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "energy-ball",
+            "acrobatics",
+            "giga-impact",
+            "flash",
+            "struggle-bug",
+            "psych-up",
+            "infestation",
+            "dream-eater",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "confide"
+        ],
+        "egg": [
+            "poison-powder",
+            "rage-powder",
+            "stun-spore"
+        ]
     },
     "667": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "leer"
+            },
+            {
+                "level": "5",
+                "name": "ember"
+            },
+            {
+                "level": "8",
+                "name": "work-up"
+            },
+            {
+                "level": "11",
+                "name": "headbutt"
+            },
+            {
+                "level": "15",
+                "name": "noble-roar"
+            },
+            {
+                "level": "20",
+                "name": "take-down"
+            },
+            {
+                "level": "23",
+                "name": "fire-fang"
+            },
+            {
+                "level": "28",
+                "name": "endeavor"
+            },
+            {
+                "level": "33",
+                "name": "echoed-voice"
+            },
+            {
+                "level": "36",
+                "name": "flamethrower"
+            },
+            {
+                "level": "39",
+                "name": "crunch"
+            },
+            {
+                "level": "43",
+                "name": "hyper-voice"
+            },
+            {
+                "level": "46",
+                "name": "incinerate"
+            },
+            {
+                "level": "50",
+                "name": "overheat"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "roar",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "solar-beam",
+            "return",
+            "dig",
+            "double-team",
+            "flamethrower",
+            "fire-blast",
+            "facade",
+            "flame-charge",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "echoed-voice",
+            "overheat",
+            "incinerate",
+            "will-o-wisp",
+            "payback",
+            "retaliate",
+            "bulldoze",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "wild-charge",
+            "rock-smash",
+            "snarl",
+            "dark-pulse",
+            "confide",
+            "strength"
+        ],
+        "egg": [
+            "entrainment",
+            "fire-spin",
+            "snatch",
+            "yawn"
+        ]
     },
     "668": {
+        "level": [
+            {
+                "level": "1",
+                "name": "hyper-beam"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "leer"
+            },
+            {
+                "level": "5",
+                "name": "ember"
+            },
+            {
+                "level": "8",
+                "name": "work-up"
+            },
+            {
+                "level": "11",
+                "name": "headbutt"
+            },
+            {
+                "level": "15",
+                "name": "noble-roar"
+            },
+            {
+                "level": "20",
+                "name": "take-down"
+            },
+            {
+                "level": "23",
+                "name": "fire-fang"
+            },
+            {
+                "level": "28",
+                "name": "endeavor"
+            },
+            {
+                "level": "33",
+                "name": "echoed-voice"
+            },
+            {
+                "level": "38",
+                "name": "flamethrower"
+            },
+            {
+                "level": "42",
+                "name": "crunch"
+            },
+            {
+                "level": "48",
+                "name": "hyper-voice"
+            },
+            {
+                "level": "51",
+                "name": "incinerate"
+            },
+            {
+                "level": "57",
+                "name": "overheat"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "roar",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "hyper-beam",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "solar-beam",
+            "return",
+            "dig",
+            "double-team",
+            "flamethrower",
+            "fire-blast",
+            "facade",
+            "flame-charge",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "echoed-voice",
+            "overheat",
+            "incinerate",
+            "will-o-wisp",
+            "payback",
+            "retaliate",
+            "giga-impact",
+            "bulldoze",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "wild-charge",
+            "rock-smash",
+            "snarl",
+            "dark-pulse",
+            "confide",
+            "strength"
+        ],
+        "egg": [
+            "entrainment",
+            "fire-spin",
+            "snatch",
+            "yawn"
+        ]
     },
     "669": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "vine-whip"
+            },
+            {
+                "level": "6",
+                "name": "fairy-wind"
+            },
+            {
+                "level": "10",
+                "name": "lucky-chant"
+            },
+            {
+                "level": "15",
+                "name": "razor-leaf"
+            },
+            {
+                "level": "20",
+                "name": "wish"
+            },
+            {
+                "level": "22",
+                "name": "magical-leaf"
+            },
+            {
+                "level": "24",
+                "name": "grassy-terrain"
+            },
+            {
+                "level": "28",
+                "name": "petal-blizzard"
+            },
+            {
+                "level": "33",
+                "name": "aromatherapy"
+            },
+            {
+                "level": "37",
+                "name": "misty-terrain"
+            },
+            {
+                "level": "41",
+                "name": "moonblast"
+            },
+            {
+                "level": "45",
+                "name": "petal-dance"
+            },
+            {
+                "level": "48",
+                "name": "solar-beam"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "solar-beam",
+            "return",
+            "psychic",
+            "double-team",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "echoed-voice",
+            "energy-ball",
+            "flash",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "nature-power",
+            "dazzling-gleam",
+            "confide"
+        ],
+        "egg": [
+            "camouflage",
+            "captivate",
+            "copycat"
+        ]
     },
     "670": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "vine-whip"
+            },
+            {
+                "level": "6",
+                "name": "fairy-wind"
+            },
+            {
+                "level": "10",
+                "name": "lucky-chant"
+            },
+            {
+                "level": "15",
+                "name": "razor-leaf"
+            },
+            {
+                "level": "20",
+                "name": "wish"
+            },
+            {
+                "level": "25",
+                "name": "magical-leaf"
+            },
+            {
+                "level": "27",
+                "name": "grassy-terrain"
+            },
+            {
+                "level": "33",
+                "name": "petal-blizzard"
+            },
+            {
+                "level": "38",
+                "name": "aromatherapy"
+            },
+            {
+                "level": "43",
+                "name": "misty-terrain"
+            },
+            {
+                "level": "46",
+                "name": "moonblast"
+            },
+            {
+                "level": "51",
+                "name": "petal-dance"
+            },
+            {
+                "level": "58",
+                "name": "solar-beam"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "solar-beam",
+            "return",
+            "psychic",
+            "double-team",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "echoed-voice",
+            "energy-ball",
+            "flash",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "nature-power",
+            "dazzling-gleam",
+            "confide"
+        ],
+        "egg": [
+            "camouflage",
+            "captivate",
+            "copycat"
+        ]
     },
     "671": {
+        "level": [
+            {
+                "level": "1",
+                "name": "disarming-voice"
+            },
+            {
+                "level": "1",
+                "name": "lucky-chant"
+            },
+            {
+                "level": "1",
+                "name": "wish"
+            },
+            {
+                "level": "1",
+                "name": "magical-leaf"
+            },
+            {
+                "level": "1",
+                "name": "flower-shield"
+            },
+            {
+                "level": "1",
+                "name": "grass-knot"
+            },
+            {
+                "level": "1",
+                "name": "grassy-terrain"
+            },
+            {
+                "level": "1",
+                "name": "petal-blizzard"
+            },
+            {
+                "level": "1",
+                "name": "misty-terrain"
+            },
+            {
+                "level": "1",
+                "name": "moonblast"
+            },
+            {
+                "level": "1",
+                "name": "petal-dance"
+            },
+            {
+                "level": "1",
+                "name": "aromatherapy"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "solar-beam",
+            "return",
+            "psychic",
+            "double-team",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "echoed-voice",
+            "energy-ball",
+            "giga-impact",
+            "flash",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "nature-power",
+            "dazzling-gleam",
+            "confide"
+        ],
+        "egg": [
+            "camouflage",
+            "captivate",
+            "copycat"
+        ]
     },
     "672": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "growth"
+            },
+            {
+                "level": "7",
+                "name": "vine-whip"
+            },
+            {
+                "level": "9",
+                "name": "tail-whip"
+            },
+            {
+                "level": "12",
+                "name": "leech-seed"
+            },
+            {
+                "level": "13",
+                "name": "razor-leaf"
+            },
+            {
+                "level": "16",
+                "name": "worry-seed"
+            },
+            {
+                "level": "20",
+                "name": "synthesis"
+            },
+            {
+                "level": "22",
+                "name": "take-down"
+            },
+            {
+                "level": "26",
+                "name": "bulldoze"
+            },
+            {
+                "level": "30",
+                "name": "seed-bomb"
+            },
+            {
+                "level": "34",
+                "name": "bulk-up"
+            },
+            {
+                "level": "38",
+                "name": "double-edge"
+            },
+            {
+                "level": "42",
+                "name": "horn-leech"
+            },
+            {
+                "level": "45",
+                "name": "leaf-blade"
+            },
+            {
+                "level": "50",
+                "name": "milk-drink"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "roar",
+            "toxic",
+            "bulk-up",
+            "hidden-power",
+            "sunny-day",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "solar-beam",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "energy-ball",
+            "payback",
+            "retaliate",
+            "bulldoze",
+            "rock-slide",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "wild-charge",
+            "rock-smash",
+            "nature-power",
+            "confide",
+            "surf",
+            "strength"
+        ],
+        "egg": [
+            "defense-curl",
+            "milk-drink",
+            "rollout"
+        ]
     },
     "673": {
+        "level": [
+            {
+                "level": "1",
+                "name": "aerial-ace"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "growth"
+            },
+            {
+                "level": "7",
+                "name": "vine-whip"
+            },
+            {
+                "level": "9",
+                "name": "tail-whip"
+            },
+            {
+                "level": "12",
+                "name": "leech-seed"
+            },
+            {
+                "level": "13",
+                "name": "razor-leaf"
+            },
+            {
+                "level": "16",
+                "name": "worry-seed"
+            },
+            {
+                "level": "20",
+                "name": "synthesis"
+            },
+            {
+                "level": "22",
+                "name": "take-down"
+            },
+            {
+                "level": "26",
+                "name": "bulldoze"
+            },
+            {
+                "level": "30",
+                "name": "seed-bomb"
+            },
+            {
+                "level": "34",
+                "name": "bulk-up"
+            },
+            {
+                "level": "40",
+                "name": "double-edge"
+            },
+            {
+                "level": "47",
+                "name": "horn-leech"
+            },
+            {
+                "level": "55",
+                "name": "leaf-blade"
+            },
+            {
+                "level": "58",
+                "name": "milk-drink"
+            },
+            {
+                "level": "60",
+                "name": "earthquake"
+            },
+            {
+                "level": "65",
+                "name": "aerial-ace"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "roar",
+            "toxic",
+            "bulk-up",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "solar-beam",
+            "earthquake",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "energy-ball",
+            "payback",
+            "retaliate",
+            "giga-impact",
+            "bulldoze",
+            "rock-slide",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "wild-charge",
+            "rock-smash",
+            "nature-power",
+            "confide",
+            "surf",
+            "strength"
+        ],
+        "egg": [
+            "defense-curl",
+            "milk-drink",
+            "rollout"
+        ]
     },
     "674": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "leer"
+            },
+            {
+                "level": "7",
+                "name": "arm-thrust"
+            },
+            {
+                "level": "10",
+                "name": "work-up"
+            },
+            {
+                "level": "12",
+                "name": "karate-chop"
+            },
+            {
+                "level": "15",
+                "name": "comet-punch"
+            },
+            {
+                "level": "20",
+                "name": "slash"
+            },
+            {
+                "level": "25",
+                "name": "circle-throw"
+            },
+            {
+                "level": "27",
+                "name": "vital-throw"
+            },
+            {
+                "level": "33",
+                "name": "body-slam"
+            },
+            {
+                "level": "39",
+                "name": "crunch"
+            },
+            {
+                "level": "42",
+                "name": "entrainment"
+            },
+            {
+                "level": "45",
+                "name": "parting-shot"
+            },
+            {
+                "level": "48",
+                "name": "sky-uppercut"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "roar",
+            "toxic",
+            "bulk-up",
+            "hidden-power",
+            "sunny-day",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "sludge-bomb",
+            "rock-tomb",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "low-sweep",
+            "round",
+            "echoed-voice",
+            "false-swipe",
+            "fling",
+            "shadow-claw",
+            "payback",
+            "retaliate",
+            "stone-edge",
+            "swords-dance",
+            "bulldoze",
+            "rock-slide",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "rock-smash",
+            "dark-pulse",
+            "power-up-punch",
+            "confide",
+            "cut",
+            "surf",
+            "strength"
+        ],
+        "egg": [
+            "foul-play",
+            "me-first",
+            "quash",
+            "quick-guard",
+            "storm-throw"
+        ]
     },
     "675": {
+        "level": [
+            {
+                "level": "1",
+                "name": "entrainment"
+            },
+            {
+                "level": "1",
+                "name": "hammer-arm"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "leer"
+            },
+            {
+                "level": "7",
+                "name": "arm-thrust"
+            },
+            {
+                "level": "10",
+                "name": "work-up"
+            },
+            {
+                "level": "12",
+                "name": "karate-chop"
+            },
+            {
+                "level": "15",
+                "name": "comet-punch"
+            },
+            {
+                "level": "20",
+                "name": "slash"
+            },
+            {
+                "level": "25",
+                "name": "circle-throw"
+            },
+            {
+                "level": "27",
+                "name": "vital-throw"
+            },
+            {
+                "level": "35",
+                "name": "body-slam"
+            },
+            {
+                "level": "42",
+                "name": "crunch"
+            },
+            {
+                "level": "45",
+                "name": "entrainment"
+            },
+            {
+                "level": "48",
+                "name": "parting-shot"
+            },
+            {
+                "level": "52",
+                "name": "sky-uppercut"
+            },
+            {
+                "level": "57",
+                "name": "hammer-arm"
+            },
+            {
+                "level": "65",
+                "name": "taunt"
+            },
+            {
+                "level": "70",
+                "name": "low-sweep"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "hone-claws",
+            "dragon-claw",
+            "roar",
+            "toxic",
+            "bulk-up",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "hyper-beam",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "earthquake",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "sludge-bomb",
+            "rock-tomb",
+            "aerial-ace",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "low-sweep",
+            "round",
+            "echoed-voice",
+            "focus-blast",
+            "false-swipe",
+            "fling",
+            "quash",
+            "embargo",
+            "shadow-claw",
+            "payback",
+            "retaliate",
+            "giga-impact",
+            "stone-edge",
+            "swords-dance",
+            "bulldoze",
+            "rock-slide",
+            "x-scissor",
+            "infestation",
+            "poison-jab",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "rock-smash",
+            "snarl",
+            "dark-pulse",
+            "power-up-punch",
+            "confide",
+            "cut",
+            "surf",
+            "strength"
+        ],
+        "egg": [
+            "foul-play",
+            "me-first",
+            "quash",
+            "quick-guard",
+            "storm-throw"
+        ]
     },
     "676": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "growl"
+            },
+            {
+                "level": "5",
+                "name": "sand-attack"
+            },
+            {
+                "level": "9",
+                "name": "baby-doll-eyes"
+            },
+            {
+                "level": "12",
+                "name": "headbutt"
+            },
+            {
+                "level": "15",
+                "name": "tail-whip"
+            },
+            {
+                "level": "22",
+                "name": "bite"
+            },
+            {
+                "level": "27",
+                "name": "odor-sleuth"
+            },
+            {
+                "level": "33",
+                "name": "retaliate"
+            },
+            {
+                "level": "35",
+                "name": "take-down"
+            },
+            {
+                "level": "38",
+                "name": "charm"
+            },
+            {
+                "level": "42",
+                "name": "sucker-punch"
+            },
+            {
+                "level": "48",
+                "name": "cotton-guard"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "roar",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "return",
+            "dig",
+            "double-team",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "echoed-voice",
+            "charge-beam",
+            "retaliate",
+            "giga-impact",
+            "flash",
+            "thunder-wave",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "wild-charge",
+            "rock-smash",
+            "snarl",
+            "dark-pulse",
+            "confide",
+            "surf"
+        ],
+        "egg": [
+            "captivate",
+            "mimic",
+            "refresh",
+            "role-play",
+            "work-up"
+        ]
     },
     "677": {
+        "level": [
+            {
+                "level": "1",
+                "name": "scratch"
+            },
+            {
+                "level": "1",
+                "name": "leer"
+            },
+            {
+                "level": "5",
+                "name": "covet"
+            },
+            {
+                "level": "9",
+                "name": "confusion"
+            },
+            {
+                "level": "13",
+                "name": "light-screen"
+            },
+            {
+                "level": "17",
+                "name": "psybeam"
+            },
+            {
+                "level": "19",
+                "name": "fake-out"
+            },
+            {
+                "level": "22",
+                "name": "disarming-voice"
+            },
+            {
+                "level": "25",
+                "name": "psyshock"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "psyshock",
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "thunderbolt",
+            "return",
+            "psychic",
+            "double-team",
+            "reflect",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "echoed-voice",
+            "energy-ball",
+            "charge-beam",
+            "payback",
+            "flash",
+            "thunder-wave",
+            "psych-up",
+            "dream-eater",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "trick-room",
+            "dark-pulse",
+            "confide",
+            "cut"
+        ],
+        "egg": [
+            "assist",
+            "barrier",
+            "trick",
+            "yawn"
+        ]
     },
     "678": {
+        "level": [
+            {
+                "level": "1",
+                "name": "quick-guard"
+            },
+            {
+                "level": "1",
+                "name": "mean-look"
+            },
+            {
+                "level": "1",
+                "name": "helping-hand"
+            },
+            {
+                "level": "1",
+                "name": "scratch"
+            },
+            {
+                "level": "1",
+                "name": "leer"
+            },
+            {
+                "level": "5",
+                "name": "covet"
+            },
+            {
+                "level": "9",
+                "name": "confusion"
+            },
+            {
+                "level": "13",
+                "name": "light-screen"
+            },
+            {
+                "level": "17",
+                "name": "psybeam"
+            },
+            {
+                "level": "19",
+                "name": "fake-out"
+            },
+            {
+                "level": "22",
+                "name": "disarming-voice"
+            },
+            {
+                "level": "25",
+                "name": "psyshock"
+            },
+            {
+                "level": "28",
+                "name": "charm"
+            },
+            {
+                "level": "31",
+                "name": "miracle-eye"
+            },
+            {
+                "level": "35",
+                "name": "reflect"
+            },
+            {
+                "level": "40",
+                "name": "psychic"
+            },
+            {
+                "level": "43",
+                "name": "role-play"
+            },
+            {
+                "level": "45",
+                "name": "imprison"
+            },
+            {
+                "level": "48",
+                "name": "sucker-punch"
+            },
+            {
+                "level": "50",
+                "name": "misty-terrain"
+            },
+            {
+                "level": "53",
+                "name": "quick-guard"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "psyshock",
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "thunderbolt",
+            "return",
+            "dig",
+            "psychic",
+            "shadow-ball",
+            "double-team",
+            "reflect",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "echoed-voice",
+            "energy-ball",
+            "charge-beam",
+            "payback",
+            "giga-impact",
+            "flash",
+            "thunder-wave",
+            "psych-up",
+            "dream-eater",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "trick-room",
+            "dark-pulse",
+            "power-up-punch",
+            "confide",
+            "cut"
+        ],
+        "egg": [
+            "assist",
+            "barrier",
+            "trick",
+            "yawn"
+        ]
     },
     "679": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "swords-dance"
+            },
+            {
+                "level": "5",
+                "name": "fury-cutter"
+            },
+            {
+                "level": "8",
+                "name": "metal-sound"
+            },
+            {
+                "level": "13",
+                "name": "pursuit"
+            },
+            {
+                "level": "18",
+                "name": "autotomize"
+            },
+            {
+                "level": "20",
+                "name": "shadow-sneak"
+            },
+            {
+                "level": "22",
+                "name": "aerial-ace"
+            },
+            {
+                "level": "26",
+                "name": "retaliate"
+            },
+            {
+                "level": "29",
+                "name": "slash"
+            },
+            {
+                "level": "32",
+                "name": "iron-defense"
+            },
+            {
+                "level": "35",
+                "name": "night-slash"
+            },
+            {
+                "level": "39",
+                "name": "power-trick"
+            },
+            {
+                "level": "42",
+                "name": "iron-head"
+            },
+            {
+                "level": "47",
+                "name": "sacred-sword"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "return",
+            "brick-break",
+            "double-team",
+            "reflect",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "false-swipe",
+            "shadow-claw",
+            "retaliate",
+            "gyro-ball",
+            "swords-dance",
+            "rock-slide",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "flash-cannon",
+            "rock-smash",
+            "confide",
+            "cut"
+        ],
+        "egg": [
+            "destiny-bond",
+            "metal-sound",
+            "shadow-sneak",
+            "wide-guard"
+        ]
     },
     "680": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "swords-dance"
+            },
+            {
+                "level": "5",
+                "name": "fury-cutter"
+            },
+            {
+                "level": "8",
+                "name": "metal-sound"
+            },
+            {
+                "level": "13",
+                "name": "pursuit"
+            },
+            {
+                "level": "18",
+                "name": "autotomize"
+            },
+            {
+                "level": "20",
+                "name": "shadow-sneak"
+            },
+            {
+                "level": "22",
+                "name": "aerial-ace"
+            },
+            {
+                "level": "26",
+                "name": "retaliate"
+            },
+            {
+                "level": "29",
+                "name": "slash"
+            },
+            {
+                "level": "32",
+                "name": "iron-defense"
+            },
+            {
+                "level": "36",
+                "name": "night-slash"
+            },
+            {
+                "level": "41",
+                "name": "power-trick"
+            },
+            {
+                "level": "45",
+                "name": "iron-head"
+            },
+            {
+                "level": "51",
+                "name": "sacred-sword"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "return",
+            "brick-break",
+            "double-team",
+            "reflect",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "false-swipe",
+            "shadow-claw",
+            "retaliate",
+            "gyro-ball",
+            "swords-dance",
+            "rock-slide",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "flash-cannon",
+            "rock-smash",
+            "confide",
+            "cut"
+        ],
+        "egg": [
+            "destiny-bond",
+            "metal-sound",
+            "shadow-sneak",
+            "wide-guard"
+        ]
     },
     "681": {
+        "level": [
+            {
+                "level": "1",
+                "name": "fury-cutter"
+            },
+            {
+                "level": "1",
+                "name": "pursuit"
+            },
+            {
+                "level": "1",
+                "name": "autotomize"
+            },
+            {
+                "level": "1",
+                "name": "shadow-sneak"
+            },
+            {
+                "level": "1",
+                "name": "slash"
+            },
+            {
+                "level": "1",
+                "name": "iron-defense"
+            },
+            {
+                "level": "1",
+                "name": "night-slash"
+            },
+            {
+                "level": "1",
+                "name": "power-trick"
+            },
+            {
+                "level": "1",
+                "name": "iron-head"
+            },
+            {
+                "level": "1",
+                "name": "head-smash"
+            },
+            {
+                "level": "1",
+                "name": "swords-dance"
+            },
+            {
+                "level": "1",
+                "name": "aerial-ace"
+            },
+            {
+                "level": "1",
+                "name": "king's-shield"
+            },
+            {
+                "level": "1",
+                "name": "sacred-sword"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "return",
+            "shadow-ball",
+            "brick-break",
+            "double-team",
+            "reflect",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "false-swipe",
+            "shadow-claw",
+            "retaliate",
+            "giga-impact",
+            "gyro-ball",
+            "swords-dance",
+            "rock-slide",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "flash-cannon",
+            "rock-smash",
+            "confide",
+            "cut"
+        ],
+        "egg": [
+            "destiny-bond",
+            "metal-sound",
+            "shadow-sneak",
+            "wide-guard"
+        ]
     },
     "682": {
+        "level": [
+            {
+                "level": "1",
+                "name": "sweet-scent"
+            },
+            {
+                "level": "1",
+                "name": "fairy-wind"
+            },
+            {
+                "level": "6",
+                "name": "sweet-kiss"
+            },
+            {
+                "level": "8",
+                "name": "odor-sleuth"
+            },
+            {
+                "level": "13",
+                "name": "echoed-voice"
+            },
+            {
+                "level": "17",
+                "name": "calm-mind"
+            },
+            {
+                "level": "21",
+                "name": "draining-kiss"
+            },
+            {
+                "level": "25",
+                "name": "aromatherapy"
+            },
+            {
+                "level": "29",
+                "name": "attract"
+            },
+            {
+                "level": "31",
+                "name": "moonblast"
+            },
+            {
+                "level": "35",
+                "name": "charm"
+            },
+            {
+                "level": "38",
+                "name": "flail"
+            },
+            {
+                "level": "42",
+                "name": "misty-terrain"
+            },
+            {
+                "level": "44",
+                "name": "skill-swap"
+            },
+            {
+                "level": "48",
+                "name": "psychic"
+            },
+            {
+                "level": "50",
+                "name": "disarming-voice"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "thunderbolt",
+            "return",
+            "psychic",
+            "double-team",
+            "reflect",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "echoed-voice",
+            "energy-ball",
+            "charge-beam",
+            "flash",
+            "gyro-ball",
+            "psych-up",
+            "dream-eater",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "flash-cannon",
+            "trick-room",
+            "dazzling-gleam",
+            "confide"
+        ],
+        "egg": [
+            "captivate",
+            "disable",
+            "refresh",
+            "wish"
+        ]
     },
     "683": {
+        "level": [
+            {
+                "level": "1",
+                "name": "aromatic-mist"
+            },
+            {
+                "level": "1",
+                "name": "heal-pulse"
+            },
+            {
+                "level": "1",
+                "name": "sweet-scent"
+            },
+            {
+                "level": "1",
+                "name": "fairy-wind"
+            },
+            {
+                "level": "6",
+                "name": "sweet-kiss"
+            },
+            {
+                "level": "8",
+                "name": "odor-sleuth"
+            },
+            {
+                "level": "13",
+                "name": "echoed-voice"
+            },
+            {
+                "level": "17",
+                "name": "calm-mind"
+            },
+            {
+                "level": "21",
+                "name": "draining-kiss"
+            },
+            {
+                "level": "25",
+                "name": "aromatherapy"
+            },
+            {
+                "level": "29",
+                "name": "attract"
+            },
+            {
+                "level": "31",
+                "name": "moonblast"
+            },
+            {
+                "level": "35",
+                "name": "charm"
+            },
+            {
+                "level": "38",
+                "name": "flail"
+            },
+            {
+                "level": "42",
+                "name": "misty-terrain"
+            },
+            {
+                "level": "44",
+                "name": "skill-swap"
+            },
+            {
+                "level": "48",
+                "name": "psychic"
+            },
+            {
+                "level": "53",
+                "name": "disarming-voice"
+            },
+            {
+                "level": "57",
+                "name": "reflect"
+            },
+            {
+                "level": "64",
+                "name": "psych-up"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "psyshock",
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "thunderbolt",
+            "thunder",
+            "return",
+            "psychic",
+            "double-team",
+            "reflect",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "echoed-voice",
+            "energy-ball",
+            "charge-beam",
+            "giga-impact",
+            "flash",
+            "gyro-ball",
+            "psych-up",
+            "dream-eater",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "flash-cannon",
+            "trick-room",
+            "dazzling-gleam",
+            "confide"
+        ],
+        "egg": [
+            "captivate",
+            "disable",
+            "refresh",
+            "wish"
+        ]
     },
     "684": {
+        "level": [
+            {
+                "level": "1",
+                "name": "sweet-scent"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "5",
+                "name": "fairy-wind"
+            },
+            {
+                "level": "8",
+                "name": "play-nice"
+            },
+            {
+                "level": "10",
+                "name": "fake-tears"
+            },
+            {
+                "level": "13",
+                "name": "round"
+            },
+            {
+                "level": "17",
+                "name": "cotton-spore"
+            },
+            {
+                "level": "21",
+                "name": "endeavor"
+            },
+            {
+                "level": "26",
+                "name": "aromatherapy"
+            },
+            {
+                "level": "31",
+                "name": "draining-kiss"
+            },
+            {
+                "level": "36",
+                "name": "energy-ball"
+            },
+            {
+                "level": "41",
+                "name": "cotton-guard"
+            },
+            {
+                "level": "45",
+                "name": "wish"
+            },
+            {
+                "level": "49",
+                "name": "play-rough"
+            },
+            {
+                "level": "58",
+                "name": "light-screen"
+            },
+            {
+                "level": "67",
+                "name": "safeguard"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "thunderbolt",
+            "return",
+            "psychic",
+            "double-team",
+            "flamethrower",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "energy-ball",
+            "flash",
+            "psych-up",
+            "dream-eater",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "dazzling-gleam",
+            "confide",
+            "surf"
+        ],
+        "egg": [
+            "after-you",
+            "belly-drum",
+            "copycat",
+            "yawn"
+        ]
     },
     "685": {
+        "level": [
+            {
+                "level": "1",
+                "name": "sweet-scent"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "5",
+                "name": "fairy-wind"
+            },
+            {
+                "level": "8",
+                "name": "play-nice"
+            },
+            {
+                "level": "10",
+                "name": "fake-tears"
+            },
+            {
+                "level": "13",
+                "name": "round"
+            },
+            {
+                "level": "17",
+                "name": "cotton-spore"
+            },
+            {
+                "level": "21",
+                "name": "endeavor"
+            },
+            {
+                "level": "26",
+                "name": "aromatherapy"
+            },
+            {
+                "level": "31",
+                "name": "draining-kiss"
+            },
+            {
+                "level": "36",
+                "name": "energy-ball"
+            },
+            {
+                "level": "41",
+                "name": "cotton-guard"
+            },
+            {
+                "level": "45",
+                "name": "wish"
+            },
+            {
+                "level": "49",
+                "name": "play-rough"
+            },
+            {
+                "level": "58",
+                "name": "light-screen"
+            },
+            {
+                "level": "67",
+                "name": "safeguard"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "thunderbolt",
+            "return",
+            "psychic",
+            "double-team",
+            "flamethrower",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "energy-ball",
+            "giga-impact",
+            "flash",
+            "psych-up",
+            "dream-eater",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "dazzling-gleam",
+            "confide",
+            "surf"
+        ],
+        "egg": [
+            "after-you",
+            "belly-drum",
+            "copycat",
+            "yawn"
+        ]
     },
     "686": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "peck"
+            },
+            {
+                "level": "1",
+                "name": "constrict"
+            },
+            {
+                "level": "4",
+                "name": "reflect"
+            },
+            {
+                "level": "8",
+                "name": "foul-play"
+            },
+            {
+                "level": "12",
+                "name": "swagger"
+            },
+            {
+                "level": "13",
+                "name": "psywave"
+            },
+            {
+                "level": "15",
+                "name": "topsy-turvy"
+            },
+            {
+                "level": "18",
+                "name": "hypnosis"
+            },
+            {
+                "level": "21",
+                "name": "psybeam"
+            },
+            {
+                "level": "23",
+                "name": "switcheroo"
+            },
+            {
+                "level": "27",
+                "name": "payback"
+            },
+            {
+                "level": "31",
+                "name": "light-screen"
+            },
+            {
+                "level": "35",
+                "name": "pluck"
+            },
+            {
+                "level": "39",
+                "name": "psycho-cut"
+            },
+            {
+                "level": "43",
+                "name": "slash"
+            },
+            {
+                "level": "46",
+                "name": "night-slash"
+            },
+            {
+                "level": "48",
+                "name": "superpower"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "thunderbolt",
+            "return",
+            "psychic",
+            "double-team",
+            "reflect",
+            "flamethrower",
+            "aerial-ace",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "fling",
+            "embargo",
+            "payback",
+            "retaliate",
+            "flash",
+            "psych-up",
+            "rock-slide",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "trick-room",
+            "dark-pulse",
+            "confide",
+            "cut"
+        ],
+        "egg": [
+            "camouflage",
+            "destiny-bond",
+            "flatter",
+            "power-split",
+            "simple-beam"
+        ]
     },
     "687": {
+        "level": [
+            {
+                "level": "1",
+                "name": "superpower"
+            },
+            {
+                "level": "1",
+                "name": "reversal"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "peck"
+            },
+            {
+                "level": "1",
+                "name": "constrict"
+            },
+            {
+                "level": "4",
+                "name": "reflect"
+            },
+            {
+                "level": "8",
+                "name": "foul-play"
+            },
+            {
+                "level": "12",
+                "name": "swagger"
+            },
+            {
+                "level": "13",
+                "name": "psywave"
+            },
+            {
+                "level": "15",
+                "name": "topsy-turvy"
+            },
+            {
+                "level": "18",
+                "name": "hypnosis"
+            },
+            {
+                "level": "21",
+                "name": "psybeam"
+            },
+            {
+                "level": "23",
+                "name": "switcheroo"
+            },
+            {
+                "level": "27",
+                "name": "payback"
+            },
+            {
+                "level": "31",
+                "name": "light-screen"
+            },
+            {
+                "level": "35",
+                "name": "pluck"
+            },
+            {
+                "level": "39",
+                "name": "psycho-cut"
+            },
+            {
+                "level": "43",
+                "name": "slash"
+            },
+            {
+                "level": "46",
+                "name": "night-slash"
+            },
+            {
+                "level": "48",
+                "name": "superpower"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "psyshock",
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "thunderbolt",
+            "return",
+            "psychic",
+            "double-team",
+            "reflect",
+            "flamethrower",
+            "aerial-ace",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "fling",
+            "embargo",
+            "payback",
+            "retaliate",
+            "giga-impact",
+            "flash",
+            "psych-up",
+            "rock-slide",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "trick-room",
+            "dark-pulse",
+            "confide",
+            "cut"
+        ],
+        "egg": [
+            "camouflage",
+            "destiny-bond",
+            "flatter",
+            "power-split",
+            "simple-beam"
+        ]
     },
     "688": {
+        "level": [
+            {
+                "level": "1",
+                "name": "shell-smash"
+            },
+            {
+                "level": "1",
+                "name": "scratch"
+            },
+            {
+                "level": "1",
+                "name": "sand-attack"
+            },
+            {
+                "level": "4",
+                "name": "water-gun"
+            },
+            {
+                "level": "7",
+                "name": "withdraw"
+            },
+            {
+                "level": "10",
+                "name": "fury-swipes"
+            },
+            {
+                "level": "13",
+                "name": "slash"
+            },
+            {
+                "level": "18",
+                "name": "mud-slap"
+            },
+            {
+                "level": "20",
+                "name": "clamp"
+            },
+            {
+                "level": "24",
+                "name": "rock-polish"
+            },
+            {
+                "level": "28",
+                "name": "ancient-power"
+            },
+            {
+                "level": "32",
+                "name": "hone-claws"
+            },
+            {
+                "level": "37",
+                "name": "fury-cutter"
+            },
+            {
+                "level": "41",
+                "name": "night-slash"
+            },
+            {
+                "level": "45",
+                "name": "razor-shell"
+            },
+            {
+                "level": "49",
+                "name": "cross-chop"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "hone-claws",
+            "toxic",
+            "hidden-power",
+            "taunt",
+            "ice-beam",
+            "blizzard",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "smack-down",
+            "earthquake",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "sludge-wave",
+            "sludge-bomb",
+            "sandstorm",
+            "rock-tomb",
+            "aerial-ace",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "false-swipe",
+            "scald",
+            "fling",
+            "embargo",
+            "shadow-claw",
+            "payback",
+            "rock-polish",
+            "stone-edge",
+            "swords-dance",
+            "bulldoze",
+            "rock-slide",
+            "x-scissor",
+            "infestation",
+            "poison-jab",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "rock-smash",
+            "nature-power",
+            "power-up-punch",
+            "confide",
+            "cut",
+            "surf",
+            "strength"
+        ],
+        "egg": [
+            "helping-hand",
+            "switcheroo",
+            "tickle",
+            "water-sport"
+        ]
     },
     "689": {
+        "level": [
+            {
+                "level": "1",
+                "name": "stone-edge"
+            },
+            {
+                "level": "1",
+                "name": "skull-bash"
+            },
+            {
+                "level": "1",
+                "name": "shell-smash"
+            },
+            {
+                "level": "1",
+                "name": "scratch"
+            },
+            {
+                "level": "1",
+                "name": "sand-attack"
+            },
+            {
+                "level": "4",
+                "name": "water-gun"
+            },
+            {
+                "level": "7",
+                "name": "withdraw"
+            },
+            {
+                "level": "10",
+                "name": "fury-swipes"
+            },
+            {
+                "level": "13",
+                "name": "slash"
+            },
+            {
+                "level": "18",
+                "name": "mud-slap"
+            },
+            {
+                "level": "20",
+                "name": "clamp"
+            },
+            {
+                "level": "24",
+                "name": "rock-polish"
+            },
+            {
+                "level": "28",
+                "name": "ancient-power"
+            },
+            {
+                "level": "32",
+                "name": "hone-claws"
+            },
+            {
+                "level": "37",
+                "name": "fury-cutter"
+            },
+            {
+                "level": "44",
+                "name": "night-slash"
+            },
+            {
+                "level": "48",
+                "name": "razor-shell"
+            },
+            {
+                "level": "55",
+                "name": "cross-chop"
+            },
+            {
+                "level": "60",
+                "name": "stone-edge"
+            },
+            {
+                "level": "65",
+                "name": "skull-bash"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "hone-claws",
+            "dragon-claw",
+            "toxic",
+            "bulk-up",
+            "hidden-power",
+            "taunt",
+            "ice-beam",
+            "blizzard",
+            "hyper-beam",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "smack-down",
+            "earthquake",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "sludge-wave",
+            "sludge-bomb",
+            "sandstorm",
+            "rock-tomb",
+            "aerial-ace",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "focus-blast",
+            "false-swipe",
+            "scald",
+            "fling",
+            "embargo",
+            "shadow-claw",
+            "payback",
+            "giga-impact",
+            "rock-polish",
+            "stone-edge",
+            "swords-dance",
+            "bulldoze",
+            "rock-slide",
+            "x-scissor",
+            "infestation",
+            "poison-jab",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "rock-smash",
+            "nature-power",
+            "power-up-punch",
+            "confide",
+            "cut",
+            "surf",
+            "strength"
+        ],
+        "egg": [
+            "helping-hand",
+            "switcheroo",
+            "tickle",
+            "water-sport"
+        ]
     },
     "690": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "smokescreen"
+            },
+            {
+                "level": "1",
+                "name": "water-gun"
+            },
+            {
+                "level": "5",
+                "name": "feint-attack"
+            },
+            {
+                "level": "9",
+                "name": "tail-whip"
+            },
+            {
+                "level": "12",
+                "name": "bubble"
+            },
+            {
+                "level": "15",
+                "name": "acid"
+            },
+            {
+                "level": "19",
+                "name": "camouflage"
+            },
+            {
+                "level": "23",
+                "name": "poison-tail"
+            },
+            {
+                "level": "25",
+                "name": "water-pulse"
+            },
+            {
+                "level": "28",
+                "name": "double-team"
+            },
+            {
+                "level": "32",
+                "name": "toxic"
+            },
+            {
+                "level": "35",
+                "name": "aqua-tail"
+            },
+            {
+                "level": "38",
+                "name": "sludge-bomb"
+            },
+            {
+                "level": "42",
+                "name": "hydro-pump"
+            },
+            {
+                "level": "49",
+                "name": "dragon-pulse"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "hail",
+            "venoshock",
+            "hidden-power",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "thunderbolt",
+            "return",
+            "shadow-ball",
+            "double-team",
+            "sludge-wave",
+            "sludge-bomb",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "scald",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "confide",
+            "surf",
+            "waterfall"
+        ],
+        "egg": [
+            "acid-armor",
+            "haze",
+            "play-rough",
+            "toxic-spikes",
+            "venom-drench"
+        ]
     },
     "691": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "dragon-tail"
+            },
+            {
+                "level": "1",
+                "name": "twister"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "smokescreen"
+            },
+            {
+                "level": "1",
+                "name": "water-gun"
+            },
+            {
+                "level": "5",
+                "name": "feint-attack"
+            },
+            {
+                "level": "9",
+                "name": "tail-whip"
+            },
+            {
+                "level": "12",
+                "name": "bubble"
+            },
+            {
+                "level": "15",
+                "name": "acid"
+            },
+            {
+                "level": "19",
+                "name": "camouflage"
+            },
+            {
+                "level": "23",
+                "name": "poison-tail"
+            },
+            {
+                "level": "25",
+                "name": "water-pulse"
+            },
+            {
+                "level": "28",
+                "name": "double-team"
+            },
+            {
+                "level": "32",
+                "name": "toxic"
+            },
+            {
+                "level": "35",
+                "name": "aqua-tail"
+            },
+            {
+                "level": "38",
+                "name": "sludge-bomb"
+            },
+            {
+                "level": "42",
+                "name": "hydro-pump"
+            },
+            {
+                "level": "53",
+                "name": "dragon-pulse"
+            },
+            {
+                "level": "59",
+                "name": "dragon-tail"
+            },
+            {
+                "level": "67",
+                "name": "twister"
+            }
+        ],
+        "tutor": [
+            "draco-meteor"
+        ],
+        "machine": [
+            "toxic",
+            "hail",
+            "venoshock",
+            "hidden-power",
+            "hyper-beam",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "thunderbolt",
+            "thunder",
+            "return",
+            "shadow-ball",
+            "double-team",
+            "sludge-wave",
+            "sludge-bomb",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "focus-blast",
+            "scald",
+            "giga-impact",
+            "dragon-tail",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "confide",
+            "surf",
+            "waterfall"
+        ],
+        "egg": [
+            "acid-armor",
+            "haze",
+            "play-rough",
+            "toxic-spikes",
+            "venom-drench"
+        ]
     },
     "692": {
+        "level": [
+            {
+                "level": "1",
+                "name": "splash"
+            },
+            {
+                "level": "1",
+                "name": "water-gun"
+            },
+            {
+                "level": "7",
+                "name": "water-sport"
+            },
+            {
+                "level": "9",
+                "name": "vice-grip"
+            },
+            {
+                "level": "12",
+                "name": "bubble"
+            },
+            {
+                "level": "16",
+                "name": "flail"
+            },
+            {
+                "level": "20",
+                "name": "bubble-beam"
+            },
+            {
+                "level": "25",
+                "name": "swords-dance"
+            },
+            {
+                "level": "30",
+                "name": "crabhammer"
+            },
+            {
+                "level": "34",
+                "name": "water-pulse"
+            },
+            {
+                "level": "39",
+                "name": "smack-down"
+            },
+            {
+                "level": "43",
+                "name": "aqua-jet"
+            },
+            {
+                "level": "48",
+                "name": "muddy-water"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "venoshock",
+            "hidden-power",
+            "ice-beam",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "smack-down",
+            "return",
+            "double-team",
+            "sludge-wave",
+            "sludge-bomb",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "scald",
+            "swords-dance",
+            "rock-slide",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "flash-cannon",
+            "confide",
+            "cut",
+            "surf",
+            "waterfall"
+        ],
+        "egg": [
+            "aqua-jet",
+            "crabhammer",
+            "endure",
+            "entrainment",
+            "helping-hand"
+        ]
     },
     "693": {
+        "level": [
+            {
+                "level": "1",
+                "name": "heal-pulse"
+            },
+            {
+                "level": "1",
+                "name": "dark-pulse"
+            },
+            {
+                "level": "1",
+                "name": "dragon-pulse"
+            },
+            {
+                "level": "1",
+                "name": "aura-sphere"
+            },
+            {
+                "level": "1",
+                "name": "splash"
+            },
+            {
+                "level": "1",
+                "name": "water-gun"
+            },
+            {
+                "level": "7",
+                "name": "water-sport"
+            },
+            {
+                "level": "9",
+                "name": "vice-grip"
+            },
+            {
+                "level": "12",
+                "name": "bubble"
+            },
+            {
+                "level": "16",
+                "name": "flail"
+            },
+            {
+                "level": "20",
+                "name": "bubble-beam"
+            },
+            {
+                "level": "25",
+                "name": "swords-dance"
+            },
+            {
+                "level": "30",
+                "name": "crabhammer"
+            },
+            {
+                "level": "34",
+                "name": "water-pulse"
+            },
+            {
+                "level": "42",
+                "name": "smack-down"
+            },
+            {
+                "level": "47",
+                "name": "aqua-jet"
+            },
+            {
+                "level": "53",
+                "name": "muddy-water"
+            },
+            {
+                "level": "57",
+                "name": "dark-pulse"
+            },
+            {
+                "level": "63",
+                "name": "dragon-pulse"
+            },
+            {
+                "level": "67",
+                "name": "aura-sphere"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "venoshock",
+            "hidden-power",
+            "ice-beam",
+            "hyper-beam",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "smack-down",
+            "return",
+            "shadow-ball",
+            "double-team",
+            "sludge-wave",
+            "sludge-bomb",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "focus-blast",
+            "scald",
+            "giga-impact",
+            "swords-dance",
+            "rock-slide",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "flash-cannon",
+            "dark-pulse",
+            "confide",
+            "cut",
+            "surf",
+            "waterfall"
+        ],
+        "egg": [
+            "aqua-jet",
+            "crabhammer",
+            "endure",
+            "entrainment",
+            "helping-hand"
+        ]
     },
     "694": {
+        "level": [
+            {
+                "level": "1",
+                "name": "pound"
+            },
+            {
+                "level": "1",
+                "name": "tail-whip"
+            },
+            {
+                "level": "6",
+                "name": "thunder-shock"
+            },
+            {
+                "level": "11",
+                "name": "charge"
+            },
+            {
+                "level": "13",
+                "name": "mud-slap"
+            },
+            {
+                "level": "17",
+                "name": "quick-attack"
+            },
+            {
+                "level": "22",
+                "name": "razor-wind"
+            },
+            {
+                "level": "25",
+                "name": "parabolic-charge"
+            },
+            {
+                "level": "31",
+                "name": "thunder-wave"
+            },
+            {
+                "level": "35",
+                "name": "bulldoze"
+            },
+            {
+                "level": "40",
+                "name": "volt-switch"
+            },
+            {
+                "level": "45",
+                "name": "electrify"
+            },
+            {
+                "level": "49",
+                "name": "thunderbolt"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "thunderbolt",
+            "thunder",
+            "return",
+            "dig",
+            "double-team",
+            "sandstorm",
+            "rock-tomb",
+            "facade",
+            "rest",
+            "attract",
+            "low-sweep",
+            "round",
+            "charge-beam",
+            "flash",
+            "volt-switch",
+            "thunder-wave",
+            "psych-up",
+            "bulldoze",
+            "rock-slide",
+            "dragon-tail",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "wild-charge",
+            "dark-pulse",
+            "confide",
+            "cut",
+            "surf"
+        ],
+        "egg": [
+            "agility",
+            "camouflage",
+            "electric-terrain",
+            "glare"
+        ]
     },
     "695": {
+        "level": [
+            {
+                "level": "1",
+                "name": "eerie-impulse"
+            },
+            {
+                "level": "1",
+                "name": "electrify"
+            },
+            {
+                "level": "1",
+                "name": "razor-wind"
+            },
+            {
+                "level": "1",
+                "name": "quick-attack"
+            },
+            {
+                "level": "1",
+                "name": "thunder"
+            },
+            {
+                "level": "1",
+                "name": "charge"
+            },
+            {
+                "level": "1",
+                "name": "parabolic-charge"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "thunderbolt",
+            "thunder",
+            "return",
+            "dig",
+            "double-team",
+            "sandstorm",
+            "rock-tomb",
+            "facade",
+            "rest",
+            "attract",
+            "low-sweep",
+            "round",
+            "focus-blast",
+            "charge-beam",
+            "giga-impact",
+            "flash",
+            "volt-switch",
+            "thunder-wave",
+            "psych-up",
+            "bulldoze",
+            "rock-slide",
+            "dragon-tail",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "wild-charge",
+            "dark-pulse",
+            "confide",
+            "cut",
+            "surf"
+        ],
+        "egg": [
+            "agility",
+            "camouflage",
+            "electric-terrain",
+            "glare"
+        ]
     },
     "696": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "tail-whip"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "6",
+                "name": "roar"
+            },
+            {
+                "level": "10",
+                "name": "stomp"
+            },
+            {
+                "level": "12",
+                "name": "bide"
+            },
+            {
+                "level": "15",
+                "name": "stealth-rock"
+            },
+            {
+                "level": "17",
+                "name": "bite"
+            },
+            {
+                "level": "20",
+                "name": "charm"
+            },
+            {
+                "level": "26",
+                "name": "ancient-power"
+            },
+            {
+                "level": "30",
+                "name": "dragon-tail"
+            },
+            {
+                "level": "34",
+                "name": "crunch"
+            },
+            {
+                "level": "37",
+                "name": "dragon-claw"
+            },
+            {
+                "level": "40",
+                "name": "thrash"
+            },
+            {
+                "level": "44",
+                "name": "earthquake"
+            },
+            {
+                "level": "49",
+                "name": "horn-drill"
+            }
+        ],
+        "tutor": [
+            "draco-meteor"
+        ],
+        "machine": [
+            "hone-claws",
+            "dragon-claw",
+            "roar",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "protect",
+            "frustration",
+            "earthquake",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "sandstorm",
+            "rock-tomb",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "rock-polish",
+            "stone-edge",
+            "bulldoze",
+            "rock-slide",
+            "dragon-tail",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "rock-smash",
+            "dark-pulse",
+            "confide",
+            "strength"
+        ],
+        "egg": [
+            "curse",
+            "dragon-dance",
+            "fire-fang",
+            "ice-fang",
+            "poison-fang",
+            "rock-polish",
+            "thunder-fang"
+        ]
     },
     "697": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "head-smash"
+            },
+            {
+                "level": "1",
+                "name": "tail-whip"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "6",
+                "name": "roar"
+            },
+            {
+                "level": "10",
+                "name": "stomp"
+            },
+            {
+                "level": "12",
+                "name": "bide"
+            },
+            {
+                "level": "15",
+                "name": "stealth-rock"
+            },
+            {
+                "level": "17",
+                "name": "bite"
+            },
+            {
+                "level": "20",
+                "name": "charm"
+            },
+            {
+                "level": "26",
+                "name": "ancient-power"
+            },
+            {
+                "level": "30",
+                "name": "dragon-tail"
+            },
+            {
+                "level": "34",
+                "name": "crunch"
+            },
+            {
+                "level": "37",
+                "name": "dragon-claw"
+            },
+            {
+                "level": "42",
+                "name": "thrash"
+            },
+            {
+                "level": "47",
+                "name": "earthquake"
+            },
+            {
+                "level": "53",
+                "name": "horn-drill"
+            },
+            {
+                "level": "58",
+                "name": "head-smash"
+            },
+            {
+                "level": "68",
+                "name": "rock-slide"
+            },
+            {
+                "level": "75",
+                "name": "giga-impact"
+            }
+        ],
+        "tutor": [
+            "draco-meteor"
+        ],
+        "machine": [
+            "hone-claws",
+            "dragon-claw",
+            "roar",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "protect",
+            "frustration",
+            "earthquake",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "sandstorm",
+            "rock-tomb",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "giga-impact",
+            "rock-polish",
+            "stone-edge",
+            "bulldoze",
+            "rock-slide",
+            "dragon-tail",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "rock-smash",
+            "dark-pulse",
+            "confide",
+            "strength"
+        ],
+        "egg": [
+            "curse",
+            "dragon-dance",
+            "fire-fang",
+            "ice-fang",
+            "poison-fang",
+            "rock-polish",
+            "thunder-fang"
+        ]
     },
     "698": {
+        "level": [
+            {
+                "level": "1",
+                "name": "growl"
+            },
+            {
+                "level": "1",
+                "name": "powder-snow"
+            },
+            {
+                "level": "5",
+                "name": "thunder-wave"
+            },
+            {
+                "level": "10",
+                "name": "rock-throw"
+            },
+            {
+                "level": "13",
+                "name": "icy-wind"
+            },
+            {
+                "level": "15",
+                "name": "take-down"
+            },
+            {
+                "level": "18",
+                "name": "mist"
+            },
+            {
+                "level": "20",
+                "name": "aurora-beam"
+            },
+            {
+                "level": "26",
+                "name": "ancient-power"
+            },
+            {
+                "level": "30",
+                "name": "round"
+            },
+            {
+                "level": "34",
+                "name": "avalanche"
+            },
+            {
+                "level": "38",
+                "name": "hail"
+            },
+            {
+                "level": "41",
+                "name": "nature-power"
+            },
+            {
+                "level": "44",
+                "name": "encore"
+            },
+            {
+                "level": "47",
+                "name": "light-screen"
+            },
+            {
+                "level": "50",
+                "name": "ice-beam"
+            },
+            {
+                "level": "57",
+                "name": "hyper-beam"
+            },
+            {
+                "level": "65",
+                "name": "blizzard"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "calm-mind",
+            "roar",
+            "toxic",
+            "hail",
+            "hidden-power",
+            "ice-beam",
+            "blizzard",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "thunderbolt",
+            "return",
+            "double-team",
+            "reflect",
+            "sandstorm",
+            "rock-tomb",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "echoed-voice",
+            "charge-beam",
+            "rock-polish",
+            "flash",
+            "stone-edge",
+            "thunder-wave",
+            "psych-up",
+            "bulldoze",
+            "frost-breath",
+            "rock-slide",
+            "dragon-tail",
+            "dream-eater",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "flash-cannon",
+            "rock-smash",
+            "nature-power",
+            "dark-pulse",
+            "confide"
+        ],
+        "egg": [
+            "barrier",
+            "discharge",
+            "haze",
+            "magnet-rise",
+            "mirror-coat"
+        ]
     },
     "699": {
+        "level": [
+            {
+                "level": "1",
+                "name": "freeze-dry"
+            },
+            {
+                "level": "1",
+                "name": "growl"
+            },
+            {
+                "level": "1",
+                "name": "powder-snow"
+            },
+            {
+                "level": "5",
+                "name": "thunder-wave"
+            },
+            {
+                "level": "10",
+                "name": "rock-throw"
+            },
+            {
+                "level": "13",
+                "name": "icy-wind"
+            },
+            {
+                "level": "15",
+                "name": "take-down"
+            },
+            {
+                "level": "18",
+                "name": "mist"
+            },
+            {
+                "level": "20",
+                "name": "aurora-beam"
+            },
+            {
+                "level": "26",
+                "name": "ancient-power"
+            },
+            {
+                "level": "30",
+                "name": "round"
+            },
+            {
+                "level": "34",
+                "name": "avalanche"
+            },
+            {
+                "level": "38",
+                "name": "hail"
+            },
+            {
+                "level": "43",
+                "name": "nature-power"
+            },
+            {
+                "level": "46",
+                "name": "encore"
+            },
+            {
+                "level": "50",
+                "name": "light-screen"
+            },
+            {
+                "level": "56",
+                "name": "ice-beam"
+            },
+            {
+                "level": "63",
+                "name": "hyper-beam"
+            },
+            {
+                "level": "74",
+                "name": "blizzard"
+            },
+            {
+                "level": "77",
+                "name": "freeze-dry"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "calm-mind",
+            "roar",
+            "toxic",
+            "hail",
+            "hidden-power",
+            "ice-beam",
+            "blizzard",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "thunderbolt",
+            "thunder",
+            "earthquake",
+            "return",
+            "psychic",
+            "double-team",
+            "reflect",
+            "sandstorm",
+            "rock-tomb",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "echoed-voice",
+            "charge-beam",
+            "giga-impact",
+            "rock-polish",
+            "flash",
+            "stone-edge",
+            "thunder-wave",
+            "psych-up",
+            "bulldoze",
+            "frost-breath",
+            "rock-slide",
+            "dragon-tail",
+            "dream-eater",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "flash-cannon",
+            "rock-smash",
+            "nature-power",
+            "dark-pulse",
+            "confide"
+        ],
+        "egg": [
+            "barrier",
+            "discharge",
+            "haze",
+            "magnet-rise",
+            "mirror-coat"
+        ]
     },
     "700": {
+        "level": [
+            {
+                "level": "1",
+                "name": "disarming-voice"
+            },
+            {
+                "level": "1",
+                "name": "tail-whip"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "helping-hand"
+            },
+            {
+                "level": "5",
+                "name": "sand-attack"
+            },
+            {
+                "level": "9",
+                "name": "fairy-wind"
+            },
+            {
+                "level": "13",
+                "name": "quick-attack"
+            },
+            {
+                "level": "17",
+                "name": "swift"
+            },
+            {
+                "level": "20",
+                "name": "draining-kiss"
+            },
+            {
+                "level": "25",
+                "name": "skill-swap"
+            },
+            {
+                "level": "29",
+                "name": "misty-terrain"
+            },
+            {
+                "level": "33",
+                "name": "light-screen"
+            },
+            {
+                "level": "37",
+                "name": "moonblast"
+            },
+            {
+                "level": "41",
+                "name": "last-resort"
+            },
+            {
+                "level": "45",
+                "name": "psych-up"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "psyshock",
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "return",
+            "dig",
+            "shadow-ball",
+            "double-team",
+            "reflect",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "echoed-voice",
+            "retaliate",
+            "giga-impact",
+            "flash",
+            "psych-up",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "dazzling-gleam",
+            "confide",
+            "cut"
+        ],
+        "egg": [
+            "captivate",
+            "charm",
+            "covet",
+            "curse",
+            "detect",
+            "endure",
+            "fake-tears",
+            "flail",
+            "natural-gift",
+            "stored-power",
+            "synchronoise",
+            "tickle",
+            "wish",
+            "yawn"
+        ]
     },
     "701": {
+        "level": [
+            {
+                "level": "1",
+                "name": "detect"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "hone-claws"
+            },
+            {
+                "level": "4",
+                "name": "karate-chop"
+            },
+            {
+                "level": "8",
+                "name": "wing-attack"
+            },
+            {
+                "level": "12",
+                "name": "roost"
+            },
+            {
+                "level": "16",
+                "name": "aerial-ace"
+            },
+            {
+                "level": "20",
+                "name": "encore"
+            },
+            {
+                "level": "24",
+                "name": "fling"
+            },
+            {
+                "level": "28",
+                "name": "flying-press"
+            },
+            {
+                "level": "32",
+                "name": "bounce"
+            },
+            {
+                "level": "36",
+                "name": "endeavor"
+            },
+            {
+                "level": "40",
+                "name": "feather-dance"
+            },
+            {
+                "level": "44",
+                "name": "high-jump-kick"
+            },
+            {
+                "level": "48",
+                "name": "sky-attack"
+            },
+            {
+                "level": "55",
+                "name": "sky-drop"
+            },
+            {
+                "level": "60",
+                "name": "swords-dance"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "hone-claws",
+            "toxic",
+            "bulk-up",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "protect",
+            "rain-dance",
+            "roost",
+            "frustration",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "rock-tomb",
+            "aerial-ace",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "low-sweep",
+            "round",
+            "steel-wing",
+            "focus-blast",
+            "false-swipe",
+            "fling",
+            "sky-drop",
+            "acrobatics",
+            "payback",
+            "retaliate",
+            "giga-impact",
+            "stone-edge",
+            "swords-dance",
+            "rock-slide",
+            "x-scissor",
+            "poison-jab",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "rock-smash",
+            "power-up-punch",
+            "confide",
+            "cut",
+            "fly",
+            "strength"
+        ],
+        "egg": [
+            "agility",
+            "ally-switch",
+            "baton-pass",
+            "entrainment",
+            "me-first",
+            "mud-sport",
+            "quick-guard"
+        ]
     },
     "702": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "tail-whip"
+            },
+            {
+                "level": "7",
+                "name": "thunder-shock"
+            },
+            {
+                "level": "11",
+                "name": "charge"
+            },
+            {
+                "level": "14",
+                "name": "charm"
+            },
+            {
+                "level": "17",
+                "name": "parabolic-charge"
+            },
+            {
+                "level": "20",
+                "name": "nuzzle"
+            },
+            {
+                "level": "23",
+                "name": "thunder-wave"
+            },
+            {
+                "level": "26",
+                "name": "volt-switch"
+            },
+            {
+                "level": "30",
+                "name": "rest"
+            },
+            {
+                "level": "31",
+                "name": "snore"
+            },
+            {
+                "level": "34",
+                "name": "charge-beam"
+            },
+            {
+                "level": "39",
+                "name": "entrainment"
+            },
+            {
+                "level": "42",
+                "name": "play-rough"
+            },
+            {
+                "level": "45",
+                "name": "thunder"
+            },
+            {
+                "level": "50",
+                "name": "discharge"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "thunderbolt",
+            "thunder",
+            "return",
+            "dig",
+            "double-team",
+            "aerial-ace",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "fling",
+            "charge-beam",
+            "retaliate",
+            "giga-impact",
+            "flash",
+            "volt-switch",
+            "thunder-wave",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "wild-charge",
+            "confide",
+            "cut"
+        ],
+        "egg": [
+            "covet",
+            "eerie-impulse",
+            "natural-gift",
+            "helping-hand"
+        ]
     },
     "703": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "harden"
+            },
+            {
+                "level": "5",
+                "name": "rock-throw"
+            },
+            {
+                "level": "8",
+                "name": "sharpen"
+            },
+            {
+                "level": "12",
+                "name": "smack-down"
+            },
+            {
+                "level": "18",
+                "name": "reflect"
+            },
+            {
+                "level": "21",
+                "name": "stealth-rock"
+            },
+            {
+                "level": "27",
+                "name": "guard-split"
+            },
+            {
+                "level": "31",
+                "name": "ancient-power"
+            },
+            {
+                "level": "35",
+                "name": "flail"
+            },
+            {
+                "level": "40",
+                "name": "skill-swap"
+            },
+            {
+                "level": "46",
+                "name": "power-gem"
+            },
+            {
+                "level": "49",
+                "name": "stone-edge"
+            },
+            {
+                "level": "50",
+                "name": "moonblast"
+            },
+            {
+                "level": "60",
+                "name": "light-screen"
+            },
+            {
+                "level": "70",
+                "name": "safeguard"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "calm-mind",
+            "toxic",
+            "hail",
+            "hidden-power",
+            "sunny-day",
+            "light-screen",
+            "protect",
+            "safeguard",
+            "frustration",
+            "smack-down",
+            "return",
+            "psychic",
+            "double-team",
+            "reflect",
+            "sandstorm",
+            "rock-tomb",
+            "facade",
+            "rest",
+            "round",
+            "explosion",
+            "rock-polish",
+            "flash",
+            "stone-edge",
+            "gyro-ball",
+            "psych-up",
+            "rock-slide",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "trick-room",
+            "nature-power",
+            "dazzling-gleam",
+            "confide"
+        ],
+        "egg": []
     },
     "704": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "bubble"
+            },
+            {
+                "level": "5",
+                "name": "absorb"
+            },
+            {
+                "level": "9",
+                "name": "protect"
+            },
+            {
+                "level": "13",
+                "name": "bide"
+            },
+            {
+                "level": "18",
+                "name": "dragon-breath"
+            },
+            {
+                "level": "25",
+                "name": "rain-dance"
+            },
+            {
+                "level": "28",
+                "name": "flail"
+            },
+            {
+                "level": "32",
+                "name": "body-slam"
+            },
+            {
+                "level": "38",
+                "name": "muddy-water"
+            },
+            {
+                "level": "42",
+                "name": "dragon-pulse"
+            }
+        ],
+        "tutor": [
+            "draco-meteor"
+        ],
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "thunderbolt",
+            "return",
+            "double-team",
+            "sludge-wave",
+            "sludge-bomb",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "rock-slide",
+            "infestation",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "confide"
+        ],
+        "egg": [
+            "acid-armor",
+            "counter",
+            "curse",
+            "endure",
+            "iron-tail",
+            "poison-tail"
+        ]
     },
     "705": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "bubble"
+            },
+            {
+                "level": "5",
+                "name": "absorb"
+            },
+            {
+                "level": "9",
+                "name": "protect"
+            },
+            {
+                "level": "13",
+                "name": "bide"
+            },
+            {
+                "level": "18",
+                "name": "dragon-breath"
+            },
+            {
+                "level": "25",
+                "name": "rain-dance"
+            },
+            {
+                "level": "28",
+                "name": "flail"
+            },
+            {
+                "level": "32",
+                "name": "body-slam"
+            },
+            {
+                "level": "38",
+                "name": "muddy-water"
+            },
+            {
+                "level": "47",
+                "name": "dragon-pulse"
+            }
+        ],
+        "tutor": [
+            "draco-meteor"
+        ],
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "ice-beam",
+            "blizzard",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "thunderbolt",
+            "return",
+            "double-team",
+            "sludge-wave",
+            "sludge-bomb",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "rock-slide",
+            "infestation",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "confide"
+        ],
+        "egg": [
+            "acid-armor",
+            "counter",
+            "curse",
+            "endure",
+            "iron-tail",
+            "poison-tail"
+        ]
     },
     "706": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "outrage"
+            },
+            {
+                "level": "1",
+                "name": "feint"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "bubble"
+            },
+            {
+                "level": "5",
+                "name": "absorb"
+            },
+            {
+                "level": "9",
+                "name": "protect"
+            },
+            {
+                "level": "13",
+                "name": "bide"
+            },
+            {
+                "level": "18",
+                "name": "dragon-breath"
+            },
+            {
+                "level": "25",
+                "name": "rain-dance"
+            },
+            {
+                "level": "28",
+                "name": "flail"
+            },
+            {
+                "level": "32",
+                "name": "body-slam"
+            },
+            {
+                "level": "38",
+                "name": "muddy-water"
+            },
+            {
+                "level": "47",
+                "name": "dragon-pulse"
+            },
+            {
+                "level": "50",
+                "name": "aqua-tail"
+            },
+            {
+                "level": "55",
+                "name": "power-whip"
+            },
+            {
+                "level": "63",
+                "name": "outrage"
+            }
+        ],
+        "tutor": [
+            "draco-meteor"
+        ],
+        "machine": [
+            "toxic",
+            "hail",
+            "hidden-power",
+            "sunny-day",
+            "ice-beam",
+            "blizzard",
+            "hyper-beam",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "thunderbolt",
+            "thunder",
+            "earthquake",
+            "return",
+            "double-team",
+            "sludge-wave",
+            "flamethrower",
+            "sludge-bomb",
+            "fire-blast",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "focus-blast",
+            "incinerate",
+            "giga-impact",
+            "bulldoze",
+            "rock-slide",
+            "dragon-tail",
+            "infestation",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "rock-smash",
+            "confide",
+            "strength"
+        ],
+        "egg": [
+            "acid-armor",
+            "counter",
+            "curse",
+            "endure",
+            "iron-tail",
+            "poison-tail"
+        ]
     },
     "707": {
+        "level": [
+            {
+                "level": "1",
+                "name": "fairy-lock"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "5",
+                "name": "fairy-wind"
+            },
+            {
+                "level": "8",
+                "name": "astonish"
+            },
+            {
+                "level": "12",
+                "name": "metal-sound"
+            },
+            {
+                "level": "15",
+                "name": "spikes"
+            },
+            {
+                "level": "18",
+                "name": "draining-kiss"
+            },
+            {
+                "level": "23",
+                "name": "crafty-shield"
+            },
+            {
+                "level": "27",
+                "name": "foul-play"
+            },
+            {
+                "level": "32",
+                "name": "torment"
+            },
+            {
+                "level": "34",
+                "name": "mirror-shot"
+            },
+            {
+                "level": "36",
+                "name": "imprison"
+            },
+            {
+                "level": "40",
+                "name": "recycle"
+            },
+            {
+                "level": "43",
+                "name": "play-rough"
+            },
+            {
+                "level": "44",
+                "name": "magic-room"
+            },
+            {
+                "level": "50",
+                "name": "heal-block"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "psyshock",
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "return",
+            "psychic",
+            "double-team",
+            "reflect",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "giga-impact",
+            "thunder-wave",
+            "psych-up",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "flash-cannon",
+            "dazzling-gleam",
+            "confide"
+        ],
+        "egg": [
+            "iron-defense",
+            "lock-on",
+            "switcheroo",
+            "thief"
+        ]
     },
     "708": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "confuse-ray"
+            },
+            {
+                "level": "5",
+                "name": "astonish"
+            },
+            {
+                "level": "8",
+                "name": "growth"
+            },
+            {
+                "level": "13",
+                "name": "ingrain"
+            },
+            {
+                "level": "19",
+                "name": "feint-attack"
+            },
+            {
+                "level": "23",
+                "name": "leech-seed"
+            },
+            {
+                "level": "28",
+                "name": "curse"
+            },
+            {
+                "level": "31",
+                "name": "will-o-wisp"
+            },
+            {
+                "level": "35",
+                "name": "forest's-curse"
+            },
+            {
+                "level": "39",
+                "name": "destiny-bond"
+            },
+            {
+                "level": "45",
+                "name": "phantom-force"
+            },
+            {
+                "level": "49",
+                "name": "wood-hammer"
+            },
+            {
+                "level": "54",
+                "name": "horn-leech"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "protect",
+            "safeguard",
+            "frustration",
+            "solar-beam",
+            "return",
+            "dig",
+            "psychic",
+            "shadow-ball",
+            "double-team",
+            "reflect",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "energy-ball",
+            "will-o-wisp",
+            "shadow-claw",
+            "bulldoze",
+            "rock-slide",
+            "poison-jab",
+            "dream-eater",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "trick-room",
+            "rock-smash",
+            "nature-power",
+            "dark-pulse",
+            "confide",
+            "cut",
+            "strength"
+        ],
+        "egg": [
+            "bestow",
+            "grudge",
+            "imprison",
+            "venom-drench"
+        ]
     },
     "709": {
+        "level": [
+            {
+                "level": "1",
+                "name": "horn-leech"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "confuse-ray"
+            },
+            {
+                "level": "5",
+                "name": "astonish"
+            },
+            {
+                "level": "8",
+                "name": "growth"
+            },
+            {
+                "level": "13",
+                "name": "ingrain"
+            },
+            {
+                "level": "19",
+                "name": "feint-attack"
+            },
+            {
+                "level": "23",
+                "name": "leech-seed"
+            },
+            {
+                "level": "28",
+                "name": "curse"
+            },
+            {
+                "level": "31",
+                "name": "will-o-wisp"
+            },
+            {
+                "level": "35",
+                "name": "forest's-curse"
+            },
+            {
+                "level": "39",
+                "name": "destiny-bond"
+            },
+            {
+                "level": "45",
+                "name": "phantom-force"
+            },
+            {
+                "level": "49",
+                "name": "wood-hammer"
+            },
+            {
+                "level": "55",
+                "name": "shadow-claw"
+            },
+            {
+                "level": "62",
+                "name": "horn-leech"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "hone-claws",
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "protect",
+            "safeguard",
+            "frustration",
+            "solar-beam",
+            "earthquake",
+            "return",
+            "dig",
+            "psychic",
+            "shadow-ball",
+            "double-team",
+            "reflect",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "focus-blast",
+            "energy-ball",
+            "will-o-wisp",
+            "shadow-claw",
+            "giga-impact",
+            "bulldoze",
+            "rock-slide",
+            "x-scissor",
+            "poison-jab",
+            "dream-eater",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "trick-room",
+            "rock-smash",
+            "nature-power",
+            "dark-pulse",
+            "power-up-punch",
+            "confide",
+            "cut",
+            "strength"
+        ],
+        "egg": [
+            "bestow",
+            "grudge",
+            "imprison",
+            "venom-drench"
+        ]
     },
     "710": {
+        "level": [
+            {
+                "level": "1",
+                "name": "trick"
+            },
+            {
+                "level": "1",
+                "name": "astonish"
+            },
+            {
+                "level": "1",
+                "name": "confuse-ray"
+            },
+            {
+                "level": "4",
+                "name": "scary-face"
+            },
+            {
+                "level": "6",
+                "name": "trick-or-treat"
+            },
+            {
+                "level": "11",
+                "name": "worry-seed"
+            },
+            {
+                "level": "16",
+                "name": "razor-leaf"
+            },
+            {
+                "level": "20",
+                "name": "leech-seed"
+            },
+            {
+                "level": "23",
+                "name": "trick-or-treat"
+            },
+            {
+                "level": "26",
+                "name": "bullet-seed"
+            },
+            {
+                "level": "30",
+                "name": "shadow-sneak"
+            },
+            {
+                "level": "36",
+                "name": "shadow-ball"
+            },
+            {
+                "level": "40",
+                "name": "trick-or-treat"
+            },
+            {
+                "level": "42",
+                "name": "pain-split"
+            },
+            {
+                "level": "48",
+                "name": "seed-bomb"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "light-screen",
+            "protect",
+            "safeguard",
+            "frustration",
+            "solar-beam",
+            "return",
+            "psychic",
+            "shadow-ball",
+            "double-team",
+            "flamethrower",
+            "sludge-bomb",
+            "fire-blast",
+            "facade",
+            "flame-charge",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "energy-ball",
+            "charge-beam",
+            "incinerate",
+            "will-o-wisp",
+            "explosion",
+            "flash",
+            "gyro-ball",
+            "rock-slide",
+            "dream-eater",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "trick-room",
+            "rock-smash",
+            "nature-power",
+            "dark-pulse",
+            "confide"
+        ],
+        "egg": [
+            "bestow",
+            "destiny-bond",
+            "disable"
+        ]
     },
     "711": {
+        "level": [
+            {
+                "level": "1",
+                "name": "explosion"
+            },
+            {
+                "level": "1",
+                "name": "phantom-force"
+            },
+            {
+                "level": "1",
+                "name": "trick"
+            },
+            {
+                "level": "1",
+                "name": "astonish"
+            },
+            {
+                "level": "1",
+                "name": "confuse-ray"
+            },
+            {
+                "level": "4",
+                "name": "scary-face"
+            },
+            {
+                "level": "6",
+                "name": "trick-or-treat"
+            },
+            {
+                "level": "11",
+                "name": "worry-seed"
+            },
+            {
+                "level": "16",
+                "name": "razor-leaf"
+            },
+            {
+                "level": "20",
+                "name": "leech-seed"
+            },
+            {
+                "level": "23",
+                "name": "trick-or-treat"
+            },
+            {
+                "level": "26",
+                "name": "bullet-seed"
+            },
+            {
+                "level": "30",
+                "name": "shadow-sneak"
+            },
+            {
+                "level": "36",
+                "name": "shadow-ball"
+            },
+            {
+                "level": "40",
+                "name": "trick-or-treat"
+            },
+            {
+                "level": "42",
+                "name": "pain-split"
+            },
+            {
+                "level": "48",
+                "name": "seed-bomb"
+            },
+            {
+                "level": "57",
+                "name": "phantom-force"
+            },
+            {
+                "level": "63",
+                "name": "trick-or-treat"
+            },
+            {
+                "level": "70",
+                "name": "shadow-ball"
+            },
+            {
+                "level": "75",
+                "name": "explosion"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "safeguard",
+            "frustration",
+            "solar-beam",
+            "return",
+            "psychic",
+            "shadow-ball",
+            "double-team",
+            "flamethrower",
+            "sludge-bomb",
+            "fire-blast",
+            "facade",
+            "flame-charge",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "focus-blast",
+            "energy-ball",
+            "charge-beam",
+            "incinerate",
+            "will-o-wisp",
+            "explosion",
+            "giga-impact",
+            "flash",
+            "gyro-ball",
+            "rock-slide",
+            "dream-eater",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "trick-room",
+            "rock-smash",
+            "nature-power",
+            "dark-pulse",
+            "confide"
+        ],
+        "egg": [
+            "bestow",
+            "destiny-bond",
+            "disable"
+        ]
     },
     "712": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "bite"
+            },
+            {
+                "level": "1",
+                "name": "harden"
+            },
+            {
+                "level": "5",
+                "name": "powder-snow"
+            },
+            {
+                "level": "10",
+                "name": "icy-wind"
+            },
+            {
+                "level": "15",
+                "name": "take-down"
+            },
+            {
+                "level": "20",
+                "name": "sharpen"
+            },
+            {
+                "level": "22",
+                "name": "curse"
+            },
+            {
+                "level": "26",
+                "name": "ice-fang"
+            },
+            {
+                "level": "30",
+                "name": "ice-ball"
+            },
+            {
+                "level": "35",
+                "name": "rapid-spin"
+            },
+            {
+                "level": "39",
+                "name": "avalanche"
+            },
+            {
+                "level": "43",
+                "name": "blizzard"
+            },
+            {
+                "level": "47",
+                "name": "recover"
+            },
+            {
+                "level": "49",
+                "name": "double-edge"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "toxic",
+            "hail",
+            "hidden-power",
+            "ice-beam",
+            "blizzard",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "return",
+            "double-team",
+            "rock-tomb",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "rock-polish",
+            "flash",
+            "stone-edge",
+            "gyro-ball",
+            "frost-breath",
+            "rock-slide",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "flash-cannon",
+            "rock-smash",
+            "confide",
+            "surf",
+            "strength"
+        ],
+        "egg": [
+            "barrier",
+            "mirror-coat",
+            "mist",
+            "recover"
+        ]
     },
     "713": {
+        "level": [
+            {
+                "level": "1",
+                "name": "iron-defense"
+            },
+            {
+                "level": "1",
+                "name": "crunch"
+            },
+            {
+                "level": "1",
+                "name": "skull-bash"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "bite"
+            },
+            {
+                "level": "1",
+                "name": "harden"
+            },
+            {
+                "level": "5",
+                "name": "powder-snow"
+            },
+            {
+                "level": "10",
+                "name": "icy-wind"
+            },
+            {
+                "level": "15",
+                "name": "take-down"
+            },
+            {
+                "level": "20",
+                "name": "sharpen"
+            },
+            {
+                "level": "22",
+                "name": "curse"
+            },
+            {
+                "level": "26",
+                "name": "ice-fang"
+            },
+            {
+                "level": "30",
+                "name": "ice-ball"
+            },
+            {
+                "level": "35",
+                "name": "rapid-spin"
+            },
+            {
+                "level": "42",
+                "name": "avalanche"
+            },
+            {
+                "level": "46",
+                "name": "blizzard"
+            },
+            {
+                "level": "51",
+                "name": "recover"
+            },
+            {
+                "level": "56",
+                "name": "double-edge"
+            },
+            {
+                "level": "60",
+                "name": "skull-bash"
+            },
+            {
+                "level": "65",
+                "name": "crunch"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "roar",
+            "toxic",
+            "hail",
+            "hidden-power",
+            "ice-beam",
+            "blizzard",
+            "hyper-beam",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "earthquake",
+            "return",
+            "double-team",
+            "rock-tomb",
+            "facade",
+            "rest",
+            "attract",
+            "round",
+            "giga-impact",
+            "rock-polish",
+            "flash",
+            "stone-edge",
+            "gyro-ball",
+            "bulldoze",
+            "frost-breath",
+            "rock-slide",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "flash-cannon",
+            "rock-smash",
+            "confide",
+            "surf",
+            "strength"
+        ],
+        "egg": [
+            "barrier",
+            "mirror-coat",
+            "mist",
+            "recover"
+        ]
     },
     "714": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "screech"
+            },
+            {
+                "level": "1",
+                "name": "supersonic"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "5",
+                "name": "leech-life"
+            },
+            {
+                "level": "11",
+                "name": "gust"
+            },
+            {
+                "level": "13",
+                "name": "bite"
+            },
+            {
+                "level": "16",
+                "name": "wing-attack"
+            },
+            {
+                "level": "18",
+                "name": "agility"
+            },
+            {
+                "level": "23",
+                "name": "air-cutter"
+            },
+            {
+                "level": "27",
+                "name": "roost"
+            },
+            {
+                "level": "31",
+                "name": "razor-wind"
+            },
+            {
+                "level": "35",
+                "name": "tailwind"
+            },
+            {
+                "level": "40",
+                "name": "whirlwind"
+            },
+            {
+                "level": "43",
+                "name": "super-fang"
+            },
+            {
+                "level": "48",
+                "name": "air-slash"
+            },
+            {
+                "level": "58",
+                "name": "hurricane"
+            }
+        ],
+        "tutor": [
+            "draco-meteor"
+        ],
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "protect",
+            "roost",
+            "frustration",
+            "solar-beam",
+            "return",
+            "psychic",
+            "shadow-ball",
+            "brick-break",
+            "double-team",
+            "aerial-ace",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "echoed-voice",
+            "steel-wing",
+            "acrobatics",
+            "shadow-claw",
+            "x-scissor",
+            "dream-eater",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "wild-charge",
+            "dark-pulse",
+            "confide",
+            "cut",
+            "fly"
+        ],
+        "egg": [
+            "outrage",
+            "snatch",
+            "switcheroo",
+            "tailwind"
+        ]
     },
     "715": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "moonlight"
+            },
+            {
+                "level": "1",
+                "name": "boomburst"
+            },
+            {
+                "level": "1",
+                "name": "dragon-pulse"
+            },
+            {
+                "level": "1",
+                "name": "hurricane"
+            },
+            {
+                "level": "1",
+                "name": "screech"
+            },
+            {
+                "level": "1",
+                "name": "supersonic"
+            },
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "5",
+                "name": "leech-life"
+            },
+            {
+                "level": "11",
+                "name": "gust"
+            },
+            {
+                "level": "13",
+                "name": "bite"
+            },
+            {
+                "level": "16",
+                "name": "wing-attack"
+            },
+            {
+                "level": "18",
+                "name": "agility"
+            },
+            {
+                "level": "23",
+                "name": "air-cutter"
+            },
+            {
+                "level": "27",
+                "name": "roost"
+            },
+            {
+                "level": "31",
+                "name": "razor-wind"
+            },
+            {
+                "level": "35",
+                "name": "tailwind"
+            },
+            {
+                "level": "40",
+                "name": "whirlwind"
+            },
+            {
+                "level": "43",
+                "name": "super-fang"
+            },
+            {
+                "level": "53",
+                "name": "air-slash"
+            },
+            {
+                "level": "62",
+                "name": "hurricane"
+            },
+            {
+                "level": "70",
+                "name": "dragon-pulse"
+            },
+            {
+                "level": "75",
+                "name": "boomburst"
+            }
+        ],
+        "tutor": [
+            "draco-meteor"
+        ],
+        "machine": [
+            "hone-claws",
+            "dragon-claw",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "hyper-beam",
+            "protect",
+            "roost",
+            "frustration",
+            "solar-beam",
+            "return",
+            "psychic",
+            "shadow-ball",
+            "brick-break",
+            "double-team",
+            "flamethrower",
+            "aerial-ace",
+            "torment",
+            "facade",
+            "rest",
+            "attract",
+            "thief",
+            "round",
+            "echoed-voice",
+            "steel-wing",
+            "focus-blast",
+            "acrobatics",
+            "shadow-claw",
+            "giga-impact",
+            "x-scissor",
+            "dream-eater",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "wild-charge",
+            "dark-pulse",
+            "confide",
+            "cut",
+            "fly"
+        ],
+        "egg": [
+            "outrage",
+            "snatch",
+            "switcheroo",
+            "tailwind"
+        ]
     },
     "716": {
+        "level": [
+            {
+                "level": "1",
+                "name": "heal-pulse"
+            },
+            {
+                "level": "1",
+                "name": "aromatherapy"
+            },
+            {
+                "level": "1",
+                "name": "ingrain"
+            },
+            {
+                "level": "1",
+                "name": "take-down"
+            },
+            {
+                "level": "5",
+                "name": "light-screen"
+            },
+            {
+                "level": "10",
+                "name": "aurora-beam"
+            },
+            {
+                "level": "18",
+                "name": "gravity"
+            },
+            {
+                "level": "26",
+                "name": "geomancy"
+            },
+            {
+                "level": "35",
+                "name": "moonblast"
+            },
+            {
+                "level": "44",
+                "name": "megahorn"
+            },
+            {
+                "level": "51",
+                "name": "night-slash"
+            },
+            {
+                "level": "55",
+                "name": "horn-leech"
+            },
+            {
+                "level": "59",
+                "name": "psych-up"
+            },
+            {
+                "level": "63",
+                "name": "misty-terrain"
+            },
+            {
+                "level": "72",
+                "name": "nature-power"
+            },
+            {
+                "level": "80",
+                "name": "close-combat"
+            },
+            {
+                "level": "88",
+                "name": "giga-impact"
+            },
+            {
+                "level": "93",
+                "name": "outrage"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "psyshock",
+            "calm-mind",
+            "roar",
+            "toxic",
+            "hail",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "frustration",
+            "thunderbolt",
+            "thunder",
+            "return",
+            "psychic",
+            "double-team",
+            "reflect",
+            "facade",
+            "rest",
+            "round",
+            "echoed-voice",
+            "focus-blast",
+            "giga-impact",
+            "flash",
+            "thunder-wave",
+            "psych-up",
+            "rock-slide",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "flash-cannon",
+            "nature-power",
+            "dazzling-gleam",
+            "confide",
+            "cut"
+        ],
+        "egg": []
     },
     "717": {
+        "level": [
+            {
+                "level": "1",
+                "name": "hurricane"
+            },
+            {
+                "level": "1",
+                "name": "razor-wind"
+            },
+            {
+                "level": "1",
+                "name": "taunt"
+            },
+            {
+                "level": "1",
+                "name": "roost"
+            },
+            {
+                "level": "5",
+                "name": "double-team"
+            },
+            {
+                "level": "10",
+                "name": "air-slash"
+            },
+            {
+                "level": "18",
+                "name": "snarl"
+            },
+            {
+                "level": "26",
+                "name": "oblivion-wing"
+            },
+            {
+                "level": "35",
+                "name": "disable"
+            },
+            {
+                "level": "44",
+                "name": "dark-pulse"
+            },
+            {
+                "level": "51",
+                "name": "foul-play"
+            },
+            {
+                "level": "55",
+                "name": "phantom-force"
+            },
+            {
+                "level": "59",
+                "name": "psychic"
+            },
+            {
+                "level": "63",
+                "name": "dragon-rush"
+            },
+            {
+                "level": "72",
+                "name": "focus-blast"
+            },
+            {
+                "level": "80",
+                "name": "sucker-punch"
+            },
+            {
+                "level": "88",
+                "name": "hyper-beam"
+            },
+            {
+                "level": "93",
+                "name": "sky-attack"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "hone-claws",
+            "dragon-claw",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "hyper-beam",
+            "protect",
+            "rain-dance",
+            "roost",
+            "frustration",
+            "return",
+            "psychic",
+            "shadow-ball",
+            "double-team",
+            "aerial-ace",
+            "torment",
+            "facade",
+            "rest",
+            "thief",
+            "round",
+            "steel-wing",
+            "focus-blast",
+            "sky-drop",
+            "acrobatics",
+            "embargo",
+            "shadow-claw",
+            "giga-impact",
+            "rock-slide",
+            "dream-eater",
+            "swagger",
+            "sleep-talk",
+            "u-turn",
+            "substitute",
+            "snarl",
+            "dark-pulse",
+            "confide",
+            "cut",
+            "fly"
+        ],
+        "egg": []
     },
     "718": {
-        "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "level": [
+            {
+                "level": "1",
+                "name": "glare"
+            },
+            {
+                "level": "1",
+                "name": "bulldoze"
+            },
+            {
+                "level": "1",
+                "name": "dragon-breath"
+            },
+            {
+                "level": "1",
+                "name": "bite"
+            },
+            {
+                "level": "5",
+                "name": "safeguard"
+            },
+            {
+                "level": "10",
+                "name": "dig"
+            },
+            {
+                "level": "18",
+                "name": "bind"
+            },
+            {
+                "level": "26",
+                "name": "land's-wrath"
+            },
+            {
+                "level": "35",
+                "name": "sandstorm"
+            },
+            {
+                "level": "44",
+                "name": "haze"
+            },
+            {
+                "level": "51",
+                "name": "crunch"
+            },
+            {
+                "level": "55",
+                "name": "earthquake"
+            },
+            {
+                "level": "59",
+                "name": "camouflage"
+            },
+            {
+                "level": "63",
+                "name": "dragon-pulse"
+            },
+            {
+                "level": "72",
+                "name": "dragon-dance"
+            },
+            {
+                "level": "80",
+                "name": "coil"
+            },
+            {
+                "level": "88",
+                "name": "extreme-speed"
+            },
+            {
+                "level": "93",
+                "name": "outrage"
+            }
+        ],
+        "tutor": [
+            "draco-meteor"
+        ],
+        "machine": [
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "protect",
+            "safeguard",
+            "frustration",
+            "earthquake",
+            "return",
+            "dig",
+            "brick-break",
+            "double-team",
+            "sludge-wave",
+            "sandstorm",
+            "facade",
+            "rest",
+            "round",
+            "focus-blast",
+            "giga-impact",
+            "stone-edge",
+            "bulldoze",
+            "rock-slide",
+            "dragon-tail",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "rock-smash",
+            "confide",
+            "strength"
+        ],
+        "egg": []
     },
     "719": {
+        "level": [
+            {
+                "level": "1",
+                "name": "tackle"
+            },
+            {
+                "level": "1",
+                "name": "harden"
+            },
+            {
+                "level": "5",
+                "name": "rock-throw"
+            },
+            {
+                "level": "8",
+                "name": "sharpen"
+            },
+            {
+                "level": "12",
+                "name": "smack-down"
+            },
+            {
+                "level": "18",
+                "name": "reflect"
+            },
+            {
+                "level": "21",
+                "name": "stealth-rock"
+            },
+            {
+                "level": "27",
+                "name": "guard-split"
+            },
+            {
+                "level": "31",
+                "name": "ancient-power"
+            },
+            {
+                "level": "35",
+                "name": "flail"
+            },
+            {
+                "level": "40",
+                "name": "skill-swap"
+            },
+            {
+                "level": "46",
+                "name": "trick-room"
+            },
+            {
+                "level": "49",
+                "name": "stone-edge"
+            },
+            {
+                "level": "50",
+                "name": "moonblast"
+            },
+            {
+                "level": "50",
+                "name": "diamond-storm"
+            },
+            {
+                "level": "60",
+                "name": "light-screen"
+            },
+            {
+                "level": "70",
+                "name": "safeguard"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "psyshock",
+            "calm-mind",
+            "toxic",
+            "hail",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "safeguard",
+            "frustration",
+            "smack-down",
+            "return",
+            "psychic",
+            "double-team",
+            "reflect",
+            "sandstorm",
+            "rock-tomb",
+            "facade",
+            "rest",
+            "round",
+            "explosion",
+            "giga-impact",
+            "rock-polish",
+            "flash",
+            "stone-edge",
+            "gyro-ball",
+            "psych-up",
+            "rock-slide",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "trick-room",
+            "nature-power",
+            "dazzling-gleam",
+            "confide"
+        ],
+        "egg": []
     },
     "720": {
+        "level": [
+            {
+                "level": "1",
+                "name": "trick"
+            },
+            {
+                "level": "1",
+                "name": "destiny-bond"
+            },
+            {
+                "level": "1",
+                "name": "ally-switch"
+            },
+            {
+                "level": "1",
+                "name": "hyperspace-hole"
+            },
+            {
+                "level": "1",
+                "name": "confusion"
+            },
+            {
+                "level": "6",
+                "name": "astonish"
+            },
+            {
+                "level": "10",
+                "name": "magic-coat"
+            },
+            {
+                "level": "15",
+                "name": "psybeam"
+            },
+            {
+                "level": "19",
+                "name": "light-screen"
+            },
+            {
+                "level": "25",
+                "name": "skill-swap"
+            },
+            {
+                "level": "29",
+                "name": "power-split"
+            },
+            {
+                "level": "35",
+                "name": "guard-split"
+            },
+            {
+                "level": "46",
+                "name": "phantom-force"
+            },
+            {
+                "level": "50",
+                "name": "wonder-room"
+            },
+            {
+                "level": "55",
+                "name": "trick-room"
+            },
+            {
+                "level": "68",
+                "name": "shadow-ball"
+            },
+            {
+                "level": "75",
+                "name": "psychic"
+            },
+            {
+                "level": "85",
+                "name": "hyperspace-hole"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "psyshock",
+            "calm-mind",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "taunt",
+            "hyper-beam",
+            "light-screen",
+            "protect",
+            "rain-dance",
+            "safeguard",
+            "frustration",
+            "thunderbolt",
+            "return",
+            "psychic",
+            "shadow-ball",
+            "brick-break",
+            "double-team",
+            "reflect",
+            "torment",
+            "facade",
+            "rest",
+            "thief",
+            "round",
+            "focus-blast",
+            "energy-ball",
+            "fling",
+            "charge-beam",
+            "quash",
+            "embargo",
+            "giga-impact",
+            "flash",
+            "thunder-wave",
+            "psych-up",
+            "dream-eater",
+            "grass-knot",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "trick-room",
+            "power-up-punch",
+            "confide"
+        ],
+        "egg": []
     },
     "721": {
+        "level": [
+            {
+                "level": "1",
+                "name": "steam-eruption"
+            },
+            {
+                "level": "1",
+                "name": "flare-blitz"
+            },
+            {
+                "level": "1",
+                "name": "take-down"
+            },
+            {
+                "level": "8",
+                "name": "mist"
+            },
+            {
+                "level": "11",
+                "name": "haze"
+            },
+            {
+                "level": "15",
+                "name": "flame-charge"
+            },
+            {
+                "level": "21",
+                "name": "water-pulse"
+            },
+            {
+                "level": "28",
+                "name": "stomp"
+            },
+            {
+                "level": "32",
+                "name": "scald"
+            },
+            {
+                "level": "40",
+                "name": "weather-ball"
+            },
+            {
+                "level": "46",
+                "name": "body-slam"
+            },
+            {
+                "level": "50",
+                "name": "hydro-pump"
+            },
+            {
+                "level": "58",
+                "name": "flare-blitz"
+            },
+            {
+                "level": "65",
+                "name": "overheat"
+            },
+            {
+                "level": "76",
+                "name": "explosion"
+            },
+            {
+                "level": "85",
+                "name": "steam-eruption"
+            }
+        ],
         "tutor": [],
-        "machine": [],
-        "egg": [],
-        "level": [],
-        "other": []
+        "machine": [
+            "roar",
+            "toxic",
+            "hidden-power",
+            "sunny-day",
+            "hyper-beam",
+            "protect",
+            "frustration",
+            "solar-beam",
+            "smack-down",
+            "earthquake",
+            "return",
+            "brick-break",
+            "double-team",
+            "sludge-wave",
+            "flamethrower",
+            "sludge-bomb",
+            "sandstorm",
+            "fire-blast",
+            "facade",
+            "flame-charge",
+            "rest",
+            "round",
+            "overheat",
+            "focus-blast",
+            "scald",
+            "fling",
+            "incinerate",
+            "will-o-wisp",
+            "explosion",
+            "giga-impact",
+            "stone-edge",
+            "gyro-ball",
+            "bulldoze",
+            "rock-slide",
+            "swagger",
+            "sleep-talk",
+            "substitute",
+            "flash-cannon",
+            "rock-smash",
+            "confide",
+            "cut",
+            "strength"
+        ],
+        "egg": []
     }
 };
