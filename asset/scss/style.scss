@@ -46,6 +46,12 @@ $header-height: #{sitePx(4)}px;
   color: $color2;
   text-align: center;
   @include vJustify($header-height);
+
+  > h1 {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+  }
 }
 
 .l-view-content {

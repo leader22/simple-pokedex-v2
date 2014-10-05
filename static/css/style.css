@@ -2757,6 +2757,10 @@ body {
   text-align: center;
   height: 32px;
   line-height: 32px; }
+.l-view-header > h1 {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap; }
 
 .l-view-content {
   padding: 32px 0 0;
