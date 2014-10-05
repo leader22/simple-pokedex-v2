@@ -2454,6 +2454,14 @@ module.exports = {
         "land's-wrath": {
             "name": "グランドフォース",
             "desc": ""
+        },
+        "hyperspace-hole": {
+            "name": "いじげんホール",
+            "desc": ""
+        },
+        "steam-eruption": {
+            "name": "スチームバースト",
+            "desc": ""
         }
     },
     "type": {
