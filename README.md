@@ -3,21 +3,7 @@ simple-pokedex-v2
 
 rebuild by koa, gulp, es6, webpack, etc..
 
+SPAで作ってた[前身](https://github.com/leader22/simple-pokedex)は、やはり中々Googleさまにインデックスされないので、
+サーバーサイドに寄せる形で再実装したのがコレです。
 
-# TODO
-- [ ] デーモン化するとこ
-  - [ ] [pm2](https://github.com/Unitech/pm2)でやってみる
-- [x] 存在しないidのときとか、いわゆる例外処理
-
-# Enhance
-- [x] 既にわかってるメガシンカ/ゲンシカイキ/その他いないやつ(ディアンシー)を追加する
-  - [x] データの追加
-  - [x] はてなマークをスプライトに
-  - [x] unknownフラグと出し分け
-- [x] わざを検索できるように
-  - [x] {``http://pokeapi.co/api/v1/pokemon/{nationalPokedexNumber}``}をローカルから叩いて、``move``だけに整形するスクリプト
-  - [x] それ叩いた結果を``key``で引ける形のオブジェクトに
-  - [x] わざ名の英和辞書(効果はできればでok)
-- [x] ES6っぽくする(let, const, defineProp, etc..)
-  - [x] Data系はconstに
-- [ ] カロスポケのわざデータ([ココ](http://www.serebii.net/pokedex-xy/720.shtml)とか)
+データは随時更新していきます。
