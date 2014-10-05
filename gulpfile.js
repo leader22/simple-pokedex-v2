@@ -3,18 +3,16 @@
 var gulp    = require('gulp');
 var gutil   = require('gulp-util');
 var compass = require('gulp-compass');
-var webpack = require('webpack');
+var webpack = require('webpack'),
+    webpackConf = require('./webpack.config.js');
 
-// gulp.task('webpack', function() {
-//     gulp.src('./client/main.js')
-//         .pipe(webpack(require('./webpack.config.js')))
-//         .pipe(gulp.dest('static/js'));
-// });
+var webpackCompiler = webpack(webpackConf);
+
 gulp.task('webpack', function(callback) {
-    webpack(require('./webpack.config.js'), function(err, stats) {
-        if(err) throw new gutil.PluginError("webpack", err);
+    webpackCompiler.run(function(err, stats) {
+        if(err) throw new gutil.PluginError('webpack', err);
         gutil.log("[webpack]", stats.toString({
-            // output options
+            colors: true
         }));
         callback();
     });
@@ -23,11 +21,17 @@ gulp.task('webpack', function(callback) {
 gulp.task('compass', function() {
     gulp.src('asset/scss/*.scss')
         .pipe(compass({
-            config_file: 'config.rb',
-            css:         'static/css',
-            sass:        'asset/scss'
+            style:    'compressed',
+            comments: false,
+            css:      'static/css',
+            sass:     'asset/scss'
         }))
         .pipe(gulp.dest('static/css'));
 });
 
 gulp.task('default', ['compass', 'webpack']);
+
+gulp.task('dev', ['compass', 'webpack'], function() {
+    gulp.watch(['asset/scss/*.scss'], ['compass']);
+    gulp.watch(['client/*.js', 'client/**/*.js'], ['webpack']);
+});
