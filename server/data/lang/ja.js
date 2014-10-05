@@ -3252,7 +3252,9 @@ module.exports = {
         "yveltal": "イベルタル",
         "zygarde": "ジガルデ",
         "diancie": "ディアンシー",
-        "mega-diancie": "メガディアンシー"
+        "mega-diancie": "メガディアンシー",
+        "hoopa": "フーパ",
+        "volcanion": "ボルケニオン"
     },
     "ability": {
         "adaptability": {

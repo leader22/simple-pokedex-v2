@@ -21500,6 +21500,58 @@ module.exports = {
       "weight": "61.3",
       "key": "mega-diancie",
       "height": "3′07″"
+    },
+    {
+      "nationalPokedexNumber": "720",
+      "baseStats": {
+        "hp": 80,
+        "attack": 110,
+        "defense": 60,
+        "specialAttack": 150,
+        "specialDefense": 130,
+        "speed": 70
+      },
+      "name": "Hoopa",
+      "type": [
+        "psychic",
+        "ghost"
+      ],
+      "_id": 777,
+      "abilities": {
+        "normal": [
+          "magician"
+        ],
+        "hidden": []
+      },
+      "weight": "19.8",
+      "key": "hoopa",
+      "height": "1′08″"
+    },
+    {
+      "nationalPokedexNumber": "721",
+      "baseStats": {
+        "hp": 80,
+        "attack": 110,
+        "defense": 120,
+        "specialAttack": 130,
+        "specialDefense": 90,
+        "speed": 70
+      },
+      "name": "Volcanion",
+      "type": [
+        "fire",
+        "water"
+      ],
+      "_id": 778,
+      "abilities": {
+        "normal": [
+          "water-absorb"
+        ],
+        "hidden": []
+      },
+      "weight": "429.9",
+      "key": "volcanion",
+      "height": "5′07″"
     }
   ]
 };
