@@ -21903,6 +21903,59 @@ module.exports = {
       "weight": "70.5",
       "key": "mega-audino",
       "height": "4′92″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "382",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Primal Kyogre",
+      "type": [
+        "water"
+      ],
+      "_id": 792,
+      "abilities": {
+        "normal": [
+          "primordial-sea"
+        ],
+        "hidden": []
+      },
+      "weight": "948.0",
+      "key": "primal-kyogre",
+      "height": "32′02″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "383",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Primal Groudon",
+      "type": [
+        "fire",
+        "ground"
+      ],
+      "_id": 793,
+      "abilities": {
+        "normal": [
+          "desolate-land"
+        ],
+        "hidden": []
+      },
+      "weight": "2203.9",
+      "key": "primal-groudon",
+      "height": "16′05″"
     }
   ]
 };
