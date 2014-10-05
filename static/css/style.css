@@ -2677,6 +2677,12 @@ p {
 .m-icon-id-774::before {
   background-position: -569px -1025px; }
 
+.m-icon-id-775::before {
+  background-position: -797px -1063px; }
+
+.m-icon-id-776::before {
+  background-position: -797px -1063px; }
+
 .m-type-normal {
   background-color: #B7B2AC; }
 
@@ -2893,6 +2899,9 @@ body {
 .l-view-list .b-monster-list > li + li {
   border-top: 1px solid #eeeeee; }
 
+.l-view-detail .b-incomplete-wrap .e-notice {
+  text-align: center;
+  color: #c80000; }
 .l-view-detail .b-monster-index-wrap .e-monster-index {
   margin-left: 8px;
   height: 20px;

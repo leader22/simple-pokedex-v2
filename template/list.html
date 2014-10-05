@@ -1,5 +1,9 @@
 <ul class="b-monster-list">
     <% monsters.forEach(function(monster) { %>
+    <% if (monster.isIncomplete) { %>
+    <li><a href="/detail/<%- monster.key %>" class="m-icon-no-data<%- monster.isMega ? '-mega' : '' %>"><%- monster.name %></a></li>
+    <% } else { %>
     <li><a href="/detail/<%- monster.key %>" class="m-icon-id-<%- monster.id %>"><%- monster.name %></a></li>
+    <% } %>
     <% }) %>
 </ul>

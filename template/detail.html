@@ -1,5 +1,14 @@
+<% if (monster.isIncomplete) { %>
+<section class="b-incomplete-wrap">
+    <p class="texts e-notice">このページのデータは不完全です</p>
+</section>
+<% } %>
 <section class="b-monster-index-wrap box">
+    <% if (monster.isIncomplete) { %>
+    <div class="b-monster-icon m-icon-no-data<%- monster.isMega ? '-mega' : '' %>"></div>
+    <% } else { %>
     <div class="b-monster-icon m-icon-id-<%- monster.id %>"></div>
+    <% } %>
     <div class="e-monster-index flex">
         <h2><%- monster.name %></h2>
         ぜんこく図鑑No.<%- monster.nationalPokedexNumber %>

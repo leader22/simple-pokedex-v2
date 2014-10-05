@@ -222,6 +222,12 @@ $header-height: #{sitePx(4)}px;
 
 // Detail
 .l-view-detail {
+  .b-incomplete-wrap {
+    .e-notice {
+      text-align: center;
+      color: $color7;
+    }
+  }
   .b-monster-index-wrap {
     .e-monster-index {
       margin-left: #{sitePx(1)}px;

@@ -21447,6 +21447,59 @@ module.exports = {
       "weight": "672.4",
       "key": "zygarde",
       "height": "16′5″"
+    },
+    {
+      "nationalPokedexNumber": "719",
+      "baseStats": {
+        "hp": 50,
+        "attack": 100,
+        "defense": 150,
+        "specialAttack": 100,
+        "specialDefense": 150,
+        "speed": 50
+      },
+      "name": "Diancie",
+      "type": [
+        "rock",
+        "fairy"
+      ],
+      "_id": 775,
+      "abilities": {
+        "normal": [
+          "clear-body"
+        ],
+        "hidden": []
+      },
+      "weight": "19.4",
+      "key": "diancie",
+      "height": "2′04″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "719",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Diancie",
+      "type": [
+        "rock",
+        "fairy"
+      ],
+      "_id": 776,
+      "abilities": {
+        "normal": [
+          "magic-bounce"
+        ],
+        "hidden": []
+      },
+      "weight": "61.3",
+      "key": "mega-diancie",
+      "height": "3′07″"
     }
   ]
 };

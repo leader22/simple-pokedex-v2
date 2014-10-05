@@ -48,6 +48,7 @@ module.exports = (function() {
             monster.baseStatsRatio = __getBaseStatsRatio(baseStats);
 
             // その他の情報
+            monster.isIncomplete = !!monster.incomplete;
             monster.isMega    = monster.key.slice(0, 5) === 'mega-';
             monster.weightStr = Util.lbs2Kg(monster.weight) + 'kg';
             monster.heightStr = Util.ft2M(monster.height) + 'm';

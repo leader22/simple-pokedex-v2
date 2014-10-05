@@ -3250,7 +3250,9 @@ module.exports = {
         "noivern": "オンバーン",
         "xerneas": "ゼルネアス",
         "yveltal": "イベルタル",
-        "zygarde": "ジガルデ"
+        "zygarde": "ジガルデ",
+        "diancie": "ディアンシー",
+        "mega-diancie": "メガディアンシー"
     },
     "ability": {
         "adaptability": {

@@ -77616,5 +77616,12 @@ module.exports = {
         "egg": [],
         "level": [],
         "other": []
+    },
+    "719": {
+        "tutor": [],
+        "machine": [],
+        "egg": [],
+        "level": [],
+        "other": []
     }
 };
