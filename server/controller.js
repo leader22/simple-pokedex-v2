@@ -65,6 +65,9 @@ module.exports = (function() {
             var key = this.params.key;
 
             var monster = monsterCollection.getMonsterByKey(key);
+            if (!monster) {
+                return this.redirect('/error');
+            }
 
             var description = metaTags['detail']['description'].replace('%s', monster.name),
                 keywords    = [].slice.call(metaTags['detail']['keywords']);
