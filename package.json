@@ -16,7 +16,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "NODE_ENV=development supervisor -w server,shared --harmony index.js",
+    "dev": "NODE_ENV=development supervisor -w server --harmony index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

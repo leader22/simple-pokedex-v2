@@ -4,7 +4,7 @@ module.exports = (function() {
     var extend = require('extend'),
         _      = require('lodash');
 
-    var Util     = appRequire('shared/util'),
+    var Util     = appRequire('server/util'),
         typeData = appRequire('server/data/type'),
         moveData = appRequire('server/data/move'),
         langData = appRequire('server/data/lang/ja');
