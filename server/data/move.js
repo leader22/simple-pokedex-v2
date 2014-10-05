@@ -77251,7 +77251,8 @@ module.exports = {
             "rollout",
             "spikes",
             "synthesis"
-        ]
+        ],
+        "other": []
     },
     "651": {
         "level": [
@@ -77375,7 +77376,8 @@ module.exports = {
             "rollout",
             "spikes",
             "synthesis"
-        ]
+        ],
+        "other": []
     },
     "652": {
         "level": [
@@ -77533,7 +77535,8 @@ module.exports = {
             "rollout",
             "spikes",
             "synthesis"
-        ]
+        ],
+        "other": []
     },
     "653": {
         "level": [
@@ -77647,7 +77650,8 @@ module.exports = {
             "hypnosis",
             "magic-coat",
             "wish"
-        ]
+        ],
+        "other": []
     },
     "654": {
         "level": [
@@ -77761,7 +77765,8 @@ module.exports = {
             "hypnosis",
             "magic-coat",
             "wish"
-        ]
+        ],
+        "other": []
     },
     "655": {
         "level": [
@@ -77909,7 +77914,8 @@ module.exports = {
             "hypnosis",
             "magic-coat",
             "wish"
-        ]
+        ],
+        "other": []
     },
     "656": {
         "level": [
@@ -78018,7 +78024,8 @@ module.exports = {
             "mud-sport",
             "toxic-spikes",
             "water-sport"
-        ]
+        ],
+        "other": []
     },
     "657": {
         "level": [
@@ -78128,7 +78135,8 @@ module.exports = {
             "mud-sport",
             "toxic-spikes",
             "water-sport"
-        ]
+        ],
+        "other": []
     },
     "658": {
         "level": [
@@ -78269,7 +78277,8 @@ module.exports = {
             "mud-sport",
             "toxic-spikes",
             "water-sport"
-        ]
+        ],
+        "other": []
     },
     "659": {
         "level": [
@@ -78383,7 +78392,8 @@ module.exports = {
             "defense-curl",
             "rollout",
             "spikes"
-        ]
+        ],
+        "other": []
     },
     "660": {
         "level": [
@@ -78518,7 +78528,8 @@ module.exports = {
             "defense-curl",
             "rollout",
             "spikes"
-        ]
+        ],
+        "other": []
     },
     "661": {
         "level": [
@@ -78612,7 +78623,8 @@ module.exports = {
             "quick-guard",
             "snatch",
             "tailwind"
-        ]
+        ],
+        "other": []
     },
     "662": {
         "level": [
@@ -78714,7 +78726,8 @@ module.exports = {
             "quick-guard",
             "snatch",
             "tailwind"
-        ]
+        ],
+        "other": []
     },
     "663": {
         "level": [
@@ -78833,7 +78846,8 @@ module.exports = {
             "quick-guard",
             "snatch",
             "tailwind"
-        ]
+        ],
+        "other": []
     },
     "664": {
         "level": [
@@ -78860,7 +78874,8 @@ module.exports = {
             "poison-powder",
             "rage-powder",
             "stun-spore"
-        ]
+        ],
+        "other": []
     },
     "665": {
         "level": [
@@ -78886,7 +78901,8 @@ module.exports = {
             "poison-powder",
             "rage-powder",
             "stun-spore"
-        ]
+        ],
+        "other": []
     },
     "666": {
         "level": [
@@ -78996,7 +79012,8 @@ module.exports = {
             "poison-powder",
             "rage-powder",
             "stun-spore"
-        ]
+        ],
+        "other": []
     },
     "667": {
         "level": [
@@ -79105,7 +79122,8 @@ module.exports = {
             "fire-spin",
             "snatch",
             "yawn"
-        ]
+        ],
+        "other": []
     },
     "668": {
         "level": [
@@ -79220,7 +79238,8 @@ module.exports = {
             "fire-spin",
             "snatch",
             "yawn"
-        ]
+        ],
+        "other": []
     },
     "669": {
         "level": [
@@ -79314,7 +79333,8 @@ module.exports = {
             "camouflage",
             "captivate",
             "copycat"
-        ]
+        ],
+        "other": []
     },
     "670": {
         "level": [
@@ -79408,7 +79428,8 @@ module.exports = {
             "camouflage",
             "captivate",
             "copycat"
-        ]
+        ],
+        "other": []
     },
     "671": {
         "level": [
@@ -79497,7 +79518,8 @@ module.exports = {
             "camouflage",
             "captivate",
             "copycat"
-        ]
+        ],
+        "other": []
     },
     "672": {
         "level": [
@@ -79605,7 +79627,8 @@ module.exports = {
             "defense-curl",
             "milk-drink",
             "rollout"
-        ]
+        ],
+        "other": []
     },
     "673": {
         "level": [
@@ -79729,7 +79752,8 @@ module.exports = {
             "defense-curl",
             "milk-drink",
             "rollout"
-        ]
+        ],
+        "other": []
     },
     "674": {
         "level": [
@@ -79840,7 +79864,8 @@ module.exports = {
             "quash",
             "quick-guard",
             "storm-throw"
-        ]
+        ],
+        "other": []
     },
     "675": {
         "level": [
@@ -79986,7 +80011,8 @@ module.exports = {
             "quash",
             "quick-guard",
             "storm-throw"
-        ]
+        ],
+        "other": []
     },
     "676": {
         "level": [
@@ -80083,7 +80109,8 @@ module.exports = {
             "refresh",
             "role-play",
             "work-up"
-        ]
+        ],
+        "other": []
     },
     "677": {
         "level": [
@@ -80167,7 +80194,8 @@ module.exports = {
             "barrier",
             "trick",
             "yawn"
-        ]
+        ],
+        "other": []
     },
     "678": {
         "level": [
@@ -80304,7 +80332,8 @@ module.exports = {
             "barrier",
             "trick",
             "yawn"
-        ]
+        ],
+        "other": []
     },
     "679": {
         "level": [
@@ -80403,7 +80432,8 @@ module.exports = {
             "metal-sound",
             "shadow-sneak",
             "wide-guard"
-        ]
+        ],
+        "other": []
     },
     "680": {
         "level": [
@@ -80502,7 +80532,8 @@ module.exports = {
             "metal-sound",
             "shadow-sneak",
             "wide-guard"
-        ]
+        ],
+        "other": []
     },
     "681": {
         "level": [
@@ -80602,7 +80633,8 @@ module.exports = {
             "metal-sound",
             "shadow-sneak",
             "wide-guard"
-        ]
+        ],
+        "other": []
     },
     "682": {
         "level": [
@@ -80711,7 +80743,8 @@ module.exports = {
             "disable",
             "refresh",
             "wish"
-        ]
+        ],
+        "other": []
     },
     "683": {
         "level": [
@@ -80840,7 +80873,8 @@ module.exports = {
             "disable",
             "refresh",
             "wish"
-        ]
+        ],
+        "other": []
     },
     "684": {
         "level": [
@@ -80946,7 +80980,8 @@ module.exports = {
             "belly-drum",
             "copycat",
             "yawn"
-        ]
+        ],
+        "other": []
     },
     "685": {
         "level": [
@@ -81054,7 +81089,8 @@ module.exports = {
             "belly-drum",
             "copycat",
             "yawn"
-        ]
+        ],
+        "other": []
     },
     "686": {
         "level": [
@@ -81176,7 +81212,8 @@ module.exports = {
             "flatter",
             "power-split",
             "simple-beam"
-        ]
+        ],
+        "other": []
     },
     "687": {
         "level": [
@@ -81309,7 +81346,8 @@ module.exports = {
             "flatter",
             "power-split",
             "simple-beam"
-        ]
+        ],
+        "other": []
     },
     "688": {
         "level": [
@@ -81438,7 +81476,8 @@ module.exports = {
             "switcheroo",
             "tickle",
             "water-sport"
-        ]
+        ],
+        "other": []
     },
     "689": {
         "level": [
@@ -81588,7 +81627,8 @@ module.exports = {
             "switcheroo",
             "tickle",
             "water-sport"
-        ]
+        ],
+        "other": []
     },
     "690": {
         "level": [
@@ -81690,7 +81730,8 @@ module.exports = {
             "play-rough",
             "toxic-spikes",
             "venom-drench"
-        ]
+        ],
+        "other": []
     },
     "691": {
         "level": [
@@ -81815,7 +81856,8 @@ module.exports = {
             "play-rough",
             "toxic-spikes",
             "venom-drench"
-        ]
+        ],
+        "other": []
     },
     "692": {
         "level": [
@@ -81909,7 +81951,8 @@ module.exports = {
             "endure",
             "entrainment",
             "helping-hand"
-        ]
+        ],
+        "other": []
     },
     "693": {
         "level": [
@@ -82036,7 +82079,8 @@ module.exports = {
             "endure",
             "entrainment",
             "helping-hand"
-        ]
+        ],
+        "other": []
     },
     "694": {
         "level": [
@@ -82137,7 +82181,8 @@ module.exports = {
             "camouflage",
             "electric-terrain",
             "glare"
-        ]
+        ],
+        "other": []
     },
     "695": {
         "level": [
@@ -82217,7 +82262,8 @@ module.exports = {
             "camouflage",
             "electric-terrain",
             "glare"
-        ]
+        ],
+        "other": []
     },
     "696": {
         "level": [
@@ -82327,7 +82373,8 @@ module.exports = {
             "poison-fang",
             "rock-polish",
             "thunder-fang"
-        ]
+        ],
+        "other": []
     },
     "697": {
         "level": [
@@ -82455,7 +82502,8 @@ module.exports = {
             "poison-fang",
             "rock-polish",
             "thunder-fang"
-        ]
+        ],
+        "other": []
     },
     "698": {
         "level": [
@@ -82584,7 +82632,8 @@ module.exports = {
             "haze",
             "magnet-rise",
             "mirror-coat"
-        ]
+        ],
+        "other": []
     },
     "699": {
         "level": [
@@ -82725,7 +82774,8 @@ module.exports = {
             "haze",
             "magnet-rise",
             "mirror-coat"
-        ]
+        ],
+        "other": []
     },
     "700": {
         "level": [
@@ -82839,7 +82889,8 @@ module.exports = {
             "tickle",
             "wish",
             "yawn"
-        ]
+        ],
+        "other": []
     },
     "701": {
         "level": [
@@ -82970,7 +83021,8 @@ module.exports = {
             "me-first",
             "mud-sport",
             "quick-guard"
-        ]
+        ],
+        "other": []
     },
     "702": {
         "level": [
@@ -83079,7 +83131,8 @@ module.exports = {
             "eerie-impulse",
             "natural-gift",
             "helping-hand"
-        ]
+        ],
+        "other": []
     },
     "703": {
         "level": [
@@ -83184,7 +83237,8 @@ module.exports = {
             "dazzling-gleam",
             "confide"
         ],
-        "egg": []
+        "egg": [],
+        "other": []
     },
     "704": {
         "level": [
@@ -83266,7 +83320,8 @@ module.exports = {
             "endure",
             "iron-tail",
             "poison-tail"
-        ]
+        ],
+        "other": []
     },
     "705": {
         "level": [
@@ -83350,7 +83405,8 @@ module.exports = {
             "endure",
             "iron-tail",
             "poison-tail"
-        ]
+        ],
+        "other": []
     },
     "706": {
         "level": [
@@ -83467,7 +83523,8 @@ module.exports = {
             "endure",
             "iron-tail",
             "poison-tail"
-        ]
+        ],
+        "other": []
     },
     "707": {
         "level": [
@@ -83574,7 +83631,8 @@ module.exports = {
             "lock-on",
             "switcheroo",
             "thief"
-        ]
+        ],
+        "other": []
     },
     "708": {
         "level": [
@@ -83679,7 +83737,8 @@ module.exports = {
             "grudge",
             "imprison",
             "venom-drench"
-        ]
+        ],
+        "other": []
     },
     "709": {
         "level": [
@@ -83800,7 +83859,8 @@ module.exports = {
             "grudge",
             "imprison",
             "venom-drench"
-        ]
+        ],
+        "other": []
     },
     "710": {
         "level": [
@@ -83911,7 +83971,8 @@ module.exports = {
             "bestow",
             "destiny-bond",
             "disable"
-        ]
+        ],
+        "other": []
     },
     "711": {
         "level": [
@@ -84049,7 +84110,8 @@ module.exports = {
             "bestow",
             "destiny-bond",
             "disable"
-        ]
+        ],
+        "other": []
     },
     "712": {
         "level": [
@@ -84152,7 +84214,8 @@ module.exports = {
             "mirror-coat",
             "mist",
             "recover"
-        ]
+        ],
+        "other": []
     },
     "713": {
         "level": [
@@ -84280,7 +84343,8 @@ module.exports = {
             "mirror-coat",
             "mist",
             "recover"
-        ]
+        ],
+        "other": []
     },
     "714": {
         "level": [
@@ -84394,7 +84458,8 @@ module.exports = {
             "snatch",
             "switcheroo",
             "tailwind"
-        ]
+        ],
+        "other": []
     },
     "715": {
         "level": [
@@ -84538,7 +84603,8 @@ module.exports = {
             "snatch",
             "switcheroo",
             "tailwind"
-        ]
+        ],
+        "other": []
     },
     "716": {
         "level": [
@@ -84655,7 +84721,8 @@ module.exports = {
             "confide",
             "cut"
         ],
-        "egg": []
+        "egg": [],
+        "other": []
     },
     "717": {
         "level": [
@@ -84774,7 +84841,8 @@ module.exports = {
             "cut",
             "fly"
         ],
-        "egg": []
+        "egg": [],
+        "other": []
     },
     "718": {
         "level": [
@@ -84886,7 +84954,8 @@ module.exports = {
             "confide",
             "strength"
         ],
-        "egg": []
+        "egg": [],
+        "other": []
     },
     "719": {
         "level": [
@@ -84998,7 +85067,8 @@ module.exports = {
             "dazzling-gleam",
             "confide"
         ],
-        "egg": []
+        "egg": [],
+        "other": []
     },
     "720": {
         "level": [
@@ -85120,7 +85190,8 @@ module.exports = {
             "power-up-punch",
             "confide"
         ],
-        "egg": []
+        "egg": [],
+        "other": []
     },
     "721": {
         "level": [
@@ -85234,6 +85305,7 @@ module.exports = {
             "cut",
             "strength"
         ],
-        "egg": []
+        "egg": [],
+        "other": []
     }
 };
