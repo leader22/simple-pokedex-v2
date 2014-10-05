@@ -33,7 +33,7 @@ module.exports = (function() {
             return this.all()
                 // ずかん番号順
                 .sort(function(a, b){
-                    return (a.nationalPokedexNumber > b.nationalPokedexNumber) ? 1 : -1;
+                    return ((a.nationalPokedexNumber|0) > (b.nationalPokedexNumber|0)) ? 1 : -1;
                 });
         },
         getCategorisedMonstersByCategory: function(category) {
