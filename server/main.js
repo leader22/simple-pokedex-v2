@@ -1,5 +1,6 @@
 // Simple pokedex v2 server
 // ----------------------------------------------------------------------------
+module.exports = function(port) {
 'use strict';
 
 
@@ -40,4 +41,6 @@ Object.keys(Router).forEach(function(key) {
 
 // Start server
 // ----------------------------------------------------------------------------
-app.listen(Conf.port);
+app.listen(port);
+
+};

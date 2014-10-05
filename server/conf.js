@@ -7,7 +7,7 @@ module.exports = (function() {
     var Conf = {},
         seed = {
             base: {
-                port: 6400,
+                defaultPort: 9999,
                 ejsSetting: {
                     root:    path.join(__dirname, '../template'),
                     layout:  '_include/wrap',
