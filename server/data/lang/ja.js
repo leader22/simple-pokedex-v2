@@ -3277,7 +3277,11 @@ module.exports = {
         "mega-gallade": "メガエルレイド",
         "mega-audino": "メガタブンネ",
         "primal-kyogre": "ゲンシカイオーガ",
-        "primal-groudon": "ゲンシグラードン"
+        "primal-groudon": "ゲンシグラードン",
+        "mega-beedrill": "メガスピアー",
+        "mega-pidgeot": "メガピジョット",
+        "mega-latias": "メガラティアス",
+        "mega-latios": "メガラティオス"
     },
     "ability": {
         "adaptability": {

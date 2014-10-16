@@ -21956,6 +21956,114 @@ module.exports = {
       "weight": "2203.9",
       "key": "primal-groudon",
       "height": "16′05″"
-    }
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "015",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Beedrill",
+      "type": [
+        "bug",
+        "poison"
+      ],
+      "_id": 794,
+      "abilities": {
+        "normal": [
+          "adaptability"
+        ],
+        "hidden": []
+      },
+      "weight": "89.3",
+      "key": "mega-beedrill",
+      "height": "4′59″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "018",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Pidgeot",
+      "type": [
+        "normal",
+        "flying"
+      ],
+      "_id": 795,
+      "abilities": {
+        "normal": [
+          "no-guard"
+        ],
+        "hidden": []
+      },
+      "weight": "111.3",
+      "key": "mega-pidgeot",
+      "height": "7′22″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "380",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Latias",
+      "type": [
+        "dragon",
+        "psychic"
+      ],
+      "_id": 796,
+      "abilities": {
+        "normal": [
+          "levitate"
+        ],
+        "hidden": []
+      },
+      "weight": "115.0",
+      "key": "mega-latias",
+      "height": "5′90″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "381",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Latios",
+      "type": [
+        "dragon",
+        "psychic"
+      ],
+      "_id": 797,
+      "abilities": {
+        "normal": [
+          "levitate"
+        ],
+        "hidden": []
+      },
+      "weight": "154.3",
+      "key": "mega-latios",
+      "height": "7′55″"
+    },
   ]
 };
