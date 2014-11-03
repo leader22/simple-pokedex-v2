@@ -22065,5 +22065,58 @@ module.exports = {
       "key": "mega-latios",
       "height": "7′55″"
     },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "208",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Steelix",
+      "type": [
+        "steel",
+        "ground"
+      ],
+      "_id": 798,
+      "abilities": {
+        "normal": [
+          "sand-force"
+        ],
+        "hidden": []
+      },
+      "weight": "1631.4",
+      "key": "mega-steelix",
+      "height": "34′44″"
+    },
+    {
+      "incomplete": "1",
+      "nationalPokedexNumber": "362",
+      "baseStats": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "specialAttack": 0,
+        "specialDefense": 0,
+        "speed": 0
+      },
+      "name": "Mega Glalie",
+      "type": [
+        "ice"
+      ],
+      "_id": 799,
+      "abilities": {
+        "normal": [
+          "refrigerate"
+        ],
+        "hidden": []
+      },
+      "weight": "772.1",
+      "key": "mega-glalie",
+      "height": "6′89″"
+    }
   ]
 };
