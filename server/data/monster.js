@@ -21478,12 +21478,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "719",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 50,
+        "attack": 160,
+        "defense": 110,
+        "specialAttack": 160,
+        "specialDefense": 110,
+        "speed": 110
       },
       "name": "Mega Diancie",
       "type": [
@@ -21557,12 +21557,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "254",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 70,
+        "attack": 110,
+        "defense": 75,
+        "specialAttack": 145,
+        "specialDefense": 85,
+        "speed":145
       },
       "name": "Mega Sceptile",
       "type": [
@@ -21584,12 +21584,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "260",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 100,
+        "attack": 150,
+        "defense": 110,
+        "specialAttack": 95,
+        "specialDefense": 110,
+        "speed": 70
       },
       "name": "Mega Swampert",
       "type": [
@@ -21611,12 +21611,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "080",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 95,
+        "attack": 75,
+        "defense": 180,
+        "specialAttack": 130,
+        "specialDefense": 80,
+        "speed": 30
       },
       "name": "Mega Slowbro",
       "type": [
@@ -21638,12 +21638,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "302",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 50,
+        "attack": 85,
+        "defense": 125,
+        "specialAttack": 85,
+        "specialDefense": 115,
+        "speed": 20
       },
       "name": "Mega Sableye",
       "type": [
@@ -21665,12 +21665,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "319",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 70,
+        "attack": 140,
+        "defense": 70,
+        "specialAttack": 110,
+        "specialDefense": 65,
+        "speed": 105
       },
       "name": "Mega Sharpedo",
       "type": [
@@ -21692,12 +21692,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "323",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 70,
+        "attack": 120,
+        "defense": 100,
+        "specialAttack": 145,
+        "specialDefense": 105,
+        "speed": 20
       },
       "name": "Mega Camerupt",
       "type": [
@@ -21719,12 +21719,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "334",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 75,
+        "attack": 110,
+        "defense": 110,
+        "specialAttack": 110,
+        "specialDefense": 105,
+        "speed": 80
       },
       "name": "Mega Altaria",
       "type": [
@@ -21746,12 +21746,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "373",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 95,
+        "attack": 145,
+        "defense": 130,
+        "specialAttack": 120,
+        "specialDefense": 90,
+        "speed": 120
       },
       "name": "Mega Salamence",
       "type": [
@@ -21773,12 +21773,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "376",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 80,
+        "attack": 145,
+        "defense": 150,
+        "specialAttack": 105,
+        "specialDefense": 110,
+        "speed": 110
       },
       "name": "Mega Metagross",
       "type": [
@@ -21800,12 +21800,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "384",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 105,
+        "attack": 180,
+        "defense": 100,
+        "specialAttack": 180,
+        "specialDefense": 100,
+        "speed": 115
       },
       "name": "Mega Rayquaza",
       "type": [
@@ -21827,12 +21827,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "428",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 65,
+        "attack": 136,
+        "defense": 94,
+        "specialAttack": 54,
+        "specialDefense": 96,
+        "speed": 135
       },
       "name": "Mega Lopunny",
       "type": [
@@ -21854,12 +21854,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "475",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 68,
+        "attack": 165,
+        "defense": 95,
+        "specialAttack": 65,
+        "specialDefense": 115,
+        "speed": 110
       },
       "name": "Mega Gallade",
       "type": [
@@ -21881,12 +21881,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "531",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 103,
+        "attack": 60,
+        "defense": 126,
+        "specialAttack": 80,
+        "specialDefense": 126,
+        "speed": 50
       },
       "name": "Mega Audino",
       "type": [
@@ -21961,12 +21961,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "015",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 65,
+        "attack": 150,
+        "defense": 40,
+        "specialAttack": 15,
+        "specialDefense": 80,
+        "speed": 145
       },
       "name": "Mega Beedrill",
       "type": [
@@ -21988,12 +21988,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "018",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 83,
+        "attack": 80,
+        "defense": 80,
+        "specialAttack": 135,
+        "specialDefense": 80,
+        "speed": 121
       },
       "name": "Mega Pidgeot",
       "type": [
@@ -22015,12 +22015,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "380",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 80,
+        "attack": 100,
+        "defense": 120,
+        "specialAttack": 140,
+        "specialDefense": 150,
+        "speed": 110
       },
       "name": "Mega Latias",
       "type": [
@@ -22042,12 +22042,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "381",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 80,
+        "attack": 130,
+        "defense": 100,
+        "specialAttack": 160,
+        "specialDefense": 120,
+        "speed": 110
       },
       "name": "Mega Latios",
       "type": [
@@ -22069,12 +22069,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "208",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 75,
+        "attack": 125,
+        "defense": 230,
+        "specialAttack": 55,
+        "specialDefense": 95,
+        "speed": 30
       },
       "name": "Mega Steelix",
       "type": [
@@ -22096,12 +22096,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "362",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 80,
+        "attack": 120,
+        "defense": 80,
+        "specialAttack": 120,
+        "specialDefense": 80,
+        "speed": 100
       },
       "name": "Mega Glalie",
       "type": [
