@@ -21572,7 +21572,7 @@ module.exports = {
       "_id": 779,
       "abilities": {
         "normal": [
-          "lightning-rod"
+          "lightningrod"
         ],
         "hidden": []
       },
