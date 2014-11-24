@@ -2462,6 +2462,18 @@ module.exports = {
         "steam-eruption": {
             "name": "スチームバースト",
             "desc": ""
+        },
+        "precipice-blades": {
+            "name": "だんがいのつるぎ",
+            "desc": ""
+        },
+        "origin-pulse": {
+            "name": "こんげんのはどう",
+            "desc": ""
+        },
+        "dragon-ascent": {
+            "name": "ガリョウテンセイ",
+            "desc": ""
         }
     },
     "type": {

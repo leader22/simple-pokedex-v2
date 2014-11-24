@@ -46889,24 +46889,20 @@ module.exports = {
                 "name": "water-pulse"
             },
             {
+                "level": 1,
+                "name": "ancient-power"
+            },
+            {
                 "level": 5,
                 "name": "scary-face"
             },
             {
                 "level": 15,
-                "name": "ancient-power"
-            },
-            {
-                "level": 20,
-                "name": "muddy-water"
+                "name": "aqua-tail"
             },
             {
                 "level": 20,
                 "name": "body-slam"
-            },
-            {
-                "level": 30,
-                "name": "calm-mind"
             },
             {
                 "level": 30,
@@ -46918,27 +46914,31 @@ module.exports = {
             },
             {
                 "level": 45,
-                "name": "hydro-pump"
+                "name": "origin-pulse"
             },
             {
                 "level": 50,
-                "name": "rest"
+                "name": "calm-mind"
             },
             {
                 "level": 60,
-                "name": "sheer-cold"
+                "name": "muddy-water"
             },
             {
                 "level": 65,
+                "name": "sheer-cold"
+            },
+            {
+                "level": 75,
+                "name": "hydro-pump"
+            },
+            {
+                "level": 80,
                 "name": "double-edge"
             },
             {
-                "level": 75,
+                "level": 90,
                 "name": "water-spout"
-            },
-            {
-                "level": 75,
-                "name": "aqua-tail"
             }
         ],
         "other": []
@@ -47026,28 +47026,24 @@ module.exports = {
                 "name": "mud-shot"
             },
             {
+                "level": 1,
+                "name": "ancient-power"
+            },
+            {
                 "level": 5,
                 "name": "scary-face"
             },
             {
                 "level": 15,
-                "name": "ancient-power"
+                "name": "earth-power"
             },
             {
-                "level": 15,
+                "level": 20,
                 "name": "lava-plume"
             },
             {
-                "level": 20,
-                "name": "hammer-arm"
-            },
-            {
-                "level": 20,
-                "name": "slash"
-            },
-            {
                 "level": 30,
-                "name": "bulk-up"
+                "name": "rest"
             },
             {
                 "level": 35,
@@ -47055,27 +47051,31 @@ module.exports = {
             },
             {
                 "level": 45,
-                "name": "fire-blast"
+                "name": "precipice-blades"
             },
             {
                 "level": 50,
-                "name": "rest"
+                "name": "bulk-up"
             },
             {
                 "level": 60,
-                "name": "fissure"
-            },
-            {
-                "level": 65,
                 "name": "solar-beam"
             },
             {
-                "level": 75,
-                "name": "eruption"
+                "level": 65,
+                "name": "fissure"
             },
             {
                 "level": 75,
-                "name": "earth-power"
+                "name": "fire-blast"
+            },
+            {
+                "level": 80,
+                "name": "hammer-arm"
+            },
+            {
+                "level": 90,
+                "name": "eruption"
             }
         ],
         "other": []
@@ -47087,6 +47087,7 @@ module.exports = {
             "body-slam",
             "double-edge",
             "draco-meteor",
+            "dragon-ascent",
             "earth-power",
             "endure",
             "fury-cutter",
@@ -47175,46 +47176,42 @@ module.exports = {
             },
             {
                 "level": 20,
-                "name": "dragon-claw"
-            },
-            {
-                "level": 20,
-                "name": "hyper-voice"
+                "name": "crunch"
             },
             {
                 "level": 30,
-                "name": "dragon-dance"
-            },
-            {
-                "level": 35,
                 "name": "air-slash"
             },
             {
                 "level": 35,
-                "name": "crunch"
-            },
-            {
-                "level": 45,
-                "name": "fly"
-            },
-            {
-                "level": 50,
                 "name": "rest"
             },
             {
-                "level": 60,
+                "level": 45,
                 "name": "extreme-speed"
             },
             {
-                "level": 65,
-                "name": "outrage"
-            },
-            {
-                "level": 75,
+                "level": 50,
                 "name": "dragon-pulse"
             },
             {
+                "level": 60,
+                "name": "dragon-dance"
+            },
+            {
+                "level": 65,
+                "name": "fly"
+            },
+            {
                 "level": 75,
+                "name": "hyper-voice"
+            },
+            {
+                "level": 80,
+                "name": "outrage"
+            },
+            {
+                "level": 90,
                 "name": "hyper-beam"
             }
         ],

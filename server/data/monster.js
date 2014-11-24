@@ -21908,12 +21908,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "382",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 100,
+        "attack": 150,
+        "defense": 90,
+        "specialAttack": 180,
+        "specialDefense": 160,
+        "speed": 90
       },
       "name": "Primal Kyogre",
       "type": [
@@ -21934,12 +21934,12 @@ module.exports = {
       "incomplete": "1",
       "nationalPokedexNumber": "383",
       "baseStats": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 0,
-        "specialDefense": 0,
-        "speed": 0
+        "hp": 100,
+        "attack": 180,
+        "defense": 160,
+        "specialAttack": 150,
+        "specialDefense": 90,
+        "speed": 90
       },
       "name": "Primal Groudon",
       "type": [
