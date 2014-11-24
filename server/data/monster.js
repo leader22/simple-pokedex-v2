@@ -21819,9 +21819,9 @@ module.exports = {
         ],
         "hidden": []
       },
-      "weight": "0.0",
+      "weight": "864.2",
       "key": "mega-rayquaza",
-      "height": "0′00″"
+      "height": "35′43″"
     },
     {
       "incomplete": "1",
